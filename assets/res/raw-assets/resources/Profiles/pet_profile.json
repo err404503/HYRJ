@@ -1,0 +1,67 @@
+{
+    "1": {
+        "7002": 246,
+        "7003": 246,
+        "7006": 100,
+        "7012": 2,
+        "7013": 30,
+        "7016": 100,
+        "7018": 20,
+        "7019": 1,
+        "7028": 100,
+        "7048": 100,
+        "7049": 100,
+        "7057": 1,
+        "7058": 30,
+        "ID": "1",
+        "NAME": {
+            "cn": "白狼",
+            "en": "White Wolf",
+            "tw": "白狼"
+        },
+        "BITE_DESC": {
+            "cn": [
+                "挥爪",
+                "咬了一口"
+            ],
+            "en": [
+                "Captured",
+                "Taking a bite"
+            ],
+            "tw": [
+                "揮爪",
+                "咬了一口"
+            ]
+        },
+        "MISS_DESC": {
+            "cn": [
+                "你的白狼向后一跃，躲开了这次攻击",
+                "你的白狼识破了它的预谋，提前闪开了"
+            ],
+            "en": [
+                "Your white wolf jumped backwards and dodged this attack",
+                "Your white wolf saw through his plans and dodged beforehand"
+            ],
+            "tw": [
+                "你的白狼向後一躍，躲開了這次攻擊",
+                "你的白狼識破了它的預謀，提前閃開了"
+            ]
+        },
+        "DEATH_DESC": {
+            "cn": [
+                ",白狼精疲力竭，倒下了"
+            ],
+            "en": [
+                "The white wolf is exhausted and falls down"
+            ],
+            "tw": [
+                ",白狼精疲力竭，倒下了"
+            ]
+        },
+        "DESC": {
+            "cn": "",
+            "en": "",
+            "tw": ""
+        }
+    }
+}

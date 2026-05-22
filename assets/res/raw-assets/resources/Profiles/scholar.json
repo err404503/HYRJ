@@ -1,0 +1,416 @@
+{
+    "1001": {
+        "id": 1001, 
+        "name": "book_name_1001", 
+        "author": "book_author_1", 
+        "press": "book_press", 
+        "widget": 40, 
+        "effect": {
+            "Hp": 30
+        }, 
+        "fightbuff": 0, 
+        "basetime": 45, 
+        "comtext": "book_read_1001", 
+        "effecttext": "book_effect_1001"
+    }, 
+    "1002": {
+        "id": 1002, 
+        "name": "book_name_1002", 
+        "author": "book_author_2", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": {
+            "Hp": 50
+        }, 
+        "fightbuff": 0, 
+        "basetime": 60, 
+        "comtext": "book_read_1002", 
+        "effecttext": "book_effect_1002"
+    }, 
+    "1003": {
+        "id": 1003, 
+        "name": "book_name_1003", 
+        "author": "book_author_3", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Trauma": 10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1003", 
+        "effecttext": "book_effect_1003"
+    }, 
+    "1004": {
+        "id": 1004, 
+        "name": "book_name_1004", 
+        "author": "book_author_3", 
+        "press": "book_press", 
+        "widget": 40, 
+        "effect": {
+            "Trauma": 15
+        }, 
+        "fightbuff": 0, 
+        "basetime": 45, 
+        "comtext": "book_read_1004", 
+        "effecttext": "book_effect_1004"
+    }, 
+    "1005": {
+        "id": 1005, 
+        "name": "book_name_1005", 
+        "author": "book_author_4", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Inflect": 10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1005", 
+        "effecttext": "book_effect_1005"
+    }, 
+    "1006": {
+        "id": 1006, 
+        "name": "book_name_1006", 
+        "author": "book_author_5", 
+        "press": "book_press", 
+        "widget": 40, 
+        "effect": {
+            "Inflect": 15
+        }, 
+        "fightbuff": 0, 
+        "basetime": 45, 
+        "comtext": "book_read_1006", 
+        "effecttext": "book_effect_1006"
+    }, 
+    "1007": {
+        "id": 1007, 
+        "name": "book_name_1007", 
+        "author": "book_author_6", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Insomnia": -10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1007", 
+        "effecttext": "book_effect_1007"
+    }, 
+    "1008": {
+        "id": 1008, 
+        "name": "book_name_1008", 
+        "author": "book_author_6", 
+        "press": "book_press", 
+        "widget": 40, 
+        "effect": {
+            "Insomnia": -15
+        }, 
+        "fightbuff": 0, 
+        "basetime": 45, 
+        "comtext": "book_read_1008", 
+        "effecttext": "book_effect_1008"
+    }, 
+    "1009": {
+        "id": 1009, 
+        "name": "book_name_1009", 
+        "author": "book_author_7", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Hunger": 10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1009", 
+        "effecttext": "book_effect_1009"
+    }, 
+    "1010": {
+        "id": 1010, 
+        "name": "book_name_1010", 
+        "author": "book_author_8", 
+        "press": "book_press", 
+        "widget": 40, 
+        "effect": {
+            "Hunger": 15
+        }, 
+        "fightbuff": 0, 
+        "basetime": 45, 
+        "comtext": "book_read_1010", 
+        "effecttext": "book_effect_1010"
+    }, 
+    "1011": {
+        "id": 1011, 
+        "name": "book_name_1011", 
+        "author": "book_author_9", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Mental": -20
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1011", 
+        "effecttext": "book_effect_1011"
+    }, 
+    "1012": {
+        "id": 1012, 
+        "name": "book_name_1012", 
+        "author": "book_author_11", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Mental": -10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1012", 
+        "effecttext": "book_effect_1012"
+    }, 
+    "1013": {
+        "id": 1013, 
+        "name": "book_name_1013", 
+        "author": "book_author_12", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Insomnia": 20
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1013", 
+        "effecttext": "book_effect_1013"
+    }, 
+    "1014": {
+        "id": 1014, 
+        "name": "book_name_1014", 
+        "author": "book_author_12", 
+        "press": "book_press", 
+        "widget": 60, 
+        "effect": {
+            "Insomnia": 10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 30, 
+        "comtext": "book_read_1014", 
+        "effecttext": "book_effect_1014"
+    }, 
+    "2001": {
+        "id": 2001, 
+        "name": "book_name_2001", 
+        "author": "book_author_13", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212536", 
+        "basetime": 60, 
+        "comtext": "book_read_2001", 
+        "effecttext": "book_effect_2001"
+    }, 
+    "2002": {
+        "id": 2002, 
+        "name": "book_name_2002", 
+        "author": "book_author_14", 
+        "press": "book_press", 
+        "widget": 30, 
+        "effect": 0, 
+        "fightbuff": "212537", 
+        "basetime": 45, 
+        "comtext": "book_read_2002", 
+        "effecttext": "book_effect_2002"
+    }, 
+    "2003": {
+        "id": 2003, 
+        "name": "book_name_2003", 
+        "author": "book_author_15", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212538", 
+        "basetime": 45, 
+        "comtext": "book_read_2003", 
+        "effecttext": "book_effect_2003"
+    }, 
+    "2004": {
+        "id": 2004, 
+        "name": "book_name_2004", 
+        "author": "book_author_16", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212539", 
+        "basetime": 45, 
+        "comtext": "book_read_2004", 
+        "effecttext": "book_effect_2004"
+    }, 
+    "2005": {
+        "id": 2005, 
+        "name": "book_name_2005", 
+        "author": "book_author_17", 
+        "press": "book_press", 
+        "widget": 30, 
+        "effect": 0, 
+        "fightbuff": "212540", 
+        "basetime": 45, 
+        "comtext": "book_read_2005", 
+        "effecttext": "book_effect_2005"
+    }, 
+    "2006": {
+        "id": 2006, 
+        "name": "book_name_2006", 
+        "author": "book_author_18", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212541", 
+        "basetime": 60, 
+        "comtext": "book_read_2006", 
+        "effecttext": "book_effect_2006"
+    }, 
+    "2007": {
+        "id": 2007, 
+        "name": "book_name_2007", 
+        "author": "book_author_18", 
+        "press": "book_press", 
+        "widget": 10, 
+        "effect": 0, 
+        "fightbuff": "212542", 
+        "basetime": 90, 
+        "comtext": "book_read_2007", 
+        "effecttext": "book_effect_2007"
+    }, 
+    "2008": {
+        "id": 2008, 
+        "name": "book_name_2008", 
+        "author": "book_author_19", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212543", 
+        "basetime": 60, 
+        "comtext": "book_read_2008", 
+        "effecttext": "book_effect_2008"
+    }, 
+    "2009": {
+        "id": 2009, 
+        "name": "book_name_2009", 
+        "author": "book_author_20", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212544", 
+        "basetime": 60, 
+        "comtext": "book_read_2009", 
+        "effecttext": "book_effect_2009"
+    }, 
+    "2010": {
+        "id": 2010, 
+        "name": "book_name_2010", 
+        "author": "book_author_21", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212545", 
+        "basetime": 60, 
+        "comtext": "book_read_2010", 
+        "effecttext": "book_effect_2010"
+    }, 
+    "2011": {
+        "id": 2011, 
+        "name": "book_name_2011", 
+        "author": "book_author_22", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212546", 
+        "basetime": 60, 
+        "comtext": "book_read_2011", 
+        "effecttext": "book_effect_2011"
+    }, 
+    "2012": {
+        "id": 2012, 
+        "name": "book_name_2012", 
+        "author": "book_author_10", 
+        "press": "book_press", 
+        "widget": 10, 
+        "effect": 0, 
+        "fightbuff": "212547", 
+        "basetime": 90, 
+        "comtext": "book_read_2012", 
+        "effecttext": "book_effect_2012"
+    }, 
+    "2013": {
+        "id": 2013, 
+        "name": "book_name_2013", 
+        "author": "book_author_23", 
+        "press": "book_press", 
+        "widget": 10, 
+        "effect": 0, 
+        "fightbuff": "212548", 
+        "basetime": 90, 
+        "comtext": "book_read_2013", 
+        "effecttext": "book_effect_2013"
+    }, 
+    "2014": {
+        "id": 2014, 
+        "name": "book_name_2014", 
+        "author": "book_author_24", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212549", 
+        "basetime": 60, 
+        "comtext": "book_read_2014", 
+        "effecttext": "book_effect_2014"
+    }, 
+    "2015": {
+        "id": 2015, 
+        "name": "book_name_2015", 
+        "author": "book_author_15", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": {
+            "maxHp": 10
+        }, 
+        "fightbuff": 0, 
+        "basetime": 60, 
+        "comtext": "book_read_2015", 
+        "effecttext": "book_effect_2015"
+    }, 
+    "2016": {
+        "id": 2016, 
+        "name": "book_name_2016", 
+        "author": "book_author_25", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212550", 
+        "basetime": 60, 
+        "comtext": "book_read_2016", 
+        "effecttext": "book_effect_2016"
+    }, 
+    "2017": {
+        "id": 2017, 
+        "name": "book_name_2017", 
+        "author": "book_author_26", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212551", 
+        "basetime": 60, 
+        "comtext": "book_read_2017", 
+        "effecttext": "book_effect_2017"
+    }, 
+    "2018": {
+        "id": 2018, 
+        "name": "book_name_2018", 
+        "author": "book_author_27", 
+        "press": "book_press", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212552", 
+        "basetime": 60, 
+        "comtext": "book_read_2018", 
+        "effecttext": "book_effect_2018"
+    }
+}

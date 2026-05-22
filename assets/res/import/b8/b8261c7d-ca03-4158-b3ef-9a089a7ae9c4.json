@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"tarotSel","_duration":1,"sample":30,"wrapMode":"2","curveData":{"paths":{"tarot_sel_arrow_left":{"props":{"x":[{"frame":0,"value":-123},{"frame":0.5,"value":-133},{"frame":1,"value":-123}]}},"tarot_sel_arrow_right":{"props":{"x":[{"frame":0,"value":126},{"frame":0.5,"value":136},{"frame":1,"value":126}]}}}}}

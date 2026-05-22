@@ -1,0 +1,5372 @@
+{
+    "100101": {
+        "id": 100101, 
+        "skillId": 1001, 
+        "level": 1, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_1", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100101", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 1
+    }, 
+    "100102": {
+        "id": 100102, 
+        "skillId": 1001, 
+        "level": 2, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_2", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100102", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 4
+    }, 
+    "100103": {
+        "id": 100103, 
+        "skillId": 1001, 
+        "level": 3, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_3", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100103", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 7
+    }, 
+    "100104": {
+        "id": 100104, 
+        "skillId": 1001, 
+        "level": 4, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_4", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100104", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 10
+    }, 
+    "100105": {
+        "id": 100105, 
+        "skillId": 1001, 
+        "level": 5, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_5", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100105", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 13
+    }, 
+    "100106": {
+        "id": 100106, 
+        "skillId": 1001, 
+        "level": 6, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_6", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100106", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 16
+    }, 
+    "100107": {
+        "id": 100107, 
+        "skillId": 1001, 
+        "level": 7, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_7", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100107", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 19
+    }, 
+    "100108": {
+        "id": 100108, 
+        "skillId": 1001, 
+        "level": 8, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_8", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100108", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 22
+    }, 
+    "100109": {
+        "id": 100109, 
+        "skillId": 1001, 
+        "level": 9, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_9", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100109", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 25
+    }, 
+    "100110": {
+        "id": 100110, 
+        "skillId": 1001, 
+        "level": 10, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_10", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100110", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 28
+    }, 
+    "100111": {
+        "id": 100111, 
+        "skillId": 1001, 
+        "level": 11, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_11", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100111", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 31
+    }, 
+    "100112": {
+        "id": 100112, 
+        "skillId": 1001, 
+        "level": 12, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_12", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100112", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 34
+    }, 
+    "100113": {
+        "id": 100113, 
+        "skillId": 1001, 
+        "level": 13, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_13", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100113", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 37
+    }, 
+    "100114": {
+        "id": 100114, 
+        "skillId": 1001, 
+        "level": 14, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_14", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100114", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 40
+    }, 
+    "100115": {
+        "id": 100115, 
+        "skillId": 1001, 
+        "level": 15, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_15", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100115", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 43
+    }, 
+    "100116": {
+        "id": 100116, 
+        "skillId": 1001, 
+        "level": 16, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_16", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100116", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 46
+    }, 
+    "100117": {
+        "id": 100117, 
+        "skillId": 1001, 
+        "level": 17, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_17", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100117", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 49
+    }, 
+    "100118": {
+        "id": 100118, 
+        "skillId": 1001, 
+        "level": 18, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_18", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100118", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 52
+    }, 
+    "100119": {
+        "id": 100119, 
+        "skillId": 1001, 
+        "level": 19, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_19", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100119", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 55
+    }, 
+    "100120": {
+        "id": 100120, 
+        "skillId": 1001, 
+        "level": 20, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_20", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100120", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 58
+    }, 
+    "100121": {
+        "id": 100121, 
+        "skillId": 1001, 
+        "level": 21, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_21", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100121", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 61
+    }, 
+    "100122": {
+        "id": 100122, 
+        "skillId": 1001, 
+        "level": 22, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_22", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100122", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 64
+    }, 
+    "100123": {
+        "id": 100123, 
+        "skillId": 1001, 
+        "level": 23, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_23", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100123", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 67
+    }, 
+    "100124": {
+        "id": 100124, 
+        "skillId": 1001, 
+        "level": 24, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_24", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100124", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 70
+    }, 
+    "100125": {
+        "id": 100125, 
+        "skillId": 1001, 
+        "level": 25, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_25", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100125", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 73
+    }, 
+    "100126": {
+        "id": 100126, 
+        "skillId": 1001, 
+        "level": 26, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_26", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100126", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 76
+    }, 
+    "100127": {
+        "id": 100127, 
+        "skillId": 1001, 
+        "level": 27, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_27", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100127", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 79
+    }, 
+    "100128": {
+        "id": 100128, 
+        "skillId": 1001, 
+        "level": 28, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_28", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100128", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 82
+    }, 
+    "100129": {
+        "id": 100129, 
+        "skillId": 1001, 
+        "level": 29, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_29", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100129", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 85
+    }, 
+    "100130": {
+        "id": 100130, 
+        "skillId": 1001, 
+        "level": 30, 
+        "speciesId": 2, 
+        "name": "jungle_skill_1001", 
+        "effectDesc": "jungle_skill_1001_30", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100130", 
+        "triggerText": "trigger_skill_1001", 
+        "exp": 88
+    }, 
+    "100201": {
+        "id": 100201, 
+        "skillId": 1002, 
+        "level": 1, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_1", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100201", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 1
+    }, 
+    "100202": {
+        "id": 100202, 
+        "skillId": 1002, 
+        "level": 2, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_2", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100202", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 4
+    }, 
+    "100203": {
+        "id": 100203, 
+        "skillId": 1002, 
+        "level": 3, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_3", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100203", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 7
+    }, 
+    "100204": {
+        "id": 100204, 
+        "skillId": 1002, 
+        "level": 4, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_4", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100204", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 10
+    }, 
+    "100205": {
+        "id": 100205, 
+        "skillId": 1002, 
+        "level": 5, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_5", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100205", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 13
+    }, 
+    "100206": {
+        "id": 100206, 
+        "skillId": 1002, 
+        "level": 6, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_6", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100206", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 16
+    }, 
+    "100207": {
+        "id": 100207, 
+        "skillId": 1002, 
+        "level": 7, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_7", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100207", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 19
+    }, 
+    "100208": {
+        "id": 100208, 
+        "skillId": 1002, 
+        "level": 8, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_8", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100208", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 22
+    }, 
+    "100209": {
+        "id": 100209, 
+        "skillId": 1002, 
+        "level": 9, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_9", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100209", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 25
+    }, 
+    "100210": {
+        "id": 100210, 
+        "skillId": 1002, 
+        "level": 10, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_10", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100210", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 28
+    }, 
+    "100211": {
+        "id": 100211, 
+        "skillId": 1002, 
+        "level": 11, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_11", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100211", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 31
+    }, 
+    "100212": {
+        "id": 100212, 
+        "skillId": 1002, 
+        "level": 12, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_12", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100212", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 34
+    }, 
+    "100213": {
+        "id": 100213, 
+        "skillId": 1002, 
+        "level": 13, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_13", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100213", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 37
+    }, 
+    "100214": {
+        "id": 100214, 
+        "skillId": 1002, 
+        "level": 14, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_14", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100214", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 40
+    }, 
+    "100215": {
+        "id": 100215, 
+        "skillId": 1002, 
+        "level": 15, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_15", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100215", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 43
+    }, 
+    "100216": {
+        "id": 100216, 
+        "skillId": 1002, 
+        "level": 16, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_16", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100216", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 46
+    }, 
+    "100217": {
+        "id": 100217, 
+        "skillId": 1002, 
+        "level": 17, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_17", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100217", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 49
+    }, 
+    "100218": {
+        "id": 100218, 
+        "skillId": 1002, 
+        "level": 18, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_18", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100218", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 52
+    }, 
+    "100219": {
+        "id": 100219, 
+        "skillId": 1002, 
+        "level": 19, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_19", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100219", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 55
+    }, 
+    "100220": {
+        "id": 100220, 
+        "skillId": 1002, 
+        "level": 20, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_20", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100220", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 58
+    }, 
+    "100221": {
+        "id": 100221, 
+        "skillId": 1002, 
+        "level": 21, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_21", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100221", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 61
+    }, 
+    "100222": {
+        "id": 100222, 
+        "skillId": 1002, 
+        "level": 22, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_22", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100222", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 64
+    }, 
+    "100223": {
+        "id": 100223, 
+        "skillId": 1002, 
+        "level": 23, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_23", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100223", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 67
+    }, 
+    "100224": {
+        "id": 100224, 
+        "skillId": 1002, 
+        "level": 24, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_24", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100224", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 70
+    }, 
+    "100225": {
+        "id": 100225, 
+        "skillId": 1002, 
+        "level": 25, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_25", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100225", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 73
+    }, 
+    "100226": {
+        "id": 100226, 
+        "skillId": 1002, 
+        "level": 26, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_26", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100226", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 76
+    }, 
+    "100227": {
+        "id": 100227, 
+        "skillId": 1002, 
+        "level": 27, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_27", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100227", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 79
+    }, 
+    "100228": {
+        "id": 100228, 
+        "skillId": 1002, 
+        "level": 28, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_28", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100228", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 82
+    }, 
+    "100229": {
+        "id": 100229, 
+        "skillId": 1002, 
+        "level": 29, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_29", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100229", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 85
+    }, 
+    "100230": {
+        "id": 100230, 
+        "skillId": 1002, 
+        "level": 30, 
+        "speciesId": 4, 
+        "name": "jungle_skill_1002", 
+        "effectDesc": "jungle_skill_1002_30", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100230", 
+        "triggerText": "trigger_skill_1002", 
+        "exp": 88
+    }, 
+    "100301": {
+        "id": 100301, 
+        "skillId": 1003, 
+        "level": 1, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_1", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "5|100301", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 1
+    }, 
+    "100302": {
+        "id": 100302, 
+        "skillId": 1003, 
+        "level": 2, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_2", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "5.2|100302", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 4
+    }, 
+    "100303": {
+        "id": 100303, 
+        "skillId": 1003, 
+        "level": 3, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_3", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "5.4|100303", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 7
+    }, 
+    "100304": {
+        "id": 100304, 
+        "skillId": 1003, 
+        "level": 4, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_4", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "5.6|100304", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 10
+    }, 
+    "100305": {
+        "id": 100305, 
+        "skillId": 1003, 
+        "level": 5, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_5", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "5.8|100305", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 13
+    }, 
+    "100306": {
+        "id": 100306, 
+        "skillId": 1003, 
+        "level": 6, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_6", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "6|100306", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 16
+    }, 
+    "100307": {
+        "id": 100307, 
+        "skillId": 1003, 
+        "level": 7, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_7", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "6.2|100307", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 19
+    }, 
+    "100308": {
+        "id": 100308, 
+        "skillId": 1003, 
+        "level": 8, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_8", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "6.4|100308", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 22
+    }, 
+    "100309": {
+        "id": 100309, 
+        "skillId": 1003, 
+        "level": 9, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_9", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "6.6|100309", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 25
+    }, 
+    "100310": {
+        "id": 100310, 
+        "skillId": 1003, 
+        "level": 10, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_10", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "6.8|100310", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 28
+    }, 
+    "100311": {
+        "id": 100311, 
+        "skillId": 1003, 
+        "level": 11, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_11", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "7|100311", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 31
+    }, 
+    "100312": {
+        "id": 100312, 
+        "skillId": 1003, 
+        "level": 12, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_12", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "7.2|100312", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 34
+    }, 
+    "100313": {
+        "id": 100313, 
+        "skillId": 1003, 
+        "level": 13, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_13", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "7.4|100313", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 37
+    }, 
+    "100314": {
+        "id": 100314, 
+        "skillId": 1003, 
+        "level": 14, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_14", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "7.6|100314", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 40
+    }, 
+    "100315": {
+        "id": 100315, 
+        "skillId": 1003, 
+        "level": 15, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_15", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "7.8|100315", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 43
+    }, 
+    "100316": {
+        "id": 100316, 
+        "skillId": 1003, 
+        "level": 16, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_16", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "8|100316", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 46
+    }, 
+    "100317": {
+        "id": 100317, 
+        "skillId": 1003, 
+        "level": 17, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_17", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "8.2|100317", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 49
+    }, 
+    "100318": {
+        "id": 100318, 
+        "skillId": 1003, 
+        "level": 18, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_18", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "8.4|100318", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 52
+    }, 
+    "100319": {
+        "id": 100319, 
+        "skillId": 1003, 
+        "level": 19, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_19", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "8.6|100319", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 55
+    }, 
+    "100320": {
+        "id": 100320, 
+        "skillId": 1003, 
+        "level": 20, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_20", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "8.8|100320", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 58
+    }, 
+    "100321": {
+        "id": 100321, 
+        "skillId": 1003, 
+        "level": 21, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_21", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "9|100321", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 61
+    }, 
+    "100322": {
+        "id": 100322, 
+        "skillId": 1003, 
+        "level": 22, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_22", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "9.2|100322", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 64
+    }, 
+    "100323": {
+        "id": 100323, 
+        "skillId": 1003, 
+        "level": 23, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_23", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "9.4|100323", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 67
+    }, 
+    "100324": {
+        "id": 100324, 
+        "skillId": 1003, 
+        "level": 24, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_24", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "9.6|100324", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 70
+    }, 
+    "100325": {
+        "id": 100325, 
+        "skillId": 1003, 
+        "level": 25, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_25", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "9.8|100325", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 73
+    }, 
+    "100326": {
+        "id": 100326, 
+        "skillId": 1003, 
+        "level": 26, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_26", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "10|100326", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 76
+    }, 
+    "100327": {
+        "id": 100327, 
+        "skillId": 1003, 
+        "level": 27, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_27", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "10.2|100327", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 79
+    }, 
+    "100328": {
+        "id": 100328, 
+        "skillId": 1003, 
+        "level": 28, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_28", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "10.4|100328", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 82
+    }, 
+    "100329": {
+        "id": 100329, 
+        "skillId": 1003, 
+        "level": 29, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_29", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "10.6|100329", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 85
+    }, 
+    "100330": {
+        "id": 100330, 
+        "skillId": 1003, 
+        "level": 30, 
+        "speciesId": 7, 
+        "name": "jungle_skill_1003", 
+        "effectDesc": "jungle_skill_1003_30", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "10.8|100330", 
+        "triggerText": "trigger_skill_1003", 
+        "exp": 88
+    }, 
+    "100401": {
+        "id": 100401, 
+        "skillId": 1004, 
+        "level": 1, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_1", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100401", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 1
+    }, 
+    "100402": {
+        "id": 100402, 
+        "skillId": 1004, 
+        "level": 2, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_2", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100402", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 4
+    }, 
+    "100403": {
+        "id": 100403, 
+        "skillId": 1004, 
+        "level": 3, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_3", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100403", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 7
+    }, 
+    "100404": {
+        "id": 100404, 
+        "skillId": 1004, 
+        "level": 4, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_4", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100404", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 10
+    }, 
+    "100405": {
+        "id": 100405, 
+        "skillId": 1004, 
+        "level": 5, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_5", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100405", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 13
+    }, 
+    "100406": {
+        "id": 100406, 
+        "skillId": 1004, 
+        "level": 6, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_6", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100406", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 16
+    }, 
+    "100407": {
+        "id": 100407, 
+        "skillId": 1004, 
+        "level": 7, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_7", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100407", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 19
+    }, 
+    "100408": {
+        "id": 100408, 
+        "skillId": 1004, 
+        "level": 8, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_8", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100408", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 22
+    }, 
+    "100409": {
+        "id": 100409, 
+        "skillId": 1004, 
+        "level": 9, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_9", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100409", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 25
+    }, 
+    "100410": {
+        "id": 100410, 
+        "skillId": 1004, 
+        "level": 10, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_10", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100410", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 28
+    }, 
+    "100411": {
+        "id": 100411, 
+        "skillId": 1004, 
+        "level": 11, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_11", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100411", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 31
+    }, 
+    "100412": {
+        "id": 100412, 
+        "skillId": 1004, 
+        "level": 12, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_12", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100412", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 34
+    }, 
+    "100413": {
+        "id": 100413, 
+        "skillId": 1004, 
+        "level": 13, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_13", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100413", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 37
+    }, 
+    "100414": {
+        "id": 100414, 
+        "skillId": 1004, 
+        "level": 14, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_14", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100414", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 40
+    }, 
+    "100415": {
+        "id": 100415, 
+        "skillId": 1004, 
+        "level": 15, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_15", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100415", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 43
+    }, 
+    "100416": {
+        "id": 100416, 
+        "skillId": 1004, 
+        "level": 16, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_16", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100416", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 46
+    }, 
+    "100417": {
+        "id": 100417, 
+        "skillId": 1004, 
+        "level": 17, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_17", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100417", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 49
+    }, 
+    "100418": {
+        "id": 100418, 
+        "skillId": 1004, 
+        "level": 18, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_18", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100418", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 52
+    }, 
+    "100419": {
+        "id": 100419, 
+        "skillId": 1004, 
+        "level": 19, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_19", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100419", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 55
+    }, 
+    "100420": {
+        "id": 100420, 
+        "skillId": 1004, 
+        "level": 20, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_20", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100420", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 58
+    }, 
+    "100421": {
+        "id": 100421, 
+        "skillId": 1004, 
+        "level": 21, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_21", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100421", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 61
+    }, 
+    "100422": {
+        "id": 100422, 
+        "skillId": 1004, 
+        "level": 22, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_22", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100422", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 64
+    }, 
+    "100423": {
+        "id": 100423, 
+        "skillId": 1004, 
+        "level": 23, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_23", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100423", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 67
+    }, 
+    "100424": {
+        "id": 100424, 
+        "skillId": 1004, 
+        "level": 24, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_24", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100424", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 70
+    }, 
+    "100425": {
+        "id": 100425, 
+        "skillId": 1004, 
+        "level": 25, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_25", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100425", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 73
+    }, 
+    "100426": {
+        "id": 100426, 
+        "skillId": 1004, 
+        "level": 26, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_26", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100426", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 76
+    }, 
+    "100427": {
+        "id": 100427, 
+        "skillId": 1004, 
+        "level": 27, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_27", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100427", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 79
+    }, 
+    "100428": {
+        "id": 100428, 
+        "skillId": 1004, 
+        "level": 28, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_28", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100428", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 82
+    }, 
+    "100429": {
+        "id": 100429, 
+        "skillId": 1004, 
+        "level": 29, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_29", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100429", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 85
+    }, 
+    "100430": {
+        "id": 100430, 
+        "skillId": 1004, 
+        "level": 30, 
+        "speciesId": 1, 
+        "name": "jungle_skill_1004", 
+        "effectDesc": "jungle_skill_1004_30", 
+        "effect": 0, 
+        "fightbuff": 0, 
+        "trigger": "30|100430", 
+        "triggerText": "trigger_skill_1004", 
+        "exp": 88
+    }, 
+    "100501": {
+        "id": 100501, 
+        "skillId": 1005, 
+        "level": 1, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_1", 
+        "effect": 0, 
+        "fightbuff": 100501, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "100502": {
+        "id": 100502, 
+        "skillId": 1005, 
+        "level": 2, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_2", 
+        "effect": 0, 
+        "fightbuff": 100502, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "100503": {
+        "id": 100503, 
+        "skillId": 1005, 
+        "level": 3, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_3", 
+        "effect": 0, 
+        "fightbuff": 100503, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "100504": {
+        "id": 100504, 
+        "skillId": 1005, 
+        "level": 4, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_4", 
+        "effect": 0, 
+        "fightbuff": 100504, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "100505": {
+        "id": 100505, 
+        "skillId": 1005, 
+        "level": 5, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_5", 
+        "effect": 0, 
+        "fightbuff": 100505, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "100506": {
+        "id": 100506, 
+        "skillId": 1005, 
+        "level": 6, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_6", 
+        "effect": 0, 
+        "fightbuff": 100506, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "100507": {
+        "id": 100507, 
+        "skillId": 1005, 
+        "level": 7, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_7", 
+        "effect": 0, 
+        "fightbuff": 100507, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "100508": {
+        "id": 100508, 
+        "skillId": 1005, 
+        "level": 8, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_8", 
+        "effect": 0, 
+        "fightbuff": 100508, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "100509": {
+        "id": 100509, 
+        "skillId": 1005, 
+        "level": 9, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_9", 
+        "effect": 0, 
+        "fightbuff": 100509, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "100510": {
+        "id": 100510, 
+        "skillId": 1005, 
+        "level": 10, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_10", 
+        "effect": 0, 
+        "fightbuff": 100510, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "100511": {
+        "id": 100511, 
+        "skillId": 1005, 
+        "level": 11, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_11", 
+        "effect": 0, 
+        "fightbuff": 100511, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "100512": {
+        "id": 100512, 
+        "skillId": 1005, 
+        "level": 12, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_12", 
+        "effect": 0, 
+        "fightbuff": 100512, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "100513": {
+        "id": 100513, 
+        "skillId": 1005, 
+        "level": 13, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_13", 
+        "effect": 0, 
+        "fightbuff": 100513, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "100514": {
+        "id": 100514, 
+        "skillId": 1005, 
+        "level": 14, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_14", 
+        "effect": 0, 
+        "fightbuff": 100514, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "100515": {
+        "id": 100515, 
+        "skillId": 1005, 
+        "level": 15, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_15", 
+        "effect": 0, 
+        "fightbuff": 100515, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "100516": {
+        "id": 100516, 
+        "skillId": 1005, 
+        "level": 16, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_16", 
+        "effect": 0, 
+        "fightbuff": 100516, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "100517": {
+        "id": 100517, 
+        "skillId": 1005, 
+        "level": 17, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_17", 
+        "effect": 0, 
+        "fightbuff": 100517, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "100518": {
+        "id": 100518, 
+        "skillId": 1005, 
+        "level": 18, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_18", 
+        "effect": 0, 
+        "fightbuff": 100518, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "100519": {
+        "id": 100519, 
+        "skillId": 1005, 
+        "level": 19, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_19", 
+        "effect": 0, 
+        "fightbuff": 100519, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "100520": {
+        "id": 100520, 
+        "skillId": 1005, 
+        "level": 20, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_20", 
+        "effect": 0, 
+        "fightbuff": 100520, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "100521": {
+        "id": 100521, 
+        "skillId": 1005, 
+        "level": 21, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_21", 
+        "effect": 0, 
+        "fightbuff": 100521, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "100522": {
+        "id": 100522, 
+        "skillId": 1005, 
+        "level": 22, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_22", 
+        "effect": 0, 
+        "fightbuff": 100522, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "100523": {
+        "id": 100523, 
+        "skillId": 1005, 
+        "level": 23, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_23", 
+        "effect": 0, 
+        "fightbuff": 100523, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "100524": {
+        "id": 100524, 
+        "skillId": 1005, 
+        "level": 24, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_24", 
+        "effect": 0, 
+        "fightbuff": 100524, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "100525": {
+        "id": 100525, 
+        "skillId": 1005, 
+        "level": 25, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_25", 
+        "effect": 0, 
+        "fightbuff": 100525, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "100526": {
+        "id": 100526, 
+        "skillId": 1005, 
+        "level": 26, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_26", 
+        "effect": 0, 
+        "fightbuff": 100526, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "100527": {
+        "id": 100527, 
+        "skillId": 1005, 
+        "level": 27, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_27", 
+        "effect": 0, 
+        "fightbuff": 100527, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "100528": {
+        "id": 100528, 
+        "skillId": 1005, 
+        "level": 28, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_28", 
+        "effect": 0, 
+        "fightbuff": 100528, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "100529": {
+        "id": 100529, 
+        "skillId": 1005, 
+        "level": 29, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_29", 
+        "effect": 0, 
+        "fightbuff": 100529, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "100530": {
+        "id": 100530, 
+        "skillId": 1005, 
+        "level": 30, 
+        "speciesId": 3, 
+        "name": "jungle_skill_1005", 
+        "effectDesc": "jungle_skill_1005_30", 
+        "effect": 0, 
+        "fightbuff": 100530, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "100601": {
+        "id": 100601, 
+        "skillId": 1006, 
+        "level": 1, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_1", 
+        "effect": 0, 
+        "fightbuff": 100601, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "100602": {
+        "id": 100602, 
+        "skillId": 1006, 
+        "level": 2, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_2", 
+        "effect": 0, 
+        "fightbuff": 100602, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "100603": {
+        "id": 100603, 
+        "skillId": 1006, 
+        "level": 3, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_3", 
+        "effect": 0, 
+        "fightbuff": 100603, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "100604": {
+        "id": 100604, 
+        "skillId": 1006, 
+        "level": 4, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_4", 
+        "effect": 0, 
+        "fightbuff": 100604, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "100605": {
+        "id": 100605, 
+        "skillId": 1006, 
+        "level": 5, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_5", 
+        "effect": 0, 
+        "fightbuff": 100605, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "100606": {
+        "id": 100606, 
+        "skillId": 1006, 
+        "level": 6, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_6", 
+        "effect": 0, 
+        "fightbuff": 100606, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "100607": {
+        "id": 100607, 
+        "skillId": 1006, 
+        "level": 7, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_7", 
+        "effect": 0, 
+        "fightbuff": 100607, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "100608": {
+        "id": 100608, 
+        "skillId": 1006, 
+        "level": 8, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_8", 
+        "effect": 0, 
+        "fightbuff": 100608, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "100609": {
+        "id": 100609, 
+        "skillId": 1006, 
+        "level": 9, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_9", 
+        "effect": 0, 
+        "fightbuff": 100609, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "100610": {
+        "id": 100610, 
+        "skillId": 1006, 
+        "level": 10, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_10", 
+        "effect": 0, 
+        "fightbuff": 100610, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "100611": {
+        "id": 100611, 
+        "skillId": 1006, 
+        "level": 11, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_11", 
+        "effect": 0, 
+        "fightbuff": 100611, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "100612": {
+        "id": 100612, 
+        "skillId": 1006, 
+        "level": 12, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_12", 
+        "effect": 0, 
+        "fightbuff": 100612, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "100613": {
+        "id": 100613, 
+        "skillId": 1006, 
+        "level": 13, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_13", 
+        "effect": 0, 
+        "fightbuff": 100613, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "100614": {
+        "id": 100614, 
+        "skillId": 1006, 
+        "level": 14, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_14", 
+        "effect": 0, 
+        "fightbuff": 100614, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "100615": {
+        "id": 100615, 
+        "skillId": 1006, 
+        "level": 15, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_15", 
+        "effect": 0, 
+        "fightbuff": 100615, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "100616": {
+        "id": 100616, 
+        "skillId": 1006, 
+        "level": 16, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_16", 
+        "effect": 0, 
+        "fightbuff": 100616, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "100617": {
+        "id": 100617, 
+        "skillId": 1006, 
+        "level": 17, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_17", 
+        "effect": 0, 
+        "fightbuff": 100617, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "100618": {
+        "id": 100618, 
+        "skillId": 1006, 
+        "level": 18, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_18", 
+        "effect": 0, 
+        "fightbuff": 100618, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "100619": {
+        "id": 100619, 
+        "skillId": 1006, 
+        "level": 19, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_19", 
+        "effect": 0, 
+        "fightbuff": 100619, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "100620": {
+        "id": 100620, 
+        "skillId": 1006, 
+        "level": 20, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_20", 
+        "effect": 0, 
+        "fightbuff": 100620, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "100621": {
+        "id": 100621, 
+        "skillId": 1006, 
+        "level": 21, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_21", 
+        "effect": 0, 
+        "fightbuff": 100621, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "100622": {
+        "id": 100622, 
+        "skillId": 1006, 
+        "level": 22, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_22", 
+        "effect": 0, 
+        "fightbuff": 100622, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "100623": {
+        "id": 100623, 
+        "skillId": 1006, 
+        "level": 23, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_23", 
+        "effect": 0, 
+        "fightbuff": 100623, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "100624": {
+        "id": 100624, 
+        "skillId": 1006, 
+        "level": 24, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_24", 
+        "effect": 0, 
+        "fightbuff": 100624, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "100625": {
+        "id": 100625, 
+        "skillId": 1006, 
+        "level": 25, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_25", 
+        "effect": 0, 
+        "fightbuff": 100625, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "100626": {
+        "id": 100626, 
+        "skillId": 1006, 
+        "level": 26, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_26", 
+        "effect": 0, 
+        "fightbuff": 100626, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "100627": {
+        "id": 100627, 
+        "skillId": 1006, 
+        "level": 27, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_27", 
+        "effect": 0, 
+        "fightbuff": 100627, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "100628": {
+        "id": 100628, 
+        "skillId": 1006, 
+        "level": 28, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_28", 
+        "effect": 0, 
+        "fightbuff": 100628, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "100629": {
+        "id": 100629, 
+        "skillId": 1006, 
+        "level": 29, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_29", 
+        "effect": 0, 
+        "fightbuff": 100629, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "100630": {
+        "id": 100630, 
+        "skillId": 1006, 
+        "level": 30, 
+        "speciesId": 10, 
+        "name": "jungle_skill_1006", 
+        "effectDesc": "jungle_skill_1006_30", 
+        "effect": 0, 
+        "fightbuff": 100630, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "100701": {
+        "id": 100701, 
+        "skillId": 1007, 
+        "level": 1, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_1", 
+        "effect": 0, 
+        "fightbuff": 100701, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "100702": {
+        "id": 100702, 
+        "skillId": 1007, 
+        "level": 2, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_2", 
+        "effect": 0, 
+        "fightbuff": 100702, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "100703": {
+        "id": 100703, 
+        "skillId": 1007, 
+        "level": 3, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_3", 
+        "effect": 0, 
+        "fightbuff": 100703, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "100704": {
+        "id": 100704, 
+        "skillId": 1007, 
+        "level": 4, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_4", 
+        "effect": 0, 
+        "fightbuff": 100704, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "100705": {
+        "id": 100705, 
+        "skillId": 1007, 
+        "level": 5, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_5", 
+        "effect": 0, 
+        "fightbuff": 100705, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "100706": {
+        "id": 100706, 
+        "skillId": 1007, 
+        "level": 6, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_6", 
+        "effect": 0, 
+        "fightbuff": 100706, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "100707": {
+        "id": 100707, 
+        "skillId": 1007, 
+        "level": 7, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_7", 
+        "effect": 0, 
+        "fightbuff": 100707, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "100708": {
+        "id": 100708, 
+        "skillId": 1007, 
+        "level": 8, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_8", 
+        "effect": 0, 
+        "fightbuff": 100708, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "100709": {
+        "id": 100709, 
+        "skillId": 1007, 
+        "level": 9, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_9", 
+        "effect": 0, 
+        "fightbuff": 100709, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "100710": {
+        "id": 100710, 
+        "skillId": 1007, 
+        "level": 10, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_10", 
+        "effect": 0, 
+        "fightbuff": 100710, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "100711": {
+        "id": 100711, 
+        "skillId": 1007, 
+        "level": 11, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_11", 
+        "effect": 0, 
+        "fightbuff": 100711, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "100712": {
+        "id": 100712, 
+        "skillId": 1007, 
+        "level": 12, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_12", 
+        "effect": 0, 
+        "fightbuff": 100712, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "100713": {
+        "id": 100713, 
+        "skillId": 1007, 
+        "level": 13, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_13", 
+        "effect": 0, 
+        "fightbuff": 100713, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "100714": {
+        "id": 100714, 
+        "skillId": 1007, 
+        "level": 14, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_14", 
+        "effect": 0, 
+        "fightbuff": 100714, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "100715": {
+        "id": 100715, 
+        "skillId": 1007, 
+        "level": 15, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_15", 
+        "effect": 0, 
+        "fightbuff": 100715, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "100716": {
+        "id": 100716, 
+        "skillId": 1007, 
+        "level": 16, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_16", 
+        "effect": 0, 
+        "fightbuff": 100716, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "100717": {
+        "id": 100717, 
+        "skillId": 1007, 
+        "level": 17, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_17", 
+        "effect": 0, 
+        "fightbuff": 100717, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "100718": {
+        "id": 100718, 
+        "skillId": 1007, 
+        "level": 18, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_18", 
+        "effect": 0, 
+        "fightbuff": 100718, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "100719": {
+        "id": 100719, 
+        "skillId": 1007, 
+        "level": 19, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_19", 
+        "effect": 0, 
+        "fightbuff": 100719, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "100720": {
+        "id": 100720, 
+        "skillId": 1007, 
+        "level": 20, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_20", 
+        "effect": 0, 
+        "fightbuff": 100720, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "100721": {
+        "id": 100721, 
+        "skillId": 1007, 
+        "level": 21, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_21", 
+        "effect": 0, 
+        "fightbuff": 100721, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "100722": {
+        "id": 100722, 
+        "skillId": 1007, 
+        "level": 22, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_22", 
+        "effect": 0, 
+        "fightbuff": 100722, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "100723": {
+        "id": 100723, 
+        "skillId": 1007, 
+        "level": 23, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_23", 
+        "effect": 0, 
+        "fightbuff": 100723, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "100724": {
+        "id": 100724, 
+        "skillId": 1007, 
+        "level": 24, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_24", 
+        "effect": 0, 
+        "fightbuff": 100724, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "100725": {
+        "id": 100725, 
+        "skillId": 1007, 
+        "level": 25, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_25", 
+        "effect": 0, 
+        "fightbuff": 100725, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "100726": {
+        "id": 100726, 
+        "skillId": 1007, 
+        "level": 26, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_26", 
+        "effect": 0, 
+        "fightbuff": 100726, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "100727": {
+        "id": 100727, 
+        "skillId": 1007, 
+        "level": 27, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_27", 
+        "effect": 0, 
+        "fightbuff": 100727, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "100728": {
+        "id": 100728, 
+        "skillId": 1007, 
+        "level": 28, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_28", 
+        "effect": 0, 
+        "fightbuff": 100728, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "100729": {
+        "id": 100729, 
+        "skillId": 1007, 
+        "level": 29, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_29", 
+        "effect": 0, 
+        "fightbuff": 100729, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "100730": {
+        "id": 100730, 
+        "skillId": 1007, 
+        "level": 30, 
+        "speciesId": 6, 
+        "name": "jungle_skill_1007", 
+        "effectDesc": "jungle_skill_1007_30", 
+        "effect": 0, 
+        "fightbuff": 100730, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "100801": {
+        "id": 100801, 
+        "skillId": 1008, 
+        "level": 1, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_1", 
+        "effect": 0, 
+        "fightbuff": 100801, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "100802": {
+        "id": 100802, 
+        "skillId": 1008, 
+        "level": 2, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_2", 
+        "effect": 0, 
+        "fightbuff": 100802, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "100803": {
+        "id": 100803, 
+        "skillId": 1008, 
+        "level": 3, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_3", 
+        "effect": 0, 
+        "fightbuff": 100803, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "100804": {
+        "id": 100804, 
+        "skillId": 1008, 
+        "level": 4, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_4", 
+        "effect": 0, 
+        "fightbuff": 100804, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "100805": {
+        "id": 100805, 
+        "skillId": 1008, 
+        "level": 5, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_5", 
+        "effect": 0, 
+        "fightbuff": 100805, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "100806": {
+        "id": 100806, 
+        "skillId": 1008, 
+        "level": 6, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_6", 
+        "effect": 0, 
+        "fightbuff": 100806, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "100807": {
+        "id": 100807, 
+        "skillId": 1008, 
+        "level": 7, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_7", 
+        "effect": 0, 
+        "fightbuff": 100807, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "100808": {
+        "id": 100808, 
+        "skillId": 1008, 
+        "level": 8, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_8", 
+        "effect": 0, 
+        "fightbuff": 100808, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "100809": {
+        "id": 100809, 
+        "skillId": 1008, 
+        "level": 9, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_9", 
+        "effect": 0, 
+        "fightbuff": 100809, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "100810": {
+        "id": 100810, 
+        "skillId": 1008, 
+        "level": 10, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_10", 
+        "effect": 0, 
+        "fightbuff": 100810, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "100811": {
+        "id": 100811, 
+        "skillId": 1008, 
+        "level": 11, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_11", 
+        "effect": 0, 
+        "fightbuff": 100811, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "100812": {
+        "id": 100812, 
+        "skillId": 1008, 
+        "level": 12, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_12", 
+        "effect": 0, 
+        "fightbuff": 100812, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "100813": {
+        "id": 100813, 
+        "skillId": 1008, 
+        "level": 13, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_13", 
+        "effect": 0, 
+        "fightbuff": 100813, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "100814": {
+        "id": 100814, 
+        "skillId": 1008, 
+        "level": 14, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_14", 
+        "effect": 0, 
+        "fightbuff": 100814, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "100815": {
+        "id": 100815, 
+        "skillId": 1008, 
+        "level": 15, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_15", 
+        "effect": 0, 
+        "fightbuff": 100815, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "100816": {
+        "id": 100816, 
+        "skillId": 1008, 
+        "level": 16, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_16", 
+        "effect": 0, 
+        "fightbuff": 100816, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "100817": {
+        "id": 100817, 
+        "skillId": 1008, 
+        "level": 17, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_17", 
+        "effect": 0, 
+        "fightbuff": 100817, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "100818": {
+        "id": 100818, 
+        "skillId": 1008, 
+        "level": 18, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_18", 
+        "effect": 0, 
+        "fightbuff": 100818, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "100819": {
+        "id": 100819, 
+        "skillId": 1008, 
+        "level": 19, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_19", 
+        "effect": 0, 
+        "fightbuff": 100819, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "100820": {
+        "id": 100820, 
+        "skillId": 1008, 
+        "level": 20, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_20", 
+        "effect": 0, 
+        "fightbuff": 100820, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "100821": {
+        "id": 100821, 
+        "skillId": 1008, 
+        "level": 21, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_21", 
+        "effect": 0, 
+        "fightbuff": 100821, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "100822": {
+        "id": 100822, 
+        "skillId": 1008, 
+        "level": 22, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_22", 
+        "effect": 0, 
+        "fightbuff": 100822, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "100823": {
+        "id": 100823, 
+        "skillId": 1008, 
+        "level": 23, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_23", 
+        "effect": 0, 
+        "fightbuff": 100823, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "100824": {
+        "id": 100824, 
+        "skillId": 1008, 
+        "level": 24, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_24", 
+        "effect": 0, 
+        "fightbuff": 100824, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "100825": {
+        "id": 100825, 
+        "skillId": 1008, 
+        "level": 25, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_25", 
+        "effect": 0, 
+        "fightbuff": 100825, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "100826": {
+        "id": 100826, 
+        "skillId": 1008, 
+        "level": 26, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_26", 
+        "effect": 0, 
+        "fightbuff": 100826, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "100827": {
+        "id": 100827, 
+        "skillId": 1008, 
+        "level": 27, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_27", 
+        "effect": 0, 
+        "fightbuff": 100827, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "100828": {
+        "id": 100828, 
+        "skillId": 1008, 
+        "level": 28, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_28", 
+        "effect": 0, 
+        "fightbuff": 100828, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "100829": {
+        "id": 100829, 
+        "skillId": 1008, 
+        "level": 29, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_29", 
+        "effect": 0, 
+        "fightbuff": 100829, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "100830": {
+        "id": 100830, 
+        "skillId": 1008, 
+        "level": 30, 
+        "speciesId": 18, 
+        "name": "jungle_skill_1008", 
+        "effectDesc": "jungle_skill_1008_30", 
+        "effect": 0, 
+        "fightbuff": 100830, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "100901": {
+        "id": 100901, 
+        "skillId": 1009, 
+        "level": 1, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_1", 
+        "effect": {
+            "maxTrauma": 2
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "100902": {
+        "id": 100902, 
+        "skillId": 1009, 
+        "level": 2, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_2", 
+        "effect": {
+            "maxTrauma": 4
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "100903": {
+        "id": 100903, 
+        "skillId": 1009, 
+        "level": 3, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_3", 
+        "effect": {
+            "maxTrauma": 6
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "100904": {
+        "id": 100904, 
+        "skillId": 1009, 
+        "level": 4, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_4", 
+        "effect": {
+            "maxTrauma": 8
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "100905": {
+        "id": 100905, 
+        "skillId": 1009, 
+        "level": 5, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_5", 
+        "effect": {
+            "maxTrauma": 10
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "100906": {
+        "id": 100906, 
+        "skillId": 1009, 
+        "level": 6, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_6", 
+        "effect": {
+            "maxTrauma": 12
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "100907": {
+        "id": 100907, 
+        "skillId": 1009, 
+        "level": 7, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_7", 
+        "effect": {
+            "maxTrauma": 14
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "100908": {
+        "id": 100908, 
+        "skillId": 1009, 
+        "level": 8, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_8", 
+        "effect": {
+            "maxTrauma": 16
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "100909": {
+        "id": 100909, 
+        "skillId": 1009, 
+        "level": 9, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_9", 
+        "effect": {
+            "maxTrauma": 18
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "100910": {
+        "id": 100910, 
+        "skillId": 1009, 
+        "level": 10, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_10", 
+        "effect": {
+            "maxTrauma": 20
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "100911": {
+        "id": 100911, 
+        "skillId": 1009, 
+        "level": 11, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_11", 
+        "effect": {
+            "maxTrauma": 22
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "100912": {
+        "id": 100912, 
+        "skillId": 1009, 
+        "level": 12, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_12", 
+        "effect": {
+            "maxTrauma": 24
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "100913": {
+        "id": 100913, 
+        "skillId": 1009, 
+        "level": 13, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_13", 
+        "effect": {
+            "maxTrauma": 26
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "100914": {
+        "id": 100914, 
+        "skillId": 1009, 
+        "level": 14, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_14", 
+        "effect": {
+            "maxTrauma": 28
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "100915": {
+        "id": 100915, 
+        "skillId": 1009, 
+        "level": 15, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_15", 
+        "effect": {
+            "maxTrauma": 30
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "100916": {
+        "id": 100916, 
+        "skillId": 1009, 
+        "level": 16, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_16", 
+        "effect": {
+            "maxTrauma": 32
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "100917": {
+        "id": 100917, 
+        "skillId": 1009, 
+        "level": 17, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_17", 
+        "effect": {
+            "maxTrauma": 34
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "100918": {
+        "id": 100918, 
+        "skillId": 1009, 
+        "level": 18, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_18", 
+        "effect": {
+            "maxTrauma": 36
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "100919": {
+        "id": 100919, 
+        "skillId": 1009, 
+        "level": 19, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_19", 
+        "effect": {
+            "maxTrauma": 38
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "100920": {
+        "id": 100920, 
+        "skillId": 1009, 
+        "level": 20, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_20", 
+        "effect": {
+            "maxTrauma": 40
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "100921": {
+        "id": 100921, 
+        "skillId": 1009, 
+        "level": 21, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_21", 
+        "effect": {
+            "maxTrauma": 42
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "100922": {
+        "id": 100922, 
+        "skillId": 1009, 
+        "level": 22, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_22", 
+        "effect": {
+            "maxTrauma": 44
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "100923": {
+        "id": 100923, 
+        "skillId": 1009, 
+        "level": 23, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_23", 
+        "effect": {
+            "maxTrauma": 46
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "100924": {
+        "id": 100924, 
+        "skillId": 1009, 
+        "level": 24, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_24", 
+        "effect": {
+            "maxTrauma": 48
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "100925": {
+        "id": 100925, 
+        "skillId": 1009, 
+        "level": 25, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_25", 
+        "effect": {
+            "maxTrauma": 50
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "100926": {
+        "id": 100926, 
+        "skillId": 1009, 
+        "level": 26, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_26", 
+        "effect": {
+            "maxTrauma": 52
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "100927": {
+        "id": 100927, 
+        "skillId": 1009, 
+        "level": 27, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_27", 
+        "effect": {
+            "maxTrauma": 54
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "100928": {
+        "id": 100928, 
+        "skillId": 1009, 
+        "level": 28, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_28", 
+        "effect": {
+            "maxTrauma": 56
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "100929": {
+        "id": 100929, 
+        "skillId": 1009, 
+        "level": 29, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_29", 
+        "effect": {
+            "maxTrauma": 58
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "100930": {
+        "id": 100930, 
+        "skillId": 1009, 
+        "level": 30, 
+        "speciesId": 14, 
+        "name": "jungle_skill_1009", 
+        "effectDesc": "jungle_skill_1009_30", 
+        "effect": {
+            "maxTrauma": 60
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "101001": {
+        "id": 101001, 
+        "skillId": 1010, 
+        "level": 1, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_1", 
+        "effect": {
+            "maxHunger": 2
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "101002": {
+        "id": 101002, 
+        "skillId": 1010, 
+        "level": 2, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_2", 
+        "effect": {
+            "maxHunger": 4
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "101003": {
+        "id": 101003, 
+        "skillId": 1010, 
+        "level": 3, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_3", 
+        "effect": {
+            "maxHunger": 6
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "101004": {
+        "id": 101004, 
+        "skillId": 1010, 
+        "level": 4, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_4", 
+        "effect": {
+            "maxHunger": 8
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "101005": {
+        "id": 101005, 
+        "skillId": 1010, 
+        "level": 5, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_5", 
+        "effect": {
+            "maxHunger": 10
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "101006": {
+        "id": 101006, 
+        "skillId": 1010, 
+        "level": 6, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_6", 
+        "effect": {
+            "maxHunger": 12
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "101007": {
+        "id": 101007, 
+        "skillId": 1010, 
+        "level": 7, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_7", 
+        "effect": {
+            "maxHunger": 14
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "101008": {
+        "id": 101008, 
+        "skillId": 1010, 
+        "level": 8, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_8", 
+        "effect": {
+            "maxHunger": 16
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "101009": {
+        "id": 101009, 
+        "skillId": 1010, 
+        "level": 9, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_9", 
+        "effect": {
+            "maxHunger": 18
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "101010": {
+        "id": 101010, 
+        "skillId": 1010, 
+        "level": 10, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_10", 
+        "effect": {
+            "maxHunger": 20
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "101011": {
+        "id": 101011, 
+        "skillId": 1010, 
+        "level": 11, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_11", 
+        "effect": {
+            "maxHunger": 22
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "101012": {
+        "id": 101012, 
+        "skillId": 1010, 
+        "level": 12, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_12", 
+        "effect": {
+            "maxHunger": 24
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "101013": {
+        "id": 101013, 
+        "skillId": 1010, 
+        "level": 13, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_13", 
+        "effect": {
+            "maxHunger": 26
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "101014": {
+        "id": 101014, 
+        "skillId": 1010, 
+        "level": 14, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_14", 
+        "effect": {
+            "maxHunger": 28
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "101015": {
+        "id": 101015, 
+        "skillId": 1010, 
+        "level": 15, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_15", 
+        "effect": {
+            "maxHunger": 30
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "101016": {
+        "id": 101016, 
+        "skillId": 1010, 
+        "level": 16, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_16", 
+        "effect": {
+            "maxHunger": 32
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "101017": {
+        "id": 101017, 
+        "skillId": 1010, 
+        "level": 17, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_17", 
+        "effect": {
+            "maxHunger": 34
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "101018": {
+        "id": 101018, 
+        "skillId": 1010, 
+        "level": 18, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_18", 
+        "effect": {
+            "maxHunger": 36
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "101019": {
+        "id": 101019, 
+        "skillId": 1010, 
+        "level": 19, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_19", 
+        "effect": {
+            "maxHunger": 38
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "101020": {
+        "id": 101020, 
+        "skillId": 1010, 
+        "level": 20, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_20", 
+        "effect": {
+            "maxHunger": 40
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "101021": {
+        "id": 101021, 
+        "skillId": 1010, 
+        "level": 21, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_21", 
+        "effect": {
+            "maxHunger": 42
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "101022": {
+        "id": 101022, 
+        "skillId": 1010, 
+        "level": 22, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_22", 
+        "effect": {
+            "maxHunger": 44
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "101023": {
+        "id": 101023, 
+        "skillId": 1010, 
+        "level": 23, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_23", 
+        "effect": {
+            "maxHunger": 46
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "101024": {
+        "id": 101024, 
+        "skillId": 1010, 
+        "level": 24, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_24", 
+        "effect": {
+            "maxHunger": 48
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "101025": {
+        "id": 101025, 
+        "skillId": 1010, 
+        "level": 25, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_25", 
+        "effect": {
+            "maxHunger": 50
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "101026": {
+        "id": 101026, 
+        "skillId": 1010, 
+        "level": 26, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_26", 
+        "effect": {
+            "maxHunger": 52
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "101027": {
+        "id": 101027, 
+        "skillId": 1010, 
+        "level": 27, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_27", 
+        "effect": {
+            "maxHunger": 54
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "101028": {
+        "id": 101028, 
+        "skillId": 1010, 
+        "level": 28, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_28", 
+        "effect": {
+            "maxHunger": 56
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "101029": {
+        "id": 101029, 
+        "skillId": 1010, 
+        "level": 29, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_29", 
+        "effect": {
+            "maxHunger": 58
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "101030": {
+        "id": 101030, 
+        "skillId": 1010, 
+        "level": 30, 
+        "speciesId": 22, 
+        "name": "jungle_skill_1010", 
+        "effectDesc": "jungle_skill_1010_30", 
+        "effect": {
+            "maxHunger": 60
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "101101": {
+        "id": 101101, 
+        "skillId": 1011, 
+        "level": 1, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_1", 
+        "effect": {
+            "maxHp": 5
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "101102": {
+        "id": 101102, 
+        "skillId": 1011, 
+        "level": 2, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_2", 
+        "effect": {
+            "maxHp": 10
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "101103": {
+        "id": 101103, 
+        "skillId": 1011, 
+        "level": 3, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_3", 
+        "effect": {
+            "maxHp": 15
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "101104": {
+        "id": 101104, 
+        "skillId": 1011, 
+        "level": 4, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_4", 
+        "effect": {
+            "maxHp": 20
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "101105": {
+        "id": 101105, 
+        "skillId": 1011, 
+        "level": 5, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_5", 
+        "effect": {
+            "maxHp": 25
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "101106": {
+        "id": 101106, 
+        "skillId": 1011, 
+        "level": 6, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_6", 
+        "effect": {
+            "maxHp": 30
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "101107": {
+        "id": 101107, 
+        "skillId": 1011, 
+        "level": 7, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_7", 
+        "effect": {
+            "maxHp": 35
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "101108": {
+        "id": 101108, 
+        "skillId": 1011, 
+        "level": 8, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_8", 
+        "effect": {
+            "maxHp": 40
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "101109": {
+        "id": 101109, 
+        "skillId": 1011, 
+        "level": 9, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_9", 
+        "effect": {
+            "maxHp": 45
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "101110": {
+        "id": 101110, 
+        "skillId": 1011, 
+        "level": 10, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_10", 
+        "effect": {
+            "maxHp": 50
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "101111": {
+        "id": 101111, 
+        "skillId": 1011, 
+        "level": 11, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_11", 
+        "effect": {
+            "maxHp": 55
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "101112": {
+        "id": 101112, 
+        "skillId": 1011, 
+        "level": 12, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_12", 
+        "effect": {
+            "maxHp": 60
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "101113": {
+        "id": 101113, 
+        "skillId": 1011, 
+        "level": 13, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_13", 
+        "effect": {
+            "maxHp": 65
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "101114": {
+        "id": 101114, 
+        "skillId": 1011, 
+        "level": 14, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_14", 
+        "effect": {
+            "maxHp": 70
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "101115": {
+        "id": 101115, 
+        "skillId": 1011, 
+        "level": 15, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_15", 
+        "effect": {
+            "maxHp": 75
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "101116": {
+        "id": 101116, 
+        "skillId": 1011, 
+        "level": 16, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_16", 
+        "effect": {
+            "maxHp": 80
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "101117": {
+        "id": 101117, 
+        "skillId": 1011, 
+        "level": 17, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_17", 
+        "effect": {
+            "maxHp": 85
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "101118": {
+        "id": 101118, 
+        "skillId": 1011, 
+        "level": 18, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_18", 
+        "effect": {
+            "maxHp": 90
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "101119": {
+        "id": 101119, 
+        "skillId": 1011, 
+        "level": 19, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_19", 
+        "effect": {
+            "maxHp": 95
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "101120": {
+        "id": 101120, 
+        "skillId": 1011, 
+        "level": 20, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_20", 
+        "effect": {
+            "maxHp": 100
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "101121": {
+        "id": 101121, 
+        "skillId": 1011, 
+        "level": 21, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_21", 
+        "effect": {
+            "maxHp": 105
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "101122": {
+        "id": 101122, 
+        "skillId": 1011, 
+        "level": 22, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_22", 
+        "effect": {
+            "maxHp": 110
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "101123": {
+        "id": 101123, 
+        "skillId": 1011, 
+        "level": 23, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_23", 
+        "effect": {
+            "maxHp": 115
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "101124": {
+        "id": 101124, 
+        "skillId": 1011, 
+        "level": 24, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_24", 
+        "effect": {
+            "maxHp": 120
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "101125": {
+        "id": 101125, 
+        "skillId": 1011, 
+        "level": 25, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_25", 
+        "effect": {
+            "maxHp": 125
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "101126": {
+        "id": 101126, 
+        "skillId": 1011, 
+        "level": 26, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_26", 
+        "effect": {
+            "maxHp": 130
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "101127": {
+        "id": 101127, 
+        "skillId": 1011, 
+        "level": 27, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_27", 
+        "effect": {
+            "maxHp": 135
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "101128": {
+        "id": 101128, 
+        "skillId": 1011, 
+        "level": 28, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_28", 
+        "effect": {
+            "maxHp": 140
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "101129": {
+        "id": 101129, 
+        "skillId": 1011, 
+        "level": 29, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_29", 
+        "effect": {
+            "maxHp": 145
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "101130": {
+        "id": 101130, 
+        "skillId": 1011, 
+        "level": 30, 
+        "speciesId": 17, 
+        "name": "jungle_skill_1011", 
+        "effectDesc": "jungle_skill_1011_30", 
+        "effect": {
+            "maxHp": 150
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "101201": {
+        "id": 101201, 
+        "skillId": 1012, 
+        "level": 1, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_1", 
+        "effect": {
+            "maxInfection": 2
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "101202": {
+        "id": 101202, 
+        "skillId": 1012, 
+        "level": 2, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_2", 
+        "effect": {
+            "maxInfection": 4
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "101203": {
+        "id": 101203, 
+        "skillId": 1012, 
+        "level": 3, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_3", 
+        "effect": {
+            "maxInfection": 6
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "101204": {
+        "id": 101204, 
+        "skillId": 1012, 
+        "level": 4, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_4", 
+        "effect": {
+            "maxInfection": 8
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "101205": {
+        "id": 101205, 
+        "skillId": 1012, 
+        "level": 5, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_5", 
+        "effect": {
+            "maxInfection": 10
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "101206": {
+        "id": 101206, 
+        "skillId": 1012, 
+        "level": 6, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_6", 
+        "effect": {
+            "maxInfection": 12
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "101207": {
+        "id": 101207, 
+        "skillId": 1012, 
+        "level": 7, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_7", 
+        "effect": {
+            "maxInfection": 14
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "101208": {
+        "id": 101208, 
+        "skillId": 1012, 
+        "level": 8, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_8", 
+        "effect": {
+            "maxInfection": 16
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "101209": {
+        "id": 101209, 
+        "skillId": 1012, 
+        "level": 9, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_9", 
+        "effect": {
+            "maxInfection": 18
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "101210": {
+        "id": 101210, 
+        "skillId": 1012, 
+        "level": 10, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_10", 
+        "effect": {
+            "maxInfection": 20
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "101211": {
+        "id": 101211, 
+        "skillId": 1012, 
+        "level": 11, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_11", 
+        "effect": {
+            "maxInfection": 22
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "101212": {
+        "id": 101212, 
+        "skillId": 1012, 
+        "level": 12, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_12", 
+        "effect": {
+            "maxInfection": 24
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "101213": {
+        "id": 101213, 
+        "skillId": 1012, 
+        "level": 13, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_13", 
+        "effect": {
+            "maxInfection": 26
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "101214": {
+        "id": 101214, 
+        "skillId": 1012, 
+        "level": 14, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_14", 
+        "effect": {
+            "maxInfection": 28
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "101215": {
+        "id": 101215, 
+        "skillId": 1012, 
+        "level": 15, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_15", 
+        "effect": {
+            "maxInfection": 30
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "101216": {
+        "id": 101216, 
+        "skillId": 1012, 
+        "level": 16, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_16", 
+        "effect": {
+            "maxInfection": 32
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "101217": {
+        "id": 101217, 
+        "skillId": 1012, 
+        "level": 17, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_17", 
+        "effect": {
+            "maxInfection": 34
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "101218": {
+        "id": 101218, 
+        "skillId": 1012, 
+        "level": 18, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_18", 
+        "effect": {
+            "maxInfection": 36
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "101219": {
+        "id": 101219, 
+        "skillId": 1012, 
+        "level": 19, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_19", 
+        "effect": {
+            "maxInfection": 38
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "101220": {
+        "id": 101220, 
+        "skillId": 1012, 
+        "level": 20, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_20", 
+        "effect": {
+            "maxInfection": 40
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "101221": {
+        "id": 101221, 
+        "skillId": 1012, 
+        "level": 21, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_21", 
+        "effect": {
+            "maxInfection": 42
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "101222": {
+        "id": 101222, 
+        "skillId": 1012, 
+        "level": 22, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_22", 
+        "effect": {
+            "maxInfection": 44
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "101223": {
+        "id": 101223, 
+        "skillId": 1012, 
+        "level": 23, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_23", 
+        "effect": {
+            "maxInfection": 46
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "101224": {
+        "id": 101224, 
+        "skillId": 1012, 
+        "level": 24, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_24", 
+        "effect": {
+            "maxInfection": 48
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "101225": {
+        "id": 101225, 
+        "skillId": 1012, 
+        "level": 25, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_25", 
+        "effect": {
+            "maxInfection": 50
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "101226": {
+        "id": 101226, 
+        "skillId": 1012, 
+        "level": 26, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_26", 
+        "effect": {
+            "maxInfection": 52
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "101227": {
+        "id": 101227, 
+        "skillId": 1012, 
+        "level": 27, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_27", 
+        "effect": {
+            "maxInfection": 54
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "101228": {
+        "id": 101228, 
+        "skillId": 1012, 
+        "level": 28, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_28", 
+        "effect": {
+            "maxInfection": 56
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "101229": {
+        "id": 101229, 
+        "skillId": 1012, 
+        "level": 29, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_29", 
+        "effect": {
+            "maxInfection": 58
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "101230": {
+        "id": 101230, 
+        "skillId": 1012, 
+        "level": 30, 
+        "speciesId": 11, 
+        "name": "jungle_skill_1012", 
+        "effectDesc": "jungle_skill_1012_30", 
+        "effect": {
+            "maxInfection": 60
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }, 
+    "101301": {
+        "id": 101301, 
+        "skillId": 1013, 
+        "level": 1, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_1", 
+        "effect": {
+            "maxInsomnia": 2
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 1
+    }, 
+    "101302": {
+        "id": 101302, 
+        "skillId": 1013, 
+        "level": 2, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_2", 
+        "effect": {
+            "maxInsomnia": 4
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 4
+    }, 
+    "101303": {
+        "id": 101303, 
+        "skillId": 1013, 
+        "level": 3, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_3", 
+        "effect": {
+            "maxInsomnia": 6
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 7
+    }, 
+    "101304": {
+        "id": 101304, 
+        "skillId": 1013, 
+        "level": 4, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_4", 
+        "effect": {
+            "maxInsomnia": 8
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 10
+    }, 
+    "101305": {
+        "id": 101305, 
+        "skillId": 1013, 
+        "level": 5, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_5", 
+        "effect": {
+            "maxInsomnia": 10
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 13
+    }, 
+    "101306": {
+        "id": 101306, 
+        "skillId": 1013, 
+        "level": 6, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_6", 
+        "effect": {
+            "maxInsomnia": 12
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 16
+    }, 
+    "101307": {
+        "id": 101307, 
+        "skillId": 1013, 
+        "level": 7, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_7", 
+        "effect": {
+            "maxInsomnia": 14
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 19
+    }, 
+    "101308": {
+        "id": 101308, 
+        "skillId": 1013, 
+        "level": 8, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_8", 
+        "effect": {
+            "maxInsomnia": 16
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 22
+    }, 
+    "101309": {
+        "id": 101309, 
+        "skillId": 1013, 
+        "level": 9, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_9", 
+        "effect": {
+            "maxInsomnia": 18
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 25
+    }, 
+    "101310": {
+        "id": 101310, 
+        "skillId": 1013, 
+        "level": 10, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_10", 
+        "effect": {
+            "maxInsomnia": 20
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 28
+    }, 
+    "101311": {
+        "id": 101311, 
+        "skillId": 1013, 
+        "level": 11, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_11", 
+        "effect": {
+            "maxInsomnia": 22
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 31
+    }, 
+    "101312": {
+        "id": 101312, 
+        "skillId": 1013, 
+        "level": 12, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_12", 
+        "effect": {
+            "maxInsomnia": 24
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 34
+    }, 
+    "101313": {
+        "id": 101313, 
+        "skillId": 1013, 
+        "level": 13, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_13", 
+        "effect": {
+            "maxInsomnia": 26
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 37
+    }, 
+    "101314": {
+        "id": 101314, 
+        "skillId": 1013, 
+        "level": 14, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_14", 
+        "effect": {
+            "maxInsomnia": 28
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 40
+    }, 
+    "101315": {
+        "id": 101315, 
+        "skillId": 1013, 
+        "level": 15, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_15", 
+        "effect": {
+            "maxInsomnia": 30
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 43
+    }, 
+    "101316": {
+        "id": 101316, 
+        "skillId": 1013, 
+        "level": 16, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_16", 
+        "effect": {
+            "maxInsomnia": 32
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 46
+    }, 
+    "101317": {
+        "id": 101317, 
+        "skillId": 1013, 
+        "level": 17, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_17", 
+        "effect": {
+            "maxInsomnia": 34
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 49
+    }, 
+    "101318": {
+        "id": 101318, 
+        "skillId": 1013, 
+        "level": 18, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_18", 
+        "effect": {
+            "maxInsomnia": 36
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 52
+    }, 
+    "101319": {
+        "id": 101319, 
+        "skillId": 1013, 
+        "level": 19, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_19", 
+        "effect": {
+            "maxInsomnia": 38
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 55
+    }, 
+    "101320": {
+        "id": 101320, 
+        "skillId": 1013, 
+        "level": 20, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_20", 
+        "effect": {
+            "maxInsomnia": 40
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 58
+    }, 
+    "101321": {
+        "id": 101321, 
+        "skillId": 1013, 
+        "level": 21, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_21", 
+        "effect": {
+            "maxInsomnia": 42
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 61
+    }, 
+    "101322": {
+        "id": 101322, 
+        "skillId": 1013, 
+        "level": 22, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_22", 
+        "effect": {
+            "maxInsomnia": 44
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 64
+    }, 
+    "101323": {
+        "id": 101323, 
+        "skillId": 1013, 
+        "level": 23, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_23", 
+        "effect": {
+            "maxInsomnia": 46
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 67
+    }, 
+    "101324": {
+        "id": 101324, 
+        "skillId": 1013, 
+        "level": 24, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_24", 
+        "effect": {
+            "maxInsomnia": 48
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 70
+    }, 
+    "101325": {
+        "id": 101325, 
+        "skillId": 1013, 
+        "level": 25, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_25", 
+        "effect": {
+            "maxInsomnia": 50
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 73
+    }, 
+    "101326": {
+        "id": 101326, 
+        "skillId": 1013, 
+        "level": 26, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_26", 
+        "effect": {
+            "maxInsomnia": 52
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 76
+    }, 
+    "101327": {
+        "id": 101327, 
+        "skillId": 1013, 
+        "level": 27, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_27", 
+        "effect": {
+            "maxInsomnia": 54
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 79
+    }, 
+    "101328": {
+        "id": 101328, 
+        "skillId": 1013, 
+        "level": 28, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_28", 
+        "effect": {
+            "maxInsomnia": 56
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 82
+    }, 
+    "101329": {
+        "id": 101329, 
+        "skillId": 1013, 
+        "level": 29, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_29", 
+        "effect": {
+            "maxInsomnia": 58
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 85
+    }, 
+    "101330": {
+        "id": 101330, 
+        "skillId": 1013, 
+        "level": 30, 
+        "speciesId": 13, 
+        "name": "jungle_skill_1013", 
+        "effectDesc": "jungle_skill_1013_30", 
+        "effect": {
+            "maxInsomnia": 60
+        }, 
+        "fightbuff": 0, 
+        "trigger": 0, 
+        "triggerText": 0, 
+        "exp": 88
+    }
+}

@@ -1,0 +1,871 @@
+{
+    "FOR_LOTTERY": {
+        "15": {
+            "ID": "15",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2008",
+            "DESC": {
+                "cn": "武器有时是一种累赘\n不装备任何武器时提高攻击和闪避\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Weapons are sometimes cumbersome\nNot equipping any weapons increases ATK and Dodge\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "武器有時是一種累贅\n不裝備任何武器時提高攻擊和閃避\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "20": {
+            "ID": "20",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2013",
+            "DESC": {
+                "cn": "长期生活在北方\n增加低温抗性\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "A true person of the north\nIncrease low temperature resistance\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "長期生活在北方\n增加低溫抗性\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "14": {
+            "ID": "14",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2007",
+            "DESC": {
+                "cn": "似乎你的手臂比一般人要长一些\n提高1基础攻击距离，但闪避几率降低\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Your arms are much longer than the usual person\n+1 Basic ATK range, but Dodge rate is reduced\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "似乎你的手臂比一般人要長一些\n提高1基礎攻擊距離，但閃避幾率降低\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "17": {
+            "ID": "17",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2010",
+            "DESC": {
+                "cn": "对待武器也要像爱人一样\n降低武器耐久度消耗\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Treat your weapon like your lover\nWeapon durability reduces more slowly\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "對待武器也要像愛人一樣\n降低武器耐久度消耗\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "25": {
+            "ID": "25",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2016",
+            "DESC": {
+                "cn": "只要有东西吃，就很满足了\n增加饥饿度上限增加和食物恢复效果\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "As long as there's food\nIncrease max hunger gain and food restoration effect\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "只要有東西吃，就很滿足了\n增加饑餓度上限增加和食物恢復效果\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "28": {
+            "ID": "28",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2018",
+            "DESC": {
+                "cn": "黑夜与你同在\n降低营地夜晚被袭击概率\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "The night is one with you\nReduce rate of being attacked while camping at night\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "黑夜與你同在\n降低營地夜晚被襲擊概率\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "29": {
+            "ID": "29",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2019",
+            "DESC": {
+                "cn": "好的设计和工序会影响建筑的使用\n增加建筑耐久度上限\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "A good design and process affect a building's utility\nIncrease building's max durability\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "好的設計和工序會影響建築的使用\n增加建築耐久度上限\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "30": {
+            "ID": "30",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2005",
+            "DESC": {
+                "cn": "星辰会指引你前进的方向\n降低迷失方向几率\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "The stars will guide you on the right path\nReduce rate of getting lost\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "星辰會指引你前進的方向\n降低迷失方向幾率\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "32": {
+            "ID": "32",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2021",
+            "DESC": {
+                "cn": "游泳的速度关系到生命\n离开沉船时不会遭遇鲨鱼\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "The game's speed concerns life and death\nWon't encounter sharks when leaving sunken ships\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "遊泳的速度關系到生命\n離開沉船時不會遭遇鯊魚\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "33": {
+            "ID": "33",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2022",
+            "DESC": {
+                "cn": "良好的谈判技巧有很大的帮助\n交易时能用更低的价格换取更多的物资\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Great negotiation skills are always great help\nGet more goods at lower prices when trading\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "良好的談判技巧有很大的幫助\n交易時能用更低的價格換取更多的物資\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "23": {
+            "ID": "23",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2014",
+            "DESC": {
+                "cn": "皮肤与一般人有所不同\n降低外伤和外伤增长速度\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Your skin is different from others\nReduce Wound and Wound increment speed\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "皮膚與一般人有所不同\n降低外傷和外傷增長速度\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "27": {
+            "ID": "27",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2006",
+            "DESC": {
+                "cn": "好的猎人只需要守株待兔\n提高陷阱捕获猎物几率\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Good hunters stay by the rabbit hole\nIncrease trap capture rate\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "好的獵人只需要守株待兔\n提高陷阱捕獲獵物幾率\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "19": {
+            "ID": "19",
+            "COUNT": 1,
+            "IMG": "Texture/CreateRole/img_talent_2012",
+            "DESC": {
+                "cn": "同样的药，不同的效果\n提高药品恢复效果\n(解锁后永久有效，可在游戏开始前选择)",
+                "en": "Same medicine, different effect\nIncrease restoration effects of medicine\n(Effect is permanent once unlocked. Can be selected before game begins)",
+                "tw": "同樣的藥，不同的效果\n提高藥品恢復效果\n(解鎖後永久有效，可在遊戲開始前選擇)"
+            },
+            "TYPE": "talents",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "34": {
+            "ID": "34",
+            "COUNT": 1,
+            "NOSHOP": 307,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何手工制造改良平底锅",
+            "en": "It depicts how to made improved pan",
+            "tw": "上面記載了如何手工制造改良平底鍋"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "35": {
+            "ID": "35",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何手工制造某人的新衣",
+            "en": "It depicts how to made Sb.'s New Clothes",
+            "tw": "上面記載了如何手工制造某人的新衣"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "36": {
+            "ID": "36",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何手工制造奇特香料\n罗兰专属",
+            "en": "It depicts how to made Peculiar Spice\nRoland Only",
+            "tw": "上面記載了如何手工制造奇特香料\n羅蘭專屬"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "37": {
+            "ID": "37",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何手工制造研磨器\n老贝专属",
+            "en": "It depicts how to made Grinder\nBain Only",
+            "tw": "上面記載了如何手工制造研磨器\n老貝專屬"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "38": {
+            "ID": "38",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何手工制造伪袖珍手枪\n朱莉专属",
+                "en": "It depicts how to made Fake Pocket Pistol\nJulie Only",
+                "tw": "上面記載了如何手工制造偽袖珍手槍\n朱莉專屬"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "39": {
+            "ID": "39",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何手工制造小哥肉酱\n小哥专属",
+                "en": "It depicts how to made Beef Paste\nYesman Only",
+                "tw": "上面記載了如何手工制造小哥肉醬\n小哥專屬"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "40": {
+            "ID": "40",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何手工制造纸牌\n基德专属",
+                "en": "It depicts how to made Cards\nKidd Only",
+                "tw": "上面記載了如何手工制造紙牌\n基德專屬"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "41": {
+            "ID": "41",
+            "COUNT": 1,
+            "NOSHOP": 320,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何制造石锤",
+                "en": "It depicts how to made Stone Hammer",
+                "tw": "上面記載了如何制造石錘"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },  
+        "42": {
+            "ID": "42",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何制造暖身丸",
+            "en": "It depicts how to made Warm-up Pill",
+            "tw": "上面記載了如何制造暖身丸"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "43": {
+            "ID": "43",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何制造强身丸",
+            "en": "It depicts how to made Body-sturdy Pill",
+            "tw": "上面記載了如何制造強身丸"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "44": {
+            "ID": "44",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何制造军粮丸",
+            "en": "It depicts how to made Military Grain Pill",
+            "tw": "上面記載了如何制造軍糧丸"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "45": {
+            "ID": "45",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何制造驯兽鞭",
+            "en": "It depicts how to made Domesticating Whip",
+            "tw": "上面記載了如何制造馴獸鞭"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "46": {
+            "ID": "46",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+            "cn": "上面记载了如何制造吹箭",
+            "en": "It depicts how to made blowpipe Dart",
+            "tw": "上面記載了如何制造吹箭"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "47": {
+            "ID": "47",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何制造机关剑",
+                "en": "It depicts how to made mechanical sword",
+                "tw": "上面記載了如何制造機關劍"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "48": {
+            "ID": "48",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何制造机关连弩",
+                "en": "It depicts how to made mechanical crossbow",
+                "tw": "上面記載了如何制造機關連弩"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "49": {
+            "ID": "49",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4079",
+            "DESC": {
+                "cn": "上面记载了如何制造麻痹针",
+                "en": "It depicts how to made paralysis needle",
+                "tw": "上面記載了如何制造麻痺針"
+            },
+            "TYPE": "recipe",
+            "CLASS" : "unlock",
+            "LOCKED" : 1
+        },
+        "4025_1": {
+            "ID": "4025_1",
+            "COUNT": 12,
+            "IMG": "Texture/Item/4025_1",
+            "DESC": {
+                "cn": "经过烤制加工的肉，口感不错且不易感染，比一般的更加美味",
+                "en": "After searing and smoking the meet, the texture improves and is less of a risk when eaten. It is very tasty, better than normal.",
+                "tw": "經過烤制加工的肉，口感不錯且不易感染，比一般的更加美味"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4026_1": {
+            "ID": "4026_1",
+            "COUNT": 8,
+            "IMG": "Texture/Item/4026_1",
+            "DESC": {
+                "cn": "用鲜肉加少许佐料精心烹制而出的肉汤，十分美味，比一般的更加美味",
+                "en": "By using spices when cooking fresh meat, tastes delicious, better than normal.",
+                "tw": "用鮮肉加少許佐料精心烹制而出的肉湯，十分美味，比一般的更加美味"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4043": {
+            "ID": "4043",
+            "COUNT": 5,
+            "IMG": "Texture/Item/4043",
+            "DESC": {
+                "cn": "多种食材和调料制成的炖肉，在味道和分量上都有大幅度提升",
+                "en": "After mixing many ingredients into the braised meat, the taste and portion size both improve",
+                "tw": "多種食材和調料制成的燉肉，在味道和分量上都有大幅度提升"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4087": {
+            "ID": "4087",
+            "COUNT": 8,
+            "IMG": "Texture/Item/4087",
+            "DESC": {
+                "cn": "神秘的女巫药丸，不知道吃了之后会发生什么，所以食用一定要谨慎",
+                "en": "A pill from the witch. The effects of it are unknown so consume with extreme caution",
+                "tw": "神秘的女巫藥丸，不知道吃了之後會發生什麽，所以食用一定要謹慎"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4082": {
+            "ID": "4082",
+            "COUNT": 12,
+            "IMG": "Texture/Item/4082",
+            "DESC": {
+                "cn": "炉火烘烤制成的烟熏肉，口感不错也便于携带，是野外充饥的不二之选",
+                "en": "The obvious choice to bring on a trip into the wild is the smoked meat created by the barbeque which also tastes very nice and is easy to carry.",
+                "tw": "爐火烘烤制成的煙熏肉，口感不錯也便於攜帶，是野外充饑的不二之選"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4081": {
+            "ID": "4081",
+            "COUNT": 12,
+            "IMG": "Texture/Item/4081",
+            "DESC": {
+                "cn": "晾晒加工后的鱼干，对内伤的治疗效果在风干浓缩后大幅提升，咸鱼们的必备食物",
+                "en": "The healing power of this sun dried fish jerky is a lot higher than that of fish itself as it is dried and more concentrated. It is a must.",
+                "tw": "晾曬加工後的魚幹，對內傷的治療效果在風幹濃縮後大幅提升，鹹魚們的必備食物"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4083": {
+            "ID": "4083",
+            "COUNT": 5,
+            "IMG": "Texture/Item/4083",
+            "DESC": {
+                "cn": "兽血制作的料理，回复大量内伤和精神，并提供长时间的抗寒能力",
+                "en": "Food created by the blood of beasts which can heal internal damage and dexterity to a great extent. It also increases defence against the cold.",
+                "tw": "獸血制作的料理，回復大量內傷和精神，並提供長時間的抗寒能力"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4068": {
+            "ID": "4068",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4068",
+            "DESC": {
+                "cn": "神奇的豆子，只要吃下一粒就可以使人伤口愈合、精神抖擞。来源是个谜，据说由奈特受五十一区研发而出。",
+                "en": "A mysterious bean that when consumed all injuries will heal and your dexterity recovers as well. Its origins are a mystery but legend says it is invented by Nate in instructions of Sector-51.",
+                "tw": "神奇的豆子，只要吃下一粒就可以使人傷口愈合、精神抖擻。來源是個謎，據說由奈特受五十一區研發而出。"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4084": {
+            "ID": "4084",
+            "COUNT": 8,
+            "IMG": "Texture/Item/4084",
+            "DESC": {
+                "cn": "传说中的醒神良药，效果显著且持久，让人精神一振",
+                "en": "The legendary wakeup medicine with effective and long lasting effects can keep you alert for a period of time",
+                "tw": "傳說中的醒神良藥，效果顯著且持久，讓人精神一振"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },        
+        "4085": {
+            "ID": "4085",
+            "COUNT": 8,
+            "IMG": "Texture/Item/4085",
+            "DESC": {
+                "cn": "中国民间狗皮膏药的精简版，不过对外伤的疗效同样稳定持久",
+                "en": "The simplified version of the Chinese tiger balm is equally effective in treating external wounds",
+                "tw": "中國民間狗皮膏藥的精簡版，不過對外傷的療效同樣穩定持久"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4086": {
+            "ID": "4086",
+            "COUNT": 8,
+            "IMG": "Texture/Item/4086",
+            "DESC": {
+                "cn": "蜂蜜，鱼油和草药调和成的药丸，从原料来看就让人觉得很滋补，对内伤有持续恢复效果",
+                "en": "A pill made from mixing honey, fish oil and medicinal herbs. The elements alone seem very healthy and is very good in treating internal damage",
+                "tw": "蜂蜜，魚油和草藥調和成的藥丸，從原料來看就讓人覺得很滋補，對內傷有持續恢復效果"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4038": {
+            "ID": "4038",
+            "COUNT": 12,
+            "IMG": "Texture/Item/4038",
+            "DESC": {
+                "cn": "冒着被蜂蛰的危险掏出来的蜂蜜，可以食用恢复饥饿度并且提神",
+                "en": "Honey obtained through the danger of getting sting by bees - could be used to satisfy hunger and increase level of alertness",
+                "tw": "冒著被蜂蟄的危險掏出來的蜂蜜，可以食用恢復饑餓度並且提神"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4039": {
+            "ID": "4039",
+            "COUNT": 5,
+            "IMG": "Texture/Item/4039",
+            "DESC": {
+                "cn": "野生的人参，有着很强的药用性",
+                "en": "Wild ginseng - possess high medicinal attributes",
+                "tw": "野生的人參，有著很強的藥用性"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4034": {
+            "ID": "4034",
+            "COUNT": 10,
+            "IMG": "Texture/Item/4034",
+            "DESC": {
+                "cn": "硫磺，制作火药的重要材料之一",
+                "en": "sulphur - important element in making gun powder",
+                "tw": "硫磺，制作火藥的重要材料之一"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4035": {
+            "ID": "4035",
+            "COUNT": 10,
+            "IMG": "Texture/Item/4035",
+            "DESC": {
+                "cn": "硝石，制作火药的重要材料之一",
+                "en": "Saltpeter - important element in making gun powder",
+                "tw": "硝石，制作火藥的重要材料之一"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4032": {
+            "ID": "4032",
+            "COUNT": 8,
+            "IMG": "Texture/Item/4032",
+            "DESC": {
+                "cn": "具有很高延展性，可用来制作高级物品",
+                "en": "Possess high attribute of ductility and can be used to create high level objects",
+                "tw": "具有很高延展性，可用來制作高級物品"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4013": {
+            "ID": "4013",
+            "COUNT": 15,
+            "IMG": "Texture/Item/4013",
+            "DESC": {
+                "cn": "常见药草，用于脾胃气虚，倦怠乏力",
+                "en": "Common herb that can be used to cure common illnesses",
+                "tw": "常見藥草，用於脾胃氣虛，倦怠乏力"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4003": {
+            "ID": "4003",
+            "COUNT": 15,
+            "IMG": "Texture/Item/4003",
+            "DESC": {
+                "cn": "结实的藤条，用途非常多",
+                "en": "A strong tanglevine that can be used in many ways",
+                "tw": "結實的藤條，用途非常多"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4005": {
+            "ID": "4005",
+            "COUNT": 10,
+            "IMG": "Texture/Item/4005",
+            "DESC": {
+                "cn": "很薄的石片，稍加打磨就可以变得锋利",
+                "en": "A very thin stone slab that can be turned into something very sharp with same sanding",
+                "tw": "很薄的石片，稍加打磨就可以變得鋒利"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4027": {
+            "ID": "4027",
+            "COUNT": 5,
+            "IMG": "Texture/Item/4027",
+            "DESC": {
+                "cn": "专门用于给宠物喂食的口粮，深得宠物喜爱",
+                "en": "Specialised pet food. All pets love it",
+                "tw": "專門用於給寵物餵食的口糧，深得寵物喜愛"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4076": {
+            "ID": "4076",
+            "COUNT": 2,
+            "IMG": "Texture/Item/4076",
+            "DESC": {
+                "cn": "可以进入崖洞、神秘遗迹的秘宝\n能在崖洞、遗迹中备份存档",
+                "en": "Allows entry into cliff caves and mystery ruins\nLets you save in cliff caves and mystery ruins",
+                "tw": "可以進入崖洞、神秘遺跡的秘寶\n能在崖洞、遺跡中備份存檔"
+            },
+            "TYPE": "supply",
+            "CLASS" : "get"
+        },
+        "4137": {
+            "ID": "4137",
+            "COUNT": 1,
+            "IMG": "Texture/Item/4137",
+            "DESC": {
+                "cn": "非常精巧的刀刃，看得出前任主人是个厉害的角色。\n杀伤力巨大，不过在荒野上没有保养，恐怕耐久有限。",
+                "en": "A very well refined blade, obviously its previous owner was a mighty role. \nIt has huge lethality. However，it lacks of enough maintenances in the wilderness. Probably its duration is limited.",
+                "tw": "非常精巧的刀刃，看得出前任主人是個厲害的角色。\n殺傷力巨大，不過在荒野上沒有保養，恐怕耐久有限。"
+            },
+            "TYPE": "sword",
+            "CLASS" : "get"
+        },
+        "script": {
+            "ID": "script",
+            "COUNT": 10,
+            "IMG": "Texture/Common/shu2",
+            "DESC": {
+                "cn": "知识就是力量，当觉得游戏难度过高时，可以依靠学习知识来克服难关。\n在求生册中提升效果时消耗，主要在挑战模式中获取。",
+                "en": "Knowledge is power, manuals will help you make game easy.\nYou can use it in NoteBook and get it from challenge mode.",
+                "tw": "知識就是力量，當覺得遊戲難度過高時，可以依靠學習知識來克服難關。\n在求生册中提升效果時消耗，主要在挑戰模式中獲取。"
+            },
+            "TYPE": "script",
+            "CLASS" : "get"
+        },
+        "100003": {
+            "ID": "100003",
+            "COUNT": 10,
+            "IMG": "Texture/Item/100003",
+            "DESC": {
+                "cn": "蕴藏着神奇力量的原石，可以一定程度改变生物的机能，提升天赋的能力\n主要在挑战模式获得，活动和礼包中也偶尔出现。",
+                "en": "Magic stone which contain power，uesd for talent upgrade.",
+                "tw": "蘊藏著神奇力量的原石，可以一定程度改變生物的技能，提升天賦的能力\n主要在挑戰模式獲得，活動和禮包中也偶爾出現。"
+            },
+            "TYPE": "stone",
+            "CLASS" : "get"
+        },
+        "100004": {
+            "ID": "100004",
+            "COUNT": 3,
+            "IMG": "Texture/Item/100004",
+            "DESC": {
+                "cn": "蕴藏着巨大神奇力量的结晶，与氪金属一起加工后的产物，是提升天赋能力的重要材料。\n主要在挑战模式获得，活动和礼包中也偶尔出现。",
+                "en": "Magic crystal which contain great power，uesd for talent upgrade.",
+                "tw": "蘊藏著巨大神奇力量的結晶，與氪金屬一起加工后的產物，是提升天賦能力的重要材料。\n主要在挑戰模式獲得，活動和禮包中也偶爾出現。"
+            },
+            "TYPE": "crystal",
+            "CLASS" : "get"
+        },
+        "100005": {
+            "ID": "100005",
+            "COUNT": 2,
+            "IMG": "Texture/Item/100005",
+            "DESC": {
+                "cn": "时之沙，将时间保存用以交换财富。",
+                "en": "",
+                "tw": ""
+            },
+            "TYPE": "adcoin",
+            "CLASS" : "get"
+        }
+    },
+    "LOCK" : {
+        "10" : 1,
+        "11" : 1,
+        "12" : 1,
+        "13" : 1,
+        "14" : 1,
+        "15" : 1,
+        "16" : 1,
+        "17" : 1,
+        "18" : 1,
+        "19" : 1,
+        "20" : 1,
+        "23" : 1,
+        "24" : 1,
+        "25" : 1,
+        "26" : 1,
+        "27" : 1,
+        "28" : 1,
+        "29" : 1,
+        "30" : 1,
+        "31" : 1,
+        "32" : 1,
+        "33" : 1,
+        "34" : 1,
+        "35" : 1,
+        "36" : 1,
+        "37" : 1,
+        "38" : 1,
+        "39" : 1,
+        "40" : 1,
+        "41" : 1,
+        "42" : 1,
+        "43" : 1,
+        "44" : 1,
+        "45" : 1,
+        "46" : 1,
+        "47" : 1,
+        "48" : 1,
+        "49" : 1,
+        "4096" : 1,
+        "4097" : 1
+    },
+    "ROULETTE": [
+        {
+            "TYPE": "supply",
+            "TEXT" : 
+            {
+                "cn": "神秘补给箱\n很难想象在这片荒野之上有这么多的物资，除了神秘人的身份更加令人遐想之外，也印证了“有钱能使鬼推磨”这句老话啊。\n获得后请在邮件中领取",
+                "en": "Mysterious Supply Crate\n It is inconceivable there are so good supplies in the wilderness. Except making identity of mysterious man more intriguing, it corroborates the saying ——Money makes the mare to go. \n Find it in mail after obtaining.",
+                "tw": "神秘補給箱\n很難想象在這片荒野之上有這麽多的物資，除了神秘人的身份更加令人遐想之外，也印證了“有錢能使鬼推磨”這句老話啊。\n獲得後請在郵件中領取"
+            },
+            "STAR" : 1,
+            "IMG": "Texture/Lottery/supply01"
+        },
+        {
+            "TYPE": "talents",
+            "TEXT" :             
+            {
+                "cn": "天赋：技能书\n每一本技能书记载着一项不值一提的能力，获取后可以学习到这个能力。\n获取后永久有效",
+                "en": "Talent: Skill Book\n Every Skill Book contains a negligible skill. Learn the skill after getting it. \n Effect permanently after obtaining.",
+                "tw": "天賦：技能書\n每一本技能書記載著一項不值一提的能力，獲取後可以學習到這個能力。\n獲取後永久有效"
+            },
+            "STAR" : 2,
+            "IMG": "Texture/Lottery/talents01"
+        },
+        {
+            "TYPE": "recipe",
+            "TEXT" : 
+            {
+                "cn": "迷之图纸\n记载着特殊物品制作方法的图纸，想必非常珍贵。可是神秘人是从何处获得这些东西的呢？\n获取后永久有效",
+                "en": "Riddling Design Drawing\n A design drawing records ways to make special items. Looks very valuable. Wondering where mysterious man got these things.\n Effect permanently after obtaining.",
+                "tw": "迷之圖紙\n記載著特殊物品制作方法的圖紙，想必非常珍貴。可是神秘人是從何處獲得這些東西的呢？\n獲取後永久有效"
+            },            
+            "STAR" : 3,
+            "IMG": "Texture/Lottery/recipe01"
+        },        
+        {
+            "TYPE": "talents",
+            "TEXT" :
+            {
+                "cn": "天赋：技能书\n每一本技能书记载着一项不值一提的能力，获取后可以学习到这个能力。\n获取后永久有效",
+                "en": "Talent: Skill Book\n Every Skill Book contains a negligible skill. Learn the skill after getting it. \n Effect permanently after obtaining.",
+                "tw": "天賦：技能書\n每一本技能書記載著一項不值一提的能力，獲取後可以學習到這個能力。\n獲取後永久有效"
+            },
+            "STAR" : 2,
+            "IMG": "Texture/Lottery/talents01"
+        },
+        {
+            "TYPE": "stone",
+            "TEXT" : 
+            {
+                "cn": "蕴藏着神奇力量的原石，可以一定程度改变生物的机能，提升天赋的能力\n主要在挑战模式获得，活动和礼包中也偶尔出现。",
+                "en": "Magic stone which contain power，uesd for talent upgrade.",
+                "tw": "蘊藏著神奇力量的原石，可以一定程度改變生物的技能，提升天賦的能力\n主要在挑戰模式獲得，活動和禮包中也偶爾出現。"                
+               },
+            "STAR" : 3,
+            "IMG": "Texture/Item/100003"
+        },
+        {
+            "TYPE": "supply",
+            "TEXT" : 
+            {
+                "cn": "神秘补给箱\n很难想象在这片荒野之上有这么多的物资，除了神秘人的身份更加令人遐想之外，也印证了“有钱能使鬼推磨”这句老话啊。\n获得后请在邮件中领取",
+                "en": "Mysterious Supply Crate\n It is inconceivable there are so good supplies in the wilderness. Except making identity of mysterious man more intriguing, it corroborates the saying ——Money makes the mare to go. \n Find it in mail after obtaining.",
+                "tw": "神秘補給箱\n很難想象在這片荒野之上有這麽多的物資，除了神秘人的身份更加令人遐想之外，也印證了“有錢能使鬼推磨”這句老話啊。\n獲得後請在郵件中領取"
+            },
+            "STAR" : 1,
+            "IMG": "Texture/Lottery/supply04"
+        },
+        {
+            "TYPE": "script",
+            "TEXT" :
+            {
+                "cn": "求生精选\n知识就是力量，当觉得游戏难度过高时，可以依靠学习知识来克服难关。\n在求生册中提升效果时消耗，主要在挑战模式中获取。",
+                "en": "Senior Survival Manual\nKnowledge is power, manuals will help you make game easy.\nYou can use it in NoteBook and get it from challenge mode.",
+                "tw": "求生精選\n知識就是力量，當覺得遊戲難度過高時，可以依靠學習知識來克服難關。\n在求生册中提升效果時消耗，主要在挑戰模式中獲取。"
+            },
+            "STAR" : 3,
+            "IMG": "Texture/Common/shu2"
+        },
+        {
+            "TYPE": "supply",
+            "TEXT" : 
+            {
+                "cn": "神秘补给箱\n很难想象在这片荒野之上有这么多的物资，除了神秘人的身份更加令人遐想之外，也印证了“有钱能使鬼推磨”这句老话啊。\n获得后请在邮件中领取",
+                "en": "Mysterious Supply Crate\n It is inconceivable there are so good supplies in the wilderness. Except making identity of mysterious man more intriguing, it corroborates the saying ——Money makes the mare to go. \n Find it in mail after obtaining.",
+                "tw": "神秘補給箱\n很難想象在這片荒野之上有這麽多的物資，除了神秘人的身份更加令人遐想之外，也印證了“有錢能使鬼推磨”這句老話啊。\n獲得後請在郵件中領取"
+            },
+            "STAR" : 1,
+            "IMG": "Texture/Lottery/supply03"
+        },
+        {
+            "TYPE": "talents",
+            "TEXT" : 
+            {
+                "cn": "天赋：技能书\n每一本技能书记载着一项不值一提的能力，获取后可以学习到这个能力。\n获取后永久有效",
+                "en": "Talent: Skill Book\n Every Skill Book contains a negligible skill. Learn the skill after getting it. \n Effect permanently after obtaining.",
+                "tw": "天賦：技能書\n每一本技能書記載著一項不值一提的能力，獲取後可以學習到這個能力。\n獲取後永久有效"
+            },
+            "STAR" : 2,
+            "IMG": "Texture/Lottery/talents01"
+        },
+        {
+            "TYPE": "script",
+            "TEXT" :
+            {
+                "cn": "求生精选\n知识就是力量，当觉得游戏难度过高时，可以依靠学习知识来克服难关。\n在求生册中提升效果时消耗，主要在挑战模式中获取。",
+                "en": "Senior Survival Manual\nKnowledge is power, manuals will help you make game easy.\nYou can use it in NoteBook and get it from challenge mode.",
+                "tw": "求生精選\n知識就是力量，當覺得遊戲難度過高時，可以依靠學習知識來克服難關。\n在求生册中提升效果時消耗，主要在挑戰模式中獲取。"
+            },
+            "STAR" : 3,
+            "IMG": "Texture/Common/shu2"
+        },
+        {
+            "TYPE": "crystal",
+            "TEXT" : 
+            {
+                "cn": "蕴藏着巨大神奇力量的结晶，与氪金属一起加工后的产物，是提升天赋能力的重要材料。\n主要在挑战模式获得，活动和礼包中也偶尔出现。",
+                "en": "Magic crystal which contain great power，uesd for talent upgrade.",
+                "tw": "蘊藏著巨大神奇力量的結晶，與氪金屬一起加工后的產物，是提升天賦能力的重要材料。\n主要在挑戰模式獲得，活動和禮包中也偶爾出現。"               
+               },
+            "STAR" : 3,
+            "IMG": "Texture/Item/100004"
+        },
+        {
+            "TYPE": "sword",
+            "TEXT" :
+            {
+                "cn": "杰克之刃\n我不记得从哪里得到的这把刀了，只记得那是一艘船体和帆都是黑色的船。\n神秘人如此说道。",
+                "en": "Jack's Blade\n I can't remember where I got this saber. The only memory left is a big galleon with black body and black sail. \nMysterious man said so.",
+                "tw": "傑克之刃\n我不記得從哪裏得到的這把刀了，只記得那是一艘船體和帆都是黑色的船。\n神秘人如此說道。"
+            },
+            "STAR" : 3,
+            "IMG": "Texture/Lottery/sword01"
+        }
+    ]
+}

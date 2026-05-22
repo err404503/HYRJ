@@ -1,0 +1,144 @@
+{
+    "1": {
+        "NAME": {
+            "cn": "鱼虾陷阱",
+            "en": "Fish and shrimp trap",
+            "tw": "魚蝦陷阱"
+        },
+        "IMG": "Texture/Trap/pdi_1",
+        "DROP_DESC": {
+            "cn": "捕获到鱼虾，快来收取！",
+            "en": "Caught Fish, please collect!",
+            "tw": "捕獲到魚蝦，快來收取！"
+        },
+        "TYPE": "1",
+        "DURATION": 50,
+        "ITEMS": {
+            "4003": 1,
+            "4004": 3
+        },
+        "DROP": "2301",
+        "RATIO": 25,
+        "STEPS": [
+            {
+                "IMG": "Texture/Trap/t1_1",
+                "DESC": {
+                    "cn": "用树枝和藤条制作陷阱主体，收紧缝隙，否则鱼虾会漏网",
+                    "en": "A trap made from trigs and tanglevines. You need to tie off the gaps or the fish and shrimp will escape",
+                    "tw": "用樹枝和藤條制作陷阱主體，收緊縫隙，否則魚蝦會漏網"
+                }
+            },
+            {
+                "IMG": "Texture/Trap/t1_2",
+                "DESC": {
+                    "cn": "顶部的漏斗留一个适中的入口，让鱼虾能够被饵料吸引但不易逃出",
+                    "en": "The funnel at the top opening needs to be opened to a suitable size for the fish to be lured in by the bait and make it hard get back out",
+                    "tw": "頂部的漏鬥留一個適中的入口，讓魚蝦能夠被餌料吸引但不易逃出"
+                }
+            },
+            {
+                "IMG": "Texture/Trap/t1_3",
+                "DESC": {
+                    "cn": "将两个制作完成的部件拼接起来并放一点诱饵。过一段时间来查看是否有猎物落入陷阱。",
+                    "en": "Attaching the two completed components together and put some bait inside. Come back later and see if there is any prey in this trap.",
+                    "tw": "將兩個制作完成的部件拼接起來並放一點誘餌。過一段時間來查看是否有獵物落入陷阱。"
+                }
+            }
+        ]
+    },
+    "2": {
+        "NAME": {
+            "cn": "野兔陷阱",
+            "en": "Wild hare trap",
+            "tw": "野兔陷阱"
+        },
+        "IMG": "Texture/Trap/pdi_2",
+        "DROP_DESC": {
+            "cn": "捕获到野兔，快来收取！",
+            "en": "Caught Hare, collect!",
+            "tw": "捕獲到野兔，快來收取！"
+        },
+        "TYPE": "1",
+        "DURATION": 70,
+        "ITEMS": {
+            "4003": 2,
+            "4036": 2
+        },
+        "DROP": "2302",
+        "RATIO": 25,
+        "STEPS": [
+            {
+                "IMG": "Texture/Trap/t2_1",
+                "DESC": {
+                    "cn": "制作钩形扳机寻找到大小契合的树枝，横截面的地方涂一些泥土伪装一下。",
+                    "en": "You need to find a branch that is just the right shape and size when making a hook trigger. Camouflage it with some dirt.",
+                    "tw": "制作鉤形扳機尋找到大小契合的樹枝，橫截面的地方塗一些泥土偽裝一下。"
+                }
+            },
+            {
+                "IMG": "Texture/Trap/t2_2",
+                "DESC": {
+                    "cn": "制作套环了选用的藤条要结实，预留的大小要合适目标————野兔。",
+                    "en": "The tanglevines used when making the rings need to be very strong. The space you leave need to be suitable depending on your target - wild hare.",
+                    "tw": "制作套環了選用的藤條要結實，預留的大小要合適目標————野兔。"
+                }
+            },
+            {
+                "IMG": "Texture/Trap/t2_3",
+                "DESC": {
+                    "cn": "将两个制作完成的部件拼接起来，不需要设置诱饵，但藤条绳索要掩饰好。过一段时间来查看是否有猎物落入陷阱。",
+                    "en": "Attaching the two completed components together and there is no need to put bait inside but you need to hide the ropes well.",
+                    "tw": "將兩個制作完成的部件拼接起來，不需要設置誘餌，但藤條繩索要掩飾好。過一段時間來查看是否有獵物落入陷阱。"
+                }
+            }
+        ]
+    },
+    "3": {
+        "NAME": {
+            "cn": "飞禽陷阱",
+            "en": "A bird trap",
+            "tw": "飛禽陷阱"
+        },
+        "IMG": "Texture/Trap/pdi_3",
+        "DROP_DESC": {
+            "cn": "捕获到飞禽，快来收取！",
+            "en": "Caught a bird, please collect!",
+            "tw": "捕獲到飛禽，快來收取！"
+        },
+        "TYPE": "1",
+        "DURATION": 100,
+        "ITEMS": {
+            "4003": 3,
+            "4036": 3,
+            "4044": 3
+        },
+        "DROP": "2303",
+        "RATIO": 25,
+        "STEPS": [
+            {
+                "IMG": "Texture/Trap/t3_1",
+                "DESC": {
+                    "cn": "制作一个金字塔形的鸟笼，树枝要用藤条扎牢。",
+                    "en": "When making a pyramid shaped bird cage, the tree branches need to be secured with tanglevines.",
+                    "tw": "制作一個金字塔形的鳥籠，樹枝要用藤條紮牢。"
+                }
+            },
+            {
+                "IMG": "Texture/Trap/t3_2",
+                "DESC": {
+                    "cn": "制作扳机要注意削尖以保证其敏感度。",
+                    "en": "You need to take care when sharpening in the process of making a trigger as you need to ensure sensitivity.",
+                    "tw": "制作扳機要註意削尖以保證其敏感度。"
+                }
+            },
+            {
+                "IMG": "Texture/Trap/t3_3",
+                "DESC": {
+                    "cn": "将两个制作完成的部件拼接起来并放一点诱饵。过一段时间来查看是否有猎物落入陷阱吧。",
+                    "en": "Attaching the two completed components together and put some bait inside. Come back later and see if there is any prey in this trap.",
+                    "tw": "將兩個制作完成的部件拼接起來並放一點誘餌。過一段時間來查看是否有獵物落入陷阱吧。"
+                }
+            }
+        ]
+    }
+}

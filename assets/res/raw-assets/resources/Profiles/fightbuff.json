@@ -1,0 +1,9285 @@
+{
+    "1001": {
+        "id": 1001, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1002": {
+        "id": 1002, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1003": {
+        "id": 1003, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkA", 
+            "4"
+        ], 
+        "": 0
+    }, 
+    "1004": {
+        "id": 1004, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "1005": {
+        "id": 1005, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1006": {
+        "id": 1006, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1007": {
+        "id": 1007, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "atkA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "1008": {
+        "id": 1008, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1009": {
+        "id": 1009, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "1010": {
+        "id": 1010, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1011": {
+        "id": 1011, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1012": {
+        "id": 1012, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1013": {
+        "id": 1013, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1014": {
+        "id": 1014, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1015": {
+        "id": 1015, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "atkA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "1016": {
+        "id": 1016, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1017": {
+        "id": 1017, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "atkA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "1018": {
+        "id": 1018, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "atkA", 
+            "28"
+        ], 
+        "": 0
+    }, 
+    "1019": {
+        "id": 1019, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1020": {
+        "id": 1020, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1021": {
+        "id": 1021, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "poisonA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1022": {
+        "id": 1022, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "poisonA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1023": {
+        "id": 1023, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "poisonA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1024": {
+        "id": 1024, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "poisonA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1025": {
+        "id": 1025, 
+        "template": "techWeapon", 
+        "param": [
+            "4132", 
+            "poisonA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1026": {
+        "id": 1026, 
+        "template": "techWeapon", 
+        "param": [
+            "4132", 
+            "poisonA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1027": {
+        "id": 1027, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "dizzyA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1028": {
+        "id": 1028, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "dizzyA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1029": {
+        "id": 1029, 
+        "template": "techWeapon", 
+        "param": [
+            "4101", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1030": {
+        "id": 1030, 
+        "template": "techWeapon", 
+        "param": [
+            "4101", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1031": {
+        "id": 1031, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1032": {
+        "id": 1032, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1033": {
+        "id": 1033, 
+        "template": "techWeapon", 
+        "param": [
+            "4104", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1034": {
+        "id": 1034, 
+        "template": "techWeapon", 
+        "param": [
+            "4104", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1035": {
+        "id": 1035, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1036": {
+        "id": 1036, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1037": {
+        "id": 1037, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1038": {
+        "id": 1038, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1039": {
+        "id": 1039, 
+        "template": "techWeapon", 
+        "param": [
+            "4131", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1040": {
+        "id": 1040, 
+        "template": "techWeapon", 
+        "param": [
+            "4131", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1041": {
+        "id": 1041, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1042": {
+        "id": 1042, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1043": {
+        "id": 1043, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1044": {
+        "id": 1044, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1045": {
+        "id": 1045, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1046": {
+        "id": 1046, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1047": {
+        "id": 1047, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "suckBdA", 
+            "10", 
+            "suckBdNum", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1048": {
+        "id": 1048, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "suckBdA", 
+            "20", 
+            "suckBdNum", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1049": {
+        "id": 1049, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1050": {
+        "id": 1050, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1051": {
+        "id": 1051, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1052": {
+        "id": 1052, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1053": {
+        "id": 1053, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1054": {
+        "id": 1054, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1055": {
+        "id": 1055, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1056": {
+        "id": 1056, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1057": {
+        "id": 1057, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1058": {
+        "id": 1058, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1059": {
+        "id": 1059, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1060": {
+        "id": 1060, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1061": {
+        "id": 1061, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1062": {
+        "id": 1062, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "atkSpA", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1063": {
+        "id": 1063, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "hitA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1064": {
+        "id": 1064, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "hitA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1065": {
+        "id": 1065, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "hitA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1066": {
+        "id": 1066, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "hitA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1067": {
+        "id": 1067, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "hitA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1068": {
+        "id": 1068, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "hitA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1069": {
+        "id": 1069, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "defA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "1070": {
+        "id": 1070, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "defA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1071": {
+        "id": 1071, 
+        "template": "techWeapon", 
+        "param": [
+            "4116", 
+            "defA", 
+            "4"
+        ], 
+        "": 0
+    }, 
+    "1072": {
+        "id": 1072, 
+        "template": "techWeapon", 
+        "param": [
+            "4116", 
+            "defA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "1073": {
+        "id": 1073, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "dodgeA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1074": {
+        "id": 1074, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "dodgeA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1075": {
+        "id": 1075, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "repelA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1076": {
+        "id": 1076, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "repelA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1077": {
+        "id": 1077, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "recycleA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "1078": {
+        "id": 1078, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "recycleA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1079": {
+        "id": 1079, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "repelA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1080": {
+        "id": 1080, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "repelA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1081": {
+        "id": 1081, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "repelA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1082": {
+        "id": 1082, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "repelA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1083": {
+        "id": 1083, 
+        "template": "techWeapon", 
+        "param": [
+            "recycleA"
+        ], 
+        "": 0
+    }, 
+    "1084": {
+        "id": 1084, 
+        "template": "techWeapon", 
+        "param": [
+            "4131", 
+            "recycleA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1085": {
+        "id": 1085, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "repelA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1086": {
+        "id": 1086, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "repelA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1087": {
+        "id": 1087, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "repelA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1088": {
+        "id": 1088, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "repelA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1089": {
+        "id": 1089, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defPoisonA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1090": {
+        "id": 1090, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defPoisonA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1091": {
+        "id": 1091, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defDizzyA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1092": {
+        "id": 1092, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defDizzyA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1093": {
+        "id": 1093, 
+        "template": "techWeapon", 
+        "param": [
+            "4109", 
+            "defPoisonA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1094": {
+        "id": 1094, 
+        "template": "techWeapon", 
+        "param": [
+            "4109", 
+            "defPoisonA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1095": {
+        "id": 1095, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1096": {
+        "id": 1096, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1097": {
+        "id": 1097, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1098": {
+        "id": 1098, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1099": {
+        "id": 1099, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "suckBdA", 
+            "10", 
+            "suckBdNum", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1100": {
+        "id": 1100, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "suckBdA", 
+            "20", 
+            "suckBdNum", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1101": {
+        "id": 1101, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1102": {
+        "id": 1102, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1103": {
+        "id": 1103, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1104": {
+        "id": 1104, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "atkSpA", 
+            "0.5"
+        ], 
+        "": 0
+    }, 
+    "1105": {
+        "id": 1105, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "repelA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1106": {
+        "id": 1106, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "repelA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1107": {
+        "id": 1107, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4120", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1108": {
+        "id": 1108, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4120", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1109": {
+        "id": 1109, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4120", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1110": {
+        "id": 1110, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4120", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1111": {
+        "id": 1111, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "defA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "1112": {
+        "id": 1112, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "defA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1113": {
+        "id": 1113, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "dodgeA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1114": {
+        "id": 1114, 
+        "template": "techWeapon", 
+        "param": [
+            "4119", 
+            "dodgeA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1115": {
+        "id": 1115, 
+        "template": "techWeapon", 
+        "param": [
+            "4101", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1116": {
+        "id": 1116, 
+        "template": "techWeapon", 
+        "param": [
+            "4101", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1117": {
+        "id": 1117, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "1118": {
+        "id": 1118, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "1119": {
+        "id": 1119, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1120": {
+        "id": 1120, 
+        "template": "techWeapon", 
+        "param": [
+            "4105", 
+            "atkSpA", 
+            "0.5"
+        ], 
+        "": 0
+    }, 
+    "1121": {
+        "id": 1121, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1122": {
+        "id": 1122, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "atkSpA", 
+            "0.5"
+        ], 
+        "": 0
+    }, 
+    "1123": {
+        "id": 1123, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "repelA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1124": {
+        "id": 1124, 
+        "template": "techWeapon", 
+        "param": [
+            "4113", 
+            "repelA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1125": {
+        "id": 1125, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1126": {
+        "id": 1126, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1127": {
+        "id": 1127, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1128": {
+        "id": 1128, 
+        "template": "techWeapon", 
+        "param": [
+            "4133", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1129": {
+        "id": 1129, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "atkA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "1130": {
+        "id": 1130, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "atkA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1131": {
+        "id": 1131, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "dizzyA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1132": {
+        "id": 1132, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "dizzyA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1133": {
+        "id": 1133, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "hitA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1134": {
+        "id": 1134, 
+        "template": "techWeapon", 
+        "param": [
+            "4139", 
+            "hitA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1135": {
+        "id": 1135, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4139", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1136": {
+        "id": 1136, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4139", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1137": {
+        "id": 1137, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4139", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1138": {
+        "id": 1138, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4139", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1139": {
+        "id": 1139, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defPoisonA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1140": {
+        "id": 1140, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defPoisonA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1141": {
+        "id": 1141, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defDizzyA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1142": {
+        "id": 1142, 
+        "template": "techWeapon", 
+        "param": [
+            "4134", 
+            "defDizzyA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1143": {
+        "id": 1143, 
+        "template": "techWeapon", 
+        "param": [
+            "4109", 
+            "defPoisonA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1144": {
+        "id": 1144, 
+        "template": "techWeapon", 
+        "param": [
+            "4109", 
+            "defPoisonA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1145": {
+        "id": 1145, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "1146": {
+        "id": 1146, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1147": {
+        "id": 1147, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkSpA", 
+            "0.35"
+        ], 
+        "": 0
+    }, 
+    "1148": {
+        "id": 1148, 
+        "template": "techWeapon", 
+        "param": [
+            "4106", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1149": {
+        "id": 1149, 
+        "template": "techWeapon", 
+        "param": [
+            "4104", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1150": {
+        "id": 1150, 
+        "template": "techWeapon", 
+        "param": [
+            "4104", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1151": {
+        "id": 1151, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4104", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1152": {
+        "id": 1152, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4104", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1153": {
+        "id": 1153, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4104", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1154": {
+        "id": 1154, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4104", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1155": {
+        "id": 1155, 
+        "template": "techWeapon", 
+        "param": [
+            "4116", 
+            "defA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "1156": {
+        "id": 1156, 
+        "template": "techWeapon", 
+        "param": [
+            "4116", 
+            "defA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1157": {
+        "id": 1157, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1158": {
+        "id": 1158, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1159": {
+        "id": 1159, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1160": {
+        "id": 1160, 
+        "template": "techWeapon", 
+        "param": [
+            "4129", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1161": {
+        "id": 1161, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1162": {
+        "id": 1162, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1163": {
+        "id": 1163, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "atkSpA", 
+            "0.35"
+        ], 
+        "": 0
+    }, 
+    "1164": {
+        "id": 1164, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1165": {
+        "id": 1165, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "repelA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1166": {
+        "id": 1166, 
+        "template": "techWeapon", 
+        "param": [
+            "4130", 
+            "repelA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1167": {
+        "id": 1167, 
+        "template": "techWeapon", 
+        "param": [
+            "4131", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1168": {
+        "id": 1168, 
+        "template": "techWeapon", 
+        "param": [
+            "4131", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1169": {
+        "id": 1169, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1170": {
+        "id": 1170, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1171": {
+        "id": 1171, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "poisonA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1172": {
+        "id": 1172, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "poisonA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1173": {
+        "id": 1173, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "hitA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1174": {
+        "id": 1174, 
+        "template": "techWeapon", 
+        "param": [
+            "4127", 
+            "hitA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1175": {
+        "id": 1175, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "poisonA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1176": {
+        "id": 1176, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "poisonA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1177": {
+        "id": 1177, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "atkSpA", 
+            "0.35"
+        ], 
+        "": 0
+    }, 
+    "1178": {
+        "id": 1178, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1179": {
+        "id": 1179, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "hitA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1180": {
+        "id": 1180, 
+        "template": "techWeapon", 
+        "param": [
+            "4128", 
+            "hitA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1181": {
+        "id": 1181, 
+        "template": "techWeapon", 
+        "param": [
+            "4132", 
+            "poisonA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1182": {
+        "id": 1182, 
+        "template": "techWeapon", 
+        "param": [
+            "4132", 
+            "poisonA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1183": {
+        "id": 1183, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "atkA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "1184": {
+        "id": 1184, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "atkA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1185": {
+        "id": 1185, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1186": {
+        "id": 1186, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1187": {
+        "id": 1187, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "suckBdA", 
+            "30", 
+            "suckBdNum", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1188": {
+        "id": 1188, 
+        "template": "techWeapon", 
+        "param": [
+            "4103", 
+            "suckBdA", 
+            "35", 
+            "suckBdNum", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1189": {
+        "id": 1189, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4103", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1190": {
+        "id": 1190, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4103", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1191": {
+        "id": 1191, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4103", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1192": {
+        "id": 1192, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4103", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1193": {
+        "id": 1193, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "atkA", 
+            "42"
+        ], 
+        "": 0
+    }, 
+    "1194": {
+        "id": 1194, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "atkA", 
+            "56"
+        ], 
+        "": 0
+    }, 
+    "1195": {
+        "id": 1195, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1196": {
+        "id": 1196, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1197": {
+        "id": 1197, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "repelA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1198": {
+        "id": 1198, 
+        "template": "techWeapon", 
+        "param": [
+            "4115", 
+            "repelA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1199": {
+        "id": 1199, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4115", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1200": {
+        "id": 1200, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4115", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1201": {
+        "id": 1201, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4115", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1202": {
+        "id": 1202, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4115", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1203": {
+        "id": 1203, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "atkSpA", 
+            "0.35"
+        ], 
+        "": 0
+    }, 
+    "1204": {
+        "id": 1204, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "atkSpA", 
+            "0.4"
+        ], 
+        "": 0
+    }, 
+    "1205": {
+        "id": 1205, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "repelA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1206": {
+        "id": 1206, 
+        "template": "techWeapon", 
+        "param": [
+            "4135", 
+            "repelA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1207": {
+        "id": 1207, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "atkA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1208": {
+        "id": 1208, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "atkA", 
+            "40"
+        ], 
+        "": 0
+    }, 
+    "1209": {
+        "id": 1209, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1210": {
+        "id": 1210, 
+        "template": "techWeapon", 
+        "param": [
+            "4137", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1211": {
+        "id": 1211, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1212": {
+        "id": 1212, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1213": {
+        "id": 1213, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1214": {
+        "id": 1214, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1215": {
+        "id": 1215, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "suckBdA", 
+            "30", 
+            "suckBdNum", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1216": {
+        "id": 1216, 
+        "template": "techWeapon", 
+        "param": [
+            "4142", 
+            "suckBdA", 
+            "35", 
+            "suckBdNum", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1217": {
+        "id": 1217, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4142", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1218": {
+        "id": 1218, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4142", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1219": {
+        "id": 1219, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4142", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1220": {
+        "id": 1220, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4142", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1221": {
+        "id": 1221, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1222": {
+        "id": 1222, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1223": {
+        "id": 1223, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1224": {
+        "id": 1224, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1225": {
+        "id": 1225, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1226": {
+        "id": 1226, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1227": {
+        "id": 1227, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1228": {
+        "id": 1228, 
+        "template": "techWeapon", 
+        "param": [
+            "4145", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1229": {
+        "id": 1229, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4145", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1230": {
+        "id": 1230, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4145", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1231": {
+        "id": 1231, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4145", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1232": {
+        "id": 1232, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4145", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1233": {
+        "id": 1233, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1234": {
+        "id": 1234, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1235": {
+        "id": 1235, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1236": {
+        "id": 1236, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1237": {
+        "id": 1237, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4146", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1238": {
+        "id": 1238, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4146", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1239": {
+        "id": 1239, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4146", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1240": {
+        "id": 1240, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4146", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1241": {
+        "id": 1241, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "repelA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1242": {
+        "id": 1242, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "repelA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1243": {
+        "id": 1243, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "repelA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1244": {
+        "id": 1244, 
+        "template": "techWeapon", 
+        "param": [
+            "4146", 
+            "repelA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "1245": {
+        "id": 1245, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "1246": {
+        "id": 1246, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1247": {
+        "id": 1247, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "1248": {
+        "id": 1248, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1249": {
+        "id": 1249, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4148", 
+            "atkC", 
+            "-0.1", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "1250": {
+        "id": 1250, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4148", 
+            "atkC", 
+            "-0.05", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "1251": {
+        "id": 1251, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4148", 
+            "atkC", 
+            "0", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "1252": {
+        "id": 1252, 
+        "template": "weaponVolatile", 
+        "param": [
+            "4148", 
+            "atkC", 
+            "0.05", 
+            "0.3"
+        ], 
+        "": 0
+    }, 
+    "1253": {
+        "id": 1253, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "1254": {
+        "id": 1254, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "1255": {
+        "id": 1255, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "1256": {
+        "id": 1256, 
+        "template": "techWeapon", 
+        "param": [
+            "4148", 
+            "critA", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "5001": {
+        "id": 5001, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "5002": {
+        "id": 5002, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "5003": {
+        "id": 5003, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "5004": {
+        "id": 5004, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "4"
+        ], 
+        "": 0
+    }, 
+    "5005": {
+        "id": 5005, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "5006": {
+        "id": 5006, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "5007": {
+        "id": 5007, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "5008": {
+        "id": 5008, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "5009": {
+        "id": 5009, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "5010": {
+        "id": 5010, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "5011": {
+        "id": 5011, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "5012": {
+        "id": 5012, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "5013": {
+        "id": 5013, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "5014": {
+        "id": 5014, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "5015": {
+        "id": 5015, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "5016": {
+        "id": 5016, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "5017": {
+        "id": 5017, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "5018": {
+        "id": 5018, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "5019": {
+        "id": 5019, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "5020": {
+        "id": 5020, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "5021": {
+        "id": 5021, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "5022": {
+        "id": 5022, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "5023": {
+        "id": 5023, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "5024": {
+        "id": 5024, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "5025": {
+        "id": 5025, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "29"
+        ], 
+        "": 0
+    }, 
+    "5026": {
+        "id": 5026, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "5027": {
+        "id": 5027, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "31"
+        ], 
+        "": 0
+    }, 
+    "5028": {
+        "id": 5028, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "5029": {
+        "id": 5029, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "33"
+        ], 
+        "": 0
+    }, 
+    "5030": {
+        "id": 5030, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "5031": {
+        "id": 5031, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "35"
+        ], 
+        "": 0
+    }, 
+    "5032": {
+        "id": 5032, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "5033": {
+        "id": 5033, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "37"
+        ], 
+        "": 0
+    }, 
+    "5034": {
+        "id": 5034, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "5035": {
+        "id": 5035, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "39"
+        ], 
+        "": 0
+    }, 
+    "5036": {
+        "id": 5036, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "5037": {
+        "id": 5037, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "41"
+        ], 
+        "": 0
+    }, 
+    "5038": {
+        "id": 5038, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "5039": {
+        "id": 5039, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "43"
+        ], 
+        "": 0
+    }, 
+    "5040": {
+        "id": 5040, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "5041": {
+        "id": 5041, 
+        "template": "rushMode", 
+        "param": [
+            "1", 
+            "45"
+        ], 
+        "": 0
+    }, 
+    "5042": {
+        "id": 5042, 
+        "template": "stayMode", 
+        "param": [
+            "-0.1", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "100101": {
+        "id": 100101, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.1"
+        ], 
+        "": 0
+    }, 
+    "100102": {
+        "id": 100102, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.105"
+        ], 
+        "": 0
+    }, 
+    "100103": {
+        "id": 100103, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.11"
+        ], 
+        "": 0
+    }, 
+    "100104": {
+        "id": 100104, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.115"
+        ], 
+        "": 0
+    }, 
+    "100105": {
+        "id": 100105, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "100106": {
+        "id": 100106, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.125"
+        ], 
+        "": 0
+    }, 
+    "100107": {
+        "id": 100107, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.13"
+        ], 
+        "": 0
+    }, 
+    "100108": {
+        "id": 100108, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.135"
+        ], 
+        "": 0
+    }, 
+    "100109": {
+        "id": 100109, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "100110": {
+        "id": 100110, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.145"
+        ], 
+        "": 0
+    }, 
+    "100111": {
+        "id": 100111, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "100112": {
+        "id": 100112, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.155"
+        ], 
+        "": 0
+    }, 
+    "100113": {
+        "id": 100113, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "100114": {
+        "id": 100114, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.165"
+        ], 
+        "": 0
+    }, 
+    "100115": {
+        "id": 100115, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.17"
+        ], 
+        "": 0
+    }, 
+    "100116": {
+        "id": 100116, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.175"
+        ], 
+        "": 0
+    }, 
+    "100117": {
+        "id": 100117, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "100118": {
+        "id": 100118, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.185"
+        ], 
+        "": 0
+    }, 
+    "100119": {
+        "id": 100119, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.19"
+        ], 
+        "": 0
+    }, 
+    "100120": {
+        "id": 100120, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.195"
+        ], 
+        "": 0
+    }, 
+    "100121": {
+        "id": 100121, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "100122": {
+        "id": 100122, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.205"
+        ], 
+        "": 0
+    }, 
+    "100123": {
+        "id": 100123, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.21"
+        ], 
+        "": 0
+    }, 
+    "100124": {
+        "id": 100124, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.215"
+        ], 
+        "": 0
+    }, 
+    "100125": {
+        "id": 100125, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "100126": {
+        "id": 100126, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.225"
+        ], 
+        "": 0
+    }, 
+    "100127": {
+        "id": 100127, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.23"
+        ], 
+        "": 0
+    }, 
+    "100128": {
+        "id": 100128, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.235"
+        ], 
+        "": 0
+    }, 
+    "100129": {
+        "id": 100129, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "100130": {
+        "id": 100130, 
+        "template": "normal", 
+        "param": [
+            "defB", 
+            "0.245"
+        ], 
+        "": 0
+    }, 
+    "100201": {
+        "id": 100201, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.1"
+        ], 
+        "": 0
+    }, 
+    "100202": {
+        "id": 100202, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.105"
+        ], 
+        "": 0
+    }, 
+    "100203": {
+        "id": 100203, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.11"
+        ], 
+        "": 0
+    }, 
+    "100204": {
+        "id": 100204, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.115"
+        ], 
+        "": 0
+    }, 
+    "100205": {
+        "id": 100205, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "100206": {
+        "id": 100206, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.125"
+        ], 
+        "": 0
+    }, 
+    "100207": {
+        "id": 100207, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.13"
+        ], 
+        "": 0
+    }, 
+    "100208": {
+        "id": 100208, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.135"
+        ], 
+        "": 0
+    }, 
+    "100209": {
+        "id": 100209, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "100210": {
+        "id": 100210, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.145"
+        ], 
+        "": 0
+    }, 
+    "100211": {
+        "id": 100211, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "100212": {
+        "id": 100212, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.155"
+        ], 
+        "": 0
+    }, 
+    "100213": {
+        "id": 100213, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "100214": {
+        "id": 100214, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.165"
+        ], 
+        "": 0
+    }, 
+    "100215": {
+        "id": 100215, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.17"
+        ], 
+        "": 0
+    }, 
+    "100216": {
+        "id": 100216, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.175"
+        ], 
+        "": 0
+    }, 
+    "100217": {
+        "id": 100217, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "100218": {
+        "id": 100218, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.185"
+        ], 
+        "": 0
+    }, 
+    "100219": {
+        "id": 100219, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.19"
+        ], 
+        "": 0
+    }, 
+    "100220": {
+        "id": 100220, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.195"
+        ], 
+        "": 0
+    }, 
+    "100221": {
+        "id": 100221, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "100222": {
+        "id": 100222, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.205"
+        ], 
+        "": 0
+    }, 
+    "100223": {
+        "id": 100223, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.21"
+        ], 
+        "": 0
+    }, 
+    "100224": {
+        "id": 100224, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.215"
+        ], 
+        "": 0
+    }, 
+    "100225": {
+        "id": 100225, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "100226": {
+        "id": 100226, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.225"
+        ], 
+        "": 0
+    }, 
+    "100227": {
+        "id": 100227, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.23"
+        ], 
+        "": 0
+    }, 
+    "100228": {
+        "id": 100228, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.235"
+        ], 
+        "": 0
+    }, 
+    "100229": {
+        "id": 100229, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "100230": {
+        "id": 100230, 
+        "template": "normal", 
+        "param": [
+            "atkB", 
+            "0.245"
+        ], 
+        "": 0
+    }, 
+    "100301": {
+        "id": 100301, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.1
+    }, 
+    "100302": {
+        "id": 100302, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.105
+    }, 
+    "100303": {
+        "id": 100303, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.11
+    }, 
+    "100304": {
+        "id": 100304, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.115
+    }, 
+    "100305": {
+        "id": 100305, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.12
+    }, 
+    "100306": {
+        "id": 100306, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.125
+    }, 
+    "100307": {
+        "id": 100307, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.13
+    }, 
+    "100308": {
+        "id": 100308, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.135
+    }, 
+    "100309": {
+        "id": 100309, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.14
+    }, 
+    "100310": {
+        "id": 100310, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.145
+    }, 
+    "100311": {
+        "id": 100311, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.15
+    }, 
+    "100312": {
+        "id": 100312, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.155
+    }, 
+    "100313": {
+        "id": 100313, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.16
+    }, 
+    "100314": {
+        "id": 100314, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.165
+    }, 
+    "100315": {
+        "id": 100315, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.17
+    }, 
+    "100316": {
+        "id": 100316, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.175
+    }, 
+    "100317": {
+        "id": 100317, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.18
+    }, 
+    "100318": {
+        "id": 100318, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.185
+    }, 
+    "100319": {
+        "id": 100319, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.19
+    }, 
+    "100320": {
+        "id": 100320, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.195
+    }, 
+    "100321": {
+        "id": 100321, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.2
+    }, 
+    "100322": {
+        "id": 100322, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.205
+    }, 
+    "100323": {
+        "id": 100323, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.21
+    }, 
+    "100324": {
+        "id": 100324, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.215
+    }, 
+    "100325": {
+        "id": 100325, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.22
+    }, 
+    "100326": {
+        "id": 100326, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.225
+    }, 
+    "100327": {
+        "id": 100327, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.23
+    }, 
+    "100328": {
+        "id": 100328, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.235
+    }, 
+    "100329": {
+        "id": 100329, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.24
+    }, 
+    "100330": {
+        "id": 100330, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "100"
+        ], 
+        "": 0.245
+    }, 
+    "100401": {
+        "id": 100401, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "10"
+        ], 
+        "": 0.1
+    }, 
+    "100402": {
+        "id": 100402, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "10.5"
+        ], 
+        "": 0.105
+    }, 
+    "100403": {
+        "id": 100403, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "11"
+        ], 
+        "": 0.11
+    }, 
+    "100404": {
+        "id": 100404, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "11.5"
+        ], 
+        "": 0.115
+    }, 
+    "100405": {
+        "id": 100405, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "12"
+        ], 
+        "": 0.12
+    }, 
+    "100406": {
+        "id": 100406, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "12.5"
+        ], 
+        "": 0.125
+    }, 
+    "100407": {
+        "id": 100407, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "13"
+        ], 
+        "": 0.13
+    }, 
+    "100408": {
+        "id": 100408, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "13.5"
+        ], 
+        "": 0.135
+    }, 
+    "100409": {
+        "id": 100409, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "14"
+        ], 
+        "": 0.14
+    }, 
+    "100410": {
+        "id": 100410, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "14.5"
+        ], 
+        "": 0.145
+    }, 
+    "100411": {
+        "id": 100411, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "15"
+        ], 
+        "": 0.15
+    }, 
+    "100412": {
+        "id": 100412, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "15.5"
+        ], 
+        "": 0.155
+    }, 
+    "100413": {
+        "id": 100413, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "16"
+        ], 
+        "": 0.16
+    }, 
+    "100414": {
+        "id": 100414, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "16.5"
+        ], 
+        "": 0.165
+    }, 
+    "100415": {
+        "id": 100415, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "17"
+        ], 
+        "": 0.17
+    }, 
+    "100416": {
+        "id": 100416, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "17.5"
+        ], 
+        "": 0.175
+    }, 
+    "100417": {
+        "id": 100417, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "18"
+        ], 
+        "": 0.18
+    }, 
+    "100418": {
+        "id": 100418, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "18.5"
+        ], 
+        "": 0.185
+    }, 
+    "100419": {
+        "id": 100419, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "19"
+        ], 
+        "": 0.19
+    }, 
+    "100420": {
+        "id": 100420, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "19.5"
+        ], 
+        "": 0.195
+    }, 
+    "100421": {
+        "id": 100421, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "20"
+        ], 
+        "": 0.2
+    }, 
+    "100422": {
+        "id": 100422, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "20.5"
+        ], 
+        "": 0.205
+    }, 
+    "100423": {
+        "id": 100423, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "21"
+        ], 
+        "": 0.21
+    }, 
+    "100424": {
+        "id": 100424, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "21.5"
+        ], 
+        "": 0.215
+    }, 
+    "100425": {
+        "id": 100425, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "22"
+        ], 
+        "": 0.22
+    }, 
+    "100426": {
+        "id": 100426, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "22.5"
+        ], 
+        "": 0.225
+    }, 
+    "100427": {
+        "id": 100427, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "23"
+        ], 
+        "": 0.23
+    }, 
+    "100428": {
+        "id": 100428, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "23.5"
+        ], 
+        "": 0.235
+    }, 
+    "100429": {
+        "id": 100429, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "24"
+        ], 
+        "": 0.24
+    }, 
+    "100430": {
+        "id": 100430, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "24.5"
+        ], 
+        "": 0.245
+    }, 
+    "100501": {
+        "id": 100501, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "100502": {
+        "id": 100502, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "100503": {
+        "id": 100503, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "100504": {
+        "id": 100504, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "4"
+        ], 
+        "": 0
+    }, 
+    "100505": {
+        "id": 100505, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "100506": {
+        "id": 100506, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "100507": {
+        "id": 100507, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "100508": {
+        "id": 100508, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "100509": {
+        "id": 100509, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "100510": {
+        "id": 100510, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "100511": {
+        "id": 100511, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "100512": {
+        "id": 100512, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "100513": {
+        "id": 100513, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "100514": {
+        "id": 100514, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "100515": {
+        "id": 100515, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "100516": {
+        "id": 100516, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "100517": {
+        "id": 100517, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "100518": {
+        "id": 100518, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "100519": {
+        "id": 100519, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "100520": {
+        "id": 100520, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "100521": {
+        "id": 100521, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "100522": {
+        "id": 100522, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "100523": {
+        "id": 100523, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "100524": {
+        "id": 100524, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "100525": {
+        "id": 100525, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "100526": {
+        "id": 100526, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "26"
+        ], 
+        "": 0
+    }, 
+    "100527": {
+        "id": 100527, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "100528": {
+        "id": 100528, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "28"
+        ], 
+        "": 0
+    }, 
+    "100529": {
+        "id": 100529, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "29"
+        ], 
+        "": 0
+    }, 
+    "100530": {
+        "id": 100530, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "100601": {
+        "id": 100601, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "100602": {
+        "id": 100602, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "100603": {
+        "id": 100603, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "100604": {
+        "id": 100604, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "4"
+        ], 
+        "": 0
+    }, 
+    "100605": {
+        "id": 100605, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "100606": {
+        "id": 100606, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "100607": {
+        "id": 100607, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "100608": {
+        "id": 100608, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "100609": {
+        "id": 100609, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "100610": {
+        "id": 100610, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "100611": {
+        "id": 100611, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "100612": {
+        "id": 100612, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "100613": {
+        "id": 100613, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "100614": {
+        "id": 100614, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "100615": {
+        "id": 100615, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "100616": {
+        "id": 100616, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "100617": {
+        "id": 100617, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "100618": {
+        "id": 100618, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "100619": {
+        "id": 100619, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "100620": {
+        "id": 100620, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "100621": {
+        "id": 100621, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "100622": {
+        "id": 100622, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "100623": {
+        "id": 100623, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "100624": {
+        "id": 100624, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "100625": {
+        "id": 100625, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "100626": {
+        "id": 100626, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "26"
+        ], 
+        "": 0
+    }, 
+    "100627": {
+        "id": 100627, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "100628": {
+        "id": 100628, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "28"
+        ], 
+        "": 0
+    }, 
+    "100629": {
+        "id": 100629, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "29"
+        ], 
+        "": 0
+    }, 
+    "100630": {
+        "id": 100630, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "100701": {
+        "id": 100701, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "100702": {
+        "id": 100702, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "100703": {
+        "id": 100703, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "100704": {
+        "id": 100704, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "4"
+        ], 
+        "": 0
+    }, 
+    "100705": {
+        "id": 100705, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "100706": {
+        "id": 100706, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "100707": {
+        "id": 100707, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "100708": {
+        "id": 100708, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "100709": {
+        "id": 100709, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "100710": {
+        "id": 100710, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "100711": {
+        "id": 100711, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "100712": {
+        "id": 100712, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "100713": {
+        "id": 100713, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "100714": {
+        "id": 100714, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "100715": {
+        "id": 100715, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "100716": {
+        "id": 100716, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "100717": {
+        "id": 100717, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "100718": {
+        "id": 100718, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "100719": {
+        "id": 100719, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "100720": {
+        "id": 100720, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "100721": {
+        "id": 100721, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "100722": {
+        "id": 100722, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "100723": {
+        "id": 100723, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "100724": {
+        "id": 100724, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "100725": {
+        "id": 100725, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "100726": {
+        "id": 100726, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "26"
+        ], 
+        "": 0
+    }, 
+    "100727": {
+        "id": 100727, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "100728": {
+        "id": 100728, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "28"
+        ], 
+        "": 0
+    }, 
+    "100729": {
+        "id": 100729, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "29"
+        ], 
+        "": 0
+    }, 
+    "100730": {
+        "id": 100730, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "100801": {
+        "id": 100801, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "100802": {
+        "id": 100802, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "100803": {
+        "id": 100803, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "100804": {
+        "id": 100804, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "100805": {
+        "id": 100805, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "100806": {
+        "id": 100806, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "100807": {
+        "id": 100807, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "100808": {
+        "id": 100808, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "100809": {
+        "id": 100809, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "100810": {
+        "id": 100810, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "100811": {
+        "id": 100811, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "33"
+        ], 
+        "": 0
+    }, 
+    "100812": {
+        "id": 100812, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "36"
+        ], 
+        "": 0
+    }, 
+    "100813": {
+        "id": 100813, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "39"
+        ], 
+        "": 0
+    }, 
+    "100814": {
+        "id": 100814, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "42"
+        ], 
+        "": 0
+    }, 
+    "100815": {
+        "id": 100815, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "45"
+        ], 
+        "": 0
+    }, 
+    "100816": {
+        "id": 100816, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "48"
+        ], 
+        "": 0
+    }, 
+    "100817": {
+        "id": 100817, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "51"
+        ], 
+        "": 0
+    }, 
+    "100818": {
+        "id": 100818, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "54"
+        ], 
+        "": 0
+    }, 
+    "100819": {
+        "id": 100819, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "57"
+        ], 
+        "": 0
+    }, 
+    "100820": {
+        "id": 100820, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "60"
+        ], 
+        "": 0
+    }, 
+    "100821": {
+        "id": 100821, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "63"
+        ], 
+        "": 0
+    }, 
+    "100822": {
+        "id": 100822, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "66"
+        ], 
+        "": 0
+    }, 
+    "100823": {
+        "id": 100823, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "69"
+        ], 
+        "": 0
+    }, 
+    "100824": {
+        "id": 100824, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "72"
+        ], 
+        "": 0
+    }, 
+    "100825": {
+        "id": 100825, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "75"
+        ], 
+        "": 0
+    }, 
+    "100826": {
+        "id": 100826, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "78"
+        ], 
+        "": 0
+    }, 
+    "100827": {
+        "id": 100827, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "81"
+        ], 
+        "": 0
+    }, 
+    "100828": {
+        "id": 100828, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "84"
+        ], 
+        "": 0
+    }, 
+    "100829": {
+        "id": 100829, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "87"
+        ], 
+        "": 0
+    }, 
+    "100830": {
+        "id": 100830, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "90"
+        ], 
+        "": 0
+    }, 
+    "210101": {
+        "id": 210101, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "210102": {
+        "id": 210102, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "210103": {
+        "id": 210103, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "210104": {
+        "id": 210104, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "210105": {
+        "id": 210105, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "210106": {
+        "id": 210106, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "210107": {
+        "id": 210107, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "210108": {
+        "id": 210108, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.26"
+        ], 
+        "": 0
+    }, 
+    "210109": {
+        "id": 210109, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.28"
+        ], 
+        "": 0
+    }, 
+    "210110": {
+        "id": 210110, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.30"
+        ], 
+        "": 0
+    }, 
+    "210111": {
+        "id": 210111, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.32"
+        ], 
+        "": 0
+    }, 
+    "210112": {
+        "id": 210112, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.34"
+        ], 
+        "": 0
+    }, 
+    "210113": {
+        "id": 210113, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.36"
+        ], 
+        "": 0
+    }, 
+    "210114": {
+        "id": 210114, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.38"
+        ], 
+        "": 0
+    }, 
+    "210115": {
+        "id": 210115, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.40"
+        ], 
+        "": 0
+    }, 
+    "210116": {
+        "id": 210116, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.42"
+        ], 
+        "": 0
+    }, 
+    "210117": {
+        "id": 210117, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.44"
+        ], 
+        "": 0
+    }, 
+    "210118": {
+        "id": 210118, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.46"
+        ], 
+        "": 0
+    }, 
+    "210119": {
+        "id": 210119, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.48"
+        ], 
+        "": 0
+    }, 
+    "210120": {
+        "id": 210120, 
+        "template": "speciesFighter", 
+        "param": [
+            "1#4#7#18#21", 
+            "atkB", 
+            "0.50"
+        ], 
+        "": 0
+    }, 
+    "210201": {
+        "id": 210201, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "210202": {
+        "id": 210202, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "210203": {
+        "id": 210203, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "210204": {
+        "id": 210204, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "210205": {
+        "id": 210205, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "210206": {
+        "id": 210206, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "210207": {
+        "id": 210207, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "210208": {
+        "id": 210208, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "210209": {
+        "id": 210209, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "210210": {
+        "id": 210210, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "210211": {
+        "id": 210211, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "210212": {
+        "id": 210212, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "210213": {
+        "id": 210213, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "210214": {
+        "id": 210214, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "210215": {
+        "id": 210215, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "210216": {
+        "id": 210216, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "26"
+        ], 
+        "": 0
+    }, 
+    "210217": {
+        "id": 210217, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "210218": {
+        "id": 210218, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "28"
+        ], 
+        "": 0
+    }, 
+    "210219": {
+        "id": 210219, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "29"
+        ], 
+        "": 0
+    }, 
+    "210220": {
+        "id": 210220, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "11", 
+            "defDizzyA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "210301": {
+        "id": 210301, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "210302": {
+        "id": 210302, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "210303": {
+        "id": 210303, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "210304": {
+        "id": 210304, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "210305": {
+        "id": 210305, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "210306": {
+        "id": 210306, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "210307": {
+        "id": 210307, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "210308": {
+        "id": 210308, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.26"
+        ], 
+        "": 0
+    }, 
+    "210309": {
+        "id": 210309, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.28"
+        ], 
+        "": 0
+    }, 
+    "210310": {
+        "id": 210310, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.30"
+        ], 
+        "": 0
+    }, 
+    "210311": {
+        "id": 210311, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.32"
+        ], 
+        "": 0
+    }, 
+    "210312": {
+        "id": 210312, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.34"
+        ], 
+        "": 0
+    }, 
+    "210313": {
+        "id": 210313, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.36"
+        ], 
+        "": 0
+    }, 
+    "210314": {
+        "id": 210314, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.38"
+        ], 
+        "": 0
+    }, 
+    "210315": {
+        "id": 210315, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.40"
+        ], 
+        "": 0
+    }, 
+    "210316": {
+        "id": 210316, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.42"
+        ], 
+        "": 0
+    }, 
+    "210317": {
+        "id": 210317, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.44"
+        ], 
+        "": 0
+    }, 
+    "210318": {
+        "id": 210318, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.46"
+        ], 
+        "": 0
+    }, 
+    "210319": {
+        "id": 210319, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.48"
+        ], 
+        "": 0
+    }, 
+    "210320": {
+        "id": 210320, 
+        "template": "speciesFighter", 
+        "param": [
+            "2#10#20", 
+            "atkB", 
+            "0.50"
+        ], 
+        "": 0
+    }, 
+    "210401": {
+        "id": 210401, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.11"
+        ], 
+        "": 0
+    }, 
+    "210402": {
+        "id": 210402, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "210403": {
+        "id": 210403, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.13"
+        ], 
+        "": 0
+    }, 
+    "210404": {
+        "id": 210404, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "210405": {
+        "id": 210405, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "210406": {
+        "id": 210406, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "210407": {
+        "id": 210407, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.17"
+        ], 
+        "": 0
+    }, 
+    "210408": {
+        "id": 210408, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "210409": {
+        "id": 210409, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.19"
+        ], 
+        "": 0
+    }, 
+    "210410": {
+        "id": 210410, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "210411": {
+        "id": 210411, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.21"
+        ], 
+        "": 0
+    }, 
+    "210412": {
+        "id": 210412, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "210413": {
+        "id": 210413, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.23"
+        ], 
+        "": 0
+    }, 
+    "210414": {
+        "id": 210414, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "210415": {
+        "id": 210415, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "210416": {
+        "id": 210416, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.26"
+        ], 
+        "": 0
+    }, 
+    "210417": {
+        "id": 210417, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.27"
+        ], 
+        "": 0
+    }, 
+    "210418": {
+        "id": 210418, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.28"
+        ], 
+        "": 0
+    }, 
+    "210419": {
+        "id": 210419, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.29"
+        ], 
+        "": 0
+    }, 
+    "210420": {
+        "id": 210420, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.30"
+        ], 
+        "": 0
+    }, 
+    "210501": {
+        "id": 210501, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "210502": {
+        "id": 210502, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "210503": {
+        "id": 210503, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "210504": {
+        "id": 210504, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "210505": {
+        "id": 210505, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "210506": {
+        "id": 210506, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "210507": {
+        "id": 210507, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "210508": {
+        "id": 210508, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.26"
+        ], 
+        "": 0
+    }, 
+    "210509": {
+        "id": 210509, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.28"
+        ], 
+        "": 0
+    }, 
+    "210510": {
+        "id": 210510, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.30"
+        ], 
+        "": 0
+    }, 
+    "210511": {
+        "id": 210511, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.32"
+        ], 
+        "": 0
+    }, 
+    "210512": {
+        "id": 210512, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.34"
+        ], 
+        "": 0
+    }, 
+    "210513": {
+        "id": 210513, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.36"
+        ], 
+        "": 0
+    }, 
+    "210514": {
+        "id": 210514, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.38"
+        ], 
+        "": 0
+    }, 
+    "210515": {
+        "id": 210515, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.40"
+        ], 
+        "": 0
+    }, 
+    "210516": {
+        "id": 210516, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.42"
+        ], 
+        "": 0
+    }, 
+    "210517": {
+        "id": 210517, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.44"
+        ], 
+        "": 0
+    }, 
+    "210518": {
+        "id": 210518, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.46"
+        ], 
+        "": 0
+    }, 
+    "210519": {
+        "id": 210519, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.48"
+        ], 
+        "": 0
+    }, 
+    "210520": {
+        "id": 210520, 
+        "template": "speciesFighter", 
+        "param": [
+            "8#13", 
+            "atkB", 
+            "0.50"
+        ], 
+        "": 0
+    }, 
+    "210601": {
+        "id": 210601, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "210602": {
+        "id": 210602, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "5.5"
+        ], 
+        "": 0
+    }, 
+    "210603": {
+        "id": 210603, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "210604": {
+        "id": 210604, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "6.5"
+        ], 
+        "": 0
+    }, 
+    "210605": {
+        "id": 210605, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "210606": {
+        "id": 210606, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "7.5"
+        ], 
+        "": 0
+    }, 
+    "210607": {
+        "id": 210607, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "210608": {
+        "id": 210608, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "8.5"
+        ], 
+        "": 0
+    }, 
+    "210609": {
+        "id": 210609, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "210610": {
+        "id": 210610, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "9.5"
+        ], 
+        "": 0
+    }, 
+    "210611": {
+        "id": 210611, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "210612": {
+        "id": 210612, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "10.5"
+        ], 
+        "": 0
+    }, 
+    "210613": {
+        "id": 210613, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "210614": {
+        "id": 210614, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "11.5"
+        ], 
+        "": 0
+    }, 
+    "210615": {
+        "id": 210615, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "210616": {
+        "id": 210616, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "12.5"
+        ], 
+        "": 0
+    }, 
+    "210617": {
+        "id": 210617, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "210618": {
+        "id": 210618, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "13.5"
+        ], 
+        "": 0
+    }, 
+    "210619": {
+        "id": 210619, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "210620": {
+        "id": 210620, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "14.5"
+        ], 
+        "": 0
+    }, 
+    "210701": {
+        "id": 210701, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "210702": {
+        "id": 210702, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "210703": {
+        "id": 210703, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "210704": {
+        "id": 210704, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "210705": {
+        "id": 210705, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "210706": {
+        "id": 210706, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "210707": {
+        "id": 210707, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "210708": {
+        "id": 210708, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.26"
+        ], 
+        "": 0
+    }, 
+    "210709": {
+        "id": 210709, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.28"
+        ], 
+        "": 0
+    }, 
+    "210710": {
+        "id": 210710, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.30"
+        ], 
+        "": 0
+    }, 
+    "210711": {
+        "id": 210711, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.32"
+        ], 
+        "": 0
+    }, 
+    "210712": {
+        "id": 210712, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.34"
+        ], 
+        "": 0
+    }, 
+    "210713": {
+        "id": 210713, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.36"
+        ], 
+        "": 0
+    }, 
+    "210714": {
+        "id": 210714, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.38"
+        ], 
+        "": 0
+    }, 
+    "210715": {
+        "id": 210715, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.40"
+        ], 
+        "": 0
+    }, 
+    "210716": {
+        "id": 210716, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.42"
+        ], 
+        "": 0
+    }, 
+    "210717": {
+        "id": 210717, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.44"
+        ], 
+        "": 0
+    }, 
+    "210718": {
+        "id": 210718, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.46"
+        ], 
+        "": 0
+    }, 
+    "210719": {
+        "id": 210719, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.48"
+        ], 
+        "": 0
+    }, 
+    "210720": {
+        "id": 210720, 
+        "template": "speciesFighter", 
+        "param": [
+            "5#6#11#17", 
+            "atkB", 
+            "0.50"
+        ], 
+        "": 0
+    }, 
+    "210801": {
+        "id": 210801, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "210802": {
+        "id": 210802, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "5.5"
+        ], 
+        "": 0
+    }, 
+    "210803": {
+        "id": 210803, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "210804": {
+        "id": 210804, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "6.5"
+        ], 
+        "": 0
+    }, 
+    "210805": {
+        "id": 210805, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "210806": {
+        "id": 210806, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "7.5"
+        ], 
+        "": 0
+    }, 
+    "210807": {
+        "id": 210807, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "210808": {
+        "id": 210808, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "8.5"
+        ], 
+        "": 0
+    }, 
+    "210809": {
+        "id": 210809, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "210810": {
+        "id": 210810, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "9.5"
+        ], 
+        "": 0
+    }, 
+    "210811": {
+        "id": 210811, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "210812": {
+        "id": 210812, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "10.5"
+        ], 
+        "": 0
+    }, 
+    "210813": {
+        "id": 210813, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "210814": {
+        "id": 210814, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "11.5"
+        ], 
+        "": 0
+    }, 
+    "210815": {
+        "id": 210815, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "210816": {
+        "id": 210816, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "12.5"
+        ], 
+        "": 0
+    }, 
+    "210817": {
+        "id": 210817, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "210818": {
+        "id": 210818, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "13.5"
+        ], 
+        "": 0
+    }, 
+    "210819": {
+        "id": 210819, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "210820": {
+        "id": 210820, 
+        "template": "normal", 
+        "param": [
+            "repelA", 
+            "14.5"
+        ], 
+        "": 0
+    }, 
+    "210901": {
+        "id": 210901, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "210902": {
+        "id": 210902, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "210903": {
+        "id": 210903, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "210904": {
+        "id": 210904, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "210905": {
+        "id": 210905, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "210906": {
+        "id": 210906, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "210907": {
+        "id": 210907, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "210908": {
+        "id": 210908, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.26"
+        ], 
+        "": 0
+    }, 
+    "210909": {
+        "id": 210909, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.28"
+        ], 
+        "": 0
+    }, 
+    "210910": {
+        "id": 210910, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.30"
+        ], 
+        "": 0
+    }, 
+    "210911": {
+        "id": 210911, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.32"
+        ], 
+        "": 0
+    }, 
+    "210912": {
+        "id": 210912, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.34"
+        ], 
+        "": 0
+    }, 
+    "210913": {
+        "id": 210913, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.36"
+        ], 
+        "": 0
+    }, 
+    "210914": {
+        "id": 210914, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.38"
+        ], 
+        "": 0
+    }, 
+    "210915": {
+        "id": 210915, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.40"
+        ], 
+        "": 0
+    }, 
+    "210916": {
+        "id": 210916, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.42"
+        ], 
+        "": 0
+    }, 
+    "210917": {
+        "id": 210917, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.44"
+        ], 
+        "": 0
+    }, 
+    "210918": {
+        "id": 210918, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.46"
+        ], 
+        "": 0
+    }, 
+    "210919": {
+        "id": 210919, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.48"
+        ], 
+        "": 0
+    }, 
+    "210920": {
+        "id": 210920, 
+        "template": "speciesFighter", 
+        "param": [
+            "3#9", 
+            "atkB", 
+            "0.50"
+        ], 
+        "": 0
+    }, 
+    "211001": {
+        "id": 211001, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "211002": {
+        "id": 211002, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "5.5"
+        ], 
+        "": 0
+    }, 
+    "211003": {
+        "id": 211003, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "211004": {
+        "id": 211004, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "6.5"
+        ], 
+        "": 0
+    }, 
+    "211005": {
+        "id": 211005, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "211006": {
+        "id": 211006, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "7.5"
+        ], 
+        "": 0
+    }, 
+    "211007": {
+        "id": 211007, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "211008": {
+        "id": 211008, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "8.5"
+        ], 
+        "": 0
+    }, 
+    "211009": {
+        "id": 211009, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "211010": {
+        "id": 211010, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "9.5"
+        ], 
+        "": 0
+    }, 
+    "211011": {
+        "id": 211011, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "211012": {
+        "id": 211012, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "10.5"
+        ], 
+        "": 0
+    }, 
+    "211013": {
+        "id": 211013, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "211014": {
+        "id": 211014, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "11.5"
+        ], 
+        "": 0
+    }, 
+    "211015": {
+        "id": 211015, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "211016": {
+        "id": 211016, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "12.5"
+        ], 
+        "": 0
+    }, 
+    "211017": {
+        "id": 211017, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "211018": {
+        "id": 211018, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "13.5"
+        ], 
+        "": 0
+    }, 
+    "211019": {
+        "id": 211019, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "211020": {
+        "id": 211020, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "14.5"
+        ], 
+        "": 0
+    }, 
+    "211101": {
+        "id": 211101, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "211102": {
+        "id": 211102, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "5.5"
+        ], 
+        "": 0
+    }, 
+    "211103": {
+        "id": 211103, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "211104": {
+        "id": 211104, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "6.5"
+        ], 
+        "": 0
+    }, 
+    "211105": {
+        "id": 211105, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "211106": {
+        "id": 211106, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "7.5"
+        ], 
+        "": 0
+    }, 
+    "211107": {
+        "id": 211107, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "211108": {
+        "id": 211108, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "8.5"
+        ], 
+        "": 0
+    }, 
+    "211109": {
+        "id": 211109, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "211110": {
+        "id": 211110, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "9.5"
+        ], 
+        "": 0
+    }, 
+    "211111": {
+        "id": 211111, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "211112": {
+        "id": 211112, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "10.5"
+        ], 
+        "": 0
+    }, 
+    "211113": {
+        "id": 211113, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "211114": {
+        "id": 211114, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "11.5"
+        ], 
+        "": 0
+    }, 
+    "211115": {
+        "id": 211115, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "211116": {
+        "id": 211116, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "12.5"
+        ], 
+        "": 0
+    }, 
+    "211117": {
+        "id": 211117, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "211118": {
+        "id": 211118, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "13.5"
+        ], 
+        "": 0
+    }, 
+    "211119": {
+        "id": 211119, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "211120": {
+        "id": 211120, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "cowA", 
+            "14.5"
+        ], 
+        "": 0
+    }, 
+    "211201": {
+        "id": 211201, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "211202": {
+        "id": 211202, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "5.5"
+        ], 
+        "": 0
+    }, 
+    "211203": {
+        "id": 211203, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "211204": {
+        "id": 211204, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "6.5"
+        ], 
+        "": 0
+    }, 
+    "211205": {
+        "id": 211205, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "211206": {
+        "id": 211206, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "7.5"
+        ], 
+        "": 0
+    }, 
+    "211207": {
+        "id": 211207, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "211208": {
+        "id": 211208, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "8.5"
+        ], 
+        "": 0
+    }, 
+    "211209": {
+        "id": 211209, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "211210": {
+        "id": 211210, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "9.5"
+        ], 
+        "": 0
+    }, 
+    "211211": {
+        "id": 211211, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "211212": {
+        "id": 211212, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "10.5"
+        ], 
+        "": 0
+    }, 
+    "211213": {
+        "id": 211213, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "211214": {
+        "id": 211214, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "11.5"
+        ], 
+        "": 0
+    }, 
+    "211215": {
+        "id": 211215, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "211216": {
+        "id": 211216, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "12.5"
+        ], 
+        "": 0
+    }, 
+    "211217": {
+        "id": 211217, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "211218": {
+        "id": 211218, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "13.5"
+        ], 
+        "": 0
+    }, 
+    "211219": {
+        "id": 211219, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "211220": {
+        "id": 211220, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "14.5"
+        ], 
+        "": 0
+    }, 
+    "201800": {
+        "id": 201800, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "10", 
+            "critA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "201801": {
+        "id": 201801, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "11", 
+            "critA", 
+            "10.5"
+        ], 
+        "": 0
+    }, 
+    "201802": {
+        "id": 201802, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "12", 
+            "critA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "201803": {
+        "id": 201803, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "13", 
+            "critA", 
+            "11.5"
+        ], 
+        "": 0
+    }, 
+    "201804": {
+        "id": 201804, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "14", 
+            "critA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "201805": {
+        "id": 201805, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "15", 
+            "critA", 
+            "12.5"
+        ], 
+        "": 0
+    }, 
+    "201806": {
+        "id": 201806, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "16", 
+            "critA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "201807": {
+        "id": 201807, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "17", 
+            "critA", 
+            "13.5"
+        ], 
+        "": 0
+    }, 
+    "201808": {
+        "id": 201808, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "18", 
+            "critA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "201809": {
+        "id": 201809, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "19", 
+            "critA", 
+            "14.5"
+        ], 
+        "": 0
+    }, 
+    "201810": {
+        "id": 201810, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "20", 
+            "critA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "201811": {
+        "id": 201811, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "21", 
+            "critA", 
+            "15.5"
+        ], 
+        "": 0
+    }, 
+    "201812": {
+        "id": 201812, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "22", 
+            "critA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "201813": {
+        "id": 201813, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "23", 
+            "critA", 
+            "16.5"
+        ], 
+        "": 0
+    }, 
+    "201814": {
+        "id": 201814, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "24", 
+            "critA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "201815": {
+        "id": 201815, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "25", 
+            "critA", 
+            "17.5"
+        ], 
+        "": 0
+    }, 
+    "201816": {
+        "id": 201816, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "26", 
+            "critA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "201817": {
+        "id": 201817, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "27", 
+            "critA", 
+            "18.5"
+        ], 
+        "": 0
+    }, 
+    "201818": {
+        "id": 201818, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "28", 
+            "critA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "201819": {
+        "id": 201819, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "29", 
+            "critA", 
+            "19.5"
+        ], 
+        "": 0
+    }, 
+    "201820": {
+        "id": 201820, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "30", 
+            "critA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "202100": {
+        "id": 202100, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "5", 
+            "atkSpA", 
+            "0.05"
+        ], 
+        "": 0
+    }, 
+    "202101": {
+        "id": 202101, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "6", 
+            "atkSpA", 
+            "0.06"
+        ], 
+        "": 0
+    }, 
+    "202102": {
+        "id": 202102, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "7", 
+            "atkSpA", 
+            "0.07"
+        ], 
+        "": 0
+    }, 
+    "202103": {
+        "id": 202103, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "8", 
+            "atkSpA", 
+            "0.08"
+        ], 
+        "": 0
+    }, 
+    "202104": {
+        "id": 202104, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "9", 
+            "atkSpA", 
+            "0.09"
+        ], 
+        "": 0
+    }, 
+    "202105": {
+        "id": 202105, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "10", 
+            "atkSpA", 
+            "0.10"
+        ], 
+        "": 0
+    }, 
+    "202106": {
+        "id": 202106, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "11", 
+            "atkSpA", 
+            "0.11"
+        ], 
+        "": 0
+    }, 
+    "202107": {
+        "id": 202107, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "12", 
+            "atkSpA", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "202108": {
+        "id": 202108, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "13", 
+            "atkSpA", 
+            "0.13"
+        ], 
+        "": 0
+    }, 
+    "202109": {
+        "id": 202109, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "14", 
+            "atkSpA", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "202110": {
+        "id": 202110, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "15", 
+            "atkSpA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "202111": {
+        "id": 202111, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "16", 
+            "atkSpA", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "202112": {
+        "id": 202112, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "17", 
+            "atkSpA", 
+            "0.17"
+        ], 
+        "": 0
+    }, 
+    "202113": {
+        "id": 202113, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "18", 
+            "atkSpA", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "202114": {
+        "id": 202114, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "19", 
+            "atkSpA", 
+            "0.19"
+        ], 
+        "": 0
+    }, 
+    "202115": {
+        "id": 202115, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "20", 
+            "atkSpA", 
+            "0.20"
+        ], 
+        "": 0
+    }, 
+    "202116": {
+        "id": 202116, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "21", 
+            "atkSpA", 
+            "0.21"
+        ], 
+        "": 0
+    }, 
+    "202117": {
+        "id": 202117, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "22", 
+            "atkSpA", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "202118": {
+        "id": 202118, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "23", 
+            "atkSpA", 
+            "0.23"
+        ], 
+        "": 0
+    }, 
+    "202119": {
+        "id": 202119, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "24", 
+            "atkSpA", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "202120": {
+        "id": 202120, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "25", 
+            "atkSpA", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "212100": {
+        "id": 212100, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "5", 
+            "decHurtA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "212101": {
+        "id": 212101, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "10", 
+            "decHurtA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "212102": {
+        "id": 212102, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "15", 
+            "decHurtA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "212103": {
+        "id": 212103, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "20", 
+            "decHurtA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "212104": {
+        "id": 212104, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "25", 
+            "decHurtA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "212105": {
+        "id": 212105, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "30", 
+            "decHurtA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "212106": {
+        "id": 212106, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "35", 
+            "decHurtA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "212107": {
+        "id": 212107, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "40", 
+            "decHurtA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "212108": {
+        "id": 212108, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "45", 
+            "decHurtA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "212109": {
+        "id": 212109, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "50", 
+            "decHurtA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "212110": {
+        "id": 212110, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "55", 
+            "decHurtA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "212111": {
+        "id": 212111, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "60", 
+            "decHurtA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "212112": {
+        "id": 212112, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "65", 
+            "decHurtA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "212113": {
+        "id": 212113, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "70", 
+            "decHurtA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "212114": {
+        "id": 212114, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "75", 
+            "decHurtA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "212115": {
+        "id": 212115, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "80", 
+            "decHurtA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "212116": {
+        "id": 212116, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "85", 
+            "decHurtA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "212117": {
+        "id": 212117, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "90", 
+            "decHurtA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "212118": {
+        "id": 212118, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "95", 
+            "decHurtA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "212119": {
+        "id": 212119, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "100", 
+            "decHurtA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "212120": {
+        "id": 212120, 
+        "template": "normal", 
+        "param": [
+            "hpA", 
+            "105", 
+            "decHurtA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "212200": {
+        "id": 212200, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "1", 
+            "critNumA", 
+            "0.05"
+        ], 
+        "": 0
+    }, 
+    "212201": {
+        "id": 212201, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "1", 
+            "critNumA", 
+            "0.06"
+        ], 
+        "": 0
+    }, 
+    "212202": {
+        "id": 212202, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "1.5", 
+            "critNumA", 
+            "0.07"
+        ], 
+        "": 0
+    }, 
+    "212203": {
+        "id": 212203, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "1.5", 
+            "critNumA", 
+            "0.08"
+        ], 
+        "": 0
+    }, 
+    "212204": {
+        "id": 212204, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "2", 
+            "critNumA", 
+            "0.09"
+        ], 
+        "": 0
+    }, 
+    "212205": {
+        "id": 212205, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "2", 
+            "critNumA", 
+            "0.1"
+        ], 
+        "": 0
+    }, 
+    "212206": {
+        "id": 212206, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "2.5", 
+            "critNumA", 
+            "0.11"
+        ], 
+        "": 0
+    }, 
+    "212207": {
+        "id": 212207, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "2.5", 
+            "critNumA", 
+            "0.12"
+        ], 
+        "": 0
+    }, 
+    "212208": {
+        "id": 212208, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "3", 
+            "critNumA", 
+            "0.13"
+        ], 
+        "": 0
+    }, 
+    "212209": {
+        "id": 212209, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "3", 
+            "critNumA", 
+            "0.14"
+        ], 
+        "": 0
+    }, 
+    "212210": {
+        "id": 212210, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "3.5", 
+            "critNumA", 
+            "0.15"
+        ], 
+        "": 0
+    }, 
+    "212211": {
+        "id": 212211, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "3.5", 
+            "critNumA", 
+            "0.16"
+        ], 
+        "": 0
+    }, 
+    "212212": {
+        "id": 212212, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "4", 
+            "critNumA", 
+            "0.17"
+        ], 
+        "": 0
+    }, 
+    "212213": {
+        "id": 212213, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "4", 
+            "critNumA", 
+            "0.18"
+        ], 
+        "": 0
+    }, 
+    "212214": {
+        "id": 212214, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "4.5", 
+            "critNumA", 
+            "0.19"
+        ], 
+        "": 0
+    }, 
+    "212215": {
+        "id": 212215, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "4.5", 
+            "critNumA", 
+            "0.2"
+        ], 
+        "": 0
+    }, 
+    "212216": {
+        "id": 212216, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "5", 
+            "critNumA", 
+            "0.21"
+        ], 
+        "": 0
+    }, 
+    "212217": {
+        "id": 212217, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "5", 
+            "critNumA", 
+            "0.22"
+        ], 
+        "": 0
+    }, 
+    "212218": {
+        "id": 212218, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "5.5", 
+            "critNumA", 
+            "0.23"
+        ], 
+        "": 0
+    }, 
+    "212219": {
+        "id": 212219, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "5.5", 
+            "critNumA", 
+            "0.24"
+        ], 
+        "": 0
+    }, 
+    "212220": {
+        "id": 212220, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "6", 
+            "critNumA", 
+            "0.25"
+        ], 
+        "": 0
+    }, 
+    "212300": {
+        "id": 212300, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "212301": {
+        "id": 212301, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "212302": {
+        "id": 212302, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "212303": {
+        "id": 212303, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "212304": {
+        "id": 212304, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "212305": {
+        "id": 212305, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "212306": {
+        "id": 212306, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "212307": {
+        "id": 212307, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "212308": {
+        "id": 212308, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "212309": {
+        "id": 212309, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "212310": {
+        "id": 212310, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "212311": {
+        "id": 212311, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "212312": {
+        "id": 212312, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "212313": {
+        "id": 212313, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "212314": {
+        "id": 212314, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "212315": {
+        "id": 212315, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "212316": {
+        "id": 212316, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "26"
+        ], 
+        "": 0
+    }, 
+    "212317": {
+        "id": 212317, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "27"
+        ], 
+        "": 0
+    }, 
+    "212318": {
+        "id": 212318, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "28"
+        ], 
+        "": 0
+    }, 
+    "212319": {
+        "id": 212319, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "29"
+        ], 
+        "": 0
+    }, 
+    "212320": {
+        "id": 212320, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "30"
+        ], 
+        "": 0
+    }, 
+    "212400": {
+        "id": 212400, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "212401": {
+        "id": 212401, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "6"
+        ], 
+        "": 0
+    }, 
+    "212402": {
+        "id": 212402, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "7"
+        ], 
+        "": 0
+    }, 
+    "212403": {
+        "id": 212403, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "8"
+        ], 
+        "": 0
+    }, 
+    "212404": {
+        "id": 212404, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "9"
+        ], 
+        "": 0
+    }, 
+    "212405": {
+        "id": 212405, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "10"
+        ], 
+        "": 0
+    }, 
+    "212406": {
+        "id": 212406, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "11"
+        ], 
+        "": 0
+    }, 
+    "212407": {
+        "id": 212407, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "12"
+        ], 
+        "": 0
+    }, 
+    "212408": {
+        "id": 212408, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "13"
+        ], 
+        "": 0
+    }, 
+    "212409": {
+        "id": 212409, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "14"
+        ], 
+        "": 0
+    }, 
+    "212410": {
+        "id": 212410, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "212411": {
+        "id": 212411, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "16"
+        ], 
+        "": 0
+    }, 
+    "212412": {
+        "id": 212412, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "17"
+        ], 
+        "": 0
+    }, 
+    "212413": {
+        "id": 212413, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "18"
+        ], 
+        "": 0
+    }, 
+    "212414": {
+        "id": 212414, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "19"
+        ], 
+        "": 0
+    }, 
+    "212415": {
+        "id": 212415, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "20"
+        ], 
+        "": 0
+    }, 
+    "212416": {
+        "id": 212416, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "21"
+        ], 
+        "": 0
+    }, 
+    "212417": {
+        "id": 212417, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "22"
+        ], 
+        "": 0
+    }, 
+    "212418": {
+        "id": 212418, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "23"
+        ], 
+        "": 0
+    }, 
+    "212419": {
+        "id": 212419, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "24"
+        ], 
+        "": 0
+    }, 
+    "212420": {
+        "id": 212420, 
+        "template": "normal", 
+        "param": [
+            "dodgeA", 
+            "25"
+        ], 
+        "": 0
+    }, 
+    "212500": {
+        "id": 212500, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.60"
+        ], 
+        "": 0
+    }, 
+    "212501": {
+        "id": 212501, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.62"
+        ], 
+        "": 0
+    }, 
+    "212502": {
+        "id": 212502, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.64"
+        ], 
+        "": 0
+    }, 
+    "212503": {
+        "id": 212503, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.66"
+        ], 
+        "": 0
+    }, 
+    "212504": {
+        "id": 212504, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.68"
+        ], 
+        "": 0
+    }, 
+    "212505": {
+        "id": 212505, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.70"
+        ], 
+        "": 0
+    }, 
+    "212506": {
+        "id": 212506, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.72"
+        ], 
+        "": 0
+    }, 
+    "212507": {
+        "id": 212507, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.74"
+        ], 
+        "": 0
+    }, 
+    "212508": {
+        "id": 212508, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.76"
+        ], 
+        "": 0
+    }, 
+    "212509": {
+        "id": 212509, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.78"
+        ], 
+        "": 0
+    }, 
+    "212510": {
+        "id": 212510, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.80"
+        ], 
+        "": 0
+    }, 
+    "212511": {
+        "id": 212511, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.82"
+        ], 
+        "": 0
+    }, 
+    "212512": {
+        "id": 212512, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.84"
+        ], 
+        "": 0
+    }, 
+    "212513": {
+        "id": 212513, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.86"
+        ], 
+        "": 0
+    }, 
+    "212514": {
+        "id": 212514, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.88"
+        ], 
+        "": 0
+    }, 
+    "212515": {
+        "id": 212515, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.90"
+        ], 
+        "": 0
+    }, 
+    "212516": {
+        "id": 212516, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.92"
+        ], 
+        "": 0
+    }, 
+    "212517": {
+        "id": 212517, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.94"
+        ], 
+        "": 0
+    }, 
+    "212518": {
+        "id": 212518, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.96"
+        ], 
+        "": 0
+    }, 
+    "212519": {
+        "id": 212519, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "0.98"
+        ], 
+        "": 0
+    }, 
+    "212520": {
+        "id": 212520, 
+        "template": "speciesFighter", 
+        "param": [
+            "0", 
+            "atkB", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212521": {
+        "id": 212521, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "212522": {
+        "id": 212522, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "-3"
+        ], 
+        "": 0
+    }, 
+    "212523": {
+        "id": 212523, 
+        "template": "normal", 
+        "param": [
+            "defA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212524": {
+        "id": 212524, 
+        "template": "normal", 
+        "param": [
+            "defA", 
+            "-1"
+        ], 
+        "": 0
+    }, 
+    "212525": {
+        "id": 212525, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212526": {
+        "id": 212526, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "-1"
+        ], 
+        "": 0
+    }, 
+    "212527": {
+        "id": 212527, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "0.5"
+        ], 
+        "": 0
+    }, 
+    "212528": {
+        "id": 212528, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "-0.5"
+        ], 
+        "": 0
+    }, 
+    "212529": {
+        "id": 212529, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "recycleA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212530": {
+        "id": 212530, 
+        "template": "techWeapon", 
+        "param": [
+            "4120", 
+            "recycleA", 
+            "-1"
+        ], 
+        "": 0
+    }, 
+    "212531": {
+        "id": 212531, 
+        "template": "normal", 
+        "param": [
+            "critNumA", 
+            "0.03"
+        ], 
+        "": 0
+    }, 
+    "212532": {
+        "id": 212532, 
+        "template": "normal", 
+        "param": [
+            "decHurtA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212533": {
+        "id": 212533, 
+        "template": "normal", 
+        "param": [
+            "atkSpA", 
+            "0.01"
+        ], 
+        "": 0
+    }, 
+    "212534": {
+        "id": 212534, 
+        "template": "normal", 
+        "param": [
+            "defPoisonA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "212535": {
+        "id": 212535, 
+        "template": "normal", 
+        "param": [
+            "defDizzyA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "212536": {
+        "id": 212536, 
+        "template": "speciesFighter", 
+        "param": [
+            "1", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "212537": {
+        "id": 212537, 
+        "template": "speciesFighter", 
+        "param": [
+            "6", 
+            "hitA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "212538": {
+        "id": 212538, 
+        "template": "speciesFighter", 
+        "param": [
+            "9", 
+            "dodgeA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "212539": {
+        "id": 212539, 
+        "template": "speciesFighter", 
+        "param": [
+            "11", 
+            "defA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "212540": {
+        "id": 212540, 
+        "template": "speciesFighter", 
+        "param": [
+            "2", 
+            "critA", 
+            "3"
+        ], 
+        "": 0
+    }, 
+    "212541": {
+        "id": 212541, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "atkA", 
+            "15"
+        ], 
+        "": 0
+    }, 
+    "212542": {
+        "id": 212542, 
+        "template": "weaponPro", 
+        "param": [
+            "0", 
+            "defA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212543": {
+        "id": 212543, 
+        "template": "weaponPro", 
+        "param": [
+            "1", 
+            "critA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212544": {
+        "id": 212544, 
+        "template": "weaponPro", 
+        "param": [
+            "1", 
+            "hitA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212545": {
+        "id": 212545, 
+        "template": "weaponPro", 
+        "param": [
+            "2", 
+            "repelA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212546": {
+        "id": 212546, 
+        "template": "weaponPro", 
+        "param": [
+            "2", 
+            "recycleA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212547": {
+        "id": 212547, 
+        "template": "techWeapon", 
+        "param": [
+            "4109", 
+            "dodgeA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212548": {
+        "id": 212548, 
+        "template": "techWeapon", 
+        "param": [
+            "4116", 
+            "defA", 
+            "2"
+        ], 
+        "": 0
+    }, 
+    "212549": {
+        "id": 212549, 
+        "template": "normal", 
+        "param": [
+            "atkA", 
+            "5"
+        ], 
+        "": 0
+    }, 
+    "212550": {
+        "id": 212550, 
+        "template": "normal", 
+        "param": [
+            "hitA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212551": {
+        "id": 212551, 
+        "template": "normal", 
+        "param": [
+            "critA", 
+            "1"
+        ], 
+        "": 0
+    }, 
+    "212552": {
+        "id": 212552, 
+        "template": "normal", 
+        "param": [
+            "critNumA", 
+            "0.05"
+        ], 
+        "": 0
+    }
+}

@@ -1,0 +1,6881 @@
+{
+    "1001": {
+        "ID": "1001", 
+        "NAME": {
+            "cn": "幼狼", 
+            "en": "Wolf Cub", 
+            "tw": "幼狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 20, 
+        "ATK": 3, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you quietly"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，幼狼挣扎了几下，还是倒下了", 
+                "，幼狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The wolf cub struggled for a while but eventually fell down", 
+                "The wolf cub let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，幼狼掙紮了幾下，還是倒下了", 
+                "，幼狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "幼狼，但也不容小觑", 
+            "en": "Wolf cub. However still need to be taken seriously.", 
+            "tw": "幼狼，但也不容小覷"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1002": {
+        "ID": "1002", 
+        "NAME": {
+            "cn": "瘦弱的狼", 
+            "en": "Emciated Wolf", 
+            "tw": "瘦弱的狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 35, 
+        "ATK": 9, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you sneakily"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Took a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，瘦弱的狼挣扎了几下，还是倒下了", 
+                "，瘦弱的狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The emciated wolf struggled for a while but eventually fell down", 
+                "The emciated wolf let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，瘦弱的狼掙紮了幾下，還是倒下了", 
+                "，瘦弱的狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "发育不良的狼，但也比较凶狠", 
+            "en": "An famished wolf but is still very fierce", 
+            "tw": "發育不良的狼，但也比較兇狠"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1003": {
+        "ID": "1003", 
+        "NAME": {
+            "cn": "饥饿的狼", 
+            "en": "Famished Wolf", 
+            "tw": "饑餓的狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 50, 
+        "ATK": 16, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you sneakily"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，饥饿的狼挣扎了几下，还是倒下了", 
+                "，饥饿的狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The famished wolf struggled for a while but eventually fell down", 
+                ", the famished wolf screamed in pain and lay still"
+            ], 
+            "tw": [
+                "，饑餓的狼掙紮了幾下，還是倒下了", 
+                "，饑餓的狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "饥饿的狼，非常凶狠", 
+            "en": "famished wolf that is very fierce", 
+            "tw": "饑餓的狼，非常兇狠"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1004": {
+        "ID": "1004", 
+        "NAME": {
+            "cn": "成年狼", 
+            "en": "Adult Wolf", 
+            "tw": "成年狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 65, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 8, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you sneakily"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，成年狼挣扎了几下，还是倒下了", 
+                "，成年狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The adult wolf struggled for a while but eventually fell down", 
+                "The adult wolf let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，成年狼掙紮了幾下，還是倒下了", 
+                "，成年狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "健壮的成年狼，战斗力不俗", 
+            "en": "Strong adult wolf with high attack ratings", 
+            "tw": "健壯的成年狼，戰鬥力不俗"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1005": {
+        "ID": "1005", 
+        "NAME": {
+            "cn": "凶恶的狼", 
+            "en": "Ferocious Wolf", 
+            "tw": "兇惡的狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 90, 
+        "ATK": 23, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you sneakily"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，凶恶的狼挣扎了几下，还是倒下了", 
+                "，凶恶的狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The ferocious wolf struggled for a while but eventually fell down", 
+                "The ferocious wolf let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，兇惡的狼掙紮了幾下，還是倒下了", 
+                "，兇惡的狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "凶恶的狼，一定要小心对付", 
+            "en": "Ferocious wolf. I must be careful", 
+            "tw": "兇惡的狼，一定要小心對付"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1006": {
+        "ID": "1006", 
+        "NAME": {
+            "cn": "雪狼", 
+            "en": "Snow Wolf", 
+            "tw": "雪狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 100, 
+        "ATK": 25, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you sneakily"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，雪狼挣扎了几下，还是倒下了", 
+                "，雪狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The snow wolf struggled for a while but eventually fell down", 
+                "The snow wolf let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，雪狼掙紮了幾下，還是倒下了", 
+                "，雪狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "只在雪原才能看到的狼", 
+            "en": "A wolf that can only be seen in the snow fields", 
+            "tw": "只在雪原才能看到的狼"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1007": {
+        "ID": "1007", 
+        "NAME": {
+            "cn": "健壮的狼", 
+            "en": "Strong Wolf", 
+            "tw": "健壯的狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 220, 
+        "ATK": 23, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 13, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you sneakily"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，健壮的狼挣扎了几下，还是倒下了", 
+                "，健壮的狼痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The strong wolf struggled for a while but eventually fell down", 
+                ", the strong wolf screamed in pain and lay still"
+            ], 
+            "tw": [
+                "，健壯的狼掙紮了幾下，還是倒下了", 
+                "，健壯的狼痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "狼族首领，单兵战斗力也很强", 
+            "en": "The leader of the wolf pack. It has very strong single battle ratings", 
+            "tw": "狼族首領，單兵戰鬥力也很強"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1008": {
+        "ID": "1008", 
+        "NAME": {
+            "cn": "小野猪", 
+            "en": "Small Boar", 
+            "tw": "小野豬"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 2, 
+        "LIFE": 30, 
+        "ATK": 3, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 2, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "哼哼着向你冲来", 
+                "向你冲锋过来"
+            ], 
+            "en": [
+                "Gruntingly dashes towards you", 
+                "Dashing towards you"
+            ], 
+            "tw": [
+                "哼哼著向你沖來", 
+                "向你沖鋒過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，小野猪挣扎了几下，还是倒下了", 
+                "，小野猪痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The small boar struggled for a while but eventually fell down", 
+                "The small boar let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，小野豬掙紮了幾下，還是倒下了", 
+                "，小野豬痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "小野猪，但凶起来也很厉害", 
+            "en": "Small boar that is very strong when angry", 
+            "tw": "小野豬，但兇起來也很厲害"
+        }, 
+        "AUDIO": "monster_boar"
+    }, 
+    "1009": {
+        "ID": "1009", 
+        "NAME": {
+            "cn": "健壮的野猪", 
+            "en": "Strong Boar", 
+            "tw": "健壯的野豬"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 2, 
+        "LIFE": 65, 
+        "ATK": 7, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 2, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "哼哼着向你冲来", 
+                "向你冲锋过来"
+            ], 
+            "en": [
+                "Grunting, it dashes towards you", 
+                "Dashing towards you"
+            ], 
+            "tw": [
+                "哼哼著向你沖來", 
+                "向你沖鋒過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，健壮的野猪挣扎了几下，还是倒下了", 
+                "，健壮的野猪痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The strong boar struggled for a while but eventually fell down", 
+                "The strong boar let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，健壯的野豬掙紮了幾下，還是倒下了", 
+                "，健壯的野豬痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "成年的健壮野猪，杀伤力很强", 
+            "en": "Strong fully grown wild boar with very strong attack", 
+            "tw": "成年的健壯野豬，殺傷力很強"
+        }, 
+        "AUDIO": "monster_boar"
+    }, 
+    "1010": {
+        "ID": "1010", 
+        "NAME": {
+            "cn": "暴怒的野猪", 
+            "en": "Enraged Boar", 
+            "tw": "暴怒的野豬"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 2, 
+        "LIFE": 85, 
+        "ATK": 13, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "哼哼着向你冲来", 
+                "向你冲锋过来"
+            ], 
+            "en": [
+                "Grunting, it dashes towards you", 
+                "Dashing towards you"
+            ], 
+            "tw": [
+                "哼哼著向你沖來", 
+                "向你沖鋒過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，暴怒的野猪挣扎了几下，还是倒下了", 
+                "，暴怒的野猪痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The enraged boar struggled for a while but eventually fell down", 
+                "The enraged boar let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，暴怒的野豬掙紮了幾下，還是倒下了", 
+                "，暴怒的野豬痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "发起怒的野猪，老虎都怕", 
+            "en": "An angry wild boar that even tigers are afraid of", 
+            "tw": "發起怒的野豬，老虎都怕"
+        }, 
+        "AUDIO": "monster_boar"
+    }, 
+    "1011": {
+        "ID": "1011", 
+        "NAME": {
+            "cn": "野猪王", 
+            "en": "Giant Boar", 
+            "tw": "野豬王"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 2, 
+        "LIFE": 240, 
+        "ATK": 17, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "哼哼着向你冲来", 
+                "向你冲锋过来"
+            ], 
+            "en": [
+                "Grunting, it dashes towards you", 
+                "Dashing towards you"
+            ], 
+            "tw": [
+                "哼哼著向你沖來", 
+                "向你沖鋒過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，野猪王挣扎了几下，还是倒下了", 
+                "，野猪王痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The giant boar struggled for a while but eventually fell down", 
+                "The giant boar let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，野豬王掙紮了幾下，還是倒下了", 
+                "，野豬王痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "成年的健壮野猪，杀伤力很强", 
+            "en": "Strong fully grown wild boar with very strong attack", 
+            "tw": "成年的健壯野豬，殺傷力很強"
+        }, 
+        "AUDIO": "monster_boar"
+    }, 
+    "1012": {
+        "ID": "1012", 
+        "NAME": {
+            "cn": "食人鱼", 
+            "en": "Piranha", 
+            "tw": "食人魚"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 3, 
+        "LIFE": 30, 
+        "ATK": 17, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你游过来", 
+                "跃出水面向你扑来"
+            ], 
+            "en": [
+                "Swimming towards you in a very fast speed", 
+                "Breaks the water's surface and flies towards you"
+            ], 
+            "tw": [
+                "飛速向你遊過來", 
+                "躍出水面向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "借助水流，闪到一边"
+            ], 
+            "en": [
+                "Evading towards the side with the help of the water current"
+            ], 
+            "tw": [
+                "借助水流，閃到一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，食人鱼挣扎了几下，一动不动了"
+            ], 
+            "en": [
+                ", the Piranha struggles momentarily and lies still with no more movement"
+            ], 
+            "tw": [
+                "，食人魚掙紮了幾下，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "凶猛的食人鱼，虽然很脆弱，但牙口很厉害", 
+            "en": "The fierce piranha, although fragile, it has very sharp teeth", 
+            "tw": "兇猛的食人魚，雖然很脆弱，但牙口很厲害"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1013": {
+        "ID": "1013", 
+        "NAME": {
+            "cn": "吸血鬼鱼", 
+            "en": "Vampiric Fish", 
+            "tw": "吸血鬼魚"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 3, 
+        "LIFE": 40, 
+        "ATK": 23, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你游过来", 
+                "跃出水面向你扑来"
+            ], 
+            "en": [
+                "Swimming towards you in a very fast speed", 
+                "Breaks the water's surface and flies towards you"
+            ], 
+            "tw": [
+                "飛速向你遊過來", 
+                "躍出水面向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "借助水流，闪到一边"
+            ], 
+            "en": [
+                "Evading towards the side with the help of the water current"
+            ], 
+            "tw": [
+                "借助水流，閃到一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，吸血鬼鱼挣扎了几下，一动不动了"
+            ], 
+            "en": [
+                ", the vampiric fish struggles briefly and lay there not moving anymore"
+            ], 
+            "tw": [
+                "，吸血鬼魚掙紮了幾下，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "比食人鱼还要凶猛几分", 
+            "en": "Fiercer than the piranha", 
+            "tw": "比食人魚還要兇猛幾分"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1014": {
+        "ID": "1014", 
+        "NAME": {
+            "cn": "灰熊", 
+            "en": "Grey Bear", 
+            "tw": "灰熊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 4, 
+        "LIFE": 75, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 80, 
+        "DODGE": 3, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "嗷嗷地向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Grunting, it leaps towards you", 
+                "Rushing towards you"
+            ], 
+            "tw": [
+                "嗷嗷地向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，灰熊挣扎了几下，还是倒下了", 
+                "，灰熊痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The grey bear struggled for a while but eventually fell down", 
+                "The grey bear let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，灰熊掙紮了幾下，還是倒下了", 
+                "，灰熊痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "出没于林间和丘陵的灰熊", 
+            "en": "The grey bear that lives in the knoll and forest", 
+            "tw": "出沒於林間和丘陵的灰熊"
+        }, 
+        "AUDIO": "monster_bear"
+    }, 
+    "1015": {
+        "ID": "1015", 
+        "NAME": {
+            "cn": "暴躁的灰熊", 
+            "en": "Irate Grey Bear", 
+            "tw": "暴躁的灰熊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 4, 
+        "LIFE": 90, 
+        "ATK": 14, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 80, 
+        "DODGE": 3, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "嗷嗷地向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Grunting, it leaps towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "嗷嗷地向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，暴躁的灰熊挣扎了几下，还是倒下了", 
+                "，暴躁的灰熊痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The irate grey bear struggled for a while but eventually fell down", 
+                "The irate grey bear let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，暴躁的灰熊掙紮了幾下，還是倒下了", 
+                "，暴躁的灰熊痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "出没于林间和丘陵的灰熊", 
+            "en": "The grey bear that lives in the knoll and forest", 
+            "tw": "出沒於林間和丘陵的灰熊"
+        }, 
+        "AUDIO": "monster_bear"
+    }, 
+    "1016": {
+        "ID": "1016", 
+        "NAME": {
+            "cn": "白熊", 
+            "en": "White Bear", 
+            "tw": "白熊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 4, 
+        "LIFE": 130, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "嗷嗷地向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Grunting, it leaps towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "嗷嗷地向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，白熊挣扎了几下，还是倒下了", 
+                "，白熊痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The white bear struggled for a while but eventually fell down", 
+                "The white bear let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，白熊掙紮了幾下，還是倒下了", 
+                "，白熊痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "雪原上独有的白熊", 
+            "en": "The white bear unique to the snow fields", 
+            "tw": "雪原上獨有的白熊"
+        }, 
+        "AUDIO": "monster_bear"
+    }, 
+    "1017": {
+        "ID": "1017", 
+        "NAME": {
+            "cn": "受伤的熊王", 
+            "en": "Injured Ursa", 
+            "tw": "受傷的熊王"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 4, 
+        "LIFE": 120, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 3, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "嗷嗷地向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Grunting, it leaps towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "嗷嗷地向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，受伤的熊王挣扎了几下，还是倒下了", 
+                "，受伤的熊王痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The injured ursa struggled for a while but eventually fell down", 
+                "The injured ursa let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，受傷的熊王掙紮了幾下，還是倒下了", 
+                "，受傷的熊王痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "巨大的熊王，不过受了不轻的伤，不然战斗力更强", 
+            "en": "The huge Ursa has sustained substantial damage, or else it will be even more powerful", 
+            "tw": "巨大的熊王，不過受了不輕的傷，不然戰鬥力更強"
+        }, 
+        "AUDIO": "monster_bear"
+    }, 
+    "1018": {
+        "ID": "1018", 
+        "NAME": {
+            "cn": "鳄鱼", 
+            "en": "Crocodile", 
+            "tw": "鱷魚"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 5, 
+        "LIFE": 120, 
+        "ATK": 18, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你冲来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Rushing towards you"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动尾巴", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Whipping its tail", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮動尾巴", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，鳄鱼挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The crocodile struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，鱷魚掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "拥有惊人咬合力的鳄鱼", 
+            "en": "The crocodile that has amazing jaw strength", 
+            "tw": "擁有驚人咬合力的鱷魚"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1019": {
+        "ID": "1019", 
+        "NAME": {
+            "cn": "湾鳄", 
+            "en": "Bay Croc", 
+            "tw": "灣鱷"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 5, 
+        "LIFE": 140, 
+        "ATK": 21, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你冲来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Rushing towards you"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动尾巴", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Whipping its tail", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮動尾巴", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，湾鳄挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The bay croc struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，灣鱷掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "一种常见于沼泽和河湾的鳄鱼", 
+            "en": "A crocodile that is often seen in the swamp and rivers", 
+            "tw": "一種常見於沼澤和河灣的鱷魚"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1020": {
+        "ID": "1020", 
+        "NAME": {
+            "cn": "铁嘴黑鳄鱼", 
+            "en": "Ironbite Croc", 
+            "tw": "鐵嘴黑鱷魚"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 5, 
+        "LIFE": 160, 
+        "ATK": 23, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 8, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你冲来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Rushing towards you"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动尾巴", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Whipping its tail", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮動尾巴", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，铁嘴黑鳄鱼挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The ironbite croc struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，鐵嘴黑鱷魚掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "凶猛的铁嘴鳄鱼", 
+            "en": "The fierce metal jawed crocodile", 
+            "tw": "兇猛的鐵嘴鱷魚"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1021": {
+        "ID": "1021", 
+        "NAME": {
+            "cn": "水蟒", 
+            "en": "Water Boa", 
+            "tw": "水蟒"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 6, 
+        "LIFE": 40, 
+        "ATK": 10, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 80, 
+        "DODGE": 0, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "吐着信子向你扑来", 
+                "悄悄向你游来"
+            ], 
+            "en": [
+                "Gnashing its teeth and leaping towards you", 
+                "Sneakily swimming towards you"
+            ], 
+            "tw": [
+                "吐著信子向你撲來", 
+                "悄悄向你遊來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，水蟒挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The water boa struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，水蟒掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "隐藏在水里的蟒蛇", 
+            "en": "The anaconda that hides in the waters", 
+            "tw": "隱藏在水裏的蟒蛇"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1022": {
+        "ID": "1022", 
+        "NAME": {
+            "cn": "沙蛇", 
+            "en": "Sandsnake", 
+            "tw": "沙蛇"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 6, 
+        "LIFE": 65, 
+        "ATK": 17, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "吐着信子向你扑来", 
+                "悄悄向你游来"
+            ], 
+            "en": [
+                "Gnashing its teeth and leaping towards you", 
+                "Sneakily swimming towards you"
+            ], 
+            "tw": [
+                "吐著信子向你撲來", 
+                "悄悄向你遊來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，沙蛇挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The sandsnake struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，沙蛇掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "只在荒漠中出现的一种蛇", 
+            "en": "A snake that can only be seen in the desert", 
+            "tw": "只在荒漠中出現的一種蛇"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1023": {
+        "ID": "1023", 
+        "NAME": {
+            "cn": "毒蛇", 
+            "en": "Poisonous Snake", 
+            "tw": "毒蛇"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 6, 
+        "LIFE": 130, 
+        "ATK": 16, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "吐着信子向你扑来", 
+                "悄悄向你游来"
+            ], 
+            "en": [
+                "Gnashing its teeth and leaping towards you", 
+                "Sneakily swimming towards you"
+            ], 
+            "tw": [
+                "吐著信子向你撲來", 
+                "悄悄向你遊來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，毒蛇挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The poisonous snake struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，毒蛇掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "体型很大的一种毒蛇", 
+            "en": "A large poisonous snake", 
+            "tw": "體型很大的一種毒蛇"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1024": {
+        "ID": "1024", 
+        "NAME": {
+            "cn": "眼镜王蛇", 
+            "en": "King Cobra", 
+            "tw": "眼鏡王蛇"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 6, 
+        "LIFE": 160, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 30, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "吐着信子向你扑来", 
+                "悄悄向你游来"
+            ], 
+            "en": [
+                "Gnashing its teeth and leaping towards you", 
+                "Sneakily swimming towards you"
+            ], 
+            "tw": [
+                "吐著信子向你撲來", 
+                "悄悄向你遊來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，眼镜王蛇挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The king cobra struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，眼鏡王蛇掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "毒性强烈的眼镜蛇，千万小心", 
+            "en": "Very poisonous cobra. Please be careful", 
+            "tw": "毒性強烈的眼鏡蛇，千萬小心"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1025": {
+        "ID": "1025", 
+        "NAME": {
+            "cn": "猛虎", 
+            "en": "Fierce Tiger", 
+            "tw": "猛虎"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 7, 
+        "LIFE": 160, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "呼啸着向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Panting and leaping towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "呼嘯著向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，猛虎挣扎了几下，还是倒下了", 
+                "，猛虎痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The fierce tiger struggled for a while but eventually fell down", 
+                "The fierce tiger let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，猛虎掙紮了幾下，還是倒下了", 
+                "，猛虎痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "拥有万兽之王之称的猛虎", 
+            "en": "The tiger, also known as the king of all beasts", 
+            "tw": "擁有萬獸之王之稱的猛虎"
+        }, 
+        "AUDIO": "monster_tiger"
+    }, 
+    "1026": {
+        "ID": "1026", 
+        "NAME": {
+            "cn": "斑纹虎", 
+            "en": "Striped Tiger", 
+            "tw": "斑紋虎"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 7, 
+        "LIFE": 180, 
+        "ATK": 22, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "呼啸着向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Panting and leaping towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "呼嘯著向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，斑纹虎挣扎了几下，还是倒下了", 
+                "，斑纹虎痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The striped tiger struggled for a while but eventually fell down", 
+                "The striped tiger let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，斑紋虎掙紮了幾下，還是倒下了", 
+                "，斑紋虎痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "体型比一般老虎大一些的斑纹虎", 
+            "en": "The striped tiger with a larger body than average tigers", 
+            "tw": "體型比一般老虎大一些的斑紋虎"
+        }, 
+        "AUDIO": "monster_tiger"
+    }, 
+    "1027": {
+        "ID": "1027", 
+        "NAME": {
+            "cn": "虎王", 
+            "en": "Tiger King", 
+            "tw": "虎王"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 7, 
+        "LIFE": 300, 
+        "ATK": 27, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "呼啸着向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Panting and leaping towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "呼嘯著向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，虎王挣扎了几下，还是倒下了", 
+                "，虎王痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                ", the tiger king struggles briefly and eventually falls", 
+                "The tiger king let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，虎王掙紮了幾下，還是倒下了", 
+                "，虎王痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "虎中之王，非常危险", 
+            "en": "The king of tigers, very dangerous", 
+            "tw": "虎中之王，非常危險"
+        }, 
+        "AUDIO": "monster_tiger"
+    }, 
+    "1028": {
+        "ID": "1028", 
+        "NAME": {
+            "cn": "食人族战士", 
+            "en": "Cannibal Warrior", 
+            "tw": "食人族戰士"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 140, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "拿着石斧向你跑来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a stone axe"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "拿著石斧向你跑來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，食人族战士挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The cannibal warrior struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，食人族戰士掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "原始食人部族的战士", 
+            "en": "A warrior from the primitive cannibal tribe", 
+            "tw": "原始食人部族的戰士"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1029": {
+        "ID": "1029", 
+        "NAME": {
+            "cn": "食人族队长", 
+            "en": "Cannibal Elder", 
+            "tw": "食人族隊長"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 180, 
+        "ATK": 22, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "举着长枪向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a long spear"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "舉著長槍向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，食人族队长挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The cannibal elder struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，食人族隊長掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "食人族战斗小队的队长，比一般战士强大", 
+            "en": "The captain of the warriors from the cannibal tribe", 
+            "tw": "食人族戰鬥小隊的隊長，比一般戰士強大"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1030": {
+        "ID": "1030", 
+        "NAME": {
+            "cn": "食人族首领", 
+            "en": "Cannibal Chief", 
+            "tw": "食人族首領"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 240, 
+        "ATK": 26, 
+        "DEF": 5, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "拿着巨斧向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a huge axe"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "拿著巨斧向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，食人族首领挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The cannibal chief struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，食人族首領掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "食人部族的首领，虽然武器原始，但战斗技巧高超", 
+            "en": "The chief of the cannibal tribe, although he holds primitive weapons, he is highly skilled at fighting", 
+            "tw": "食人部族的首領，雖然武器原始，但戰鬥技巧高超"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1031": {
+        "ID": "1031", 
+        "NAME": {
+            "cn": "剑吻鲨", 
+            "en": "Goblin Shark", 
+            "tw": "劍吻鯊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 9, 
+        "LIFE": 60, 
+        "ATK": 11, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 8, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你游过来"
+            ], 
+            "en": [
+                "Swimming towards you in a very fast speed"
+            ], 
+            "tw": [
+                "飛速向你遊過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，剑吻鲨挣扎了几下，一动不动了"
+            ], 
+            "en": [
+                "The goblin shark let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，劍吻鯊掙紮了幾下，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "徘徊于海里的鲨鱼，对血腥味非常敏感", 
+            "en": "Shark of the ocean highly sensitive to the scent of blood", 
+            "tw": "徘徊於海裏的鯊魚，對血腥味非常敏感"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1032": {
+        "ID": "1032", 
+        "NAME": {
+            "cn": "大白鲨", 
+            "en": "Great White", 
+            "tw": "大白鯊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 9, 
+        "LIFE": 115, 
+        "ATK": 15, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你游过来"
+            ], 
+            "en": [
+                "Swimming towards you in a very fast speed"
+            ], 
+            "tw": [
+                "飛速向你遊過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，大白鲨挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The great white struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，大白鯊掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "凶猛的大鲨鱼，对进入海中的人类毫不留情", 
+            "en": "Fierce and big shark that does not hold back toward people that go into the ocean", 
+            "tw": "兇猛的大鯊魚，對進入海中的人類毫不留情"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1033": {
+        "ID": "1033", 
+        "NAME": {
+            "cn": "绵羊", 
+            "en": "Sheep", 
+            "tw": "綿羊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 10, 
+        "LIFE": 40, 
+        "ATK": 6, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 80, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你冲来"
+            ], 
+            "en": [
+                "Rushing towards you"
+            ], 
+            "tw": [
+                "向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "顶了你一下"
+            ], 
+            "en": [
+                "nudged you"
+            ], 
+            "tw": [
+                "頂了你一下"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，绵羊挣扎了几下，还是倒下了", 
+                "，绵羊痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The sheep struggled for a while but eventually fell down", 
+                "The sheep let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，綿羊掙紮了幾下，還是倒下了", 
+                "，綿羊痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "雪原上的绵羊，羊毛用来保暖是极好的", 
+            "en": "Sheep from the snow fields whose wool is perfect for keeping warm", 
+            "tw": "雪原上的綿羊，羊毛用來保暖是極好的"
+        }, 
+        "AUDIO": "monster_sheep"
+    }, 
+    "1035": {
+        "ID": "1035", 
+        "NAME": {
+            "cn": "蜥蜴", 
+            "en": "Lizard", 
+            "tw": "蜥蜴"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 11, 
+        "LIFE": 120, 
+        "ATK": 24, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 25, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来"
+            ], 
+            "en": [
+                "Diving towards you"
+            ], 
+            "tw": [
+                "向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪"
+            ], 
+            "en": [
+                "Captured"
+            ], 
+            "tw": [
+                "揮爪"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，蜥蜴挣扎了几下，还是倒下了", 
+                "，蜥蜴痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The lizard struggled for a while but eventually fell down", 
+                "The lizard let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，蜥蜴掙紮了幾下，還是倒下了", 
+                "，蜥蜴痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "在漆黑溶洞中觅食的蜥蜴", 
+            "en": "A lizard that feeds in the darkness of the molten caves", 
+            "tw": "在漆黑溶洞中覓食的蜥蜴"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1036": {
+        "ID": "1036", 
+        "NAME": {
+            "cn": "火蜥蜴", 
+            "en": "Fire Salamander", 
+            "tw": "火蜥蜴"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 11, 
+        "LIFE": 180, 
+        "ATK": 27, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 25, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来"
+            ], 
+            "en": [
+                "Diving towards you"
+            ], 
+            "tw": [
+                "向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，火蜥蜴挣扎了几下，还是倒下了", 
+                "，火蜥蜴痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The fire salamander struggled for a while but eventually fell down", 
+                "The fire salamander let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，火蜥蜴掙紮了幾下，還是倒下了", 
+                "，火蜥蜴痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "身上有红色斑纹的蜥蜴", 
+            "en": "A red spotted lizard", 
+            "tw": "身上有紅色斑紋的蜥蜴"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1038": {
+        "ID": "1038", 
+        "NAME": {
+            "cn": "海盗喽啰", 
+            "en": "Pirate Henchman", 
+            "tw": "海盜嘍啰"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 180, 
+        "ATK": 23, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "举着长刀向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Wielding a machete and running towards you"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "舉著長刀向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，海盗喽啰挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The pirate henchman struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，海盜嘍啰掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "食人族战斗小队的队长，比一般战士强大", 
+            "en": "The captain of the warriors from the cannibal tribe", 
+            "tw": "食人族戰鬥小隊的隊長，比一般戰士強大"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1039": {
+        "ID": "1039", 
+        "NAME": {
+            "cn": "海盗首领", 
+            "en": "Pirate Leader", 
+            "tw": "海盜首領"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 260, 
+        "ATK": 28, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "拿着长刀向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Holding a machete and running towards you"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "拿著長刀向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，海盗首领挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The pirate leader struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，海盜首領掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "食人部族的首领，虽然武器原始，但战斗技巧高超", 
+            "en": "The chief of the cannibal tribe, although he holds primitive weapons, he is highly skilled at fighting", 
+            "tw": "食人部族的首領，雖然武器原始，但戰鬥技巧高超"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1040": {
+        "ID": "1040", 
+        "NAME": {
+            "cn": "吸血蝠王", 
+            "en": "Giant Bat", 
+            "tw": "吸血蝠王"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 16, 
+        "LIFE": 350, 
+        "ATK": 30, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "张开翅膀，向你飞来", 
+                "收起翅膀，向你俯冲"
+            ], 
+            "en": [
+                "Spreading its wings, it flies towards you", 
+                "Retracting its wings, it swoops towards you"
+            ], 
+            "tw": [
+                "張開翅膀，向你飛來", 
+                "收起翅膀，向你俯沖"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "重重的咬了一下", 
+                "张开嘴巴，发出了尖锐的吼叫"
+            ], 
+            "en": [
+                "One hard bite", 
+                "Opening its mouth, it lets out a loud shriek"
+            ], 
+            "tw": [
+                "重重的咬了一下", 
+                "張開嘴巴，發出了尖銳的吼叫"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "凭借灵敏的飞行，躲开了攻击"
+            ], 
+            "en": [
+                "It dodged the attack with his agile flying skills"
+            ], 
+            "tw": [
+                "憑借靈敏的飛行，躲開了攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，吸血蝠王一声惨叫，掉在了地上"
+            ], 
+            "en": [
+                ", the Giant Bat cried in pain and dropped to the ground"
+            ], 
+            "tw": [
+                "，吸血蝠王一聲慘叫，掉在了地上"
+            ]
+        }, 
+        "DESC": {
+            "cn": "不知活了多久的吸血蝙蝠王，攻击力极强，藏在神秘遗迹深处。", 
+            "en": "The Giant Bat, no one knows how long he has lived - possesses extremely powerful attack and is located deeply within the Mystery Ruins.", 
+            "tw": "不知活了多久的吸血蝙蝠王，攻擊力極強，藏在神秘遺跡深處。"
+        }, 
+        "AUDIO": "monster_batk"
+    }, 
+    "1041": {
+        "ID": "1041", 
+        "NAME": {
+            "cn": "蝙蝠王后", 
+            "en": "Queen Bat", 
+            "tw": "蝙蝠王後"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 16, 
+        "LIFE": 300, 
+        "ATK": 27, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "张开翅膀，向你飞来", 
+                "收起翅膀，向你俯冲"
+            ], 
+            "en": [
+                "Spreading its wings, it flies towards you", 
+                "Retracting its wings, it swoops towards you"
+            ], 
+            "tw": [
+                "張開翅膀，向你飛來", 
+                "收起翅膀，向你俯沖"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "重重的咬了一下", 
+                "张开嘴巴，发出了尖锐的吼叫"
+            ], 
+            "en": [
+                "One hard bite", 
+                "Opening its mouth, it lets out a loud shriek"
+            ], 
+            "tw": [
+                "重重的咬了一下", 
+                "張開嘴巴，發出了尖銳的吼叫"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "凭借灵敏的飞行，躲开了攻击"
+            ], 
+            "en": [
+                "It dodged the attack with his agile flying skills"
+            ], 
+            "tw": [
+                "憑借靈敏的飛行，躲開了攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，蝙蝠王后一声惨叫，掉在了地上"
+            ], 
+            "en": [
+                "The Queen Bat squealed and fell onto the ground"
+            ], 
+            "tw": [
+                "，蝙蝠王後一聲慘叫，掉在了地上"
+            ]
+        }, 
+        "DESC": {
+            "cn": "在神秘遗迹发现的巨大雌性蝙蝠，战斗力很强。似乎还有一只雄性的蝙蝠王在遗迹深处。", 
+            "en": "A huge male bat found in the Mystery Ruins with powerful attack. There should also be a male bat king deep within the ruins", 
+            "tw": "在神秘遺跡發現的巨大雌性蝙蝠，戰鬥力很強。似乎還有一只雄性的蝙蝠王在遺跡深處。"
+        }, 
+        "AUDIO": "monster_batq"
+    }, 
+    "1042": {
+        "ID": "1042", 
+        "NAME": {
+            "cn": "未知怪物", 
+            "en": "Unknown Creature", 
+            "tw": "未知怪物"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 3, 
+        "LIFE": 140, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 0, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你游过来", 
+                "跃出水面向你扑来"
+            ], 
+            "en": [
+                "Swimming towards you in a very fast speed", 
+                "Breaks the water's surface and flies towards you"
+            ], 
+            "tw": [
+                "飛速向你遊過來", 
+                "躍出水面向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "借助水流，闪到一边"
+            ], 
+            "en": [
+                "Evading towards the side with the help of the water current"
+            ], 
+            "tw": [
+                "借助水流，閃到一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，未知怪物挣扎了几下，一动不动了"
+            ], 
+            "en": [
+                ", the unknown creature struggled a few times and lay still"
+            ], 
+            "tw": [
+                "，未知怪物掙紮了幾下，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "在黑暗中看不清具体是什么怪物，根据在水中的行为，推测是鱼类的一种。", 
+            "en": "Cannot tell what sort of creature it is in the dark. From the movements in the water it should be some kind of fish.", 
+            "tw": "在黑暗中看不清具體是什麽怪物，根據在水中的行為，推測是魚類的一種。"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1043": {
+        "ID": "1043", 
+        "NAME": {
+            "cn": "遗迹石像", 
+            "en": "Forgotten Statue", 
+            "tw": "遺跡石像"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 15, 
+        "LIFE": 250, 
+        "ATK": 25, 
+        "DEF": 10, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你移动过来", 
+                "举起武器向你走来"
+            ], 
+            "en": [
+                "Moving towards you", 
+                "Picks up a weapon and walks towards you"
+            ], 
+            "tw": [
+                "向你移動過來", 
+                "舉起武器向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "挪动身体，避开了这次攻击"
+            ], 
+            "en": [
+                "Moving its body and evade the attack"
+            ], 
+            "tw": [
+                "挪動身體，避開了這次攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，遗迹石像颤抖了起来，停在原地一动不动了"
+            ], 
+            "en": [
+                ", the Forgotten Statue started shaking and stopped in its tracks with no further movement"
+            ], 
+            "tw": [
+                "，遺跡石像顫抖了起來，停在原地一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "遗迹中的石像，不知触发了什么机关，对闯入者发起了攻击。", 
+            "en": "Don't know what trigger was tripped, but the Forgotten Statue started attacking the intruder.", 
+            "tw": "遺跡中的石像，不知觸發了什麽機關，對闖入者發起了攻擊。"
+        }, 
+        "AUDIO": "attack_blunt"
+    }, 
+    "1044": {
+        "ID": "1044", 
+        "NAME": {
+            "cn": "地下怪鱼", 
+            "en": "Underground Cryptid", 
+            "tw": "地下怪魚"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 3, 
+        "LIFE": 80, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你游过来", 
+                "跃出水面向你扑来"
+            ], 
+            "en": [
+                "Swimming towards you in a very fast speed", 
+                "Breaks the water's surface and flies towards you"
+            ], 
+            "tw": [
+                "飛速向你遊過來", 
+                "躍出水面向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "借助水流，闪到一边"
+            ], 
+            "en": [
+                "Evading towards the side with the help of the water current"
+            ], 
+            "tw": [
+                "借助水流，閃到一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，地下怪鱼扑腾了几下，还是不动了"
+            ], 
+            "en": [
+                ", the strange Underground Cryptid flailed a while and lay there motionless"
+            ], 
+            "tw": [
+                "，地下怪魚撲騰了幾下，還是不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "在遗迹地下河中的怪鱼，在火把的照耀下，显得十分恐怖。", 
+            "en": "A strange cryptid in the underground rivers of the ruins. It looks even more spooky under the light of the fire torch.", 
+            "tw": "在遺跡地下河中的怪魚，在火把的照耀下，顯得十分恐怖。"
+        }, 
+        "AUDIO": "monster_water"
+    }, 
+    "1045": {
+        "ID": "1045", 
+        "NAME": {
+            "cn": "遗迹狐猴", 
+            "en": "Ruins Lemur", 
+            "tw": "遺跡狐猴"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 13, 
+        "LIFE": 120, 
+        "ATK": 18, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你冲了过来", 
+                "一跃而起，向你扑来"
+            ], 
+            "en": [
+                "Rushing towards you at unbelievable speeds", 
+                "Jumping up and leaps towards you"
+            ], 
+            "tw": [
+                "飛速向你沖了過來", 
+                "一躍而起，向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "狠狠抓了一爪"
+            ], 
+            "en": [
+                "Clawed by a very strong claw"
+            ], 
+            "tw": [
+                "狠狠抓了一爪"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个后撤，避开了这次攻击"
+            ], 
+            "en": [
+                "Moving back, the attack has been evaded"
+            ], 
+            "tw": [
+                "一個後撤，避開了這次攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，遗迹狐猴挣扎了几下，倒了下去"
+            ], 
+            "en": [
+                ", the Ruins Lemur struggled for a while and fell down with no further movement"
+            ], 
+            "tw": [
+                "，遺跡狐猴掙紮了幾下，倒了下去"
+            ]
+        }, 
+        "DESC": {
+            "cn": "遗迹中类似猴子的生物，动作灵敏，很有灵性。", 
+            "en": "A monkey life animal from the ruins with quick movement and seems very spiritual.", 
+            "tw": "遺跡中類似猴子的生物，動作靈敏，很有靈性。"
+        }, 
+        "AUDIO": "monster_monkey"
+    }, 
+    "1046": {
+        "ID": "1046", 
+        "NAME": {
+            "cn": "蜘蛛", 
+            "en": "Spider", 
+            "tw": "蜘蛛"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 14, 
+        "LIFE": 60, 
+        "ATK": 8, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "快速爬向你身边", 
+                "缩起身子，突然向你扑来"
+            ], 
+            "en": [
+                "Crawls towards you quickly", 
+                "Curling its body, it lunges towards you"
+            ], 
+            "tw": [
+                "快速爬向你身邊", 
+                "縮起身子，突然向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "借助蛛网，闪开到了一边"
+            ], 
+            "en": [
+                "Evading towards the side with the help of the spider web"
+            ], 
+            "tw": [
+                "借助蛛網，閃開到了一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，蜘蛛挣扎了几下，失去了活动"
+            ], 
+            "en": [
+                ", the spider struggled for a moment and lost its mobility"
+            ], 
+            "tw": [
+                "，蜘蛛掙紮了幾下，失去了活動"
+            ]
+        }, 
+        "DESC": {
+            "cn": "洞穴中的蜘蛛，看样子可能有毒。", 
+            "en": "Spiders from the cave that look like they might be poisonous.", 
+            "tw": "洞穴中的蜘蛛，看樣子可能有毒。"
+        }, 
+        "AUDIO": "monster_spider"
+    }, 
+    "1047": {
+        "ID": "1047", 
+        "NAME": {
+            "cn": "蝙蝠", 
+            "en": "Bat", 
+            "tw": "蝙蝠"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 16, 
+        "LIFE": 30, 
+        "ATK": 18, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你飞来", 
+                "收起翅膀，向你俯冲"
+            ], 
+            "en": [
+                "Flies towards you with unbelievable speeds", 
+                "Retracting its wings, it swoops towards you"
+            ], 
+            "tw": [
+                "飛速向你飛來", 
+                "收起翅膀，向你俯沖"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "重重的咬了一下"
+            ], 
+            "en": [
+                "One hard bite"
+            ], 
+            "tw": [
+                "重重的咬了一下"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "凭借灵敏的飞行，躲开了攻击"
+            ], 
+            "en": [
+                "It dodged the attack with his agile flying skills"
+            ], 
+            "tw": [
+                "憑借靈敏的飛行，躲開了攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，蝙蝠一声惨叫，掉在了地上"
+            ], 
+            "en": [
+                "The Bat squealed and fell onto the ground"
+            ], 
+            "tw": [
+                "，蝙蝠一聲慘叫，掉在了地上"
+            ]
+        }, 
+        "DESC": {
+            "cn": "作为可以飞行的走兽，运用超声波回声定位，即使在黑暗中也有很强的战斗力。", 
+            "en": "As a land animal with flying capabilities that adopt echolocation, it possesses great battle capabilities in the dark.", 
+            "tw": "作為可以飛行的走獸，運用超聲波回聲定位，即使在黑暗中也有很強的戰鬥力。"
+        }, 
+        "AUDIO": "monster_bat"
+    }, 
+    "1048": {
+        "ID": "1048", 
+        "NAME": {
+            "cn": "洞魈", 
+            "en": "Cave Mandrill", 
+            "tw": "洞魈"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 13, 
+        "LIFE": 120, 
+        "ATK": 15, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "一个跃步，向你冲来", 
+                "吼叫着向你冲来"
+            ], 
+            "en": [
+                "With one leap, charges towards you", 
+                "Charges towards you, roaring"
+            ], 
+            "tw": [
+                "一個躍步，向你沖來", 
+                "吼叫著向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪拍下", 
+                "用尖牙咬了下去"
+            ], 
+            "en": [
+                "Using its claws and lashing out", 
+                "Bites down with sharp teeth"
+            ], 
+            "tw": [
+                "揮爪拍下", 
+                "用尖牙咬了下去"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "躲开了这次攻击而且显得更生气了"
+            ], 
+            "en": [
+                "Evades this attack and seems to be ever more angry"
+            ], 
+            "tw": [
+                "躲開了這次攻擊而且顯得更生氣了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，洞魈企图再爬起伤人，却因为伤势过重倒下了"
+            ], 
+            "en": [
+                ", cave mandrill tried to get up and attack again but went back down as its injuries were too severe"
+            ], 
+            "tw": [
+                "，洞魈企圖再爬起傷人，卻因為傷勢過重倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "鬼面獠牙，脾气暴躁，有着很强的攻击力", 
+            "en": "With the face of a devil and a bad temper, it has high attack rating", 
+            "tw": "鬼面僚牙，脾氣暴躁，有著很強的攻擊力"
+        }, 
+        "AUDIO": "monster_mking"
+    }, 
+    "1049": {
+        "ID": "1049", 
+        "NAME": {
+            "cn": "奇怪的蝙蝠", 
+            "en": "Strange bats", 
+            "tw": "奇怪的蝙蝠"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 30, 
+        "ATK": 7, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你飞来", 
+                "收起翅膀，向你俯冲"
+            ], 
+            "en": [
+                "Flies towards you with unbelievable speeds", 
+                "Retracting its wings, it swoops towards you"
+            ], 
+            "tw": [
+                "飛速向你飛來", 
+                "收起翅膀，向你俯沖"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "重重的咬了一下"
+            ], 
+            "en": [
+                "One hard bite"
+            ], 
+            "tw": [
+                "重重的咬了一下"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "凭借灵敏的飞行，躲开了攻击"
+            ], 
+            "en": [
+                "It dodged the attack with his agile flying skills"
+            ], 
+            "tw": [
+                "憑借靈敏的飛行，躲開了攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，奇怪的蝙蝠一声惨叫，掉在了地上"
+            ], 
+            "en": [
+                "，the Strange Bat cried in pain and dropped to the ground"
+            ], 
+            "tw": [
+                "，奇怪的蝙蝠一聲慘叫，掉在了地上"
+            ]
+        }, 
+        "DESC": {
+            "cn": "和普通的蝙蝠看上去总是有点不一样", 
+            "en": "look a little different from normal bat", 
+            "tw": "和普通的蝙蝠看上去總是有點不一樣"
+        }, 
+        "AUDIO": "monster_bat"
+    }, 
+    "1050": {
+        "ID": "1050", 
+        "NAME": {
+            "cn": "迷失的火鸡", 
+            "en": "Miss turkey", 
+            "tw": "迷失的火雞"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 40, 
+        "ATK": 1, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "扇着翅膀，向你冲来"
+            ], 
+            "en": [
+                "carries its wings, it swoops towards you"
+            ], 
+            "tw": [
+                "扇著翅膀，向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "重重的啄了一下"
+            ], 
+            "en": [
+                "One hard Peck"
+            ], 
+            "tw": [
+                "重重的啄了一下"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "扑腾着翅膀，躲开了攻击"
+            ], 
+            "en": [
+                "It dodged the attack with its wings "
+            ], 
+            "tw": [
+                "撲騰著翅膀，躲開了攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，迷失的火鸡惨叫，掉在了地上"
+            ], 
+            "en": [
+                "，Missing Turkey screamed ，falled to the ground"
+            ], 
+            "tw": [
+                "，迷失的火雞慘叫，掉在了地上"
+            ]
+        }, 
+        "DESC": {
+            "cn": "不知道从哪里迷失来的火鸡", 
+            "en": "The Missing Turkey which don't konw wherefrom ", 
+            "tw": "不知道從哪裏迷失來的火雞"
+        }, 
+        "AUDIO": "monster_turkey"
+    }, 
+    "1051": {
+        "ID": "1051", 
+        "NAME": {
+            "cn": "食人族守卫", 
+            "en": "Cannibal Guard", 
+            "tw": "食人族守衛"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 180, 
+        "ATK": 22, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "举着长枪向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a long spear"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "舉著長槍向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，食人族守卫挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The cannibal guard struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，食人族守衛掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "食人族守卫，比一般战士强大", 
+            "en": "The captain of the warriors from the cannibal tribe", 
+            "tw": "食人族守衛，比一般戰士強大"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1052": {
+        "ID": "1052", 
+        "NAME": {
+            "cn": "酸臭的狼", 
+            "en": "Estrus Wolf", 
+            "tw": "酸臭的狼"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 30, 
+        "ATK": 3, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 90, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "一脸鄙视单身狗的神情，向你冲来"
+            ], 
+            "en": [
+                "with a look disdains single dog, it swoops towards you"
+            ], 
+            "tw": [
+                "一臉鄙視單身狗的神情，向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "举起利爪"
+            ], 
+            "en": [
+                "Using its claws and lashing out"
+            ], 
+            "tw": [
+                "舉起利爪"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "向身旁一闪，躲开了单身狗的攻击"
+            ], 
+            "en": [
+                "It dodged the single dog's attack with its sidestep "
+            ], 
+            "tw": [
+                "向身旁一閃，躲開了單身狗的攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，酸臭的狼一声惨叫，进入了爱情的坟墓"
+            ], 
+            "en": [
+                "，Estrus Wolf screamed ，falled to the grave of love"
+            ], 
+            "tw": [
+                "，酸臭的狼一聲慘叫，進入了愛情的墳墓"
+            ]
+        }, 
+        "DESC": {
+            "cn": "散发着恋爱的酸臭味的狼。流落荒野还要虐狗，简直了！", 
+            "en": "A wolf in love. Single dog had been abused also in the wilderness.\nHoly Shit！", 
+            "tw": "散發著戀愛的酸臭味的狼。流落荒野還要虐狗，簡直了！"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1053": {
+        "ID": "1053", 
+        "NAME": {
+            "cn": "水黾", 
+            "en": "Water Skipper", 
+            "tw": "水黽"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 14, 
+        "LIFE": 60, 
+        "ATK": 8, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "快速爬向你身边", 
+                "缩起身子，突然向你扑来"
+            ], 
+            "en": [
+                "Climb to your side quickly", 
+                "Shrunk up and suddenly rush towards you"
+            ], 
+            "tw": [
+                "快速爬向你身邊", 
+                "縮起身子，突然向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "借助风势，闪开到了一边"
+            ], 
+            "en": [
+                "Evading towards the side with the help of the wind"
+            ], 
+            "tw": [
+                "借助風勢，閃開到了一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，水黾挣扎了几下，失去了活动"
+            ], 
+            "en": [
+                ", the Water Skipper struggled for a moment and lost its mobility"
+            ], 
+            "tw": [
+                "，水黽掙紮了幾下，失去了活動"
+            ]
+        }, 
+        "DESC": {
+            "cn": "迷宫中的水黾，看样子可能有毒。", 
+            "en": "Water Skipper from the maze that look like they might be poisonous.", 
+            "tw": "洞穴中的蜘蛛，看樣子可能有毒。"
+        }, 
+        "AUDIO": "monster_spider"
+    }, 
+    "1054": {
+        "ID": "1054", 
+        "NAME": {
+            "cn": "迷宫石像", 
+            "en": "Maze Statue", 
+            "tw": "迷宮石像"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 15, 
+        "LIFE": 120, 
+        "ATK": 5, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你移动过来", 
+                "举起武器向你走来"
+            ], 
+            "en": [
+                "Moving towards you", 
+                "Picks up a weapon and walks towards you"
+            ], 
+            "tw": [
+                "向你移動過來", 
+                "舉起武器向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "挪动身体，避开了这次攻击"
+            ], 
+            "en": [
+                "Moving its body and evade the attack"
+            ], 
+            "tw": [
+                "挪動身體，避開了這次攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，迷宫石像颤抖了起来，停在原地一动不动了"
+            ], 
+            "en": [
+                ", the Maze Statue started shaking and stopped in its tracks with no further movement"
+            ], 
+            "tw": [
+                "，迷宮石像顫抖了起來，停在原地一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "迷宫中的石像，不知触发了什么机关，对闯入者发起了攻击。", 
+            "en": "Don't know what trigger was tripped, but the Maze Statue started attacking the intruder.", 
+            "tw": "迷宮中的石像，不知觸發了什麽機關，對闖入者發起了攻擊。"
+        }, 
+        "AUDIO": "attack_blunt"
+    }, 
+    "1055": {
+        "ID": "1055", 
+        "NAME": {
+            "cn": "牛郎", 
+            "en": "Cowherd", 
+            "tw": "牛郎"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 140, 
+        "ATK": 6, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "拿着石斧向你跑来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a stone axe"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "拿著石斧向你跑來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，牛郎挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The cowherd struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，牛郎掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "牛郎织女是流传在中国民间最优秀的爱情传说之一，那牛郎与织女纯朴的爱情，是人们对爱好生活的憧憬和向往", 
+            "en": "Cowherd and Weaver Girl is one of the best love legends in China. The simple love between Cowherd and Weaver Girl is people's longing and yearning for life.", 
+            "tw": "牛郎織女是流傳在中國民間最優秀的愛情傳說之一，那牛郎與織女純樸的愛情，是人們對愛好生活的憧景和向往"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1056": {
+        "ID": "1056", 
+        "NAME": {
+            "cn": "织女", 
+            "en": "Weaver Girl", 
+            "tw": "織女"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 140, 
+        "ATK": 6, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你跑来", 
+                "拿着佩剑向你跑来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a sword"
+            ], 
+            "tw": [
+                "快步向你跑來", 
+                "拿著佩劍向你跑來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，织女挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The Weaver Girl struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，織女掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "牛郎织女是流传在中国民间最优秀的爱情传说之一，那牛郎与织女纯朴的爱情，是人们对爱好生活的憧憬和向往", 
+            "en": "Cowherd and Weaver Girl is one of the best love legends in China. The simple love between Cowherd and Weaver Girl is people's longing and yearning for life.", 
+            "tw": "牛郎織女是流傳在中國民間最優秀的愛情傳說之一，那牛郎與織女純樸的愛情，是人們對愛好生活的憧景和向往"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1057": {
+        "ID": 1057, 
+        "NAME": {
+            "cn": "鬣狗", 
+            "en": "Hyena", 
+            "tw": "鬣狗"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 20, 
+        "ATK": 3, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you quietly"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，鬣狗挣扎了几下，还是倒下了", 
+                "，鬣狗痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The hyena struggled for a while but eventually fell down", 
+                "The hyena let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，鬣狗掙紮了幾下，還是倒下了", 
+                "，鬣狗痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "鬣狗，喜欢群居", 
+            "en": "Hyena. However still need to be taken seriously.", 
+            "tw": "鬣狗，喜歡群居"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1058": {
+        "ID": 1058, 
+        "NAME": {
+            "cn": "毒蛇", 
+            "en": "Poisonous Snake", 
+            "tw": "毒蛇"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 6, 
+        "LIFE": 65, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 20, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "吐着信子向你扑来", 
+                "悄悄向你游来"
+            ], 
+            "en": [
+                "Gnashing its teeth and leaping towards you", 
+                "Sneakily swimming towards you"
+            ], 
+            "tw": [
+                "吐著信子向你撲來", 
+                "悄悄向你遊來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，毒蛇挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The poisonous snake struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，毒蛇掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "体型很大的一种毒蛇", 
+            "en": "A large poisonous snake", 
+            "tw": "體型很大的一種毒蛇"
+        }, 
+        "AUDIO": "monster_snake"
+    }, 
+    "1059": {
+        "ID": 1059, 
+        "NAME": {
+            "cn": "暴躁的灰熊", 
+            "en": "Irate Grey Bear", 
+            "tw": "暴躁的灰熊"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 4, 
+        "LIFE": 90, 
+        "ATK": 14, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 20, 
+        "FROZEN": 0, 
+        "HIT": 80, 
+        "DODGE": 3, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "嗷嗷地向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Grunting, it leaps towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "嗷嗷地向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，暴躁的灰熊挣扎了几下，还是倒下了", 
+                "，暴躁的灰熊痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The irate grey bear struggled for a while but eventually fell down", 
+                "The irate grey bear let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，暴躁的灰熊掙紮了幾下，還是倒下了", 
+                "，暴躁的灰熊痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "出没于林间和丘陵的灰熊", 
+            "en": "The grey bear that lives in the knoll and forest", 
+            "tw": "出沒於林間和丘陵的灰熊"
+        }, 
+        "AUDIO": "monster_bear"
+    }, 
+    "1060": {
+        "ID": 1060, 
+        "NAME": {
+            "cn": "真鳄龟", 
+            "en": "Alligator snapping turtle", 
+            "tw": "真鱷龜"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 17, 
+        "LIFE": 100, 
+        "ATK": 3, 
+        "DEF": 2, 
+        "ATK_SPD": 0.8, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 30, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "爬向你身边"
+            ], 
+            "en": [
+                "Crawls towards you quickly"
+            ], 
+            "tw": [
+                "爬向你身邊"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "缩进了壳里，这次攻击没有奏效"
+            ], 
+            "en": [
+                "Pull its head and feet inside its shell"
+            ], 
+            "tw": [
+                "縮進了殼里，這次攻擊沒有奏效"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，真鳄龟挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The alligator snapping turtle struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，真鱷龜掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "一种很有攻击性的乌龟", 
+            "en": "A very aggressive turtle", 
+            "tw": "一種很有攻擊性的烏龜"
+        }
+    }, 
+    "1061": {
+        "ID": 1061, 
+        "NAME": {
+            "cn": "豹", 
+            "en": "Leopard", 
+            "tw": "豹"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 18, 
+        "LIFE": 240, 
+        "ATK": 24, 
+        "DEF": 0, 
+        "ATK_SPD": 1.2, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 25, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "呼啸着向你扑来", 
+                "向你冲了过来"
+            ], 
+            "en": [
+                "Panting and leaping towards you", 
+                "Speeding towards you"
+            ], 
+            "tw": [
+                "呼嘯著向你撲來", 
+                "向你沖了過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，豹挣扎了几下，还是倒下了", 
+                "，豹痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The leopard struggled for a while but eventually fell down", 
+                "The fierce tiger let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，豹掙紮了幾下，還是倒下了", 
+                "，豹痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "敏捷的猫科动物", 
+            "en": "An agile cat", 
+            "tw": "敏捷的貓科動物"
+        }
+    }, 
+    "1062": {
+        "ID": 1062, 
+        "NAME": {
+            "cn": "猩猩", 
+            "en": "Orangutan", 
+            "tw": "猩猩"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 13, 
+        "LIFE": 100, 
+        "ATK": 10, 
+        "DEF": 0, 
+        "ATK_SPD": 1.2, 
+        "ATK_DIS": 8, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 10, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "一个跃步，向你冲来", 
+                "吼叫着向你冲来"
+            ], 
+            "en": [
+                "With one leap, charges towards you", 
+                "Charges towards you, roaring"
+            ], 
+            "tw": [
+                "一個躍步，向你沖來", 
+                "吼叫著向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "抓起一块石头向你扔了过来", 
+                "抓起自己的排泄物向你扔了过来"
+            ], 
+            "en": [
+                "Grab a stone and throw it at you", 
+                "Grab its shit and throw it at you"
+            ], 
+            "tw": [
+                "抓起一塊石頭向你扔了過來", 
+                "抓起自己的排泄物向你扔了過來"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "躲开了这次攻击而且显得更生气了"
+            ], 
+            "en": [
+                "Evades this attack and seems to be ever more angry"
+            ], 
+            "tw": [
+                "躲開了這次攻擊而且顯得更生氣了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，猩猩企图再爬起伤人，却因为伤势过重倒下了"
+            ], 
+            "en": [
+                ", orangutan tried to get up and attack again but went back down as its injuries were too severe"
+            ], 
+            "tw": [
+                "，猩猩企圖再爬起傷人，卻因為傷勢過重倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "一种聪明但也凶狠的灵长类生物", 
+            "en": "A clever but ferocious primate", 
+            "tw": "一種聰明但也兇狠的靈長類生物"
+        }
+    }, 
+    "1063": {
+        "ID": 1063, 
+        "NAME": {
+            "cn": "河马", 
+            "en": "Hippo", 
+            "tw": "河馬"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 20, 
+        "LIFE": 200, 
+        "ATK": 20, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你冲来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Rushing towards you"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "咬了一口"
+            ], 
+            "en": [
+                "Taking a bite"
+            ], 
+            "tw": [
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，河马挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The hippo struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，河馬掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "脾气暴躁的大型动物", 
+            "en": "A kind of big fiery animals", 
+            "tw": "脾氣暴躁的大型動物"
+        }
+    }, 
+    "1064": {
+        "ID": 1064, 
+        "NAME": {
+            "cn": "狐狸", 
+            "en": "Fox", 
+            "tw": "狐狸"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 21, 
+        "LIFE": 80, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 25, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you quietly"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，狐狸挣扎了几下，还是倒下了", 
+                "，狐狸痛苦的哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                "The fox struggled for a while but eventually fell down", 
+                "The fox let out one last painful roar and then lay there without further movement"
+            ], 
+            "tw": [
+                "，狐狸掙紮了幾下，還是倒下了", 
+                "，狐狸痛苦的哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "狐狸，灵巧而狡猾", 
+            "en": "The fox，clever and cunning.", 
+            "tw": "狐狸，靈巧而狡猾"
+        }
+    }, 
+    "1065": {
+        "ID": 1065, 
+        "NAME": {
+            "cn": "毒蝎", 
+            "en": "Scorpion", 
+            "tw": "毒蠍"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 14, 
+        "LIFE": 20, 
+        "ATK": 3, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 30, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 10, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快速爬向你身边"
+            ], 
+            "en": [
+                "Crawls towards you quickly"
+            ], 
+            "tw": [
+                "快速爬向你身邊"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "蛰了一下"
+            ], 
+            "en": [
+                "stung on your arm"
+            ], 
+            "tw": [
+                "蟄了一下"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "闪开到了一边"
+            ], 
+            "en": [
+                "Evading towards the side"
+            ], 
+            "tw": [
+                "閃開到了一邊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，毒蝎挣扎了几下，失去了活动"
+            ], 
+            "en": [
+                ", the spider struggled for a moment and lost its mobility"
+            ], 
+            "tw": [
+                "，毒蝎掙紮了幾下，失去了活動"
+            ]
+        }, 
+        "DESC": {
+            "cn": "虽然脆弱，但有毒性", 
+            "en": "Though fragile, it is toxic", 
+            "tw": "雖然脆弱，但有毒性"
+        }
+    }, 
+    "1066": {
+        "ID": 1066, 
+        "NAME": {
+            "cn": "暴躁狐猴", 
+            "en": "Grumpy Lemur", 
+            "tw": "暴躁狐猴"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 13, 
+        "LIFE": 100, 
+        "ATK": 10, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "飞速向你冲了过来", 
+                "一跃而起，向你扑来"
+            ], 
+            "en": [
+                "Rushing towards you at unbelievable speeds", 
+                "Jumping up and leaps towards you"
+            ], 
+            "tw": [
+                "飛速向你沖了過來", 
+                "一躍而起，向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "狠狠抓了一爪"
+            ], 
+            "en": [
+                "Clawed by a very strong claw"
+            ], 
+            "tw": [
+                "狠狠抓了一爪"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个后撤，避开了这次攻击"
+            ], 
+            "en": [
+                "Moving back, the attack has been evaded"
+            ], 
+            "tw": [
+                "一個後撤，避開了這次攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，暴躁狐猴挣扎了几下，倒了下去"
+            ], 
+            "en": [
+                ", the Grumpy Lemur struggled for a while and fell down with no further movement"
+            ], 
+            "tw": [
+                "，暴躁狐猴掙紮了幾下，倒了下去"
+            ]
+        }, 
+        "DESC": {
+            "cn": "一种动作灵敏且攻击性很强的狐猴。", 
+            "en": "A lemur  with quick movement and bad temper.", 
+            "tw": "一種動作靈敏且攻擊性很強的狐猴。"
+        }, 
+        "AUDIO": "monster_monkey"
+    }, 
+    "1067": {
+        "ID": 1067, 
+        "NAME": {
+            "cn": "变异研究员", 
+            "en": "Variant Researcher", 
+            "tw": "變異研究員"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 120, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "摇晃着向你走来", 
+                "嘶吼着向你扑来"
+            ], 
+            "en": [
+                "Walking towards you unsteadily", 
+                "Charging and snarling at you"
+            ], 
+            "tw": [
+                "搖晃著向你走來", 
+                "嘶吼著向你撲來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动沾满鲜血和黏液的手"
+            ], 
+            "en": [
+                "Waving his bloody hands filled with mucus"
+            ], 
+            "tw": [
+                "揮動沾滿鮮血和黏液的手"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，变异研究员挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The variant researcher struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，變異研究員掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "因病毒而变异的研究员", 
+            "en": "A researcher who mutates from a virus", 
+            "tw": "因病毒而變異的研究員"
+        }, 
+        "AUDIO": "monster_zombie"
+    }, 
+    "1068": {
+        "ID": 1068, 
+        "NAME": {
+            "cn": "变异小白鼠", 
+            "en": "Variant Mouse", 
+            "tw": "變異小白鼠"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 22, 
+        "LIFE": 60, 
+        "ATK": 10, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 30, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "急速向你窜来", 
+                "嘶叫着向你爬来"
+            ], 
+            "en": [
+                "Whipping towards you rapidly", 
+                "Crawling and screaming towards you"
+            ], 
+            "tw": [
+                "急速向你竄來", 
+                "嘶叫著向你爬來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "尖牙撕咬"
+            ], 
+            "en": [
+                "Bite with fangs"
+            ], 
+            "tw": [
+                "尖牙撕咬"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "快速从你手下窜出", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Run out of your hands quickly", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "快速從你手下竄出", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，尖叫一声，翻身暴毙"
+            ], 
+            "en": [
+                "Screaming,turn over and dead"
+            ], 
+            "tw": [
+                "，尖叫一聲，翻身暴斃"
+            ]
+        }, 
+        "DESC": {
+            "cn": "因病毒而变异的小白鼠", 
+            "en": "A mouse who mutates from a virus", 
+            "tw": "因病毒而變異的小白鼠"
+        }, 
+        "AUDIO": "monster_mouse"
+    }, 
+    "1069": {
+        "ID": 1069, 
+        "NAME": {
+            "cn": "变异猎狗", 
+            "en": "Variant Hound", 
+            "tw": "變異獵狗"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 1, 
+        "LIFE": 180, 
+        "ATK": 25, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you quietly"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，头骨破碎，仰倒在地", 
+                "，哀嚎了一声，一动不动了"
+            ], 
+            "en": [
+                ",Turning over with skull broken", 
+                ",Let out painful roar without further movement"
+            ], 
+            "tw": [
+                "，頭骨破碎，仰倒在地", 
+                "，哀嚎了一聲，一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "因病毒而变异的猎狗", 
+            "en": "A hound who mutates from a virus.", 
+            "tw": "因病毒而變異的獵狗"
+        }, 
+        "AUDIO": "monster_hound"
+    }, 
+    "1070": {
+        "ID": 1070, 
+        "NAME": {
+            "cn": "变异野猪", 
+            "en": "Variant Boar", 
+            "tw": "變異野豬"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 2, 
+        "LIFE": 180, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "哼哼着向你冲来", 
+                "向你冲锋过来"
+            ], 
+            "en": [
+                "Grunting, it dashes towards you", 
+                "Dashing towards you with blood slung"
+            ], 
+            "tw": [
+                "哼哼著向你沖來", 
+                "甩著血沫向你沖鋒過來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "暴力冲撞", 
+                "用力狠踩"
+            ], 
+            "en": [
+                "Coliding violently", 
+                "Stepping on you violently"
+            ], 
+            "tw": [
+                "暴力沖撞", 
+                "用力狠踩"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，变异野猪挣扎了几下，还是倒下了", 
+                "，满身鲜血，翻倒在地"
+            ], 
+            "en": [
+                "The variant boar struggled for a while but eventually fell down", 
+                "Bloody and tumbled to the ground"
+            ], 
+            "tw": [
+                "，變異野豬掙紮了幾下，還是倒下了", 
+                "，滿身鮮血，翻倒在地"
+            ]
+        }, 
+        "DESC": {
+            "cn": "因病毒而变异的野猪", 
+            "en": "A boar who mutates from a virus.", 
+            "tw": "因病毒而變異的野猪"
+        }, 
+        "AUDIO": "monster_boar"
+    }, 
+    "1071": {
+        "ID": 1071, 
+        "NAME": {
+            "cn": "机关甲人", 
+            "en": "Robot", 
+            "tw": "機關甲人"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 23, 
+        "LIFE": 80, 
+        "ATK": 20, 
+        "DEF": 5, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你走来"
+            ], 
+            "en": [
+                "Walking towards you"
+            ], 
+            "tw": [
+                "向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，机关甲人挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The robot struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，機關甲人掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "机关构造的甲人，有一定的威胁性", 
+            "en": "A kind of wood robot,with little threat.", 
+            "tw": "機關構造的甲人，有一定的威脅性"
+        }, 
+        "AUDIO": "monster_robot"
+    }, 
+    "1072": {
+        "ID": 1072, 
+        "NAME": {
+            "cn": "机关甲兵", 
+            "en": "Robot soldier", 
+            "tw": "機關甲兵"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 23, 
+        "LIFE": 230, 
+        "ATK": 25, 
+        "DEF": 5, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你走来"
+            ], 
+            "en": [
+                "Walking towards you"
+            ], 
+            "tw": [
+                "向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，机关甲兵挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The robot soldier struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，機關甲兵掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "专用于战斗的机关士兵，战斗力比较强", 
+            "en": "A robot soldier，which invented for fighting", 
+            "tw": "專用於戰鬥的機關士兵，戰鬥力比較強"
+        }, 
+        "AUDIO": "monster_robot"
+    }, 
+    "1073": {
+        "ID": 1073, 
+        "NAME": {
+            "cn": "机关猛兽", 
+            "en": "Robot beast", 
+            "tw": "機關猛獸"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 23, 
+        "LIFE": 120, 
+        "ATK": 14, 
+        "DEF": 3, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 30, 
+        "MOVE_SPD": 2, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你扑来", 
+                "向你走来", 
+                "悄悄向你走来"
+            ], 
+            "en": [
+                "Diving towards you", 
+                "Walking towards you", 
+                "Walking towards you quietly"
+            ], 
+            "tw": [
+                "向你撲來", 
+                "向你走來", 
+                "悄悄向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥爪", 
+                "咬了一口"
+            ], 
+            "en": [
+                "Captured", 
+                "Taking a bite"
+            ], 
+            "tw": [
+                "揮爪", 
+                "咬了一口"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "狡猾的躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Snidely evaded this attack", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "狡猾的躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，机关猛兽挣扎了几下，还是倒下了"
+            ], 
+            "en": [
+                "The Robot beast struggled for a while but eventually fell down"
+            ], 
+            "tw": [
+                "，機關猛獸掙紮了幾下，還是倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "模仿野兽外形制作的机关动物，灵活矫健", 
+            "en": "Robot beast that imitate the shape of wild beast,which is smart and vigorous.", 
+            "tw": "模仿野獸外形製作的機關動物，靈活矯健"
+        }, 
+        "AUDIO": "monster_robot"
+    }, 
+    "1074": {
+        "ID": 1074, 
+        "NAME": {
+            "cn": "遗迹石像", 
+            "en": "Forgotten Statue", 
+            "tw": "遺跡石像"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 15, 
+        "LIFE": 250, 
+        "ATK": 25, 
+        "DEF": 10, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你移动过来", 
+                "举起武器向你走来"
+            ], 
+            "en": [
+                "Moving towards you", 
+                "Picks up a weapon and walks towards you"
+            ], 
+            "tw": [
+                "向你移動過來", 
+                "舉起武器向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "挪动身体，避开了这次攻击"
+            ], 
+            "en": [
+                "Moving its body and evade the attack"
+            ], 
+            "tw": [
+                "挪動身體，避開了這次攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，遗迹石像颤抖了起来，停在原地一动不动了"
+            ], 
+            "en": [
+                ", the Forgotten Statue started shaking and stopped in its tracks with no further movement"
+            ], 
+            "tw": [
+                "，遺跡石像顫抖了起來，停在原地一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "遗迹中的石像，不知触发了什么机关，对闯入者发起了攻击。", 
+            "en": "Don't know what trigger was tripped, but the Forgotten Statue started attacking the intruder.", 
+            "tw": "遺跡中的石像，不知觸發了什麽機關，對闖入者發起了攻擊。"
+        }, 
+        "AUDIO": "attack_blunt"
+    }, 
+    "1075": {
+        "ID": 1075, 
+        "NAME": {
+            "cn": "遗迹石像", 
+            "en": "Forgotten Statue", 
+            "tw": "遺跡石像"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 15, 
+        "LIFE": 250, 
+        "ATK": 25, 
+        "DEF": 10, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 0, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "向你移动过来", 
+                "举起武器向你走来"
+            ], 
+            "en": [
+                "Moving towards you", 
+                "Picks up a weapon and walks towards you"
+            ], 
+            "tw": [
+                "向你移動過來", 
+                "舉起武器向你走來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "挪动身体，避开了这次攻击"
+            ], 
+            "en": [
+                "Moving its body and evade the attack"
+            ], 
+            "tw": [
+                "挪動身體，避開了這次攻擊"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，遗迹石像颤抖了起来，停在原地一动不动了"
+            ], 
+            "en": [
+                ", the Forgotten Statue started shaking and stopped in its tracks with no further movement"
+            ], 
+            "tw": [
+                "，遺跡石像顫抖了起來，停在原地一動不動了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "遗迹中的石像，不知触发了什么机关，对闯入者发起了攻击。", 
+            "en": "Don't know what trigger was tripped, but the Forgotten Statue started attacking the intruder.", 
+            "tw": "遺跡中的石像，不知觸發了什麽機關，對闖入者發起了攻擊。"
+        }, 
+        "AUDIO": "attack_blunt"
+    }, 
+    "1076": {
+        "ID": 1076, 
+        "NAME": {
+            "cn": "年兽", 
+            "en": "Nian", 
+            "tw": "年獸"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 24, 
+        "LIFE": 100, 
+        "ATK": 15, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 10, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "刹那间就到了你的身边"
+            ], 
+            "en": [
+                "Coming to your side in a moment"
+            ], 
+            "tw": [
+                "剎那間就到了你的身邊"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "举起利爪"
+            ], 
+            "en": [
+                "Using its claws and lashing out"
+            ], 
+            "tw": [
+                "舉起利爪"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，尖叫一声，顿时消失不见了"
+            ], 
+            "en": [
+                "Screaming,suddenly gone"
+            ], 
+            "tw": [
+                "，尖叫一聲，頓時消失不見了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "传说有一种野兽叫年。不同于其他野兽，年兽以时间为基本面而以空间为轴，年兽吞噬了人们一年的时间，也吞噬了人们辛劳的成果。", 
+            "en": "Legend has it that there are a kind of wild animal called the Nian. Unlike other beasts, the annual beasts take time to the fundamentals and space as the axis, the annual beasts devour the people's years, but also devour the fruits of people's hard work.", 
+            "tw": "傳說有一種野獸叫年。不同於其他野獸，年獸以時間為基本面而以空間為軸，年獸吞噬了人們一年的時間，也吞噬了人們辛勞的成果。"
+        }, 
+        "AUDIO": "monster_tiger"
+    }, 
+    "1077": {
+        "ID": 1077, 
+        "NAME": {
+            "cn": "夕兽", 
+            "en": "Xi", 
+            "tw": "夕獸"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 24, 
+        "LIFE": 160, 
+        "ATK": 30, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 10, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "将毛发一甩，就冲了上来"
+            ], 
+            "en": [
+                "Walking towards you"
+            ], 
+            "tw": [
+                "將毛發一甩，就沖了上來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "尖牙撕咬"
+            ], 
+            "en": [
+                "Bite with fangs"
+            ], 
+            "tw": [
+                "尖牙撕咬"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，尖叫一声，顿时消失不见了"
+            ], 
+            "en": [
+                "Screaming,suddenly gone"
+            ], 
+            "tw": [
+                "，尖叫一聲，頓時消失不見了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "传说夕兽是年兽的一种，这类野兽以时间为食物，但是惧怕巨大的响声，古时人们为了保障一年的辛劳不被吞噬，发明了鞭炮。", 
+            "en": "Legend has it that the Xi beast is a species of the Nian beast, this kind of beast with time for food, but afraid of the huge noise, in ancient times people in order to ensure that the hard work of the year is not swallowed, invented firecrackers.", 
+            "tw": "傳說夕獸是年獸的一種，這類野獸以時間為食物，但是懼怕巨大的響聲，古時人們為了保障一年的辛勞不被吞噬，發明了鞭炮。"
+        }, 
+        "AUDIO": "monster_wolf"
+    }, 
+    "1078": {
+        "ID": 1078, 
+        "NAME": {
+            "cn": "罗密欧的残影", 
+            "en": "Romeo's Shadow", 
+            "tw": "羅密歐的殘影"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 220, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你冲来", 
+                "拿着佩剑向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a sword"
+            ], 
+            "tw": [
+                "快步向你沖來", 
+                "拿著佩劍向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，罗密欧的残影尖叫一声，消失在了原地"
+            ], 
+            "en": [
+                "Romeo's shadow screamed and disappeared."
+            ], 
+            "tw": [
+                "，羅密歐的殘影尖叫一聲，消失在了原地"
+            ]
+        }, 
+        "DESC": {
+            "cn": "罗密欧与朱丽叶是英国剧作家威廉·莎士比亚创作的戏剧人物，他们彼此相爱，大胆追求他们的爱情，不惜以命拼争。是倡导自由平等、个性解放、婚姻自主的颂歌。", 
+            "en": "Romeo and Juliet are the dramatic characters of British playwright William Shakespeare, who love each other, pursue their love boldly and fight for their lives. is an ode to advocating freedom and equality, personality liberation, and marital autonomy.", 
+            "tw": "羅密歐與朱麗葉是英國劇作家威廉·莎士比亞創作的戲劇人物，他們彼此相愛，大膽追求他們的愛情，不惜以命拼爭。是倡導自由平等、個性解放、婚姻自主的頌歌。"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1079": {
+        "ID": 1079, 
+        "NAME": {
+            "cn": "朱丽叶的残影", 
+            "en": "Juliet's Shadow", 
+            "tw": "朱麗葉的殘影"
+        }, 
+        "TYPE": "1", 
+        "SPECIES": 8, 
+        "LIFE": 220, 
+        "ATK": 12, 
+        "DEF": 0, 
+        "ATK_SPD": 1.0, 
+        "ATK_DIS": 1, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 95, 
+        "DODGE": 5, 
+        "MOVE_SPD": 1, 
+        "MOVE_DESC": {
+            "cn": [
+                "快步向你冲来", 
+                "拿着佩剑向你冲来"
+            ], 
+            "en": [
+                "Running quickly towards you", 
+                "Running towards you holding a sword"
+            ], 
+            "tw": [
+                "快步向你沖來", 
+                "拿著佩劍向你沖來"
+            ]
+        }, 
+        "BITE_DESC": {
+            "cn": [
+                "挥动武器"
+            ], 
+            "en": [
+                "Wielding a weapon"
+            ], 
+            "tw": [
+                "揮動武器"
+            ]
+        }, 
+        "MISS_DESC": {
+            "cn": [
+                "一个闪身躲开了这次攻击", 
+                "灵巧的闪开了"
+            ], 
+            "en": [
+                "Evaded this attack with a dash of your body", 
+                "Evaded with agility"
+            ], 
+            "tw": [
+                "一個閃身躲開了這次攻擊", 
+                "靈巧的閃開了"
+            ]
+        }, 
+        "DEATH_DESC": {
+            "cn": [
+                "，朱丽叶的残影尖叫一声，消失在了原地"
+            ], 
+            "en": [
+                "Juliet's shadow screamed and disappeared."
+            ], 
+            "tw": [
+                "，朱麗葉的殘影尖叫一聲，消失在了原地"
+            ]
+        }, 
+        "DESC": {
+            "cn": "罗密欧与朱丽叶是英国剧作家威廉·莎士比亚创作的戏剧人物，他们彼此相爱，大胆追求他们的爱情，不惜以命拼争。是倡导自由平等、个性解放、婚姻自主的颂歌。", 
+            "en": "Romeo and Juliet are the dramatic characters of British playwright William Shakespeare, who love each other, pursue their love boldly and fight for their lives. is an ode to advocating freedom and equality, personality liberation, and marital autonomy.", 
+            "tw": "羅密歐與朱麗葉是英國劇作家威廉·莎士比亞創作的戲劇人物，他們彼此相愛，大膽追求他們的愛情，不惜以命拼爭。是倡導自由平等、個性解放、婚姻自主的頌歌。"
+        }, 
+        "AUDIO": "monster_human"
+    }, 
+    "1101": {
+        "ID": "1101", 
+        "NAME": {
+            "cn": "椰子树", 
+            "en": "Coconut Tree", 
+            "tw": "椰子樹"
+        }, 
+        "TYPE": "2", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，咔嚓一声，椰子树倒下了"
+            ], 
+            "en": [
+                "With a loud crack, the coconut tree fell down"
+            ], 
+            "tw": [
+                "，哢嚓一聲，椰子樹倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1102": {
+        "ID": "1102", 
+        "NAME": {
+            "cn": "藤蔓", 
+            "en": "Vine", 
+            "tw": "藤蔓"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，哗啦一声，藤蔓被你扯了下来"
+            ], 
+            "en": [
+                "Rip, you pulled the vine off"
+            ], 
+            "tw": [
+                "，嘩啦一聲，藤蔓被你扯了下來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1103": {
+        "ID": "1103", 
+        "NAME": {
+            "cn": "薄荷", 
+            "en": "Mint", 
+            "tw": "薄荷"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，哗啦一声，薄荷被你扯了下来"
+            ], 
+            "en": [
+                "Rip, you pulled the mint off"
+            ], 
+            "tw": [
+                "，嘩啦一聲，薄荷被你扯了下來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1104": {
+        "ID": "1104", 
+        "NAME": {
+            "cn": "竹子", 
+            "en": "Bamboo", 
+            "tw": "竹子"
+        }, 
+        "TYPE": "2", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，咔嚓一声，竹子被你砍倒了"
+            ], 
+            "en": [
+                "With a loud crack, you successfully brought down the bamboo"
+            ], 
+            "tw": [
+                "，哢嚓一聲，竹子被你砍倒了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1105": {
+        "ID": "1105", 
+        "NAME": {
+            "cn": "草药丛", 
+            "en": "Herbal Shrub", 
+            "tw": "草藥叢"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，哗啦一声，草药被你扯了下来"
+            ], 
+            "en": [
+                "Rip, you pulled the herbs off"
+            ], 
+            "tw": [
+                "，嘩啦一聲，草藥被你扯了下來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1106": {
+        "ID": "1106", 
+        "NAME": {
+            "cn": "蜂窝", 
+            "en": "Beehive", 
+            "tw": "蜂窩"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "蜂蜜被你从蜂窝里掏了出来"
+            ], 
+            "en": [
+                "You extracted the honey from the beehive"
+            ], 
+            "tw": [
+                "蜂蜜被你從蜂窩裏掏了出來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1107": {
+        "ID": "1107", 
+        "NAME": {
+            "cn": "乔木", 
+            "en": "Arborwood", 
+            "tw": "喬木"
+        }, 
+        "TYPE": "2", 
+        "SPECIES": 12, 
+        "LIFE": 70, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，咔嚓一声，乔木倒下了"
+            ], 
+            "en": [
+                "With a loud crack, the arborwood tree fell down"
+            ], 
+            "tw": [
+                "，哢嚓一聲，喬木倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1108": {
+        "ID": "1108", 
+        "NAME": {
+            "cn": "松木", 
+            "en": "Pinewood", 
+            "tw": "松木"
+        }, 
+        "TYPE": "2", 
+        "SPECIES": 12, 
+        "LIFE": 70, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，咔嚓一声，松木倒下了"
+            ], 
+            "en": [
+                "With a loud crack, the pinewood tree fell down"
+            ], 
+            "tw": [
+                "，哢嚓一聲，松木倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1109": {
+        "ID": "1109", 
+        "NAME": {
+            "cn": "烧焦的树", 
+            "en": "Charred Tree", 
+            "tw": "燒焦的樹"
+        }, 
+        "TYPE": "2", 
+        "SPECIES": 12, 
+        "LIFE": 40, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，咔嚓一声，烧焦的树倒下了"
+            ], 
+            "en": [
+                "With a loud crack, the charred tree fell down"
+            ], 
+            "tw": [
+                "，哢嚓一聲，燒焦的樹倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1110": {
+        "ID": "1110", 
+        "NAME": {
+            "cn": "桂花树", 
+            "en": "Fragrans trees", 
+            "tw": "桂花樹"
+        }, 
+        "TYPE": "2", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，咔嚓一声，桂花树倒下了"
+            ], 
+            "en": [
+                "With a loud crack, the Fragrans trees fell down"
+            ], 
+            "tw": [
+                "，哢嚓一聲，桂花樹倒下了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1111": {
+        "ID": "1111", 
+        "NAME": {
+            "cn": "赤芝", 
+            "en": "Ganoderma lucidum", 
+            "tw": "赤芝"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，哗啦一声，赤芝被你扯了下来"
+            ], 
+            "en": [
+                "Rip, you pulled the lucidum off"
+            ], 
+            "tw": [
+                "，嘩啦一聲，赤芝被你扯了下來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1112": {
+        "ID": "1112", 
+        "NAME": {
+            "cn": "木耳", 
+            "en": "Fungus", 
+            "tw": "木耳"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，哗啦一声，木耳被你扯了下来"
+            ], 
+            "en": [
+                "Rip, you pulled the fungus off"
+            ], 
+            "tw": [
+                "，嘩啦一聲，木耳被你扯了下來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1201": {
+        "ID": "1201", 
+        "NAME": {
+            "cn": "石片", 
+            "en": "Stone Slab", 
+            "tw": "石片"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，一片锋利的石片被你从石头上敲了下来"
+            ], 
+            "en": [
+                ", you knocked down a sharp stone slab from above your head"
+            ], 
+            "tw": [
+                "，一片鋒利的石片被你從石頭上敲了下來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1202": {
+        "ID": "1202", 
+        "NAME": {
+            "cn": "硝石", 
+            "en": "Saltpeter", 
+            "tw": "硝石"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，硝石被你从泥土和沙石中分离了出来"
+            ], 
+            "en": [
+                ", you removed a piece of saltpeter from within the mud and sandstone"
+            ], 
+            "tw": [
+                "，硝石被你從泥土和沙石中分離了出來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1216": {
+        "ID": "1216", 
+        "NAME": {
+            "cn": "石块", 
+            "en": "Stone", 
+            "tw": "石塊"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，一块适合建造的石块被你找了出来"
+            ], 
+            "en": [
+                ", you found a piece of stone suitable for creating things"
+            ], 
+            "tw": [
+                "，一塊適合建造的石塊被你找了出來"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1217": {
+        "ID": "1217", 
+        "NAME": {
+            "cn": "石片", 
+            "en": "Stone Slab", 
+            "tw": "石片"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "，一块锋利的石片磨好了"
+            ], 
+            "en": [
+                ", a sharp stone slab has been created from sanding and filing"
+            ], 
+            "tw": [
+                "，一塊鋒利的石片磨好了"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1221": {
+        "ID": "1221", 
+        "NAME": {
+            "cn": "赤色圆球", 
+            "en": "Red Orb", 
+            "tw": "赤色圓球"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 60, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你找到一个神秘的圆球"
+            ], 
+            "en": [
+                "You found a Mystery Orb"
+            ], 
+            "tw": [
+                "你找到一個神秘的圓球"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1222": {
+        "ID": "1222", 
+        "NAME": {
+            "cn": "橙色圆球", 
+            "en": "Orange Orb", 
+            "tw": "橙色圓球"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 100, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你找到一个神秘的圆球"
+            ], 
+            "en": [
+                "You found a Mystery Orb"
+            ], 
+            "tw": [
+                "你找到一個神秘的圓球"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1223": {
+        "ID": "1223", 
+        "NAME": {
+            "cn": "黄色圆球", 
+            "en": "Yellow Orb", 
+            "tw": "黃色圓球"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 100, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你找到一个神秘的圆球"
+            ], 
+            "en": [
+                "You found a Mystery Orb"
+            ], 
+            "tw": [
+                "你找到一個神秘的圓球"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1225": {
+        "ID": "1225", 
+        "NAME": {
+            "cn": "青色圆球", 
+            "en": "Green Orb", 
+            "tw": "青色圓球"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 100, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你找到一个神秘的圆球"
+            ], 
+            "en": [
+                "You found a Mystery Orb"
+            ], 
+            "tw": [
+                "你找到一個神秘的圓球"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1226": {
+        "ID": "1226", 
+        "NAME": {
+            "cn": "蓝色圆球", 
+            "en": "Blue Orb", 
+            "tw": "藍色圓球"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 100, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你找到一个神秘的圆球"
+            ], 
+            "en": [
+                "You found a Mystery Orb"
+            ], 
+            "tw": [
+                "你找到一個神秘的圓球"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1227": {
+        "ID": "1227", 
+        "NAME": {
+            "cn": "紫色圆球", 
+            "en": "Violet Orb", 
+            "tw": "紫色圓球"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 100, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你找到一个神秘的圆球"
+            ], 
+            "en": [
+                "You found a Mystery Orb"
+            ], 
+            "tw": [
+                "你找到一個神秘的圓球"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }, 
+    "1231": {
+        "ID": "1231", 
+        "NAME": {
+            "cn": "海盐", 
+            "en": "Sea Salt", 
+            "tw": "海鹽"
+        }, 
+        "TYPE": "3", 
+        "SPECIES": 12, 
+        "LIFE": 100, 
+        "ATK": 100, 
+        "DEF": 0, 
+        "ATK_SPD": 2.0, 
+        "ATK_DIS": 2, 
+        "POISON": 0, 
+        "DIZZINESS": 0, 
+        "FROZEN": 0, 
+        "HIT": 100, 
+        "DODGE": 20, 
+        "MOVE_SPD": 1, 
+        "DEATH_DESC": {
+            "cn": [
+                "你收集了部分海盐"
+            ], 
+            "en": [
+                "You collected a portion of sea salt"
+            ], 
+            "tw": [
+                "你收集了部分海鹽"
+            ]
+        }, 
+        "DESC": {
+            "cn": "", 
+            "en": "", 
+            "tw": ""
+        }
+    }
+}

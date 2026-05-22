@@ -1,0 +1,443 @@
+{
+    "Aa1": {
+        "IMG": "Texture/Story/Aa1"
+    },
+    "Aa2": {
+        "IMG": "Texture/Story/Aa2"
+    },
+    "Aa3": {
+        "IMG": "Texture/Story/Aa3"
+    },
+    "Aa4": {
+        "IMG": "Texture/Story/Aa4"
+    },
+    "Ab1": {
+        "IMG": "Texture/Story/Ab1"
+    },
+    "Ad1": {
+        "IMG": "Texture/Story/Ad1"
+    },
+    "Ae1": {
+        "IMG": "Texture/Story/Ae1"
+    },
+    "Af1": {
+        "IMG": "Texture/Story/Af1"
+    },
+    "Af2": {
+        "IMG": "Texture/Story/Af2"
+    },
+    "Af3": {
+        "IMG": "Texture/Story/Af3"
+    },
+    "Ag1": {
+        "IMG": "Texture/Story/Ag1"
+    },
+    "Ag2": {
+        "IMG": "Texture/Story/Ag2"
+    },
+    "Ag3": {
+        "IMG": "Texture/Story/Ag3"
+    },
+    "Ag4": {
+        "IMG": "Texture/Story/Ag4"
+    },
+    "Ag5": {
+        "IMG": "Texture/Story/Ag5"
+    },
+    "Ah1": {
+        "IMG": "Texture/Story/Ah1"
+    },
+    "Ah2": {
+        "IMG": "Texture/Story/Ah2"
+    },
+    "Ai1": {
+        "IMG": "Texture/Story/Ai1"
+    },
+    "Aj1": {
+        "IMG": "Texture/Story/Aj1"
+    },
+    "Ak1": {
+        "IMG": "Texture/Story/Ak1"
+    },
+    "Al1": {
+        "IMG": "Texture/Story/Al1"
+    },
+    "Al2": {
+        "IMG": "Texture/Story/Al2"
+    },
+    "Am1": {
+        "IMG": "Texture/Story/Am1"
+    },
+    "Am2": {
+        "IMG": "Texture/Story/Am2"
+    },
+    "Am3": {
+        "IMG": "Texture/Story/Am3"
+    },
+    "An1": {
+        "IMG": "Texture/Story/An1"
+    },
+    "At1": {
+        "IMG": "Texture/Story/At1"
+    },
+    "Au1": {
+        "IMG": "Texture/Story/Au1"
+    },
+    "Av1": {
+        "IMG": "Texture/Story/Av1"
+    },
+    "Av2": {
+        "IMG": "Texture/Story/Av2"
+    },
+    "Ba1": {
+        "IMG": "Texture/Story/Ba1"
+    },
+    "Ba2": {
+        "IMG": "Texture/Story/Ba2"
+    },
+    "Ba3": {
+        "IMG": "Texture/Story/Ba3"
+    },
+    "Ba4": {
+        "IMG": "Texture/Story/Ba4"
+    },
+    "Ba5": {
+        "IMG": "Texture/Story/Ba5"
+    },
+    "Ba6": {
+        "IMG": "Texture/Story/Ba6"
+    },
+    "Ba7": {
+        "IMG": "Texture/Story/Ba7"
+    },
+    "Ba8": {
+        "IMG": "Texture/Story/Ba8"
+    },
+    "Ba9": {
+        "IMG": "Texture/Story/Ba9"
+    },
+    "Ba10": {
+        "IMG": "Texture/Story/Ba10"
+    },
+    "Ba11": {
+        "IMG": "Texture/Story/Ba11"
+    },
+    "Ba12": {
+        "IMG": "Texture/Story/Ba12"
+    },
+    "Bb1": {
+        "IMG": "Texture/Story/Bb1"
+    },
+    "Bc1": {
+        "IMG": "Texture/Story/Bc1"
+    },
+    "Bc2": {
+        "IMG": "Texture/Story/Bc2"
+    },
+    "Bd1": {
+        "IMG": "Texture/Story/Bd1"
+    },
+    "Bd2": {
+        "IMG": "Texture/Story/Bd2"
+    },
+    "Be1": {
+        "IMG": "Texture/Story/Be1"
+    },
+    "Be2": {
+        "IMG": "Texture/Story/Be2"
+    },
+    "Bf1": {
+        "IMG": "Texture/Story/Bf1"
+    },
+    "Bf2": {
+        "IMG": "Texture/Story/Bf2"
+    },
+    "Bf3": {
+        "IMG": "Texture/Story/Bf3"
+    },
+    "Bg1": {
+        "IMG": "Texture/Story/Bg1"
+    },
+    "Bh1": {
+        "IMG": "Texture/Story/Bh1"
+    },
+    "Bh2": {
+        "IMG": "Texture/Story/Bh2"
+    },
+    "Da1": {
+        "IMG": "Texture/Story/Da1"
+    },
+    "Da2": {
+        "IMG": "Texture/Story/Da2"
+    },
+    "Db1": {
+        "IMG": "Texture/Story/Db1"
+    },
+    "Dc1": {
+        "IMG": "Texture/Story/Dc1"
+    },
+    "De1": {
+        "IMG": "Texture/Story/De1"
+    },
+    "De2": {
+        "IMG": "Texture/Story/De2"
+    },
+    "Fa1": {
+        "IMG": "Texture/Story/Fa1"
+    },
+    "Fa2": {
+        "IMG": "Texture/Story/Fa2"
+    },
+    "Fa3": {
+        "IMG": "Texture/Story/Fa3"
+    },
+    "Fa4": {
+        "IMG": "Texture/Story/Fa4"
+    },
+    "Fa5": {
+        "IMG": "Texture/Story/Fa5"
+    },
+    "Fa6": {
+        "IMG": "Texture/Story/Fa6"
+    },
+    "Fb1": {
+        "IMG": "Texture/Story/Fb1"
+    },
+    "Fc1": {
+        "IMG": "Texture/Story/Fc1"
+    },
+    "Fd1": {
+        "IMG": "Texture/Story/Fd1"
+    },
+    "Fd2": {
+        "IMG": "Texture/Story/Fd2"
+    },
+    "Fd3": {
+        "IMG": "Texture/Story/Fd3"
+    },
+    "Fe1": {
+        "IMG": "Texture/Story/Fe1"
+    },
+    "Fe2": {
+        "IMG": "Texture/Story/Fe2"
+    },
+    "Fe3": {
+        "IMG": "Texture/Story/Fe3"
+    },
+    "Ff1": {
+        "IMG": "Texture/Story/Ff1"
+    },
+    "Ff2": {
+        "IMG": "Texture/Story/Ff2"
+    },
+    "Ff3": {
+        "IMG": "Texture/Story/Ff3"
+    },
+    "Ja1": {
+        "IMG": "Texture/Story/Ja1"
+    },
+    "Ja2": {
+        "IMG": "Texture/Story/Ja2"
+    },
+    "Ja3": {
+        "IMG": "Texture/Story/Ja3"
+    },
+    "Ja4": {
+        "IMG": "Texture/Story/Ja4"
+    },
+    "Ja5": {
+        "IMG": "Texture/Story/Ja5"
+    },
+    "Ja6": {
+        "IMG": "Texture/Story/Ja6"
+    },
+    "Ja7": {
+        "IMG": "Texture/Story/Ja7"
+    },
+    "Ja8": {
+        "IMG": "Texture/Story/Ja8"
+    },
+    "Ja9": {
+        "IMG": "Texture/Story/Ja9"
+    },
+    "Jb1": {
+        "IMG": "Texture/Story/Jb1"
+    },
+    "Jb2": {
+        "IMG": "Texture/Story/Jb2"
+    },
+    "Jb3": {
+        "IMG": "Texture/Story/Jb3"
+    },
+    "Jf1": {
+        "IMG": "Texture/Story/Jf1"
+    },
+    "Jf2": {
+        "IMG": "Texture/Story/Jf2"
+    },
+    "Jh1": {
+        "IMG": "Texture/Story/Jh1"
+    },
+    "Ji1": {
+        "IMG": "Texture/Story/Ji1"
+    },
+    "Ji2": {
+        "IMG": "Texture/Story/Ji2"
+    },
+    "La1": {
+        "IMG": "Texture/Story/La1"
+    },
+    "La2": {
+        "IMG": "Texture/Story/La2"
+    },
+    "Lb1": {
+        "IMG": "Texture/Story/Lb1"
+    },
+    "Le1": {
+        "IMG": "Texture/Story/Le1"
+    },
+    "Le2": {
+        "IMG": "Texture/Story/Le2"
+    },
+    "Lg1": {
+        "IMG": "Texture/Story/Lg1"
+    },
+    "Lh1": {
+        "IMG": "Texture/Story/Lh1"
+    },
+    "Lh2": {
+        "IMG": "Texture/Story/Lh2"
+    },
+    "Ya1": {
+        "IMG": "Texture/Story/Ya1"
+    },
+    "Ya2": {
+        "IMG": "Texture/Story/Ya2"
+    },
+    "Ya3": {
+        "IMG": "Texture/Story/Ya3"
+    },
+    "Ya4": {
+        "IMG": "Texture/Story/Ya4"
+    },
+    "Ya5": {
+        "IMG": "Texture/Story/Ya5"
+    },
+    "Ya6": {
+        "IMG": "Texture/Story/Ya6"
+    },
+    "Ya7": {
+        "IMG": "Texture/Story/Ya7"
+    },
+    "Ya8": {
+        "IMG": "Texture/Story/Ya8"
+    },
+    "Ya9": {
+        "IMG": "Texture/Story/Ya9"
+    },
+    "Yb1": {
+        "IMG": "Texture/Story/Yb1"
+    },
+    "Yb2": {
+        "IMG": "Texture/Story/Yb2"
+    },
+    "Yb3": {
+        "IMG": "Texture/Story/Yb3"
+    },
+    "Yd1": {
+        "IMG": "Texture/Story/Yd1"
+    },
+    "Yd2": {
+        "IMG": "Texture/Story/Yd2"
+    },
+    "Ye1": {
+        "IMG": "Texture/Story/Ye1"
+    },
+    "Yf1": {
+        "IMG": "Texture/Story/Yf1"
+    },
+    "Yf2": {
+        "IMG": "Texture/Story/Yf2"
+    },
+    "Yg1": {
+        "IMG": "Texture/Story/Yg1"
+    },
+    "Yh1": {
+        "IMG": "Texture/Story/Yh1"
+    },
+    "Yh2": {
+        "IMG": "Texture/Story/Yh2"
+    },
+    "Yi1": {
+        "IMG": "Texture/Story/Yi1"
+    },
+    "Yi2": {
+        "IMG": "Texture/Story/Yi2"
+    },
+    "Ka1": {
+        "IMG": "Texture/Story/Ka1"
+    },
+    "Ka2": {
+        "IMG": "Texture/Story/Ka2"
+    },
+    "Ka3": {
+        "IMG": "Texture/Story/Ka3"
+    },
+    "Ka4": {
+        "IMG": "Texture/Story/Ka4"
+    },
+    "Ka5": {
+        "IMG": "Texture/Story/Ka5"
+    },
+    "Ka6": {
+        "IMG": "Texture/Story/Ka6"
+    },
+    "Ka7": {
+        "IMG": "Texture/Story/Ka7"
+    },
+    "Ka8": {
+        "IMG": "Texture/Story/Ka8"
+    },
+    "Ka9": {
+        "IMG": "Texture/Story/Ka9"
+    },
+    "Ka10": {
+        "IMG": "Texture/Story/Ka10"
+    },
+    "Ka11": {
+        "IMG": "Texture/Story/Ka11"
+    },
+    "Ka12": {
+        "IMG": "Texture/Story/Ka12"
+    },
+    "Kb1": {
+        "IMG": "Texture/Story/Kb1"
+    },
+    "Kd1": {
+        "IMG": "Texture/Story/Kd1"
+    },
+    "Ke1": {
+        "IMG": "Texture/Story/Ke1"
+    },
+    "Ke2": {
+        "IMG": "Texture/Story/Ke2"
+    },
+    "Kf1": {
+        "IMG": "Texture/Story/Kf1"
+    },
+    "Kf2": {
+        "IMG": "Texture/Story/Kf2"
+    },
+    "Kf3": {
+        "IMG": "Texture/Story/Kf3"
+    },
+    "Kg1": {
+        "IMG": "Texture/Story/Kg1"
+    },
+    "Kh1": {
+        "IMG": "Texture/Story/Kh1"
+    },
+    "Kh2": {
+        "IMG": "Texture/Story/Kh2"
+    }
+}

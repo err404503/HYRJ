@@ -1,0 +1,32 @@
+{
+    "5036": {
+        "ID": "5036",
+        "NAME": {
+            "cn": "箱子",
+            "en": "Box",
+            "tw": "箱子"
+        },
+        "PIC": "Texture/Monster/1211",
+        "OPEN_WAYS": [
+            "0",
+            "4100#4100_1",
+            "4112#4112_1#4127#4129"
+        ],
+        "DROP_ID": 7005,
+        "DESC": {
+            "cn": "你感觉鱼钩好像钩住什么重物，费了不小的劲儿拉出一个破旧的箱子",
+            "en": "You feel the fishing hook as caught onto an animal. You struggle to reel it in and realise you have found an old box.",
+            "tw": "你感覺魚鉤好像鉤住什麽重物，費了不小的勁兒拉出一個破舊的箱子"
+        },
+        "DESC1": {
+            "cn": "努力开启中...",
+            "en": "Opening",
+            "tw": "努力開啟中..."
+        },
+        "DESC2": {
+            "cn": "你成功开启了箱子",
+            "en": "You successfully open the box",
+            "tw": "你成功開啟了箱子"
+        }
+    }
+}

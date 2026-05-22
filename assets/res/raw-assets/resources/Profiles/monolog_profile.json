@@ -1,0 +1,530 @@
+{
+    "1": {
+        "TIPS": {
+            "cn": "生食容易造成感染，我可不想一身寄生虫，应该生堆火来烤熟食物。",
+            "en": "Raw food can cause infections. I don't want to be infected with parasites. We need to make a fire and cook the food.",
+            "tw": "生食容易造成感染，我可不想一身寄生蟲，應該生堆火來烤熟食物。"
+        },
+        "COND": {
+            "1003": {
+                "2": 1
+            },
+            "1004": {
+                "4020": 4
+            }
+        }
+    },
+    "2": {
+        "TIPS": {
+            "cn": "日后难免会有受伤或是失眠，我应该建一个药盒，未雨绸缪。",
+            "en": "There are bound to be injuries and insomnia, I should make a First Aid Kit to prepare for the worst.",
+            "tw": "日後難免會有受傷或是失眠，我應該建一個藥盒，未雨綢繆。"
+        },
+        "COND": {
+            "1003": [
+                {
+                    "8": {
+                        "UNLOCK": true,
+                        "COMPLETE": true
+                    }
+                }
+            ],
+            "1004": {
+                "4003": 1
+            }
+        }
+    },
+    "3": {
+        "TIPS": {
+            "cn": "我感觉不太舒服，内伤会导致身体状态急速降低，需要找点东西治疗下。",
+            "en": "I don't feel well. Internal injury causes my physical state to drop dramatically. I need to find something to cure it.",
+            "tw": "我感覺不太舒服，內傷會導致身體狀態急速降低，需要找點東西治療下。"
+        },
+        "COND": {
+            "1009": {
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 80
+                }
+            }
+        }
+    },
+    "4": {
+        "TIPS": {
+            "cn": "注意！内伤加重了，再不医治可能导致死亡！",
+            "en": "Attention, internal injury has worsened. If no medication is sought immediately you could die.",
+            "tw": "註意！內傷加重了，再不醫治可能導致死亡！"
+        },
+        "COND": {
+            "1009": {
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 65
+                }
+            }
+        }
+    },
+    "5": {
+        "TIPS": {
+            "cn": "内伤紧急！！立刻治疗！！我还不想死！",
+            "en": "Internal injury emergency!! Treat immediately!! I don't want to die!",
+            "tw": "內傷緊急！！立刻治療！！我還不想死！"
+        },
+        "COND": {
+            "1009": {
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 50
+                }
+            }
+        }
+    },
+    "6": {
+        "TIPS": {
+            "cn": "外伤需要及时的治疗，继续加重的话会导致内伤。",
+            "en": "External injury needs immediate treatment as if it worsens it could lead to internal injury.",
+            "tw": "外傷需要及時的治療，繼續加重的話會導致內傷。"
+        },
+        "COND": {
+            "1009": {
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 80
+                }
+            }
+        }
+    },
+    "7": {
+        "TIPS": {
+            "cn": "外伤有点严重，需要尽快治疗，尝试在药箱制作绷带给伤口包扎。",
+            "en": "External injury is quite bad and needs swift treatment. Attempt to using the medicine box to make a bandage to cover up the wound.",
+            "tw": "外傷有點嚴重，需要盡快治療，嘗試在藥箱制作繃帶給傷口包紮。"
+        },
+        "COND": {
+            "1009": {
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 65
+                }
+            }
+        }
+    },
+    "8": {
+        "TIPS": {
+            "cn": "外伤加重，伤口会加剧内伤感染，在不采取措施可能会有生命危险。",
+            "en": "External injury worsening could lead to infection and if you don't do something about it, you could die.",
+            "tw": "外傷加重，傷口會加劇內傷感染，在不采取措施可能會有生命危險。"
+        },
+        "COND": {
+            "1009": {
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 50
+                }
+            }
+        }
+    },
+    "9": {
+        "TIPS": {
+            "cn": "肚子开始叫了，我得找点东西填填肚子。",
+            "en": "Stomach is grumbling, I need to find something to eat.",
+            "tw": "肚子開始叫了，我得找點東西填填肚子。"
+        },
+        "COND": {
+            "1009": {
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 30
+                }
+            }
+        }
+    },
+    "10": {
+        "TIPS": {
+            "cn": "胃饿的有些抽搐，这样下去恐怕会对身体造成伤害，该不会饿死吧。",
+            "en": "My hunger is causing my stomach to spasm, if this continues it could lead to other bodily harm. I can't die from hunger can I?",
+            "tw": "胃餓的有些抽搐，這樣下去恐怕會對身體造成傷害，該不會餓死吧。"
+        },
+        "COND": {
+            "1009": {
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 10
+                }
+            }
+        }
+    },
+    "11": {
+        "TIPS": {
+            "cn": "好困啊，提不起劲攻击，精神不足的话很难命中对方。",
+            "en": "So sleepy that I don't have energy to attack. Lack of energy means I have lower chance of hitting the opponent.",
+            "tw": "好困啊，提不起勁攻擊，精神不足的話很難命中對方。"
+        },
+        "COND": {
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 30
+                }
+            }
+        }
+    },
+    "12": {
+        "TIPS": {
+            "cn": "我需要休息，这种状态我不可能再继续战斗下去，再次战斗就是作死。",
+            "en": "I need rest as I can't fight on like this. Entering another fight like this is like looking for death.",
+            "tw": "我需要休息，這種狀態我不可能再繼續戰鬥下去，再次戰鬥就是作死。"
+        },
+        "COND": {
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 15
+                }
+            }
+        }
+    },
+    "13": {
+        "TIPS": {
+            "cn": "现在这状态可不太妙，先把伤口治好，然后美美睡上一觉。",
+            "en": "My state is not very well. I need to heal my injury and have a good night's rest.",
+            "tw": "現在這狀態可不太妙，先把傷口治好，然後美美睡上一覺。"
+        },
+        "COND": {
+            "1009": {
+                "7003": {
+                    "MIN": 0,
+                    "MAX": 150
+                }
+            }
+        }
+    },
+    "14": {
+        "TIPS": {
+            "cn": "失眠了，我需要喝点薄荷茶或者蜂蜜之类的来帮助入睡。",
+            "en": "Insomnia, I need to have some mint tea or honey water to help me sleep.",
+            "tw": "失眠了，我需要喝點薄荷茶或者蜂蜜之類的來幫助入睡。"
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 60,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "15": {
+        "TIPS": {
+            "cn": "根本睡不着，我的失眠非常严重，这样下去即使躺在床上我也没法通过睡眠来恢复身体。",
+            "en": "Can't sleep at all, my insomnia is very bad. In this case, even if I am lying down my body will not recover its energy.",
+            "tw": "根本睡不著，我的失眠非常嚴重，這樣下去即使躺在床上我也沒法通過睡眠來恢復身體。"
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 85,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "16": {
+        "TIPS": {
+            "cn": "我觉得有必要做一把斧头，既能当做武器也能撸树。只要有石块和木头就能在工具台做了。",
+            "en": "I think I need to make an axe. It could be used as a weapon and also to cut down trees. All I need is stones and timber to make it on the tool desk.",
+            "tw": "我覺得有必要做一把斧頭，既能當做武器也能擼樹。只要有石塊和木頭就能在工具臺做了。"
+        },
+        "COND": {
+            "1004": {
+                "4000": 1,
+                "4004": 1
+            },
+            "1019": {
+                "4100": 0
+            }
+        }
+    },
+    "17": {
+        "TIPS": {
+            "cn": "野外容易迷路，尤其是晚上。我应该做个火把，装备一个火把能有效的减少迷路的概率。",
+            "en": "It is easy to get lost in the wild, especially at night. I need to make a flame torch to lower the chances of getting lost.",
+            "tw": "野外容易迷路，尤其是晚上。我應該做個火把，裝備一個火把能有效的減少迷路的概率。"
+        },
+        "COND": {
+            "1004": {
+                "4028": 1
+            },
+            "1019": {
+                "4114": 0
+            }
+        }
+    },
+    "18": {
+        "TIPS": {
+            "cn": "没有木头了，我应该留一把斧头以防现在这个情况的。看来只能做一把匕首去海岸试着砍树了。",
+            "en": "No more timber. I need to make an axe to conquer these situations. I guess I can only make a dagger and try cutting down trees near the sea shore.",
+            "tw": "沒有木頭了，我應該留一把斧頭以防現在這個情況的。看來只能做一把匕首去海岸試著砍樹了。"
+        },
+        "COND": {
+            "1003": [
+                {
+                    "1006": {
+                        "UNLOCK": true
+                    }
+                }
+            ],
+            "1019": {
+                "4004": 0,
+                "4100": 0
+            }
+        }
+    },
+    "19": {
+        "TIPS": {
+            "cn": "天色不早，今天早点休息吧，没休息好可没法在荒野中生存下去。",
+            "en": "The day is getting late, I should sleep early today. Lack of rest makes it hard to survive in the wild.",
+            "tw": "天色不早，今天早點休息吧，沒休息好可沒法在荒野中生存下去。"
+        },
+        "COND": {
+            "1016": {
+                "MIN": 21,
+                "MAX": 23
+            }
+        }
+    },
+    "20": {
+        "TIPS": {
+            "cn": "天气越来越冷，要开始多收集点草药和木材准备过冬了，冬天恐怕不那么好过。",
+            "en": "The days are getting colder. Looks like I need to gather more herbs and timber for the winter. I'm afraid winter is going to be hard.",
+            "tw": "天氣越來越冷，要開始多收集點草藥和木材準備過冬了，冬天恐怕不那麽好過。"
+        },
+        "COND": {
+            "1002": 25
+        }
+    },
+    "21": {
+        "TIPS": {
+            "cn": "好冷啊，我得考虑生火来取暖了。",
+            "en": "It is so cold. I need to think about starting a fire to get warm.",
+            "tw": "好冷啊，我得考慮生火來取暖了。"
+        },
+        "COND": {
+            "1006": {
+                "MIN": -50,
+                "MAX": 0
+            }
+        }
+    },
+    "22": {
+        "TIPS": {
+            "cn": "这天气真是见了鬼了，感觉人都要被冻住了，除了火堆和厚衣服，也得吃点什么来暖暖身子。",
+            "en": "This weather is so bad, I feel like I'm slowly freezing. Apart from the bonfire and thick clothing, I also need to eat to keep warm.",
+            "tw": "這天氣真是見了鬼了，感覺人都要被凍住了，除了火堆和厚衣服，也得吃點什麽來暖暖身子。"
+        },
+        "COND": {
+            "1006": {
+                "MIN": -50,
+                "MAX": -10
+            }
+        }
+    },
+    "23": {
+        "TIPS": {
+            "cn": "可以钓鱼了！是时候展现真正的技术了！",
+            "en": "I can fish now. It is time to show off my skills!",
+            "tw": "可以釣魚了！是時候展現真正的技術了！"
+        },
+        "COND": {
+            "1010": {
+                "3008": 1
+            }
+        }
+    },
+    "24": {
+        "TIPS": {
+            "cn": "注意熊出没！不过可以考虑弄一张完整的兽皮来做衣服，不完整的可不行。",
+            "en": "Be careful of bears in the area! I can think of making a piece of clothing with a beast hide but it needs to be a complete one.",
+            "tw": "註意熊出沒！不過可以考慮弄一張完整的獸皮來做衣服，不完整的可不行。"
+        },
+        "COND": {
+            "1003": [
+                {
+                    "4": {
+                        "UNLOCK": true
+                    }
+                }
+            ]
+        }
+    },
+    "25": {
+        "TIPS": {
+            "cn": "虽然土著的文明非常落后，但是一定有能帮的上忙的地方，我得试着和他们搞好关系。",
+            "en": "Even though the natives are primitive, but there must be something that they know that can help. I need to make better relationships with them.",
+            "tw": "雖然土著的文明非常落後，但是一定有能幫的上忙的地方，我得試著和他們搞好關系。"
+        },
+        "COND": {
+            "1003": [
+                {
+                    "2003": {
+                        "UNLOCK": true
+                    }
+                }
+            ]
+        }
+    },
+    "26": {
+        "TIPS": {
+            "cn": "有了斧头得拿在手上，光放在包里和没有斧头有什么区别。",
+            "en": "I need to keep the axe at hand. Putting it into the bag is no different to not having an axe at all.",
+            "tw": "有了斧頭得拿在手上，光放在包裏和沒有斧頭有什麽區別。"
+        },
+        "COND": {
+            "1019": {
+                "4100": 1
+            },
+            "1027": {
+                "1": "0"
+            }
+        }
+    },
+    "27": {
+        "TIPS": {
+            "cn": "我应该把斧头拿在手上装备起来，这样才能提高狩猎和砍树的效率。",
+            "en": "I should be holding the axe in my hand and be ready, this will increase the efficiency for hunting and cutting down trees.",
+            "tw": "我應該把斧頭拿在手上裝備起來，這樣才能提高狩獵和砍樹的效率。"
+        },
+        "COND": {
+            "1019": {
+                "4100": 1
+            },
+            "1027": {
+                "1": "0"
+            }
+        }
+    },
+    "28": {
+        "TIPS": {
+            "cn": "匕首造好了要装备上，光放在包里只会增加负重。",
+            "en": "After making the dagger I need to equip it. Keeping it in the bag is no different to not having it at all.",
+            "tw": "匕首造好了要裝備上，光放在包裏只會增加負重。"
+        },
+        "COND": {
+            "1019": {
+                "4101": 1
+            },
+            "1027": {
+                "1": "0"
+            }
+        }
+    },
+    "29": {
+        "TIPS": {
+            "cn": "我应该把匕首拿在手上装备起来，这样才能提高狩猎和砍树的效率。",
+            "en": "I should be holding the dagger in my hand and be ready, this will increase the efficiency for hunting and cutting down trees.",
+            "tw": "我應該把匕首拿在手上裝備起來，這樣才能提高狩獵和砍樹的效率。"
+        },
+        "COND": {
+            "1019": {
+                "4101": 1
+            },
+            "1027": {
+                "1": "0"
+            }
+        }
+    },
+    "30": {
+        "TIPS": {
+            "cn": "这里的瀑布适合造一个陷阱用来捕鱼，每隔一段时间来看看说不定还有意外收获。",
+            "en": "This place next to the waterfall is good to set up a fish trap. Coming back once in a while may lead to a nice surprise.",
+            "tw": "這裏的瀑布適合造一個陷阱用來捕魚，每隔一段時間來看看說不定還有意外收穫。"
+        },
+        "COND": {
+            "1026": 1008
+        }
+    },
+    "31": {
+        "TIPS": {
+            "cn": "海岸有几颗椰树，有着不少椰子和阔叶，但要注意竭泽而渔，以免生态被破坏。",
+            "en": "There are many coconut trees with coconuts and broad leaves by the beach. But I need to take care not to over harvest and damage the ecosystem.",
+            "tw": "海岸有幾顆椰樹，有著不少椰子和闊葉，但要註意竭澤而漁，以免生態被破壞。"
+        },
+        "COND": {
+            "1026": 1006
+        }
+    },
+    "32": {
+        "TIPS": {
+            "cn": "竹林被茂盛的竹子铺满了，留下一些让它们再生也是不错的选择。但似乎有看到野猪在啃食竹笋。",
+            "en": "There are numerous bamboo trees in this forest. Leaving a portion there to grow is not a bad idea. I think I can see wild boars eating the bamboo shoots though.",
+            "tw": "竹林被茂盛的竹子鋪滿了，留下一些讓它們再生也是不錯的選擇。但似乎有看到野豬在啃食竹筍。"
+        },
+        "COND": {
+            "1026": 1003
+        }
+    },
+    "33": {
+        "TIPS": {
+            "cn": "丘陵也是一个小社会，草药和花朵引来了不少蜜蜂，灰熊又被蜂蜜所吸引。偶尔还能看到些兔子，但是速度太快，试着设置陷阱捉兔子吧。",
+            "en": "The knoll is an ecosystem with many medicinal Herbs and flowers attracting lots of bees who then attract the grey bear. You can also occasionally see some hares but they are too fast. Try to set a trap for the hares.",
+            "tw": "丘陵也是一個小社會，草藥和花朵引來了不少蜜蜂，灰熊又被蜂蜜所吸引。偶爾還能看到些兔子，但是速度太快，試著設置陷阱捉兔子吧。"
+        },
+        "COND": {
+            "1026": 1004
+        }
+    },
+    "34": {
+        "TIPS": {
+            "cn": "藤蔓！我现在最缺的就是这东西了！林中暗流真是太棒了！赞美空释！",
+            "en": "Vines! This is thing that I'm missing the most at the moment! The streams in the forest are great!",
+            "tw": "藤蔓！我現在最缺的就是這東西了！林中暗流真是太棒了！贊美空釋！"
+        },
+        "COND": {
+            "1026": 1007
+        }
+    },
+    "35": {
+        "TIPS": {
+            "cn": "雨林的树木量充足，可以弥补冬天的木材空缺。",
+            "en": "There are sufficient number of trees in the rainforest that could be used to offset the lack of timber in the winter seasons.",
+            "tw": "雨林的樹木量充足，可以彌補冬天的木材空缺。"
+        },
+        "COND": {
+            "1026": 1013
+        }
+    },
+    "36": {
+        "TIPS": {
+            "cn": "在松木林采集到的树脂倒是很适合用来制作火把，这次可不能再把火把放在包里把包给点燃了。",
+            "en": "The sap collected from the pine forest are great for making flame torches. This time make sure you don't put the torches in your bag and burn it.",
+            "tw": "在松木林采集到的樹脂倒是很適合用來制作火把，這次可不能再把火把放在包裏把包給點燃了。"
+        },
+        "COND": {
+            "1026": 1014
+        }
+    },
+    "37": {
+        "TIPS": {
+            "cn": "这衣服穿起来还不错，瞬间感觉暖和了不少，看来影响体温的因素有很多啊。",
+            "en": "This jacket is not bad, I immediately feel warmer. Seems like there are many things that affect body temperature.",
+            "tw": "這衣服穿起來還不錯，瞬間感覺暖和了不少，看來影響體溫的因素有很多啊。"
+        },
+        "COND": {
+            "1027": {
+                "3": "4109#4116"
+            }
+        }
+    },
+    "38": {
+        "TIPS": {
+            "cn": "我得找个备份点，不然死了之后又得重新开始。崖洞和神秘遗迹似乎是不错的地方，刚好获得了一个能去崖洞探险的绳索。",
+            "en": "I need to find a check point or else I need to start all over again if I die. The Cliff Cave and the Mystery Ruins seem like a good location. I can even obtain a rope to journey into the Cliff Cave.",
+            "tw": "我得找個備份點，不然死了之後又得重新開始。崖洞和神秘遺跡似乎是不錯的地方，剛好獲得了一個能去崖洞探險的繩索。"
+        },
+        "COND": {
+            "1004": {
+                "4077": 1
+            }
+        }
+    }
+}

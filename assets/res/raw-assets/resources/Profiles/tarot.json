@@ -1,0 +1,222 @@
+{
+    "1001": {
+        "id": 1001, 
+        "name": "tarot_name_1", 
+        "desc": "tarot_desc_1", 
+        "widget": 100, 
+        "effect": {
+            "allHunger": 1
+        }, 
+        "fightbuff": 0, 
+        "img": "1001", 
+        "isFlip": 0
+    }, 
+    "1002": {
+        "id": 1002, 
+        "name": "tarot_name_2", 
+        "desc": "tarot_desc_2", 
+        "widget": 100, 
+        "effect": {
+            "curHunger": 0.25
+        }, 
+        "fightbuff": 0, 
+        "img": "1001", 
+        "isFlip": 1
+    }, 
+    "1003": {
+        "id": 1003, 
+        "name": "tarot_name_3", 
+        "desc": "tarot_desc_3", 
+        "widget": 100, 
+        "effect": {
+            "allTrauma": 1
+        }, 
+        "fightbuff": 0, 
+        "img": "1003", 
+        "isFlip": 0
+    }, 
+    "1004": {
+        "id": 1004, 
+        "name": "tarot_name_4", 
+        "desc": "tarot_desc_4", 
+        "widget": 100, 
+        "effect": {
+            "curTrauma": 0.25
+        }, 
+        "fightbuff": 0, 
+        "img": "1003", 
+        "isFlip": 1
+    }, 
+    "1005": {
+        "id": 1005, 
+        "name": "tarot_name_5", 
+        "desc": "tarot_desc_5", 
+        "widget": 100, 
+        "effect": {
+            "allInflect": 1
+        }, 
+        "fightbuff": 0, 
+        "img": "1005", 
+        "isFlip": 0
+    }, 
+    "1006": {
+        "id": 1006, 
+        "name": "tarot_name_6", 
+        "desc": "tarot_desc_6", 
+        "widget": 100, 
+        "effect": {
+            "curInflect": 0.25
+        }, 
+        "fightbuff": 0, 
+        "img": "1005", 
+        "isFlip": 1
+    }, 
+    "1007": {
+        "id": 1007, 
+        "name": "tarot_name_7", 
+        "desc": "tarot_desc_7", 
+        "widget": 100, 
+        "effect": {
+            "allMental": 1
+        }, 
+        "fightbuff": 0, 
+        "img": "1007", 
+        "isFlip": 0
+    }, 
+    "1008": {
+        "id": 1008, 
+        "name": "tarot_name_8", 
+        "desc": "tarot_desc_8", 
+        "widget": 100, 
+        "effect": {
+            "curMental": 0.25
+        }, 
+        "fightbuff": 0, 
+        "img": "1007", 
+        "isFlip": 1
+    }, 
+    "1009": {
+        "id": 1009, 
+        "name": "tarot_name_9", 
+        "desc": "tarot_desc_9", 
+        "widget": 80, 
+        "effect": 0, 
+        "fightbuff": "212521", 
+        "img": "1009", 
+        "isFlip": 0
+    }, 
+    "1010": {
+        "id": 1010, 
+        "name": "tarot_name_10", 
+        "desc": "tarot_desc_10", 
+        "widget": 100, 
+        "effect": 0, 
+        "fightbuff": "212522", 
+        "img": "1009", 
+        "isFlip": 1
+    }, 
+    "1011": {
+        "id": 1011, 
+        "name": "tarot_name_11", 
+        "desc": "tarot_desc_11", 
+        "widget": 80, 
+        "effect": {
+            "maxHp": 10
+        }, 
+        "fightbuff": 0, 
+        "img": "1011", 
+        "isFlip": 0
+    }, 
+    "1012": {
+        "id": 1012, 
+        "name": "tarot_name_12", 
+        "desc": "tarot_desc_12", 
+        "widget": 100, 
+        "effect": {
+            "maxHp": -10
+        }, 
+        "fightbuff": 0, 
+        "img": "1011", 
+        "isFlip": 1
+    }, 
+    "1013": {
+        "id": 1013, 
+        "name": "tarot_name_13", 
+        "desc": "tarot_desc_13", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212523", 
+        "img": "1013", 
+        "isFlip": 0
+    }, 
+    "1014": {
+        "id": 1014, 
+        "name": "tarot_name_14", 
+        "desc": "tarot_desc_14", 
+        "widget": 100, 
+        "effect": 0, 
+        "fightbuff": "212524", 
+        "img": "1013", 
+        "isFlip": 1
+    }, 
+    "1015": {
+        "id": 1015, 
+        "name": "tarot_name_15", 
+        "desc": "tarot_desc_15", 
+        "widget": 80, 
+        "effect": 0, 
+        "fightbuff": "212525", 
+        "img": "1015", 
+        "isFlip": 0
+    }, 
+    "1016": {
+        "id": 1016, 
+        "name": "tarot_name_16", 
+        "desc": "tarot_desc_16", 
+        "widget": 100, 
+        "effect": 0, 
+        "fightbuff": "212526", 
+        "img": "1015", 
+        "isFlip": 1
+    }, 
+    "1017": {
+        "id": 1017, 
+        "name": "tarot_name_17", 
+        "desc": "tarot_desc_17", 
+        "widget": 80, 
+        "effect": 0, 
+        "fightbuff": "212527", 
+        "img": "1017", 
+        "isFlip": 0
+    }, 
+    "1018": {
+        "id": 1018, 
+        "name": "tarot_name_18", 
+        "desc": "tarot_desc_18", 
+        "widget": 100, 
+        "effect": 0, 
+        "fightbuff": "212528", 
+        "img": "1017", 
+        "isFlip": 1
+    }, 
+    "1019": {
+        "id": 1019, 
+        "name": "tarot_name_19", 
+        "desc": "tarot_desc_19", 
+        "widget": 20, 
+        "effect": 0, 
+        "fightbuff": "212529", 
+        "img": "1019", 
+        "isFlip": 0
+    }, 
+    "1020": {
+        "id": 1020, 
+        "name": "tarot_name_20", 
+        "desc": "tarot_desc_20", 
+        "widget": 100, 
+        "effect": 0, 
+        "fightbuff": "212530", 
+        "img": "1019", 
+        "isFlip": 1
+    }
+}

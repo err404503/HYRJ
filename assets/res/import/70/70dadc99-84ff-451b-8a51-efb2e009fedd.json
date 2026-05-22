@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"goldenEgg_1","_duration":0.25,"speed":3,"curveData":{"props":{"rotation":[{"frame":0,"value":0},{"frame":0.16666666666666666,"value":80},{"frame":0.25,"value":0}]}},"events":[{"frame":0.25,"func":"aniLight","params":[]}]}

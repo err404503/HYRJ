@@ -1,0 +1,400 @@
+{
+    "0": {
+        "TEXT": {
+            "cn": "外伤值：损失外伤不仅会导致感染，更会影响战斗能力。可通过使用绷带或者药酒治疗。请保持外伤长期在接近满的状态。",
+            "en": "Wound: External damage causes infection and affects combat efficiency. Use bandages or ointments to treat them.",
+            "tw": "外傷值：損失外傷不僅會導致感染，更會影響戰鬥能力。可通過使用繃帶或者藥酒治療。請保持外傷長期在接近滿的狀態。"
+        },
+        "NEXT": "1",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": -198,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "1": {
+        "TEXT": {
+            "cn": "内伤值：包括肠道、呼吸和外伤感染，感染会使生命值迅速流失。可通过使用汤药等治疗。请保持内伤长期在接近满的状态。",
+            "en": "Infection: Includes colon, breathing and external infection. Infection causes your HP to drop quickly. Use medicinal brew and other items to treat.",
+            "tw": "內傷值：包括腸道、呼吸和外傷感染，感染會使生命值迅速流失。可通過使用湯藥等治療。請保持內傷長期在接近滿的狀態。"
+        },
+        "NEXT": "2",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": -116,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "2": {
+        "TEXT": {
+            "cn": "饥饿度：长期处于空腹状态会造成多种负面影响，务必摄入足够的食物。",
+            "en": "Hunger: Prolonged periods on an empty stomach will cause negative effects. Stock up on ample food supplies.",
+            "tw": "饑餓度：長期處於空腹狀態會造成多種負面影響，務必攝入足夠的食物。"
+        },
+        "NEXT": "3",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": -36,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "3": {
+        "TEXT": {
+            "cn": "精神值：影响工作和战斗效率，可通过睡眠恢复。",
+            "en": "Energy: Affects work and combat efficiency. Sleep to restore.",
+            "tw": "精神值：影響工作和戰鬥效率，可通過睡眠恢復。"
+        },
+        "NEXT": "4",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": 44,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "4": {
+        "TEXT": {
+            "cn": "生命值：生命值为0时死亡，远离外伤和感染，保证食物和睡眠的充足，注意调节心情。",
+            "en": "HP: You die when your HP reaches 0. Stay away from external damage and infection, and keep your food and sleep levels up.",
+            "tw": "生命值：生命值為0時死亡，遠離外傷和感染，保證食物和睡眠的充足，註意調節心情。"
+        },
+        "NEXT": "5",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": 204,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "5": {
+        "TEXT": {
+            "cn": "失眠值：心情不佳会引发失眠，降低回复效果。可通过饮用蜂蜜或者薄荷茶提高。",
+            "en": "Sleep: Insomnia occurs when you are in a bad mood, and negatively affects restoration effects. Drink honey or mint tea to negate this problem.",
+            "tw": "失眠值：心情不佳會引發失眠，降低回復效果。可通過飲用蜂蜜或者薄荷茶提高。"
+        },
+        "NEXT": "6",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": 124,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "6": {
+        "TEXT": {
+            "cn": "1.游戏较难，调整心态\n2.失败很正常，不断尝试才能活的更久\n3.点击问号获取帮助，查看更多攻略",
+            "en": "1.Game is tough. Adjust your state of mind.\n2.Failure is common. Longer survival needs tries.\n3.Tap question mark for help. Look up for walkthrough.",
+            "tw": "1.遊戲較難，調整心態\n2.失敗很正常，不斷嘗試才能活的更久\n3.點擊問號獲取幫助，查看更多攻略"
+        },
+        "END": "6",
+        "ISEND": false,
+        "TOP": 0,
+        "X": 124,
+        "Y": 480,
+        "W": 54,
+        "H": 50,
+        "CANTOUCH": false
+    },
+    "7": {
+        "TEXT": {
+            "cn": "求生册\n记录求生秘籍，提升求生能力！把有限的书页投入到你希望增强的能力上去！",
+            "en": "Manual\nSurvival Manuals, enhance survival skill! Choose which you want to enhance, and try it in the game!",
+            "tw": "求生册\n記錄求生秘笈，提升求生能力！把有限的書頁投入到你希望增强的能力上去！"
+        },
+        "END": "7",
+        "ISEND": false,
+        "TOP": -300,
+        "X": 225,
+        "Y": -580,
+        "W": 80,
+        "H": 60,
+        "CANTOUCH": true
+    },
+    "8": {
+        "TEXT": {
+            "cn": "石斧\n出门一把斧，材料全靠捡！再普通的小斧头，在荒野里也能发挥大作用！",
+            "en": "Stone Axe\nCarry one axe, surviva depend on yourself! ",
+            "tw": "石斧\n出門一把斧，資料全靠撿！再普通的小斧頭，在荒野裏也能發揮大作用！"
+        },
+        "NEXT": "9",
+        "END": "10",
+        "ISEND": false,
+        "TOP": 300,
+        "X": -130,
+        "Y": 10,
+        "W": 90,
+        "H": 60,
+        "CANTOUCH": true
+    },
+    "9": {
+        "TEXT": {
+            "cn": "效率\n时间就是金钱，我的朋友！减少制作斧头的时间，把时间用在更重要的事情上去吧！",
+            "en": "Efficiency\nTime is money, my friend! Reduce craft time, there are more important things waiting for you!",
+            "tw": "效率\n時間就是金錢，我的朋友！减少製作斧頭的時間，把時間用在更重要的事情上去吧！"
+        },
+        "NEXT": "10",
+        "END": "10",
+        "ISEND": false,
+        "TOP": -300,
+        "X": -110,
+        "Y": -560,
+        "W": 60,
+        "H": 60,
+        "CANTOUCH": true
+    },
+    "10": {
+        "TEXT": {
+            "cn": "你在求生册里投入的每一个书页，都是有用的。而且研究的成果，会立刻在游戏内生效，赶紧去试试吧！",
+            "en": "Research it and it will show effect in game! Have a try!",
+            "tw": "你在求生册裏投入的每一個書頁，都是有用的。而且研究的成果，會立刻在遊戲內生效，趕緊去試試吧！"
+        },
+        "END": "10",
+        "ISEND": true,
+        "TOP": 460,
+        "X": -230,
+        "Y": -260,
+        "W": 460,
+        "H": 510,
+        "CANTOUCH": true
+    },
+    "39": {
+        "TEXT": {
+            "cn": "点击仓库中的武器，武器就会被移动到背包中。",
+            "en": "Tap on the Weapon in Storage to move it to your backpack.",
+            "tw": "點擊倉庫中的武器，武器就會被移動到背包中。"
+        },
+        "END": "41",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "40",
+        "ISEND": true,
+        "TOP": 200,
+        "X": 80,
+        "Y": -220,
+        "W": 100,
+        "H": 70,
+        "CANTOUCH": true
+    },
+    "40": {
+        "TEXT": {
+            "cn": "点击装备栏中的近战武器栏位",
+            "en": "Tap on melee weapon tab in Equipment",
+            "tw": "點擊裝備欄中的近戰武器欄位"
+        },
+        "END": "41",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "41",
+        "ISEND": true,
+        "TOP": 200,
+        "X": -170,
+        "Y": 250,
+        "W": 90,
+        "H": 70,
+        "CANTOUCH": true
+    },
+    "41": {
+        "TEXT": {
+            "cn": "选择你的武器进行装备",
+            "en": "Choose your weapon and equip it",
+            "tw": "選擇你的武器進行裝備"
+        },
+        "END": "41",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "39_0",
+        "ISEND": true,
+        "TOP": -15,
+        "X": -310,
+        "Y": 100,
+        "W": 616,
+        "H": 100,
+        "CANTOUCH": true
+    },
+    "43": {
+        "TEXT": {
+            "cn": "你想到了一个逃离荒野的方法，来确认下需要做哪些准备。",
+            "en": "You have an idea on escaping this wasteland. It's time to decide what you're going to take with you.",
+            "tw": "你想到了一個逃離荒野的方法，來確認下需要做哪些準備。"
+        },
+        "END": "45",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "44",
+        "ISEND": true,
+        "TOP": 100,
+        "X": -346,
+        "Y": -615,
+        "W": 70,
+        "H": 80,
+        "CANTOUCH": true
+    },
+    "44": {
+        "TEXT": {
+            "cn": "点击逃离按钮查看详情。",
+            "en": "Tap on Escape to view details.",
+            "tw": "點擊逃離按鈕查看詳情。"
+        },
+        "END": "45",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "45",
+        "ISEND": true,
+        "TOP": 100,
+        "X": -20,
+        "Y": -620,
+        "W": 75,
+        "H": 85,
+        "CANTOUCH": true
+    },
+    "45": {
+        "TEXT": {
+            "cn": "收集材料，尝试逃离荒野。",
+            "en": "Collect materials and try to escape this place.",
+            "tw": "收集材料，嘗試逃離荒野。"
+        },
+        "END": "45",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "ISEND": true,
+        "TOP": 400,
+        "X": -340,
+        "Y": -580,
+        "W": 680,
+        "H": 1000,
+        "CANTOUCH": true
+    },
+    "51": {
+        "TEXT": "点击树枝查看你的金雕",
+        "END": "52",
+        "NEXT": "52",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "ISEND": true,
+        "TOP": 300,
+        "X": -354,
+        "Y": -160,
+        "W": 128,
+        "H": 103,
+        "CANTOUCH": true
+    },
+    "52": {
+        "TEXT": "点击帮助了解金雕",
+        "END": "52",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "ISEND": true,
+        "TOP": 150,
+        "X": 240,
+        "Y": 335,
+        "W": 50,
+        "H": 50,
+        "CANTOUCH": true
+    },
+    "_0": {
+        "TEXT": {
+            "cn": "背包：点击头像可打开背包，在背包中可进行装备更换、使用和物品丢弃等操作。",
+            "en": "Backpack: Tap on portrait to open your backpack. You can swap equipment, use or discard items etc. within your backpack.",
+            "tw": "背包：點擊頭像可打開背包，在背包中可進行裝備更換、使用和物品丟棄等操作。"
+        },
+        "NEXT": "0",
+        "END": "6",
+        "ISEND": false,
+        "TOP": 440,
+        "X": -349,
+        "Y": 466,
+        "W": 128,
+        "H": 160,
+        "CANTOUCH": false
+    },
+    "39_0": {
+        "TEXT": {
+            "cn": "点击仓库中的火把，火把就会被移动到背包中。装备火把能极大程度降低在荒野中迷路的概率。",
+            "en": "Tap on the Torch in Storage to move it to your backpack. Equip the torch to greatly reduce chances of getting lost in the wilds.",
+            "tw": "點擊倉庫中的火把，火把就會被移動到背包中。裝備火把能極大程度降低在荒野中迷路的概率。"
+        },
+        "END": "41_0",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "40_0",
+        "ISEND": true,
+        "TOP": 80,
+        "X": 80,
+        "Y": -220,
+        "W": 100,
+        "H": 70,
+        "CANTOUCH": true
+    },
+    "40_0": {
+        "TEXT": {
+            "cn": "点击装备栏中的火把栏位",
+            "en": "Tap on the Torch tab in Equipment",
+            "tw": "點擊裝備欄中的火把欄位"
+        },
+        "END": "41_0",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "NEXT": "41_0",
+        "ISEND": true,
+        "TOP": 80,
+        "X": 74,
+        "Y": 250,
+        "W": 90,
+        "H": 70,
+        "CANTOUCH": true
+    },
+    "41_0": {
+        "TEXT": {
+            "cn": "选择你的火把进行装备",
+            "en": "Choose your Torch to equip it",
+            "tw": "選擇你的火把進行裝備"
+        },
+        "END": "41_0",
+        "POS": {
+            "x": 239,
+            "y": 500
+        },
+        "ISEND": true,
+        "TOP": -15,
+        "X": -310,
+        "Y": 100,
+        "W": 616,
+        "H": 100,
+        "CANTOUCH": true
+    }
+}

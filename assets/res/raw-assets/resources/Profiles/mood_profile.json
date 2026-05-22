@@ -1,0 +1,5634 @@
+{
+    "1015": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "气温刚好, 没想到这个荒岛上的气温还挺不错的, 回去后可以考虑来这开发个度假区. ",
+            "en": "The temperature is just right. Never thought the temperature on this disserted island is actually quite good. After I get back, I can consider opening a holiday resort here.",
+            "tw": "氣溫剛好, 沒想到這個荒島上的氣溫還挺不錯的, 回去後可以考慮來這開發個度假區. "
+        },
+        "COND": {
+            "1006": {
+                "MIN": 10,
+                "MAX": 30
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1017": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这天气可够冷的, 生个火, 少运动, 减少热量散发. ",
+            "en": "This weather is so cold. Light a fire. Exercise less. Lower the loss of heat.",
+            "tw": "這天氣可夠冷的, 生個火, 少運動, 減少熱量散發. "
+        },
+        "COND": {
+            "1006": {
+                "MIN": -30,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1020": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "总觉得有些压抑的情绪, 也许我该来杯咖啡改善改善心情. ",
+            "en": "You always feel like you holding back some emotions. Maybe I need a cup of coffee to lighten my mood.",
+            "tw": "總覺得有些壓抑的情緒, 也許我該來杯咖啡改善改善心情. "
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1021": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我觉得我快死了, 我要离开这个鬼地方！立刻, 马上！",
+            "en": "I think I am about to die. I am leaving this bloody place! Right now. Right now!",
+            "tw": "我覺得我快死了, 我要離開這個鬼地方！立刻, 馬上！"
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 1,
+                    "MAX": 30
+                }
+            }
+        }
+    },
+    "1022": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我要疯了, 这样的日子什么时候才能到头啊！",
+            "en": "I am going crazy. When is the end to such a life like this!",
+            "tw": "我要瘋了, 這樣的日子什麽時候才能到頭啊！"
+        },
+        "COND": {
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1023": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "脑子一片乱, 该死, 我觉得很不舒服. ",
+            "en": "My mind at all over the place. Damn. I feel very uncomfortable.",
+            "tw": "腦子一片亂, 該死, 我覺得很不舒服. "
+        },
+        "COND": {
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1024": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我有点想家了. ",
+            "en": "I miss home.",
+            "tw": "我有點想家了. "
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1026": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我得想个办法解解闷. ",
+            "en": "I need to think of a way to entertain myself",
+            "tw": "我得想個辦法解解悶. "
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7005": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1027": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "伤口开始化脓了, 看来我快死了. ",
+            "en": "The wound is beginning to get infected. Seems like I'm about to die.",
+            "tw": "傷口開始化膿了, 看來我快死了. "
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1028": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "肚子不空, 内心空虚. ",
+            "en": "Stomach is not empty. Empty inside.",
+            "tw": "肚子不空, 內心空虛. "
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7006": {
+                    "MIN": 100,
+                    "MAX": 80
+                }
+            }
+        }
+    },
+    "1029": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "内心空虚, 肚子空洞. ",
+            "en": "Feeling empty inside. Empty stomach.",
+            "tw": "內心空虛, 肚子空洞. "
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1030": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "白天的太阳真刺眼. ",
+            "en": "The sun during the day hurts the eyes.",
+            "tw": "白天的太陽真刺眼. "
+        },
+        "COND": {
+            "1005": 1,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1031": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这该死的雨可下了挺长时间的. ",
+            "en": "The stupid rain has been going on for days.",
+            "tw": "這該死的雨可下了挺長時間的. "
+        },
+        "COND": {
+            "1005": 5,
+            "1006": {
+                "MIN": 1,
+                "MAX": 40
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1032": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天居然下雪了, 是想冻死我么？",
+            "en": "It actually snowed today. Want to freeze me to death?",
+            "tw": "今天居然下雪了, 是想凍死我麽？"
+        },
+        "COND": {
+            "1005": 5,
+            "1006": {
+                "MIN": -40,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1033": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "一天都没好脾气, 肯定是跟这破天气有关. ",
+            "en": "In a bad mood the whole day. It's definitely related to this crappy weather.",
+            "tw": "一天都沒好脾氣, 肯定是跟這破天氣有關. "
+        },
+        "COND": {
+            "1005": 2,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1034": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "总觉得今天这天气, 我被老天嘲笑了. ",
+            "en": "Always feel this weather today.God is laughing at me.",
+            "tw": "總覺得今天這天氣, 我被老天嘲笑了. "
+        },
+        "COND": {
+            "1006": {
+                "MIN": 10,
+                "MAX": 30
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1035": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "热死了热死了热死了热死了热死了热死了热死了热死了热死了. ",
+            "en": "It's so hot It's so hot It's so hot It's so hot It's so hot It's so hot It's so hot It's so hot It's so hot .",
+            "tw": "熱死了熱死了熱死了熱死了熱死了熱死了熱死了熱死了熱死了. "
+        },
+        "COND": {
+            "1006": {
+                "MIN": 35,
+                "MAX": 50
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1036": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我的手都冻得写不出字了. ",
+            "en": "My hands are so frozen I can't even write anymore.",
+            "tw": "我的手都凍得寫不出字了. "
+        },
+        "COND": {
+            "1006": {
+                "MIN": -40,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1041": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "也许我该做些什么来消耗一下我现在良好的状态. ",
+            "en": "May be I should do something to make use of this great state that I am in right now.",
+            "tw": "也許我該做些什麽來消耗一下我現在良好的狀態. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                },
+                "7004": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1101": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天阳光意外地很明媚, 给我了一些活下去的希望",
+            "en": "Today's sun is especially bright. Given me some hope to live on",
+            "tw": "今天陽光意外地很明媚, 給我了一些活下去的希望"
+        },
+        "COND": {
+            "1005": 1
+        },
+        "ATTRS": {
+            "7001": -5
+        }
+    },
+    "1102": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "太阳一直躲在云朵的后面, 不过还好是秋天, 并不会因为阴天感到冷",
+            "en": "The sun has continuously been hiding behind the clouds. At least it's fall time. The overcast sky does not make it feel cold",
+            "tw": "太陽一直躲在雲朵的後面, 不過還好是秋天, 並不會因為陰天感到冷"
+        },
+        "COND": {
+            "1005": 2,
+            "1007": 3
+        }
+    },
+    "1103": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "太阳一直躲在云朵的后面, 不过还好是春天, 并不会因为阴天感到冷",
+            "en": "The sun has continuously been hiding behind the clouds. At least it's spring time. The overcast sky does not make it feel cold",
+            "tw": "太陽一直躲在雲朵的後面, 不過還好是春天, 並不會因為陰天感到冷"
+        },
+        "COND": {
+            "1005": 2,
+            "1007": 1
+        }
+    },
+    "1104": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "太阳一直躲在云朵的后面, 不过还好是夏天, 让我感到更加凉爽了",
+            "en": "The sun has continuously been hiding behind the clouds. At least it's summer time, makes me feel even cooler",
+            "tw": "太陽一直躲在雲朵的後面, 不過還好是夏天, 讓我感到更加涼爽了"
+        },
+        "COND": {
+            "1005": 2,
+            "1007": 2
+        }
+    },
+    "1105": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "在这寒冷的冬天, 太阳还一直不出来, 真是冻死人了",
+            "en": "In this cold winter. The sun is still not out yet. This is really freezing",
+            "tw": "在這寒冷的冬天, 太陽還一直不出來, 真是凍死人了"
+        },
+        "COND": {
+            "1005": 2,
+            "1007": 4
+        }
+    },
+    "1106": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天外面一片片都是雾茫茫的, 都不怎么敢出门",
+            "en": "The outside is filled with mist today. Afraid to go outside",
+            "tw": "今天外面一片片都是霧茫茫的, 都不怎麽敢出門"
+        },
+        "COND": {
+            "1005": 3
+        }
+    },
+    "2001_0": {
+        "ICON" : "31",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "太阳落下的时候我才认识到, 这是真的, 这不是梦. 而我, 在荒岛, 落难了. 不过这岛上这么多食材, 活不下去的话就是料理界的耻辱. ",
+            "en": "I only realised when the sun went down. This is real. This is not a dream. And I. On the disserted island, in trouble. However there are a lot of things that I can eat on this island. It would be the biggest joke in the cooking industry if I cannot survive.",
+            "tw": "太陽落下的時候我才認識到, 這是真的, 這不是夢. 而我, 在荒島, 落難了. 不過這島上這麽多食材, 活不下去的話就是料理界的恥辱. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 1
+        }
+    },
+    "2001_1": {
+        "ICON" : "31",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "太阳落下的时候我才认识到, 这是真的, 这不是梦. 而我, 在荒岛, 落难了. 可能现在最高兴的就是叔叔了, 我得想想办法, 不能便宜了他. ",
+            "en": "I only realised when the sun went down. This is real. This is not a dream. And I. On the disserted island, in trouble. Maybe the person that is the happiest right now is my uncle. I need to think of a solution. Can't give it to him that easily.",
+            "tw": "太陽落下的時候我才認識到, 這是真的, 這不是夢. 而我, 在荒島, 落難了. 可能現在最高興的就是叔叔了, 我得想想辦法, 不能便宜了他. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 1
+        }
+    },
+    "2001_2": {
+        "ICON" : "31",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "贝恩, 隶属233部队, 执行任务中, 流落荒岛, 记录下此间行程, 望有返归之时. ",
+            "en": "Bain. Belongs to the team ECP3. On a mission cast away on a disserted island. Record this. Hope there will be a day I can go back.",
+            "tw": "貝恩, 隸屬233部隊, 執行任務中, 流落荒島, 記錄下此間行程, 望有返歸之時. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 1
+        }
+    },
+    "2001_3": {
+        "ICON" : "31",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "太阳落下的时候, 我似乎意识到一个问题, 我似乎流落在荒野了. 而我似乎还玩过这款游戏. 还是说这只是个节目？让我找找隐藏的摄像机. ",
+            "en": "When the sun goes down. Seems like I realised a problem. It seems I've ended up in the wilderness. It also seems that I have played this game before. Or is this only a TV show? Let me find the hidden cameras.",
+            "tw": "太陽落下的時候, 我似乎意識到一個問題, 我似乎流落在荒野了. 而我似乎還玩過這款遊戲. 還是說這只是個節目？讓我找找隱藏的攝像機. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 1
+        }
+    },
+    "2001_4": {
+        "ICON" : "31",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "太阳落下的时候, 我似乎意识到一个问题, 我似乎流落在荒野了.大名鼎鼎的基德船长, 居然被困在了一个小岛上.\n航海界的耻辱.",
+            "en": "When sun falls down, I recognized that I was castaway in a wilderness. The famous captain Kidd was trapped on a small island. \nIt's a shame of voyagers.",
+            "tw": "太陽落下的時候, 我似乎意識到一個問題, 我似乎流落在荒野了.大名鼎鼎的基德船長, 居然被困在了一個小島上.\n航海界的恥辱. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 1
+        }
+    },
+    "2033_0": {
+        "ICON" : "37",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从海岸的椰子树上弄到了椰子, 椰子的味道很棒, 而且营养丰富、易于烹饪, 这种食材可谓是一级棒！",
+            "en": "Obtained some coconuts from the coconut trees by the beach. Coconuts taste greatalso very nutritious and easy to cook. This type of ingredient is of a top grade!",
+            "tw": "從海岸的椰子樹上弄到了椰子, 椰子的味道很棒, 而且營養豐富、易於烹飪, 這種食材可謂是一級棒！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1006": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2033_1": {
+        "ICON" : "37",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从海岸的椰子树上弄到了椰子. 味道不错, 我喜欢这味道. 就是壳有点硬, 如果我的袖珍手枪在就好了. ",
+            "en": "Obtained some coconuts from the coconut trees by the beach, the taste is good. I like the taste, but the shell is too hard. Only if my mini hand gun was here, that would be great.",
+            "tw": "從海岸的椰子樹上弄到了椰子. 味道不錯, 我喜歡這味道. 就是殼有點硬, 如果我的袖珍手槍在就好了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1006": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2033_2": {
+        "ICON" : "37",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "实地考察海岸, 危险度低. 可获取：椰子、木材、阔叶. ",
+            "en": "Field trip to the sea shore. Low danger level. Can obtain: coconut, timber, broad leaves.",
+            "tw": "實地考察海岸, 危險度低. 可獲取：椰子、木材、闊葉. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1006": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2033_3": {
+        "ICON" : "37",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从海岸的椰子树上弄到了椰子. 味道不错, 我喜欢这味道, 如果有点奶就能弄点椰奶尝尝了. ",
+            "en": "Obtained some coconuts from the coconut trees by the beach, the taste is good. I like the taste. If I had milk, I could make some coconut milk and taste it.",
+            "tw": "從海岸的椰子樹上弄到了椰子. 味道不錯, 我喜歡這味道, 如果有點奶就能弄點椰奶嘗嘗了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1006": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2033_4": {
+        "ICON" : "37",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从海岸的椰子树上弄到了椰子.味道不错, 我喜欢这味道.",
+            "en": "Obtained some coconuts from coconut trees by the coast. It tastes not bad. I like this taste.",
+            "tw": "從海岸的椰子樹上弄到了椰子.味道不錯, 我喜歡這味道. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1006": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2035_0": {
+        "ICON" : "39",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "丘陵探索下来可算是有大收获, 除了有肉和草药, 居然还找到了蜂蜜, 这简直是太棒了！再不来点调料我的舌头都快退化了. ",
+            "en": "The field trip to the knoll proved very fruitful. besides medicinal herbs and meat. I actually found honey.This is great! Any longer without spices and my tongue would have evolved backwards.",
+            "tw": "丘陵探索下來可算是有大收獲, 除了有肉和草藥, 居然還找到了蜂蜜, 這簡直是太棒了！再不來點調料我的舌頭都快退化了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1004": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2035_1": {
+        "ICON" : "39",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "离开丘陵时我看着包中的草药、肉和蜂蜜, 我从心底感到一种满足感, 一种从未有过的满足感, 以前的锦衣玉食都是伸手就来, 而现在我自强不息, 真是丰收的一天. ",
+            "en": "Leaving the knoll, I look into the bag at the medicinal herbs, meet and honey. I deeply feel satisfied. A feeling of satisfaction that I have never felt before. Before, all I had to do was put my hand out and I will get expensive clothes and fine food. But the person I am now is very strong. Really a day of great harvest.",
+            "tw": "離開丘陵時我看著包中的草藥、肉和蜂蜜, 我從心底感到一種滿足感, 一種從未有過的滿足感, 以前的錦衣玉食都是伸手就來, 而現在我自強不息, 真是豐收的一天. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1004": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2035_2": {
+        "ICON" : "39",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "完成丘陵探索, 面积适中, 物种丰富. 可获取：药草、肉、蜂蜜(真棒). ",
+            "en": "Completed field trip to the knoll. Average size surface area. Numerous species. Can obtain: herb, meet, honey (So good).",
+            "tw": "完成丘陵探索, 面積適中, 物種豐富. 可獲取：藥草、肉、蜂蜜(真棒). "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1004": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2035_3": {
+        "ICON" : "39",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "丘陵探索下来可算是有大收获, 除了有肉和草药, 居然还找到了蜂蜜, 这简直是太棒了！再不来点调料我的舌头都快退化了. (真棒). ",
+            "en": "The field trip to the knoll proved very fruitful. Besides medicinal herbs and meat. I actually found honey. This is great! Any longer without spices and my tongue would have evolved backwards. (so good).",
+            "tw": "丘陵探索下來可算是有大收獲, 除了有肉和草藥, 居然還找到了蜂蜜, 這簡直是太棒了！再不來點調料我的舌頭都快退化了. (真棒). "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1004": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2035_4": {
+        "ICON" : "39",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "丘陵探索下来可算是有大收获, 除了有肉和草药, 居然还找到了蜂蜜, 这简直是太棒了！再不来点调料我的舌头都快退化了. ",
+            "en": "I got very plenty loot from searching knoll. Beside meat and herbs, honey was found unexpectedly. It's really wonderful! My tongue will degenerated if there is nothing to taste.",
+            "tw": "丘陵探索下來可算是有大收獲, 除了有肉和草藥, 居然還找到了蜂蜜, 這簡直是太棒了！再不來點調料我的舌頭都快退化了.  "
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1004": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2036_0": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "在树林中探索的时候居然还发现了一条隐蔽的暗流, 暗流周围被各种植被所围绕, 能找到很多有用的东西, 最棒的是有薄荷, 这样夏天终于能清凉一些了. ",
+            "en": "While on a field trip to the forest, I actually found a hidden stream. The hidden stream is surrounded by vegetation. Can find many useful things. Having mint is the best. This way, I can finally be cooler in summer.",
+            "tw": "在樹林中探索的時候居然還發現了一條隱蔽的暗流, 暗流周圍被各種植被所圍繞, 能找到很多有用的東西, 最棒的是有薄荷, 這樣夏天終於能清涼一些了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1007": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2036_1": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "没想到在树林中间还有一条隐蔽的暗流, 暗流附近居然有这么多的植被. 家族其实也像这森林吧, 唯一不同的是, 家族中可能暗藏着好几股暗流, 都在看不见的地方流淌着. ",
+            "en": "Who would have thought there is a stream hidden in the forest.There is actually a lot of vegetable around the hidden stream. Maybe my family is also like this forest.The only difference is there might be many different hidden groups of people within the family.It is flowing in places that cannot be seen.",
+            "tw": "沒想到在樹林中間還有一條隱蔽的暗流, 暗流附近居然有這麽多的植被. 家族其實也像這森林吧, 唯一不同的是, 家族中可能暗藏著好幾股暗流, 都在看不見的地方流淌著. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1007": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2036_2": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "探索林中暗流, 植物较多, 隐藏危险较多但不致命. 可获取：藤条、薄荷. ",
+            "en": "Investigating the hidden stream in the forest. Numerous vegetation. Many hidden dangers however not fatal. Can obtain: tanglevines, mint.",
+            "tw": "探索林中暗流, 植物較多, 隱藏危險較多但不致命. 可獲取：藤條、薄荷. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1007": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2036_3": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "没想到在树林中间还有一条隐蔽的暗流, 暗流附近居然有这么多的植被. 可惜没泡面, 不然就能比较下这水和山泉水哪个更好了. ",
+            "en": "Who would have thought there is a stream hidden in the forest. There is actually a lot of vegetable around the hidden stream. Too bad you don't have instant noodles. If then, you can compare which water tastes better between this water and the water from the stream in the mountains.",
+            "tw": "沒想到在樹林中間還有一條隱蔽的暗流, 暗流附近居然有這麽多的植被. 可惜沒泡面, 不然就能比較下這水和山泉水哪個更好了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1007": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2036_4": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "在树林中探索的时候居然还发现了一条隐蔽的暗流, 暗流周围被各种植被所围绕, 能找到很多有用的东西, 最棒的是有薄荷, 不知道能不能做点薄荷酒, 不行的话, 薄荷茶也凑合.",
+            "en": "While on a field trip to the forest I unintentionally found a hidden stream. The hidden stream is surrounded by vegetation. Can find many useful things there. The best thing is mint. Don't know if I can use it to make some mint wine. If not, mint tea is also fine.",
+            "tw": "在樹林中探索的時候居然還發現了一條隱蔽的暗流, 暗流周圍被各種植被所圍繞, 能找到很多有用的東西, 最棒的是有薄荷, 不知道能不能做點薄荷酒, 不行的話, 薄荷茶也湊合."
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1007": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2008_0": {
+        "ICON" : "32",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "来到这片荒野已经好几天了, 倒是比我想象中好一点, 有一些像一次野外烹饪野营. ",
+            "en": "It has been several days since I have come to this wilderness. It's better than I thought. Some were like this time when we went cooking and camping in the wild.",
+            "tw": "來到這片荒野已經好幾天了, 倒是比我想象中好一點, 有一些像一次野外烹飪野營. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 3
+        }
+    },
+    "2008_1": {
+        "ICON" : "32",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "来到这片荒野已经好几天了, 我的精神慢慢变得差了, 因为这里晚上很难入睡, 我有些想妈妈, 如果你没有出事, 我也许就不会流落到这般田地. ",
+            "en": "It has been several days since I have come to this wilderness. I feel more and more exhausted. Because it is very difficult to fall asleep here at night. I miss my mother a little. If you didn't get in trouble. Maybe then I will not be in this situation.",
+            "tw": "來到這片荒野已經好幾天了, 我的精神慢慢變得差了, 因為這裏晚上很難入睡, 我有些想媽媽, 如果你沒有出事, 我也許就不會流落到這般田地. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 3
+        }
+    },
+    "2008_2": {
+        "ICON" : "32",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "目前无致命危险, 推测较依赖物资, 将进入更深处探索. ",
+            "en": "There is no life threatening danger at this time. Predicted to be more reliant on resources. going in deeper to explore",
+            "tw": "目前無致命危險, 推測較依賴物資, 將進入更深處探索. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 3
+        }
+    },
+    "2008_3": {
+        "ICON" : "32",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "记不清到底是第三还是第四天, 身为野食小哥, 玩个个把月那还不是小菜一碟, 应该不会有什么意外吧. . . ",
+            "en": "Could not recall if it was the third or fourth day. As Yesman. Playing for a month or so is the easiest. There shouldn't be any accidents...",
+            "tw": "記不清到底是第三還是第四天, 身為野食小哥, 玩個個把月那還不是小菜一碟, 應該不會有什麽意外吧. . . "
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 3
+        }
+    },
+    "2008_4": {
+        "ICON" : "32",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "记不清到底是第三还是第四天, 如果没有这个破事, 现在应该和索菲亚一起畅谈人生.",
+            "en": "Could not recall if it was the third or fourth day. If all those irritating things didn't happen, I would be talking with Sophia about future life.",
+            "tw": "記不清到底是第三還是第四天, 如果沒有這個破事, 現在應該和索菲亞一起暢談人生."
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 3
+        }
+    },    
+    "2009_0": {
+        "ICON" : "33",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得前些天我有些过于乐观了, 看来我得做好长久战斗的准备. 先从积累食材开始. ",
+            "en": "I think I might have been too optimistic a few days ago. Seems like I need to ready myself for the long fight. Firstly, I need to gather food.",
+            "tw": "我覺得前些天我有些過於樂觀了, 看來我得做好長久戰鬥的準備. 先從積累食材開始. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 5
+        }
+    },
+    "2009_1": {
+        "ICON" : "33",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得我可能短时间很难离开这里了, 我得做些计划部署. 从一把趁手的武器开始. ",
+            "en": "I don't think I will be able to get out of here in the short term. I need to make a plan. Start with a handy weapon.",
+            "tw": "我覺得我可能短時間很難離開這裏了, 我得做些計劃部署. 從一把趁手的武器開始. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 5
+        }
+    },
+    "2009_2": {
+        "ICON" : "33",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "无友军支援, 逐渐熟悉生活, 类似石器时代生活, 原任务失败. ",
+            "en": "No reinforcement from friendly army. Slowly getting used to the life. similar to living in the stone age. Original mission failed.",
+            "tw": "無友軍支援, 逐漸熟悉生活, 類似石器時代生活, 原任務失敗. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 5
+        }
+    },
+    "2009_3": {
+        "ICON" : "33",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这几天我一点现代文明的影子都没见到, 我该真不会流落荒野了吧！早知道我就要带一箱可乐！",
+            "en": "I did not see any traces of civilisation in the past few days. I can't really be trapped in the wilderness! If I'd known earlier, I would have brought a whole case of coca cola!",
+            "tw": "這幾天我一點現代文明的影子都沒見到, 我該真不會流落荒野了吧！早知道我就要帶一箱可樂！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 5
+        }
+    },
+    "2009_4": {
+        "ICON" : "33",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "第五天了, 我觉得前些天我有些过于乐观了, 看来我得做好长久战斗的准备.船长从不打没把握的仗——当然, 上次除外.",
+            "en": "It's the fifth day. I felt I was too optimistic in the past days. Looks like I have to well prepare for a long-term fighting. As a captain I fight no battle unprepared - except the last one. Of course. ",
+            "tw": "第五天了, 我覺得前些天我有些過於樂觀了, 看來我得做好長久戰鬥的準備.船長從不打沒把握的仗——當然, 上次除外."
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 5
+        }
+    },    
+    "2024_0": {
+        "ICON" : "11",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天回忆起当年养羊造的栅栏, 然后造了一排, 我想应该能减少些入侵吧. ",
+            "en": "Today, I thought back to the fence I made when I had my sheep many years ago, and then built a row. I think this may lower the number of break ins.",
+            "tw": "今天回憶起當年養羊造的柵欄, 然後造了一排, 我想應該能減少些入侵吧. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1010": {
+                "3005": 1
+            }
+        }
+    },
+    "2024_1": {
+        "ICON" : "11",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天回忆起小时候管家教我围栅栏, 然后试了造了一排, 我想应该能有些作用吧. ",
+            "en": "Today, I remember my butler teaching me how to make a fence, and then tried to build a row. I think there should be some use",
+            "tw": "今天回憶起小時候管家教我圍柵欄, 然後試了造了一排, 我想應該能有些作用吧. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1010": {
+                "3005": 1
+            }
+        }
+    },
+    "2024_2": {
+        "ICON" : "11",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "尝试使用栅栏替代围墙, 以降低敌军入侵概率, 效果以待观察. ",
+            "en": "Attempting to use a fence instead of a wall. to lower the chances of enemy attacks. The effected needs to be continuously observed",
+            "tw": "嘗試使用柵欄替代圍墻, 以降低敵軍入侵概率, 效果以待觀察. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1010": {
+                "3005": 1
+            }
+        }
+    },
+    "2024_3": {
+        "ICON" : "11",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天回忆起当年造的栅栏, 然后造了一排, 我想应该能减少些入侵吧. ",
+            "en": "Remembering the fence that I built many years ago. and then built a row. I think this may lower the number of break ins.",
+            "tw": "今天回憶起當年造的柵欄, 然後造了一排, 我想應該能減少些入侵吧. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1010": {
+                "3005": 1
+            }
+        }
+    },
+    "2024_4": {
+        "ICON" : "11",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这些蠢狗, 居然敢抢我的东西.我抢东西的时候, 你们都是狼崽子呢！虽然这样说, 也得做个栅栏防一防. ",
+            "en": "How dare those stupid dogs robbed my camp! When I was robbing ships, they were just baby wolves. Though I said so, hedges are still necessary to be built for prevention.",
+            "tw": "這些蠢狗, 居然敢搶我的東西.我搶東西的時候, 你們都是狼崽子呢！雖然這樣說, 也得做個柵欄防一防. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1010": {
+                "3005": 1
+            }
+        }
+    },    
+    "2010_0": {
+        "ICON" : "34",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "过去至少一周了吧, 应该, 我发现一个很重要的问题, 再这样下去, 我很快就连盘子都不会洗了. ",
+            "en": "It should have been a week already, should. I have discovered a very serious question. If this continues. Soon I will even forgot how to do the dishes.",
+            "tw": "過去至少一周了吧, 應該, 我發現一個很重要的問題, 再這樣下去, 我很快就連盤子都不會洗了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 7
+        }
+    },
+    "2010_1": {
+        "ICON" : "34",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "过去至少一周了吧, 应该, 我发现一个重要的问题, 我这是从高贵的女爵士变成了一个村姑么？！",
+            "en": "It should have been a week already, should. I have discovered a serious question. Have I changed from a respectable and high level countess into a farm girl?!",
+            "tw": "過去至少一周了吧, 應該, 我發現一個重要的問題, 我這是從高貴的女爵士變成了一個村姑麽？！"
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 7
+        }
+    },
+    "2010_2": {
+        "ICON" : "34",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "首周度过艰难, 暂无生命危险, 仍需继续探索, 以离开荒岛. ",
+            "en": "Getting through the first week was very hard. No apparent threats to life, still need to continue exploration, left the deserted island.",
+            "tw": "首周度過艱難, 暫無生命危險, 仍需繼續探索, 以離開荒島. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 7
+        }
+    },
+    "2010_3": {
+        "ICON" : "34",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "一周多的时间过去了, 我发现一个很重要的问题, 我似乎瘦了点, 感觉还不错！只要能活着回去！",
+            "en": "Over a week has passed. I have discovered a very serious question. I seem skinnier, feeling good! As long as I can go back alive!",
+            "tw": "一周多的時間過去了, 我發現一個很重要的問題, 我似乎瘦了點, 感覺還不錯！只要能活著回去！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 7
+        }
+    },
+    "2010_4": {
+        "ICON" : "34",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "一周的时间过去了, 我发现一个很重要的问题, 我好像没有一个船员了！光杆船长！天呐！",
+            "en": "A week has passed. Inoticed a very important problem. I have no seaman here! \nA captain without a following! \nMy Goodness!",
+            "tw": "一周的時間過去了, 我發現一個很重要的問題, 我好像沒有一個船員了！光桿船長！天吶！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 7
+        }
+    },    
+    "2011_0": {
+        "ICON" : "35",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "看来不会有人来救我了, 或许我应该换个思路——比如试试开发一套荒岛菜系？",
+            "en": "Does not seem like anyone is coming to save me. Maybe I need to change the way of thinking - for example developing a new cuisine of the disserted island?",
+            "tw": "看來不會有人來救我了, 或許我應該換個思路——比如試試開發一套荒島菜系？"
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 10
+        }
+    },
+    "2011_1": {
+        "ICON" : "35",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得我慢慢开始适应这个生活的节奏, 也许这里能帮助我打造一把绝世神兵. ",
+            "en": "I feel like I am getting used to the paces of living here. Maybe this place can help me forge the ultimate weapon.",
+            "tw": "我覺得我慢慢開始適應這個生活的節奏, 也許這裏能幫助我打造一把絕世神兵. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 10
+        }
+    },
+    "2011_2": {
+        "ICON" : "35",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "物资储备初步见效, 遭遇动植物若干, 属于未开发的小岛, 逃离后可考虑殖民. ",
+            "en": "The material reserves prove to be effective in the first instance. Encountered numerous animals and plants. It is an undeveloped island, after leaving this place, I can start to think about colonisation.",
+            "tw": "物資儲備初步見效, 遭遇動植物若幹, 屬於未開發的小島, 逃離後可考慮殖民. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 10
+        }
+    },
+    "2011_3": {
+        "ICON" : "35",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "已经十来天了, 看来我得靠自己继续生活下去了, 先搞个日历, 不然明天就得数脚趾了. ",
+            "en": "It has been around 10 days. Seems like I need to rely on myself to survive. Firstly, make a calendar. Or else you will need to count your toes tomorrow.",
+            "tw": "已經十來天了, 看來我得靠自己繼續生活下去了, 先搞個日歷, 不然明天就得數腳趾了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 10
+        }
+    },
+    "2011_4": {
+        "ICON" : "35",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "已经十天了.看来不会有人来救我了, 或许我应该换个思路——比如找点人, 做一做陆上的生意？ ",
+            "en": "It's already tenth day. Probably no one will come to save me. I may need to change my way of thinking —— like finding some men to do business on land.",
+            "tw": "已經十天了.看來不會有人來救我了, 或許我應該換個思路——比如找點人, 做一做陸上的生意？ "
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 10
+        }
+    },    
+    "2002_0": {
+        "ICON" : "23",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "太棒了！这里居然还有草药, 我的伤口可不想再继续发炎了. ",
+            "en": "This is great! There are medical herbs here. I don't want the infection of my wound to continue.",
+            "tw": "太棒了！這裏居然還有草藥, 我的傷口可不想再繼續發炎了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4013": 2
+            }
+        }
+    },
+    "2002_1": {
+        "ICON" : "23",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现一些奇怪的植物, 有些像以前神父所说的草药, 也许可以抑制伤口的感染. ",
+            "en": "I discovered some strange plants today. Looks like the medicinal herbs that the priest once said. Maybe this can surpress the infection of the wound.",
+            "tw": "今天發現一些奇怪的植物, 有些像以前神父所說的草藥, 也許可以抑制傷口的感染. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4013": 2
+            }
+        }
+    },
+    "2002_2": {
+        "ICON" : "23",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现药草, 可消炎止痛, 真是雪中送炭. ",
+            "en": "Discovered medicinal herbs. Can act as an antibiotic and painkiller, really helpful.",
+            "tw": "發現藥草, 可消炎止痛, 真是雪中送炭. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4013": 2
+            }
+        }
+    },
+    "2002_3": {
+        "ICON" : "23",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现一些奇怪的植物, 有些像以前网上看到的草药, 也许可以抑制伤口的感染. ",
+            "en": "I discovered some strange plants today. Looks like the medicinal herbs you saw from the internet. Maybe this can surpress the infection of the wound.",
+            "tw": "今天發現一些奇怪的植物, 有些像以前網上看到的草藥, 也許可以抑制傷口的感染. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4013": 2
+            }
+        }
+    },
+    "2002_4": {
+        "ICON" : "23",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现一些奇怪的植物, 有些像以前乔尼给我用的药草, 也许可以抑制伤口的感染. ",
+            "en": "I saw some weird plants today. Looks like herbs Jony used for curing me. It may be able to inhibit infection.",
+            "tw": "今天發現一些奇怪的植物, 有些像以前喬尼給我用的藥草, 也許可以抑制傷口的感染. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4013": 2
+            }
+        }
+    },    
+    "2004_0": {
+        "ICON" : "18",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "神秘圆球里面隐藏了一张奇怪的羊皮纸, 乍一看还以为是菜单. 我思索了一番, 看来这片区域有个大秘密. ",
+            "en": "There is a sheep hide parchment hidden within the Mystery Orb. It appears like a menu. I think about it. It seems like there is a big secret in this area.",
+            "tw": "神秘圓球裏面隱藏了一張奇怪的羊皮紙, 乍一看還以為是菜單. 我思索了一番, 看來這片區域有個大秘密. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1001": [
+                {
+                    "m0": 1
+                }
+            ]
+        }
+    },
+    "2004_1": {
+        "ICON" : "18",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "神秘圆球里面隐藏了一张奇怪的羊皮纸, 起初还以为是什么秘籍. 我思索了一番, 看来这片区域有个大秘密. ",
+            "en": "There is a sheep hide parchment hidden within the Mystery Orb. At the beginning I thought it was a rare book. I think about it. It seems like there is a big secret in this area.",
+            "tw": "神秘圓球裏面隱藏了一張奇怪的羊皮紙, 起初還以為是什麽秘籍. 我思索了一番, 看來這片區域有個大秘密. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1001": [
+                {
+                    "m0": 1
+                }
+            ]
+        }
+    },
+    "2004_2": {
+        "ICON" : "18",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "神秘圆球里包含不明文件, 难以破解, 推测此片区域藏有机密, 尝试继续破解文件. ",
+            "en": "There is an unknown document within the Mystery Orb, hard to crack. I reckon there are secrets here in this area, keep trying to decode the document.",
+            "tw": "神秘圓球裏包含不明文件, 難以破解, 推測此片區域藏有機密, 嘗試繼續破解文件. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1001": [
+                {
+                    "m0": 1
+                }
+            ]
+        }
+    },
+    "2004_3": {
+        "ICON" : "18",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "神秘圆球里面隐藏了一张奇怪的羊皮纸, 乍一看还以为是通告单. 恐怕我真的是流落到了一个没人的地方. ",
+            "en": "There is a sheep hide parchment hidden within the Mystery Orb. Looks like some kind of notice. I'm afraid I might really have ended up in a place with no other people around.",
+            "tw": "神秘圓球裏面隱藏了一張奇怪的羊皮紙, 乍一看還以為是通告單. 恐怕我真的是流落到了一個沒人的地方. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1001": [
+                {
+                    "m0": 1
+                }
+            ]
+        }
+    },
+    "2004_4": {
+        "ICON" : "18",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "神秘圆球里面隐藏了一张奇怪的羊皮纸, 一定是藏宝图！！！哈哈, 宝藏我来啦！",
+            "en": "A faded parchment was hidden in the Mystery Orb. It must be a Treasure Map!!! \nHaw-Haw-Haw, I'm coming my lovely treasure!",
+            "tw": "神秘圓球裏面隱藏了一張奇怪的羊皮紙, 一定是藏寶圖！！！哈哈, 寶藏我來啦！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1001": [
+                {
+                    "m0": 1
+                }
+            ]
+        }
+    },    
+    "2006_0": {
+        "ICON" : "25",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "找到了一些薄荷, 也许可以来一杯薄荷茶. ",
+            "en": "Discovered some mint. Maybe I can have a cut of mint tea.",
+            "tw": "找到了一些薄荷, 也許可以來一杯薄荷茶. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4022": 2
+            }
+        }
+    },
+    "2006_1": {
+        "ICON" : "25",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "找到了薄荷, 我记得管家曾经用这个泡过茶, 也许我自己也可以来一杯薄荷茶. ",
+            "en": "Found mint. I remember the butler used to use this to make tea, maybe I can also have a cup of mint tea.",
+            "tw": "找到了薄荷, 我記得管家曾經用這個泡過茶, 也許我自己也可以來一杯薄荷茶. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4022": 2
+            }
+        }
+    },
+    "2006_2": {
+        "ICON" : "25",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现薄荷, 可入药, 可尝试泡茶调节心情. ",
+            "en": "Uncovered mint. Can be used as medicine.Can try to make some tea to control my mood.",
+            "tw": "發現薄荷, 可入藥, 可嘗試泡茶調節心情. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4022": 2
+            }
+        }
+    },
+    "2006_3": {
+        "ICON" : "25",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天居然找到了一些薄荷, 虽然比不上龙井, 但来一杯薄荷茶也是不错的选择. ",
+            "en": "I actually found some mint today. Although it is not even close to the dragon well tea, but a cup of mint tea is also a good choice.",
+            "tw": "今天居然找到了一些薄荷, 雖然比不上龍井, 但來一杯薄荷茶也是不錯的選擇. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4022": 2
+            }
+        }
+    },
+    "2006_4": {
+        "ICON" : "25-",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天居然找到了一些薄荷, 不知道能不能做点薄荷酒, 或许来一杯薄荷茶也是一种不错的选择.",
+            "en": "Unexpectedly I found some mint today. Don't know if I am able to use them to make some mint wine. Or mint tea is also a good choice.",
+            "tw": "今天居然找到了一些薄荷, 不知道能不能做點薄荷酒, 或許來一杯薄荷茶也是一種不錯的選擇. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4022": 2
+            }
+        }
+    },    
+    "2007_0": {
+        "ICON" : "24",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "椰子可是好东西, 可惜数量不多. ",
+            "en": "Coconut is very good. Too bad there is not a lot.",
+            "tw": "椰子可是好東西, 可惜數量不多. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4021": 2
+            }
+        }
+    },
+    "2007_1": {
+        "ICON" : "24",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "椰子可是好东西, 话说椰汁用来淬火会是个什么效果？",
+            "en": "Coconut is very good. I wonder what the effect of pouring coconut water on fire will be?",
+            "tw": "椰子可是好東西, 話說椰汁用來淬火會是個什麽效果？"
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4021": 2
+            }
+        }
+    },
+    "2007_2": {
+        "ICON" : "24",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现椰子, 可供食用, 味道一般, 易造成腹泻. ",
+            "en": "Discovered coconut. Can eat,not tasty. It will lead to diarrhoea.",
+            "tw": "發現椰子, 可供食用, 味道一般, 易造成腹瀉. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4021": 2
+            }
+        }
+    },
+    "2007_3": {
+        "ICON" : "24",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "椰子可是好东西, 可惜数量不多. 要不试着来个椰汁烧肉？",
+            "en": "Coconut is very good. Too bad there is not a lot or else I can try coconut juice infused barbequed meat?",
+            "tw": "椰子可是好東西, 可惜數量不多. 要不試著來個椰汁燒肉？"
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4021": 2
+            }
+        }
+    },
+    "2007_4": {
+        "ICON" : "24",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "椰子可是好东西, 可惜数量不多.如果配上酒就更棒了.",
+            "en": "Coconuts are good things. It's a pity there are not many. If drink it with rum, the taste will be fantastic!",
+            "tw": "椰子可是好東西, 可惜數量不多.如果配上酒就更棒了."
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4021": 2
+            }
+        }
+    },    
+    "2012_0": {
+        "ICON" : "15",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这天气越来越热了, 夏天来了. 应该来点冰镇的西瓜来解解暑. ",
+            "en": "The weather is getting hotter and hotter. Summer is here, should have some chilled watermelon to cool down.",
+            "tw": "這天氣越來越熱了, 夏天來了. 應該來點冰鎮的西瓜來解解暑. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1007": 2
+        }
+    },
+    "2012_1": {
+        "ICON" : "15",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这天气越来越热了, 看来夏天到了, 也许我该为自己准备一条裙子. ",
+            "en": "The weather is getting hotter and hotter. Seems like summer is here. Maybe I can prepare a skirt for myself.",
+            "tw": "這天氣越來越熱了, 看來夏天到了, 也許我該為自己準備一條裙子. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1007": 2
+        }
+    },
+    "2012_2": {
+        "ICON" : "15",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "空气环境良好, 气温升高, 判断为夏季来临. 夏季训练计划启动. ",
+            "en": "The air and the environment is good. Temperature rises. I think summer is coming. Begin mission training for summer.",
+            "tw": "空氣環境良好, 氣溫升高, 判斷為夏季來臨. 夏季訓練計劃啟動. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1007": 2
+        }
+    },
+    "2012_3": {
+        "ICON" : "15",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这天气越来越热了, 夏天来了. 应该来点冰镇的可乐来解解暑. ",
+            "en": "The weather is getting hotter and hotter. Summer is here, should have some chilled coca cola to cool down.",
+            "tw": "這天氣越來越熱了, 夏天來了. 應該來點冰鎮的可樂來解解暑. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1007": 2
+        }
+    },
+    "2012_4": {
+        "ICON" : "15",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这天气越来越热了, 夏天来了.酒, 我需要酒！ ",
+            "en": "Weather becomes hotter and hotter. Summer has come. Rum! I need Rum!",
+            "tw": "這天氣越來越熱了, 夏天來了.酒, 我需要酒！ "
+        },
+        "COND": {
+            "1000": 1004,
+            "1007": 2
+        }
+    },    
+    "2013_0": {
+        "ICON" : "16",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "野外的果子慢慢开始变成熟了, 看来秋天已经到了. ",
+            "en": "The fruits of the wild is all becoming ripe. Seems like autumn is here.",
+            "tw": "野外的果子慢慢開始變成熟了, 看來秋天已經到了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 100,
+            "1007": 3
+        }
+    },
+    "2013_1": {
+        "ICON" : "16",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气转凉, 秋季来临. 夏天太热, 冬天太冷, 秋季可是个打铁的好季节. ",
+            "en": "The weather turns coldAutumn is here. Summer is too hot. Winter is too cold. The autumn is a good season for casting iron.",
+            "tw": "天氣轉涼, 秋季來臨. 夏天太熱, 冬天太冷, 秋季可是個打鐵的好季節. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 100,
+            "1007": 3
+        }
+    },
+    "2013_2": {
+        "ICON" : "16",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "空气环境良好, 气温降低, 判断为秋季来临. 开始储存冬季物资. ",
+            "en": "The air and the environment is good. Temperature drops. Autumn is coming. Begin collecting materials for winter.",
+            "tw": "空氣環境良好, 氣溫降低, 判斷為秋季來臨. 開始儲存冬季物資. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 100,
+            "1007": 3
+        }
+    },
+    "2013_3": {
+        "ICON" : "16",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "野外的果子慢慢开始变成熟了, 看来秋天已经到了. ",
+            "en": "The fruits of the wild is all becoming ripe. Seems like autumn is here.",
+            "tw": "野外的果子慢慢開始變成熟了, 看來秋天已經到了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 100,
+            "1007": 3
+        }
+    },
+    "2013_4": {
+        "ICON" : "16",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "秋季是做生意的好日子, 这么想想那些被抢的人也不容易啊. ",
+            "en": "Fall is a cool season to do business. Thinking about people robbed by me, their lives were not easy as well.",
+            "tw": "秋季是做生意的好日子, 這麽想想那些被搶的人也不容易啊. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 100,
+            "1007": 3
+        }
+    },    
+    "2014_0": {
+        "ICON" : "17",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气越来越冷了, 看来这个冬天不好过啊. 想念那碗面, 告别那个冬天. ",
+            "en": "The weather is getting colder and colder. Seems like this winter is going to be a struggle. Miss that bowl of noodles. Farewell to that winter.",
+            "tw": "天氣越來越冷了, 看來這個冬天不好過啊. 想念那碗面, 告別那個冬天. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1002": 100,
+            "1007": 4
+        }
+    },
+    "2014_1": {
+        "ICON" : "17",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气越来越冷了, 记得以前冬天总是在铁匠铺度过, 炉子把屋子烘的暖暖的. ",
+            "en": "The weather is getting colder and colder. Remembering that the winters before were spent in the blacksmith's hut. The oven is making the room very warm.",
+            "tw": "天氣越來越冷了, 記得以前冬天總是在鐵匠鋪度過, 爐子把屋子烘的暖暖的. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1002": 100,
+            "1007": 4
+        }
+    },
+    "2014_2": {
+        "ICON" : "17",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "空气环境略差, 气温偏低, 判断为冬季来临. 冬季训练计划开启. ",
+            "en": "The air and environment is slightly bad. Slightly cold temperature. Winter is coming. Begin mission training for winter.",
+            "tw": "空氣環境略差, 氣溫偏低, 判斷為冬季來臨. 冬季訓練計劃開啟. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1002": 100,
+            "1007": 4
+        }
+    },
+    "2014_3": {
+        "ICON" : "17",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气越来越冷了, 看来这个冬天不好过啊. 想念那碗面, 告别那个冬天. ",
+            "en": "The weather is getting colder and colder. Seems like this winter is going to be a struggle. Miss that bowl of noodles. Farewell to that winter.",
+            "tw": "天氣越來越冷了, 看來這個冬天不好過啊. 想念那碗面, 告別那個冬天. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1002": 100,
+            "1007": 4
+        }
+    }, 
+    "2014_4": {
+        "ICON" : "17",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气越来越冷了, 看来这个冬天不好过啊.要是有些酒来暖暖身子就好了. ",
+            "en": "Air becomes colder and colder. It omens a tough winter to live. I will be very grateful if there is a little rum for me to warm up with.",
+            "tw": "天氣越來越冷了, 看來這個冬天不好過啊.要是有些酒來暖暖身子就好了. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1002": 100,
+            "1007": 4
+        }
+    },       
+    "2015_0": {
+        "ICON" : "14",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "春天到了, 万物复苏, 野兽们饿了一个冬天, 恐怕更凶残了. ",
+            "en": "Spring is here. Everything is coming back to life. The beasts have been hungry all winter. I'm afraid it's more ferocious.",
+            "tw": "春天到了, 萬物復蘇, 野獸們餓了一個冬天, 恐怕更兇殘了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1007": 1
+        }
+    },
+    "2015_1": {
+        "ICON" : "14",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "春天到了, 荒野上又到了交配的季节, 野兽怕是也比平时更凶猛了. ",
+            "en": "Spring is here. It is mating season in the wilderness again. The beasts are even more ferocious than average.",
+            "tw": "春天到了, 荒野上又到了交配的季節, 野獸怕是也比平時更兇猛了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1007": 1
+        }
+    },
+    "2015_2": {
+        "ICON" : "14",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "气温回升, 判断为春季来临. 野兽实力同步提升, 需注意. ",
+            "en": "The temperature is rising. A judgement of the arrival of spring is made. The attack ratings of beasts also increase. Need to take note.",
+            "tw": "氣溫回升, 判斷為春季來臨. 野獸實力同步提升, 需註意. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1007": 1
+        }
+    },
+    "2015_3": {
+        "ICON" : "14",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "春天到了, 万物复苏, 野兽们饿了一个冬天, 恐怕更凶残了. ",
+            "en": "Spring is here. Everything is coming back to life. The beasts have been hungry all winter. I'm afraid it's more ferocious.",
+            "tw": "春天到了, 萬物復蘇, 野獸們餓了一個冬天, 恐怕更兇殘了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1007": 1
+        }
+    },
+    "2015_4": {
+        "ICON" : "14",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "气温开始回暖了, 洋流又要发生变化了.看来是春天到了. ",
+            "en": "Temperature is turning warm. Ocean current also changed. All changes indicate the come of Spring.",
+            "tw": "氣溫開始回暖了, 洋流又要發生變化了.看來是春天到了.  "
+        },
+        "COND": {
+            "1000": 1004,
+            "1007": 1
+        }
+    },    
+    "2016_0": {
+        "ICON" : "26",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天居然还发现了土豆, 我想念土豆泥的味道！",
+            "en": "I actually found potato today. I miss the taste of mashed potatoes!",
+            "tw": "今天居然還發現了土豆, 我想念土豆泥的味道！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4044": 2
+            }
+        }
+    },
+    "2016_1": {
+        "ICON" : "26",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天居然还发现了土豆, 可以尝试找个地方把土豆种下去, 来年收获更多的土豆. ",
+            "en": "I actually found potato today. Can try to find a place to plant potatoes. Will harvest even more potatoes next year.",
+            "tw": "今天居然還發現了土豆, 可以嘗試找個地方把土豆種下去, 來年收獲更多的土豆. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4044": 2
+            }
+        }
+    },
+    "2016_2": {
+        "ICON" : "26",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现土豆若干, 根据目前物资储备, 可决定食用或种植. ",
+            "en": "Found some potatoes. According to the current resource inventory. Can decide whether to eat or plant.",
+            "tw": "發現土豆若幹, 根據目前物資儲備, 可決定食用或種植. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4044": 2
+            }
+        }
+    },
+    "2016_3": {
+        "ICON" : "26",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天居然还发现了土豆, 可能我能用这些土豆做点原味的薯片. ",
+            "en": "I actually found potato today. Maybe I can use these potatoes to make some original flavoured chips.",
+            "tw": "今天居然還發現了土豆, 可能我能用這些土豆做點原味的薯片. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4044": 2
+            }
+        }
+    },
+    "2016_4": {
+        "ICON" : "26",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "土豆, 这东西倒是让我想到那些还在船上的日子. ",
+            "en": "Potato, it reminds me of ages on sea.",
+            "tw": "土豆, 這東西倒是讓我想到那些還在船上的日子. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4044": 2
+            }
+        }
+    },    
+    "2017_0": {
+        "ICON" : "27",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现蜜蜂的时候我就想着肯定有蜂蜜, 果然被我找到了. 把肉烤一烤, 加上点蜂蜜, 那味道简直……",
+            "en": "When I found honey I thought of the fact that there must be bees. I found it. Barbeque the meat. Add some honey, that taste is so...",
+            "tw": "發現蜜蜂的時候我就想著肯定有蜂蜜, 果然被我找到了. 把肉烤一烤, 加上點蜂蜜, 那味道簡直……"
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4038": 2
+            }
+        }
+    },
+    "2017_1": {
+        "ICON" : "27",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现蜜蜂的时候我就在想蜂蜜在哪. 虽然野生的蜂蜜味道不如我想象中那么好, 不过总算是个调味品了. ",
+            "en": "I was thinking of where the bees are when I found honey. Although the honey found in the wild did not taste as nice as I thought. At last, this is at least some sort of condiment.",
+            "tw": "發現蜜蜂的時候我就在想蜂蜜在哪. 雖然野生的蜂蜜味道不如我想象中那麽好, 不過總算是個調味品了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4038": 2
+            }
+        }
+    },
+    "2017_2": {
+        "ICON" : "27",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现蜜蜂, 尾行后发现蜂蜜, 收获蜂蜜若干, 味道良好. ",
+            "en": "Found bees. As you followed you discovered honey, obtained some honey, tastes good.",
+            "tw": "發現蜜蜂, 尾行後發現蜂蜜, 收獲蜂蜜若幹, 味道良好. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4038": 2
+            }
+        }
+    },
+    "2017_3": {
+        "ICON" : "27",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现蜜蜂的时候我就想着肯定有蜂蜜, 果然被我找到了. 就是脸上被叮的包还没消肿. ",
+            "en": "When I found honey I thought of the fact that there must be bees. I found it. I got a mosquito bite on my face and it's still swelling.",
+            "tw": "發現蜜蜂的時候我就想著肯定有蜂蜜, 果然被我找到了. 就是臉上被叮的包還沒消腫. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4038": 2
+            }
+        }
+    },
+    "2017_4": {
+        "ICON" : "27",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现蜜蜂的时候我就想着肯定有蜂蜜, 果然被我找到了.就是这该死的蜜蜂, 借你点蜂蜜还这么小气.看来以后得问问乔尼怎么消肿. ",
+            "en": "When I saw bees I knew there must be a beehive somewhere. As expected I found it. Just the damned bees are very stingy with so little honey. It is necessary to learn how to cure swelling with Jony in future.",
+            "tw": "發現蜜蜂的時候我就想著肯定有蜂蜜, 果然被我找到了.就是這該死的蜜蜂, 借你點蜂蜜還這麽小氣.看來以後得問問喬尼怎麽消腫. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4038": 2
+            }
+        }
+    },    
+    "2018_0": {
+        "ICON" : "28",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气时好时坏, 我得多准备点衣服, 或许我能用这些兽皮给自己弄一顶厨师帽. ",
+            "en": "The weather is on and off. I need to prepare more clothing. Maybe I can use these beast hides to make myself a chef's hat.",
+            "tw": "天氣時好時壞, 我得多準備點衣服, 或許我能用這些獸皮給自己弄一頂廚師帽. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4011": 1
+            }
+        }
+    },
+    "2018_1": {
+        "ICON" : "28",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气时好时坏, 我得多准备点衣服, 或许我能用这些兽皮给自己弄一件真皮大衣, 原汁原味, 肯定不比克莱尔她们的差. 她们这个时候有没有想我呢. ",
+            "en": "The weather is on and off. I need to prepare more clothing. Maybe I can use these beast hides to make myself a real leather coat with original flavour. It must not be worse than Clair's. Are they thinking about me right now.",
+            "tw": "天氣時好時壞, 我得多準備點衣服, 或許我能用這些獸皮給自己弄一件真皮大衣, 原汁原味, 肯定不比克萊爾她們的差. 她們這個時候有沒有想我呢. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4011": 1
+            }
+        }
+    },
+    "2018_2": {
+        "ICON" : "28",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气状态不稳定, 需要增加服装储备. 今天得到的兽皮是不错的制作材料. ",
+            "en": "The weather is not stable. Need to increase clothing inventory. The beast hide obtained today is a good material.",
+            "tw": "天氣狀態不穩定, 需要增加服裝儲備. 今天得到的獸皮是不錯的制作材料. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4011": 1
+            }
+        }
+    },
+    "2018_3": {
+        "ICON" : "28",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气时好时坏, 我得多准备点衣服, 光靠脂肪可不行, 或许我能用这些兽皮给自己弄一件真皮大衣. ",
+            "en": "The weather is on and off. I need to prepare more clothing, not able to only rely on fat reserve. Maybe I can use these beast hides to make myself a Real leather coat.",
+            "tw": "天氣時好時壞, 我得多準備點衣服, 光靠脂肪可不行, 或許我能用這些獸皮給自己弄一件真皮大衣. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4011": 1
+            }
+        }
+    },
+    "2018_4": {
+        "ICON" : "28",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "天气时好时坏, 我得多准备点衣服, 光靠脂肪可不行, 或许我能用这些兽皮给自己弄一件船长专属的大衣.",
+            "en": "The weather is uncertain and capricious. I need to prepare more clothes and cannot just count on my fat. Probably I can make a coat of Captain by animal hide. ",
+            "tw": "天氣時好時壞, 我得多準備點衣服, 光靠脂肪可不行, 或許我能用這些獸皮給自己弄一件船長專屬的大衣."
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4011": 1
+            }
+        }
+    },    
+    "2019_0": {
+        "ICON" : "29",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现了些硫磺, 以前自己种东西的时候, 硫磺可是击败虫害的好东西. 也许我能用这些硫磺来制造点大动静. ",
+            "en": "I discovered sulphur today. When you used to plant your own things. Sulphur is great for killing pests and bugs. Maybe I can use this sulphur to create some big noises.",
+            "tw": "今天發現了些硫磺, 以前自己種東西的時候, 硫磺可是消滅蟲害的好東西. 也許我能用這些硫磺來制造點大動靜. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4034": 1
+            }
+        }
+    },
+    "2019_1": {
+        "ICON" : "29",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天闻到了硫磺的味道, 顺着味道就找到了硫磺. 如果我的袖珍手枪在就好了, 她的杀伤力可不小. ",
+            "en": "I could smell the sulphur today. Found the sulphur by following its smell. It would be great if I had my mini hand gun, her attack rating is not low at all.",
+            "tw": "今天聞到了硫磺的味道, 順著味道就找到了硫磺. 如果我的袖珍手槍在就好了, 她的殺傷力可不小. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4034": 1
+            }
+        }
+    },
+    "2019_2": {
+        "ICON" : "29",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天闻到了熟悉的火药味, 最终发现硫磺若干, 可尝试进行制作火药. 没有火药的兵不是好兵. ",
+            "en": "I smelt the familiar smell of gun powder today. Finally you find lots of sulphur. Can try to make gun powder. A soldier with no gun powder is not a good soldier.",
+            "tw": "今天聞到了熟悉的火藥味, 最終發現硫磺若幹, 可嘗試進行制作火藥. 沒有火藥的兵不是好兵. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4034": 1
+            }
+        }
+    },
+    "2019_3": {
+        "ICON" : "29",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天闻到了硫磺的味道, 顺着味道就找到了硫磺. 高中化学学过这玩意没？总觉得是可以搞个大新闻的东西. ",
+            "en": "I could smell the sulphur today. Found the sulphur by following its smell. Did you learn about this in high school chemistry? You keep thinking you can use this to create big news.",
+            "tw": "今天聞到了硫磺的味道, 順著味道就找到了硫磺. 高中化學學過這玩意沒？總覺得是可以搞個大新聞的東西. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4034": 1
+            }
+        }
+    },
+    "2019_4": {
+        "ICON" : "29",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天闻到了硫磺的味道, 顺着味道就找到了硫磺.这个我知道, 能做火药. ",
+            "en": "Today I smell sulphur on a mountain. Following it I found natural sulphur. I know it well and can use it to make gunpowder.",
+            "tw": "今天聞到了硫磺的味道, 順著味道就找到了硫磺.這個我知道, 能做火藥.  "
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4034": 1
+            }
+        }
+    },    
+    "2020_0": {
+        "ICON" : "30",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现了一些矿石, 推测这些是硝石, 以前试菜的时候食物中毒, 老师给我用过这东西. ",
+            "en": "I found some mineral rocks today. I think these are saltpeter. You have had food poisoning before when trying out dishes. My teacher has given me this to use before.",
+            "tw": "今天發現了一些礦石, 推測這些是硝石, 以前試菜的時候食物中毒, 老師給我用過這東西. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1004": {
+                "4035": 1
+            }
+        }
+    },
+    "2020_1": {
+        "ICON" : "30",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这个小岛简直不可思议, 居然还有硝石, 看来我得研究下火药的制作, 也许我真的可以制造些大动静. ",
+            "en": "This small island is utterly unbelievable. There is actually saltpeter stones. Looks like I need to research how to make gun powder. Maybe I really can create some big noises.",
+            "tw": "這個小島簡直不可思議, 居然還有硝石, 看來我得研究下火藥的制作, 也許我真的可以制造些大動靜. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1004": {
+                "4035": 1
+            }
+        }
+    },
+    "2020_2": {
+        "ICON" : "30",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "居然有硝石. 成功发现了硝石, 并获取部分, 开始尝试制作火药. ",
+            "en": "There is actually saltpeter. Successfully discovered saltpeter, and obtained some. Begin an attempt to make gun powder.",
+            "tw": "居然有硝石. 成功發現了硝石, 並獲取部分, 開始嘗試制作火藥. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1004": {
+                "4035": 1
+            }
+        }
+    },
+    "2020_3": {
+        "ICON" : "30",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这个小岛简直不可思议, 居然还有硝石, 这个节奏是让我自己造火药？我是美食博主, 不是军火博主啊！",
+            "en": "This small island is utterly unbelievable. There is actually saltpeter stones. So I need to make my own gun powder? I am a video chef. I am not a video broadcaster of weapons!",
+            "tw": "這個小島簡直不可思議, 居然還有硝石, 這個節奏是讓我自己造火藥？我是美食博主, 不是軍火博主啊！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1004": {
+                "4035": 1
+            }
+        }
+    },
+    "2020_4": {
+        "ICON" : "30",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现了一些矿石, 推测这些是硝石, 加上硫磺就能做火药了.不过, 怎么做来着……？",
+            "en": "I found some small white pieces. I guess it is saltpeter. Gunpowder can be made by mixing it with sulphur. \nBut, how to do it exactly …… ?",
+            "tw": "今天發現了一些礦石, 推測這些是硝石, 加上硫磺就能做火藥了.不過, 怎麽做來著……？"
+        },
+        "COND": {
+            "1000": 1004,
+            "1004": {
+                "4035": 1
+            }
+        }
+    },    
+    "2021_0": {
+        "ICON" : "8",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "看来今晚一定能在这个豪华大床上做个好梦！希望能在梦里见到烤芝士. ",
+            "en": "Seems like a good dream is coming from the look of this big bed. I hope I can have a dream about grilled cheese.",
+            "tw": "看來今晚一定能在這個豪華大床上做個好夢！希望能在夢裏見到烤芝士. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1010": {
+                "3003": 3
+            }
+        }
+    },
+    "2021_1": {
+        "ICON" : "8",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天算是完成了属于自己的高级大床, 简直是皇室待遇. ",
+            "en": "Today is the day that I mark the completion of my luxurious big bed. Treated like royalty.",
+            "tw": "今天算是完成了屬於自己的高級大床, 簡直是皇室待遇. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1010": {
+                "3003": 3
+            }
+        }
+    },
+    "2021_2": {
+        "ICON" : "8",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "睡袋升级完毕, 提升睡眠质量. ",
+            "en": "Sleeping bag upgrade complete. Improve quality of sleep.",
+            "tw": "睡袋升級完畢, 提升睡眠質量. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1010": {
+                "3003": 3
+            }
+        }
+    },
+    "2021_3": {
+        "ICON" : "8",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "也就我这种动手能力这么强的人才能在这么短时间里做出这么高级的床了. ",
+            "en": "Only someone like me who is highly skilled with his hands can make such a high quality bed in such a short time.",
+            "tw": "也就我這種動手能力這麽強的人才能在這麽短時間裏做出這麽高級的床了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1010": {
+                "3003": 3
+            }
+        }
+    },
+    "2021_4": {
+        "ICON" : "8",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "习惯了航海生涯, 总是睡不好, 这大自然的豪华大床睡起来感觉居然还不错. ",
+            "en": "I used to sail year in and year out, always could not sleep well. Never thought it is so comfortable to sleep on this big deluxe bed of nature.",
+            "tw": "習慣了航海生涯, 總是睡不好, 這大自然的豪華大床睡起來感覺居然還不錯."
+        },
+        "COND": {
+            "1000": 1004,
+            "1010": {
+                "3003": 3
+            }
+        }
+    },    
+    "2022_0": {
+        "ICON" : "9",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "太棒了！新的厨房一定能来带更棒的料理. ",
+            "en": "This is great! The new kitchen could sure bring better food.",
+            "tw": "太棒了！新的廚房一定能來帶更棒的料理. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1010": {
+                "3002": 3
+            }
+        }
+    },
+    "2022_1": {
+        "ICON" : "9",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "新的厨房, 看来能做些营养均衡的东西了. ",
+            "en": "New kitchen. Looks like I can make some kind of diet balanced food.",
+            "tw": "新的廚房, 看來能做些營養均衡的東西了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1010": {
+                "3002": 3
+            }
+        }
+    },
+    "2022_2": {
+        "ICON" : "9",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "厨房升级完毕, 提升食物质量. ",
+            "en": "Kitchen upgrade complete. Increase quality of food.",
+            "tw": "廚房升級完畢, 提升食物質量. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1010": {
+                "3002": 3
+            }
+        }
+    },
+    "2022_3": {
+        "ICON" : "9",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "一本正经的做美食是一本正经做美食节目的前提, 当然, 有个好的厨房就更棒了. ",
+            "en": "Dedication to cooking is the basis for this dedicated cooking show. Of course. It would be great to have a good kitchen.",
+            "tw": "一本正經的做美食是一本正經做美食節目的前提, 當然, 有個好的廚房就更棒了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1010": {
+                "3002": 3
+            }
+        }
+    },
+    "2022_4": {
+        "ICON" : "9",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "喔, 纳克之前一直吐槽船上没有像样的厨房, 看来好的厨房确实很重要. ",
+            "en": "Wow, in the past Nack always complains there was not a decent kitchen on ship. Now I understand a good kitchen is really important.",
+            "tw": "喔, 納克之前一直吐槽船上沒有像樣的廚房, 看來好的廚房確實很重要. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1010": {
+                "3002": 3
+            }
+        }
+    },    
+    "2023_0": {
+        "ICON" : "10",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得我在制作东西方面的天赋被激发了出来. 比如新的工具台. ",
+            "en": "I think my knack for building things have been brought out. For example, this new tool desk.",
+            "tw": "我覺得我在制作東西方面的天賦被激發了出來. 比如新的工具臺. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1010": {
+                "3000": 3
+            }
+        }
+    },
+    "2023_1": {
+        "ICON" : "10",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得我在制作东西方面的天赋被激发了出来. 比如新的工具台. ",
+            "en": "I think my knack for building things have been brought out. For example, this new tool desk.",
+            "tw": "我覺得我在制作東西方面的天賦被激發了出來. 比如新的工具臺. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1010": {
+                "3000": 3
+            }
+        }
+    },
+    "2023_2": {
+        "ICON" : "10",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "工具台升级完毕, 提升可制作物品种类, 提高制作效率. ",
+            "en": "Tool desk upgrade complete. Increase number of products that could be made. Increase efficiency of production.",
+            "tw": "工具臺升級完畢, 提升可制作物品種類, 提高制作效率. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1010": {
+                "3000": 3
+            }
+        }
+    },
+    "2023_3": {
+        "ICON" : "10",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得我的动手能力又上升了一步, 哎, 我怎么这么优秀. ",
+            "en": "I think my building ability has risen to another level. Sighs! Why am I so good.",
+            "tw": "我覺得我的動手能力又上升了一步, 哎, 我怎麽這麽優秀. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1010": {
+                "3000": 3
+            }
+        }
+    },
+    "2023_4": {
+        "ICON" : "10",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "嚯, 长期在海上做生意的, 都知道军火的重要性, 这下在荒野上生活就安心多了. ",
+            "en": "Wow, the importance of arms and ammunition is well known by people like me who had business on seas for decades. It makes me feel at ease in this wilderness.",
+            "tw": "謔, 長期在海上做生意的, 都知道軍火的重要性, 這下在荒野上生活就安心多了. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1010": {
+                "3000": 3
+            }
+        }
+    },    
+    "2025_0": {
+        "ICON" : "12",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "荒岛上难免有个小毛小病. 好的厨师要学会控制伤病. ",
+            "en": "It is hard to prevent small sicknesses while on a deserted island; a good chef needs to learn how to control sickness and injury.",
+            "tw": "荒島上難免有個小毛小病. 好的廚師要學會控制傷病. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1010": {
+                "3004": 2
+            }
+        }
+    },
+    "2025_1": {
+        "ICON" : "12",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "荒岛上难免有个小毛小病. 我要学会控制伤病. ",
+            "en": "It is hard to prevent small sicknesses while on a deserted island. I need to learn how to control injuries and illness.",
+            "tw": "荒島上難免有個小毛小病. 我要學會控制傷病. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1010": {
+                "3004": 2
+            }
+        }
+    },
+    "2025_2": {
+        "ICON" : "12",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "医疗箱升级完毕, 医疗水平提高, 保证前线战斗力量. ",
+            "en": "First Aid Kit upgrade complete. Improve healing skill, to ensure the fight power of the front line.",
+            "tw": "醫療箱升級完畢, 醫療水平提高, 保證前線戰鬥力量. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1010": {
+                "3004": 2
+            }
+        }
+    },
+    "2025_3": {
+        "ICON" : "12",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "荒岛上难免有个小毛小病. 要准备点常用药以防不时之需. ",
+            "en": "It is hard to prevent small sicknesses while on a deserted island; I need to prepare some everyday medicine in case it's ever needed.",
+            "tw": "荒島上難免有個小毛小病. 要準備點常用藥以防不時之需. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1010": {
+                "3004": 2
+            }
+        }
+    },
+    "2025_4": {
+        "ICON" : "12",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "荒岛上难免有个小毛小病.好的航海家要学会控制伤病. ",
+            "en": "Living in wilderness it is hard to avoid some diseases. A good voyager should know how to handle wound and illness.",
+            "tw": "荒島上難免有個小毛小病.好的航海家要學會控制傷病. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1010": {
+                "3004": 2
+            }
+        }
+    },    
+    "2026_0": {
+        "ICON" : "1",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "白天看见了一只巨大的白狼, 该死, 我的第一反应居然是又有肉吃了. 我被吓坏了, 两腿发软. 还好没成为它的盘中餐. ",
+            "en": "I saw a giant white wolf today. Damn. My first reaction was that there is more meat to eat. I scared myself to death. Both legs are weak. Good that I did not get turned into its food.",
+            "tw": "白天看見了一只巨大的白狼, 該死, 我的第一反應居然是又有肉吃了. 我被嚇壞了, 兩腿發軟. 還好沒成為它的盤中餐. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1011": {
+                "2001": 1
+            }
+        }
+    },
+    "2026_1": {
+        "ICON" : "1",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天发现了一只巨大的白狼, 直觉告诉我, 它接近我并没有什么恶意, 不过我们还是没有进行接触, 万一我的直觉出了问题就不好了. ",
+            "en": "I discovered a giant white wolf today. My gut tells me. It does not mean hard when trying to get closer to me. But we have yet to establish contact. It would be bad if, in the off chance, my intuition is not right.",
+            "tw": "今天發現了一只巨大的白狼, 直覺告訴我, 它接近我並沒有什麽惡意, 不過我們還是沒有進行接觸, 萬一我的直覺出了問題就不好了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1011": {
+                "2001": 1
+            }
+        }
+    },
+    "2026_2": {
+        "ICON" : "1",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "遭遇白狼一只. 体型巨大, 未有接触. 仍需观察. ",
+            "en": "Encountered a white wolf today. It was huge. Never had contact. Still needs to observe.",
+            "tw": "遭遇白狼一只. 體型巨大, 未有接觸. 仍需觀察. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1011": {
+                "2001": 1
+            }
+        }
+    },
+    "2026_3": {
+        "ICON" : "1",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "白天看见了一只巨大的白狼, 它也是默默地和我对视, 谁都没有说话, 总觉得可以做好朋友. ",
+            "en": "I saw a giant white wolf today. It also looks are me quickly. No one said a word. Always feel like we can be good friends.",
+            "tw": "白天看見了一只巨大的白狼, 它也是默默地和我對視, 誰都沒有說話, 總覺得可以做好朋友. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1011": {
+                "2001": 1
+            }
+        }
+    },
+    "2026_4": {
+        "ICON" : "1",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "白天看见了一只巨大的白狼, 我能从它身上感觉出领袖的气息, 毕竟我也是, 哈哈. ",
+            "en": "I saw a giant white wolf today. I can feel its awe-inspiring temperament of leadership because I have the same one. Haw-Haw-Haw!",
+            "tw": "白天看見了一只巨大的白狼, 我能從它身上感覺出領袖的氣息, 畢竟我也是, 哈哈.  "
+        },
+        "COND": {
+            "1000": 1004,
+            "1011": {
+                "2001": 1
+            }
+        }
+    },    
+    "2027_0": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "如果我的眼神没问题, 我想我今天看到的是一只骆驼. 太棒了, 也许我能驯服这头骆驼, 来帮助我越过这沙漠. ",
+            "en": "If there are no problems with my eye sight. I think I saw a camel today. Great. Maybe I can tame this camel. Come help me cross this desert.",
+            "tw": "如果我的眼神沒問題, 我想我今天看到的是一只駱駝. 太棒了, 也許我能馴服這頭駱駝, 來幫助我越過這沙漠. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1011": {
+                "2002": 1
+            }
+        }
+    },
+    "2027_1": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我觉得我可能看到了一头骆驼, 如果我能驯服这头骆驼, 我应该能在沙漠中省很多事. ",
+            "en": "I think I saw a camel. If I can tame this camel. I might not have to do a lot of things when in this desert.",
+            "tw": "我覺得我可能看到了一頭駱駝, 如果我能馴服這頭駱駝, 我應該能在沙漠中省很多事. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1011": {
+                "2002": 1
+            }
+        }
+    },
+    "2027_2": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "遭遇骆驼一只, 沙漠计划突破口出现, 可考虑驯服. ",
+            "en": "Encountered a camel. Appearance of an entry point for mission desert. Can consider to tame.",
+            "tw": "遭遇駱駝一只, 沙漠計劃突破口出現, 可考慮馴服. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1011": {
+                "2002": 1
+            }
+        }
+    },
+    "2027_3": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "似乎看到了一头骆驼, 看样子, 度过沙漠的方法有了. ",
+            "en": "Seems as though I saw a camel. Seems like, got a way to get across the desert.",
+            "tw": "似乎看到了一頭駱駝, 看樣子, 度過沙漠的方法有了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1011": {
+                "2002": 1
+            }
+        }
+    },
+    "2027_4": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天看到了一只不知道名字的动物, 像是马, 但是背上有两个包, 看样子是生活在沙漠中的马, 看来可以骑着它穿过沙漠. ",
+            "en": "I met a strange animal today. It looks like a horse but has two swells on its back. Seems a kind of horse living in desert. Probably I can ride it to pass through the desert. ",
+            "tw": "今天看到了一只不知道名字的動物, 像是馬, 但是背上有兩個包, 看樣子是生活在沙漠中的馬, 看來可以騎著它穿過沙漠. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1011": {
+                "2002": 1
+            }
+        }
+    },    
+    "2028_0": {
+        "ICON" : "4",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我原以为这地方只有我一个人, 我的意思是人类这个物种. 可我今天又见到一个人, 这个人跟我语言不通, 看样子是当地的土著, 我可能能用美食跟他们进行交流. ",
+            "en": "I originally thought I was here by myself. I meant humans as a species. But I saw another human today. This person cannot communicate with me. Looks like the natives. I might use good tasting food to communicate with them.",
+            "tw": "我原以為這地方只有我一個人, 我的意思是人類這個物種. 可我今天又見到一個人, 這個人跟我語言不通, 看樣子是當地的土著, 我可能能用美食跟他們進行交流. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1011": {
+                "2003": 1
+            }
+        }
+    },
+    "2028_1": {
+        "ICON" : "4",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我原以为这地方只有我一个人, 我的意思是人类这个物种. 可我今天又见到一个人, 我想表明我的爵士身份, 可这个人跟我语言不通, 看样子是当地的土著. ",
+            "en": "I originally thought I was here by myself. I meant humans as a species. But I saw another human today. I want to advise of my position as count. But this person does not speak the same language as me. Looks like the natives.",
+            "tw": "我原以為這地方只有我一個人, 我的意思是人類這個物種. 可我今天又見到一個人, 我想表明我的爵士身份, 可這個人跟我語言不通, 看樣子是當地的土著. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1011": {
+                "2003": 1
+            }
+        }
+    },
+    "2028_2": {
+        "ICON" : "4",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "遭遇不明势力, 单人, 未有敌对意向, 语言不通. ",
+            "en": "Encountered an unknown power. Single person. Does not plan to be enemies. Language barrier.",
+            "tw": "遭遇不明勢力, 單人, 未有敵對意向, 語言不通. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1011": {
+                "2003": 1
+            }
+        }
+    },
+    "2028_3": {
+        "ICON" : "4",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我以为这个地方只有我一个人, 我的意思是人类这个物种. 我可今天又见到一个人, 有些像电视上的非洲土著. 不知道他们有没有可乐. ",
+            "en": "I thought there was only me here. I meant humans as a species. But I saw another human today. Some look like the natives from Africa. Don't know if they have coca cola.",
+            "tw": "我以為這個地方只有我一個人, 我的意思是人類這個物種. 我可今天又見到一個人, 有些像電視上的非洲土著. 不知道他們有沒有可樂. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1011": {
+                "2003": 1
+            }
+        }
+    },
+    "2028_4": {
+        "ICON" : "4",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我以为这个地方只有我一个人, 我的意思是人类这个物种.我可今天又见到一个人, 我考虑是打劫他还是先交流一下再打劫. ",
+            "en": "I thought I'm the only man in this wilderness. I mean the human being. But I saw another human today in a distance. I was thinking whether to rob him or to have a talk with him before robbing him.",
+            "tw": "我以為這個地方只有我一個人, 我的意思是人類這個物種.我可今天又見到一個人, 我考慮是打劫他還是先交流一下再打劫. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1011": {
+                "2003": 1
+            }
+        }
+    },    
+    "2029_0": {
+        "ICON" : "2",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天得到了一只小狼, 看样子我得学学如何驯养一条狗, 哦不对, 是狼, 这是一转厨师, 二转猎人的样子啊. ",
+            "en": "Obtained a baby wolf today. Looks like I need to learn how to tame a dog. Oh, not it. It's a wolf. This is a Re-1 Chef, like a Re-2 Hunter.",
+            "tw": "今天得到了一只小狼, 看樣子我得學學如何馴養一條狗, 哦不對, 是狼, 這是一轉廚師, 二轉獵人的樣子啊. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1008": 1
+        }
+    },
+    "2029_1": {
+        "ICON" : "2",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天得到了一只小狼, 看样子还不错. 哥哥在夏威夷教过我训狗, 看来很快我就进阶成为一名女猎人了. ",
+            "en": "Obtained a baby wolf today. Looks good. My brother taught me how to train a dog in Hawaii. Seems like I have achieved the class of female hunter quickly.",
+            "tw": "今天得到了一只小狼, 看樣子還不錯. 哥哥在夏威夷教過我訓狗, 看來很快我就進階成為一名女獵人了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1008": 1
+        }
+    },
+    "2029_2": {
+        "ICON" : "2",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "得到小狼一只. 可考虑训练成警犬, 增强战斗力. ",
+            "en": "Obtained a baby wolf, could consider training it into a police dog. Increase battle rating",
+            "tw": "得到小狼一只. 可考慮訓練成警犬, 增強戰鬥力. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1008": 1
+        }
+    },
+    "2029_3": {
+        "ICON" : "2",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天得到了一只小狼, 或许我可以当做狗一样训练训练, 来一个与狼共舞！",
+            "en": "Obtained a baby wolf today. Maybe I can train it as if I'm training a dog. Dancing with Wolves!",
+            "tw": "今天得到了一只小狼, 或許我可以當做狗一樣訓練訓練, 來一個與狼共舞！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1008": 1
+        }
+    },
+    "2029_4": {
+        "ICON" : "2",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "今天得到了一只小狼, 从今天起, 你就是新的船员了, 记得战斗后上交战利品！",
+            "en": "Today I adopted a little white wolf. From this day on, he will be my new seaman. Remember to hand in your prey boy!",
+            "tw": "今天得到了一只小狼, 從今天起, 你就是新的船員了, 記得戰鬥後上交戰利品！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1008": 1
+        }
+    },    
+    "2030_0": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我驯服了骆驼！以前我倒是烹饪过骆驼, 没想到这么好吃的家伙居然还挺难驯服的. ",
+            "en": "I tamed a camel! I have cooked a camel before. It's hard to believe something this tasty is so hard to train.",
+            "tw": "我馴服了駱駝！以前我倒是烹飪過駱駝, 沒想到這麽好吃的家夥居然還挺難馴服的. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1013": true
+        }
+    },
+    "2030_1": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "骆驼已成裙下之臣. 美貌看来对任何生物都是有效的啊. ",
+            "en": "The camel has become my servant. I guess beauty works on everything.",
+            "tw": "駱駝已成裙下之臣. 美貌看來對任何生物都是有效的啊. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1013": true
+        }
+    },
+    "2030_2": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "驯服骆驼, 沙漠任务可按照计划进行. ",
+            "en": "Taming a camel. Mission desert can continue as planned.",
+            "tw": "馴服駱駝, 沙漠任務可按照計劃進行. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1013": true
+        }
+    },
+    "2030_3": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我跟骆驼四目相对, 它似乎感受到了我的想法, 最终跟着我回到了家里. ",
+            "en": "The camel and I look into each other's eyes. It seems to feel the way I am thinking. Finally followed me home.",
+            "tw": "我跟駱駝四目相對, 它似乎感受到了我的想法, 最終跟著我回到了家裏. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1013": true
+        }
+    },
+    "2030_4": {
+        "ICON" : "3",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这匹沙漠马吃了我那么多东西, 终于肯跟着我回家了.不好好干活就把你炖了. ",
+            "en": "The strange 'horse' ate a lot of my food. Finally it came to my camp with me. \nIf it is lazy to work, I will stew it.",
+            "tw": "這匹沙漠馬吃了我那麽多東西, 終於肯跟著我回家了.不好好幹活就把你燉了.  "
+        },
+        "COND": {
+            "1000": 1004,
+            "1013": true
+        }
+    },    
+    "2031_0": {
+        "ICON" : "6",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "帮助土著战胜了敌人, 我们还举行了盛大的宴会！我的拿手好菜得到了大家一致的好评！",
+            "en": "Helped the natives in defeating their enemies. We also held a massive celebration! My special dish is well received!",
+            "tw": "幫助土著戰勝了敵人, 我們還舉行了盛大的宴會！我的拿手好菜得到了大家一致的好評！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1001": [
+                {
+                    "a6": 1
+                }
+            ]
+        }
+    },
+    "2031_1": {
+        "ICON" : "6",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "帮助土著战胜了敌人, 我们还举行了盛大的宴会！他们认可了我的爵士地位. ",
+            "en": "Helped the natives in defeating their enemies. We also held a massive celebration! They have accepted my position as Count.",
+            "tw": "幫助土著戰勝了敵人, 我們還舉行了盛大的宴會！他們認可了我的爵士地位. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1001": [
+                {
+                    "a6": 1
+                }
+            ]
+        }
+    },
+    "2031_2": {
+        "ICON" : "6",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "帮助土著战胜敌人, 消耗巨大. 获取部落地位, 任务状态良好. ",
+            "en": "Helping the natives in defeating their enemiesExpended a lot of energy. Obtained a position in the tribe. Status of the mission is good.",
+            "tw": "幫助土著戰勝敵人, 消耗巨大. 獲取部落地位, 任務狀態良好. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1001": [
+                {
+                    "a6": 1
+                }
+            ]
+        }
+    },
+    "2031_3": {
+        "ICON" : "6",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "帮助土著战胜了敌人, 我们还举行了盛大的宴会！我喜欢这种感觉！",
+            "en": "Helped the natives in defeating their enemies. We also held a massive celebration! I like this kind of feeling!",
+            "tw": "幫助土著戰勝了敵人, 我們還舉行了盛大的宴會！我喜歡這種感覺！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1001": [
+                {
+                    "a6": 1
+                }
+            ]
+        }
+    },
+    "2031_4": {
+        "ICON" : "6",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "帮助土著战胜了敌人, 我们还举行了盛大的宴会！有个小伙子已经可以和我一起玩纸牌了！",
+            "en": "I helped the aboriginals defeat their enemy. We had a grand feast to celebrate this victory. An aboriginal boy has learned how to play cards with me!",
+            "tw": "幫助土著戰勝了敵人, 我們還舉行了盛大的宴會！有個小夥子已經可以和我一起玩紙牌了！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1001": [
+                {
+                    "a6": 1
+                }
+            ]
+        }
+    },    
+    "2037_0": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从雨林回来的时候我就在想, 这片区域真的很神奇, 这么小的地方居然有这么多地貌, 多地貌带来的唯一优势就是多食材, 这简直是上天赐予我的美食之旅！",
+            "en": "I was thinking on my way back from the rainforest. This area is really quite bazaar. There are so many different landscapes in such a small area. Abundance of ecosystems are good as they bring abundance in ingredients. This must be a trip of great food rewarded to me by god!",
+            "tw": "從雨林回來的時候我就在想, 這片區域真的很神奇, 這麽小的地方居然有這麽多地貌, 多地貌帶來的唯一優勢就是多食材, 這簡直是上天賜予我的美食之旅！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2037_1": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从雨林回来时, 又是满满的收获. 我觉得我在雨林中更加如鱼得水, 能利用复杂的地形去狩猎野兽, 而不用跟野兽面对面冲锋, 这可是实实在在节省了不少力气. ",
+            "en": "On my way back from the rainforest. Lots of rewards again. I think I am even better in the rainforest. Can use the complex topography to your advantage to hunt beasts, and you don't need to face the beasts face to face. This truly has saved me a lot of energy.",
+            "tw": "從雨林回來時, 又是滿滿的收獲. 我覺得我在雨林中更加如魚得水, 能利用復雜的地形去狩獵野獸, 而不用跟野獸面對面沖鋒, 這可是實實在在節省了不少力氣. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2037_2": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "雨林探索完成, 物种丰富, 有野兽出没. 可获取：木材, 肉. ",
+            "en": "Exploration of the rainforest complete. Many different types of species. Beasts about. Can obtain: timber, meat.",
+            "tw": "雨林探索完成, 物種豐富, 有野獸出沒. 可獲取：木材, 肉. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2037_3": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从雨林回来的时候我就在想, 这片区域真的很神奇, 这么小的地方居然有这么多地貌, 我地理不差啊, 而这个地方的气候太反常了. 总觉得哪里有什么问题. ",
+            "en": "I was thinking on my way back from the rainforest. This area is really quite bazaar. There are so many different landscapes in such a small area. My geography is not bad. But the weather here is so unusual. Always have a feeling that something is wrong.",
+            "tw": "從雨林回來的時候我就在想, 這片區域真的很神奇, 這麽小的地方居然有這麽多地貌, 我地理不差啊, 而這個地方的氣候太反常了. 總覺得哪裏有什麽問題. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2037_4": {
+        "ICON" : "40",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从雨林回来的时候我就在想, 这片区域真的很神奇, 这么小的地方居然有这么多地貌, 我地理不差啊, 而这个地方的气候太反常了.总觉得哪里有什么问题. ",
+            "en": "On my way back from the rainforest I was thinking this area is really quite uncommon. There are so many different landscapes in such a small area. My geography is not bad. But weather there is so unusual. Always I have a feeling there is something wrong.",
+            "tw": "從雨林回來的時候我就在想, 這片區域真的很神奇, 這麽小的地方居然有這麽多地貌, 我地理不差啊, 而這個地方的氣候太反常了. 總覺得哪裏有什麽問題. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2038_0": {
+        "ICON" : "41",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "松木林的出现, 很好的解决了木材的问题, 这次不能再滥砍滥伐了, 一定要维持好一个良好的生态, 毕竟十年树木百年树人, 其实一个菜品的出现也凝聚着料理人无数的心血. ",
+            "en": "Appearance of the pine forest. You solved the problem of the timber very well. This time I cannot cut down too many trees again. Must maintain a good ecosystem. To grow, a tree takes 10 years while a person takes 100 yearsIn fact, the development of a dish incorporates a lot of hard work from a chef.",
+            "tw": "松木林的出現, 很好的解決了木材的問題, 這次不能再濫砍濫伐了, 一定要維持好一個良好的生態, 畢竟十年樹木百年樹人, 其實一個菜品的出現也凝聚著料理人無數的心血. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2038_1": {
+        "ICON" : "41",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "松木林的出现, 很好的解决了木材的问题, 这次不能再滥砍滥伐了, 一定要维持好一个良好的生态, 毕竟十年树木百年树人, 一个家族更是几百年才能发展到现在的样子. ",
+            "en": "Appearance of the pine forestYou solved the problem of the timber very well. This time I cannot cut down too many trees again. Must maintain a good ecosystemTo grow, a tree takes 10 years while a person takes 100 years. For a family to develop into something like this takes hundreds of years.",
+            "tw": "松木林的出現, 很好的解決了木材的問題, 這次不能再濫砍濫伐了, 一定要維持好一個良好的生態, 畢竟十年樹木百年樹人, 一個家族更是幾百年才能發展到現在的樣子. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2038_2": {
+        "ICON" : "41",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "松木林探索完成, 较干燥, 有野兽出没. 可获取：木材、木炭. ",
+            "en": "Exploration of the pine forest completeComparatively dry. Beasts about. Can obtain: timber, charcoal.",
+            "tw": "松木林探索完成, 較幹燥, 有野獸出沒. 可獲取：木材、木炭. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2038_3": {
+        "ICON" : "41",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "松木林的出现, 很好的解决了木材的问题, 这次不能再滥砍滥伐了, 一定要维持好一个良好的生态, 毕竟十年树木百年树人, 微博100万粉丝也不是一朝一夕能有的. ",
+            "en": "Appearance of the pine forestYou solved the problem of the timber very wellThis time I cannot cut down too many trees againMust maintain a good ecosystemTo grow, a tree takes 10 years while a person takes 100 yearsTo have over 1 million followers on twitter is not something that could be accomplished overnight.",
+            "tw": "松木林的出現, 很好的解決了木材的問題, 這次不能再濫砍濫伐了, 一定要維持好一個良好的生態, 畢竟十年樹木百年樹人, 微博100萬粉絲也不是一朝一夕能有的. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2038_4": {
+        "ICON" : "41",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "松木林的出现, 很好的解决了木材的问题, 这次不能再滥砍滥伐了, 一定要维持好一个良好的生态, 毕竟十年树木百年树人, 基德船长的名号也不是一天闯出来的.",
+            "en": "Pine forest was discovered. It solved the problem of the timber very well. This time I will not cut down too many trees again. Must to maintain a good ecosystem. As people say to grow a tree takes 10 years while to build a legendary reputation takes 100 years. Fame of Captain Kidd was not widely spreaded in one day as well.",
+            "tw": "松木林的出現, 很好的解決了木材的問題, 這次不能再濫砍濫伐了, 一定要維持好一個良好的生態, 畢竟十年樹木百年樹人, 基德船長的名號也不是一天闖出來的."
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2039_0": {
+        "ICON" : "42",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "很难想象这里居然还有一片荒漠, 这片区域有些像是一小块大陆, 但是涵盖了基本所有的地貌, 这里还真的是地球么？",
+            "en": "It is hard to imagine that there is a desert hereThis area is similar to a small piece of land. But it covered almost all of the landscape. Is this really earth?",
+            "tw": "很難想象這裏居然還有一片荒漠, 這片區域有些像是一小塊大陸, 但是涵蓋了基本所有的地貌, 這裏還真的是地球麽？"
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2039_1": {
+        "ICON" : "42",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从荒漠归来时我开始产生疑惑：这片区域有古怪. 我对距离的掌控一般, 但是对天气比较敏感, 这片区域与坎贝尔家族的封地差不多大, 但是家族的地貌远比不上这里丰富. ",
+            "en": "I was confused when returning from the desert: There is something strange in this area. My sense of distance is averagebut it's quite sensitive to the weather. This area is similar in size to the land of the Campbell family. But the ecosystems of my family is far from the diversity of ecosystems here.",
+            "tw": "從荒漠歸來時我開始產生疑惑：這片區域有古怪. 我對距離的掌控一般, 但是對天氣比較敏感, 這片區域與坎貝爾家族的封地差不多大, 但是家族的地貌遠比不上這裏豐富. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2039_2": {
+        "ICON" : "42",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "荒漠探索完成, 气温较高, 缺乏水源. 可获取：硝石. ",
+            "en": "Exploration of the desert completeTemperature is quite high. Area of little water. Can obtain: saltpeter.",
+            "tw": "荒漠探索完成, 氣溫較高, 缺乏水源. 可獲取：硝石. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2039_3": {
+        "ICON" : "42",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从荒漠归来时我的疑惑更深了：这片区域有古怪. 这么小的地方, 居然聚集了这么多的生态环境, 这很像是一些游戏的设定. ",
+            "en": "My confusion deepened when returning from the desert: there is something strange in this area. Such a small placeIt has incorporated so many ecosystems. This looks like the settings of some game.",
+            "tw": "從荒漠歸來時我的疑惑更深了：這片區域有古怪. 這麽小的地方, 居然聚集了這麽多的生態環境, 這很像是一些遊戲的設定. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2039_4": {
+        "ICON" : "42",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "从荒漠归来时我的疑惑更深了：这片区域有古怪.这么小的地方, 居然聚集了这么多的生态环境, 我该不会已经死了, 到了地狱？",
+            "en": "My confusion deepened when returning from the desert. There is something weird in this area. Such a small place contains so many ecosystems. Am I dead or alive? Am I in the hell? ",
+            "tw": "從荒漠歸來時我的疑惑更深了：這片區域有古怪.這麽小的地方, 居然聚集了這麽多的生態環境, 我該不會已經死了, 到了地獄？. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2040_0": {
+        "ICON" : "43",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我本打算找一个时间去尝试一下冰雪类型的料理, 雪熊肉、雪狼肉都是我之前不曾尝过的, 不同的温度下生长出来的肉质一定有所不同, 这是很棒的体验, 那种味道我这辈子都不会忘记. ",
+            "en": "I originally planned on attempting to cook something with iceI have never tasted the meat of the snow bear and snow wolf before. The meat of animals living in different temperatures will take different. This is a great experienceI will not forget that taste for the rest of my life.",
+            "tw": "我本打算找一個時間去嘗試一下冰雪類型的料理, 雪熊肉、雪狼肉都是我之前不曾嘗過的, 不同的溫度下生長出來的肉質一定有所不同, 這是很棒的體驗, 那種味道我這輩子都不會忘記. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2040_1": {
+        "ICON" : "43",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我真的很兴奋, 因为我发现了一片雪原！这意味着我能再次滑雪了！而且没人占我的道！这一片雪原都是我一个人的！好吧, 得先干掉那些雪熊和雪狼. ",
+            "en": "I am really very excitedBecause I discovered a snow field! This means I can ski again! Also, no one will take my lane! This entire snow field is my own. Ok! Need to kill the snow bears and snow wolves first.",
+            "tw": "我真的很興奮, 因為我發現了一片雪原！這意味著我能再次滑雪了！而且沒人占我的道！這一片雪原都是我一個人的！好吧, 得先幹掉那些雪熊和雪狼. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2040_2": {
+        "ICON" : "43",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "雪原探索完成, 空气较差, 气温偏低. 可获取：肉. ",
+            "en": "Exploration of snow field completeThe air is bad. Slightly cold temperature. Can obtain: meat.",
+            "tw": "雪原探索完成, 空氣較差, 氣溫偏低. 可獲取：肉. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2040_3": {
+        "ICON" : "43",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这次是雪原, 虽然气温很低, 但是我的好奇心有点起来了, 这里究竟是什么地方！",
+            "en": "It is the snow field this timeAlthough the temperature is very low. But it has raised my curiosity. Where exactly is this place!",
+            "tw": "這次是雪原, 雖然氣溫很低, 但是我的好奇心有點起來了, 這裏究竟是什麽地方！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2040_4": {
+        "ICON" : "43",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "这次是雪原, 虽然气温很低, 但是我的好奇心有点起来了, 这里究竟是什么地方！",
+            "en": "This is snow field. Although the temperature is very low but it has raised my curiosity. Where exactly is this place?",
+            "tw": "這次是雪原, 雖然氣溫很低, 但是我的好奇心有點起來了, 這裏究竟是什麽地方！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2041_0": {
+        "ICON" : "44",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我发现了一艘沉船, 就在靠近海岸的不远处, 看来这里是有其他人来过的, 但是中间出了些问题, 也许我能在沉船上探索出这片区域的秘密. ",
+            "en": "I found a sunken shipIn a place near the sea shore. It looks like others have been here before. But there were some problems in the middle. Maybe I can discover the secret to this land in the sunken ship.",
+            "tw": "我發現了一艘沉船, 就在靠近海岸的不遠處, 看來這裏是有其他人來過的, 但是中間出了些問題, 也許我能在沉船上探索出這片區域的秘密. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2041_1": {
+        "ICON" : "44",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我一直觉得自己的游泳能力不错, 于是这次试着往外海多游了一阵, 结果你猜我发现了什么？一艘沉船！我能接触到现在的文明了, 船上肯定有不少能用的东西, 而且这意味着, 一定会再有船接近这里！",
+            "en": "I always thought my swimming skills are goodSo I swam a little further into the sea this timeFinally, guess what I discovered. A sunken ship! I can make contact with the current civilisation again. There must be a lot of things that can be used on the ship. And also, this means. There must be more ships that will pass by this place!",
+            "tw": "我一直覺得自己的遊泳能力不錯, 於是這次試著往外海多遊了一陣, 結果你猜我發現了什麽？一艘沉船！我能接觸到現在的文明了, 船上肯定有不少能用的東西, 而且這意味著, 一定會再有船接近這裏！"
+        },
+        "COND": {
+            "1000": 1001,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2041_2": {
+        "ICON" : "44",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "发现沉船, 未知区域, 危险性偏高, 务必做好万全准备. ",
+            "en": "Discovered sunken shipUnknown location. High level of danger. Make sure you plan for everything.",
+            "tw": "發現沉船, 未知區域, 危險性偏高, 務必做好萬全準備. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2041_3": {
+        "ICON" : "44",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我知道虽然我不擅长钓鱼, 但是游泳这种事情, 不是体重重就一定会往下沉的. ",
+            "en": "I know that even though I am not good at fishingBut the thing about swimming. A heavier mass does not always sink.",
+            "tw": "我知道雖然我不擅長釣魚, 但是遊泳這種事情, 不是體重重就一定會往下沈的. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },
+    "2041_4": {
+        "ICON" : "44",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我发现了一艘沉船, 就在靠近海岸的不远处, 看来这里是有其他人来过的, 但是中间出了些问题, 也许我能在沉船上探索出这片区域的秘密.",
+            "en": "I found a sunken ship near the sea shore. It looks like some people have been there before. But some problems occurred in their exploration. Maybe I can discover the secret to this land in that sunken ship.",
+            "tw": "我發現了一艘沉船, 就在靠近海岸的不遠處, 看來這裏是有其他人來過的, 但是中間出了些問題, 也許我能在沉船上探索出這片區域的秘密."
+        },
+        "COND": {
+            "1000": 1004,
+            "1003": [
+                {
+                    "1013": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        }
+    },    
+    "2042_0": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "有多久没有这样一个人看看这片天空了呢？一年？还是十年？自从工作以来, 越来越忙的工作压得人喘不过气, 也许这次的经历是上天赐予的礼物也说不定. ",
+            "en": "How long has it been since I looked into the sky by myself? A year? Or ten years? Since I started workingThe more and more busy work is making it hard to breathe. Maybe this experience is a present from up above.",
+            "tw": "有多久沒有這樣一個人看看這片天空了呢？一年？還是十年？自從工作以來, 越來越忙的工作壓得人喘不過氣, 也許這次的經歷是上天賜予的禮物也說不定. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2043_0": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "有多久没有这样一个人看看这片天空了呢？一年？还是十年？自从工作以来, 越来越忙的工作压得人喘不过气, 也许这次的经历是上天赐予的礼物也说不定. ",
+            "en": "How long has it been since I looked into the sky by myself? A year? Or ten years? Since I started workingThe more and more busy work is making it hard to breathe. Maybe this experience is a present from up above.",
+            "tw": "有多久沒有這樣一個人看看這片天空了呢？一年？還是十年？自從工作以來, 越來越忙的工作壓得人喘不過氣, 也許這次的經歷是上天賜予的禮物也說不定. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2044_0": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "无论这次经历摧毁了多少至今积累起来的自信, 都得迎接明天餐厅开张的大门, 这就是厨师, 一个料理人该有的姿态. ",
+            "en": "No matter how much confidence that has already been built up by myself is destroyed by this experienceEveryone needs to attend the opening of the restaurant tomorrow. This is being a chefThe stance that a chef should possess.",
+            "tw": "無論這次經歷摧毀了多少至今積累起來的自信, 都得迎接明天餐廳開張的大門, 這就是廚師, 一個料理人該有的姿態. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2045_0": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我虽然不知道在这里何时会死去, 要怎么活是个人的自由, 重要的就在于此, 就算不能安详的死去, 至少我现在还可以开怀大笑的活下去. ",
+            "en": "Even though I don't know when I will die in this place, people have the freedom to choose how to live their life. This is what's important. Even if I cannot die peacefullyAt least I can still survive while laughing and being happy right now.",
+            "tw": "我雖然不知道在這裏何時會死去, 要怎麽活是個人的自由, 重要的就在於此, 就算不能安詳的死去, 至少我現在還可以開懷大笑的活下去. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2046_0": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "即使被困荒野, 被绝望击垮, 也不能忘记：有光的地方的就会有影子, 有影子的地方也必然有光. 绝望的颜色越浓, 那里一定会有光芒耀眼的希望. ",
+            "en": "Even though I am trapped in this wilderness, defeated by despair. Don't forget: where there is light, there will always be shadowsWhere there are shadows, there will always be light. The deeper the colour of hopelessnessThat place must be filled with bright and shiny hope.",
+            "tw": "即使被困荒野, 被絕望擊垮, 也不能忘記：有光的地方的就會有影子, 有影子的地方也必然有光. 絕望的顏色越濃, 那裏一定會有光芒耀眼的希望. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2047_0": {
+        "ICON" : "56",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "脚下的鞋子还是庆祝餐厅营业十周年买的, 之前没怎么爬山, 也没怎么过河, 总觉得它过的挺不开心的. 现在已经破的不成样, 可能明天就穿不了了, 可是它还裂开的大嘴, 笑得很开心. ",
+            "en": "The shoes I'm wearing now are still the one that I bought for the 10 year anniversary of the restaurant openingNever hiked much before. Didn't really cross the riverAlways think he is living quite unhappily. And now it is wrecked beyond recognitionMaybe I will not be able to wear it tomorrow.But it also opened its big mouthLaughing happily.",
+            "tw": "腳下的鞋子還是慶祝餐廳營業十周年買的, 之前沒怎麽爬山, 也沒怎麽過河, 總覺得它過的挺不開心的. 現在已經破的不成樣, 可能明天就穿不了了, 可是它還裂開的大嘴, 笑得很開心. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2048_0": {
+        "ICON" : "50",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "有时我为了创作一道新的菜品, 要忍受着好像要把宇宙从肛门里挤出来的痛苦, 而我现在在这里——这片荒野之上, 我的灵感就像打开了的水龙头, 不, 是坏掉的水龙头——根本关不上！",
+            "en": "Sometimes, to invent a new dish. Need to endure a pain that feels like squeezing the entire universe out of your anus. And now I am here - on top of this wilderness. My intuition is like a water tap that has been openedno. It is a broken tap - you can't even close it!",
+            "tw": "有時我為了創作一道新的菜品, 要忍受著好像要把宇宙從肛門裏擠出來的痛苦, 而我現在在這裏——這片荒野之上, 我的靈感就像打開了的水龍頭, 不, 是壞掉的水龍頭——根本關不上！"
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2049_0": {
+        "ICON" : "57",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我坐在自己搭建的床上, 在黎明前最黑暗的时间睁大了双眼. 千万不能闭眼, 在黑暗中移开视线的家伙是看不到明天的光明的, 不论前方等待我的夜有多深. ",
+            "en": "I sit on the bed I built myself. Opened my eyes wide at the darkest moment before dawn. Must not close my eyes. Those that shift the direction of their vision in the darkness will not see the light of the next day. No matter how dark the nights that are waiting for me are.",
+            "tw": "我坐在自己搭建的床上, 在黎明前最黑暗的時間睜大了雙眼. 千萬不能閉眼, 在黑暗中移開視線的家夥是看不到明天的光明的, 不論前方等待我的夜有多深. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2050_0": {
+        "ICON" : "52",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "你以为被困荒野已经很痛苦了, 其实明天会有更多痛苦的事情等着你, 这么想的话, 那今天过得还不赖. ",
+            "en": "You think being trapped in the wilderness is already painful enough. There is actually more painful things waiting for you tomorrow. If you think in this wayToday has not been very bad.",
+            "tw": "你以為被困荒野已經很痛苦了, 其實明天會有更多痛苦的事情等著你, 這麽想的話, 那今天過得還不賴. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2051_0": {
+        "ICON" : "53",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "人生若跌倒了谷底, 就像现在这样, 剩下的就只有往上爬了. 希望明天不会跌的更狠. ",
+            "en": "If you are at the lowest point of your life. Just like right now. What's left is to climb up. Hope you will not fall even harder tomorrow.",
+            "tw": "人生若跌倒了谷底, 就像現在這樣, 剩下的就只有往上爬了. 希望明天不會跌的更狠. "
+        },
+        "COND": {
+            "1000": 1000
+        }
+    },
+    "2042_1": {
+        "ICON" : "62",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "记得哥哥说过：所谓眼泪啊, 是流出来就能把辛酸和悲伤都冲走的好东西. 可是哥哥, 总有眼泪也冲刷不干净的巨大悲伤. ",
+            "en": "Remembering what my brother used to say: what you call tears. A good thing seeps out to take away pain and sorrow. But brotherThere's always sadness that cannot be washed away with tears.",
+            "tw": "記得哥哥說過：所謂眼淚啊, 是流出來就能把辛酸和悲傷都沖走的好東西. 可是哥哥, 總有眼淚也沖刷不幹凈的巨大悲傷. "
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2043_1": {
+        "ICON" : "59",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "再过几天就是母亲的忌日了. 有时候, 我们明明原谅了那个人, 却无法真正快乐起来. 也许是因为, 忘了原谅自己. ",
+            "en": "It is the anniversary of mother's death in a few days. Sometimes. I thought we forgave that person. Can never truly be happy. Maybe it is becauseForgot to forgive myself.",
+            "tw": "再過幾天就是母親的忌日了. 有時候, 我們明明原諒了那個人, 卻無法真正快樂起來. 也許是因為, 忘了原諒自己. "
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2044_1": {
+        "ICON" : "60",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "记得叔叔总是说他秃头是因为压力太大了, 但是刻意的避免压力又会造成压力, 到头来还是无能为力吧. ",
+            "en": "I recall that uncle always says he is bald because he is always under a lot of pressure. Trying too hard to avoid pressure can cause pressure. At the end of the day you still can't do anything.",
+            "tw": "記得叔叔總是說他禿頭是因為壓力太大了, 但是刻意的避免壓力又會造成壓力, 到頭來還是無能為力吧. "
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2045_1": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我总觉得有什么东西压在我的身上, 也许是爵位, 也许是家族. 别人都认为我是冰山美人, 却不知道我是因为没有信任的人. 真是悲哀",
+            "en": "I always feel something heavy on top of my body. Maybe it's the position of count. Maybe it's family. Others always think of me as a ice cold beauty. But I don't know it's because I don't have anyone to trust. What a shame",
+            "tw": "我總覺得有什麽東西壓在我的身上, 也許是爵位, 也許是家族. 別人都認為我是冰山美人, 卻不知道我是因為沒有信任的人. 真是悲哀"
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2046_1": {
+        "ICON" : "54",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我说过, 我会成为坎贝尔家族的主人, 我不会就这样死在这里. 我说的也许是大话, 但是, 能实现大话的人就是英杰！",
+            "en": "I have said before, I will become the owner of the Campbell family, I won't die like this here. Maybe I am just exaggerating,but a person that can make wishes a reality is a hero!",
+            "tw": "我說過, 我會成為坎貝爾家族的主人, 我不會就這樣死在這裏. 我說的也許是大話, 但是, 能實現大話的人就是英傑！"
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2047_1": {
+        "ICON" : "55",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "秉持信念正直的维持家族虽然没有错, 不过因此而陷入困境的话, 倒不如试着圆滑一下. 这么走下去, 一定会发现自己绝对不能放弃的人生真谛, 不是吗？",
+            "en": "Even though upholding your faith and keeping the family together is not wrong. But if I fall into trouble because of this. Maybe I can try to be more well rounded. Continuing like thisWill definitely discover the reason behind why I cannot give up on lifeDon't you think?",
+            "tw": "秉持信念正直的維持家族雖然沒有錯, 不過因此而陷入困境的話, 倒不如試著圓滑一下. 這麽走下去, 一定會發現自己絕對不能放棄的人生真諦, 不是嗎？"
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2048_1": {
+        "ICON" : "54",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "与其想着怎么漂亮的死去, 倒不如想着怎么漂亮活到最后一刻. 即使濒死, 我也要想办法原地复活！",
+            "en": "Instead of thinking how to be pretty when you die. I should rather think about how to live beautifully to the last moment. Even if I dieI need to think of a way to come back to life in the same location!",
+            "tw": "與其想著怎麽漂亮的死去, 倒不如想著怎麽漂亮活到最後一刻. 即使瀕死, 我也要想辦法原地復活！"
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2049_1": {
+        "ICON" : "59",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我现在终于明白了“有的人活着, 他却已经死了”这句话的意义. ",
+            "en": "I now finally understand some people, when they are alive. He already died this meaning of this sentence.",
+            "tw": "我現在終於明白了“有的人活著, 他卻已經死了”這句話的意義. "
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2050_1": {
+        "ICON" : "52",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我现在必须承认生命中大部分时光是属于孤独的, 因为孤独时的时光总是过的更慢, 努力成长是在孤独里可以进行的最好的游戏. ",
+            "en": "Now I must accept that in life, most of the time you are filled with lonelinessBecause time always passes slower when you are lonelyTrying to grow is the best game to play when you are lonely.",
+            "tw": "我現在必須承認生命中大部分時光是屬於孤獨的, 因為孤獨時的時光總是過的更慢, 努力成長是在孤獨裏可以進行的最好的遊戲. "
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2051_1": {
+        "ICON" : "50",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我想起从前在学校攒了很多的巧克力都不见了, 偷吃的家伙到现在都没找到, 如果是现在的话, 我把他弄个四分之三死就饶了他. ",
+            "en": "I remember that the chocolates that I saved up in school are all gone. The person that stole the food is still out there. If it's right now, I will make sure to leave him three quarters dead and then forgive him..",
+            "tw": "我想起從前在學校攢了很多的巧克力都不見了, 偷吃的家夥到現在都沒找到, 如果是現在的話, 我把他弄個四分之三死就饒了他. "
+        },
+        "COND": {
+            "1000": 1001
+        }
+    },
+    "2042_2": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "酒真是好东西, 能让人忘了不快的事情, 可一到第二天, 就算不喜欢也还是会想起, 而且比昨天更痛苦. 特别是, 那些真的很想忘掉的事情；特别是, 我的酒量还很好. ",
+            "en": "Alcohol is such a good thing, can make a person forget about unhappy things. Can go to the next dayI think about it even though I don't like itAnd it's even more painful than yesterday. EspeciallyThe things that you really want to forget; especiallyMy alcohol tolerance is still very good.",
+            "tw": "酒真是好東西, 能讓人忘了不快的事情, 可一到第二天, 就算不喜歡也還是會想起, 而且比昨天更痛苦. 特別是, 那些真的很想忘掉的事情；特別是, 我的酒量還很好. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2043_2": {
+        "ICON" : "54",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我相信维多利亚现在还在等待着我, 正如我相信她仍相信我还活着. 娶了她, 我不枉此生. ",
+            "en": "I believe that Victoria is still waiting for me. Just like I believe that she still believes I am alive. Married herI have not wasted this life.",
+            "tw": "我相信維多利亞現在還在等待著我, 正如我相信她仍相信我還活著. 娶了她, 我不枉此生. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2044_2": {
+        "ICON" : "54",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "作为军人, 守护着大英承载着太多的痛苦. 但是啊, 放弃也很痛苦, 已经无法回来的东西, 拥有和舍弃都很痛苦, 既然不论如何都会痛苦的话, 我宁可选择守护她而痛苦！",
+            "en": "As a soldier, protecting England and carrying too much pain. But. It's painful to give up as wellthings that can no longer come back. having and giving up are both painful. If you will be in pain no matter whatI would rather choose to watch over her and be sad and painful!",
+            "tw": "作為軍人, 守護著大英承載著太多的痛苦. 但是啊, 放棄也很痛苦, 已經無法回來的東西, 擁有和舍棄都很痛苦, 既然不論如何都會痛苦的話, 我寧可選擇守護她而痛苦！"
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2045_2": {
+        "ICON" : "49",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我最大的缺点就是人太好, 谁都愿意相信, 就算被出卖, 被弄到这步田地. 我承认自己命运的齿轮长满了锈迹, 转动之时, 已经为时过晚. ",
+            "en": "My biggest flaw is being too nice of a person. Everyone wants to believe. Even if I am double crossedbeing left in such a state. I know the wheel of my life is full of rustWhen it turnsIt is already too late.",
+            "tw": "我最大的缺點就是人太好, 誰都願意相信, 就算被出賣, 被弄到這步田地. 我承認自己命運的齒輪長滿了銹跡, 轉動之時, 已經為時過晚. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2046_2": {
+        "ICON" : "54",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "真正的军人, 不是为了信念而光荣赴死, 而是为了信念而坚强的活着. ",
+            "en": "A real soldier, dying but not for any beliefsBravely stay alive for what you believe in",
+            "tw": "真正的軍人, 不是為了信念而光榮赴死, 而是為了信念而堅強的活著. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2047_2": {
+        "ICON" : "62",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "不要输给风, 不要输给雨, 也不要输给荒野, 不管什么时候都坚强自身, 我是为了成为这样的人才成为一个军人的. ",
+            "en": "Don't be defeated by the wind. Don't lose to the rainAlso, don't lose to the wildernessbeing strong yourself no matter whenI became a soldier to become someone like this.",
+            "tw": "不要輸給風, 不要輸給雨, 也不要輸給荒野, 不管什麽時候都堅強自身, 我是為了成為這樣的人才成為一個軍人的. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2048_2": {
+        "ICON" : "45",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "维多利亚嫁给我也许是个错误, 所谓结婚, 就是把错误延续一生. 对不起, 维多利亚, 也许我再也见不到你了. 但是, 我爱你. ",
+            "en": "Maybe it was wrong for Victoria to marry me, marriage means, It is like making the same mistake for your whole life. SorryVictoriaMaybe I will not be able to see you again, butI love you.",
+            "tw": "維多利亞嫁給我也許是個錯誤, 所謂結婚, 就是把錯誤延續一生. 對不起, 維多利亞, 也許我再也見不到你了. 但是, 我愛你. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2049_2": {
+        "ICON" : "42",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "越是弯下腰山顶就会越变得越远. 山顶并不是为了让人知道自己的渺小而耸立的, 而是为了成为目标才存在的, 有时间在山道弯下腰的话, 不如登上去, 即使也很慢也无妨. ",
+            "en": "The more you bend over the further the summit. The mountains do not stand there to show how miniscule you are existing to become the target, if you have the time to bend over on the mountain roadsrather go hikingIt's ok even if it is very slow.",
+            "tw": "越是彎下腰山頂就會越變得越遠. 山頂並不是為了讓人知道自己的渺小而聳立的, 而是為了成為目標才存在的, 有時間在山道彎下腰的話, 不如登上去, 即使也很慢也無妨. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2050_2": {
+        "ICON" : "",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "我想起刚入伍的那天教官对我们说：今后你们只有两条路可以走, 要么就是默默地被世界淘汰, 要么就是适应世界的改变自己. ",
+            "en": "I remember the captain saying to us on our first day in the army: there are only two roads for you people from now on you either are eliminated by society quietly or. Or else you need to get used to the way the world is changing you.",
+            "tw": "我想起剛入伍的那天教官對我們說：今後你們只有兩條路可以走, 要麽就是默默地被世界淘汰, 要麽就是適應世界的改變自己. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2051_2": {
+        "ICON" : "",
+        "TYPE": "102",
+        "TEXT": {
+            "cn": "不知不觉已经习惯了这样的生活, 不过男人有些地方长毛之后就要懂得自力更生了. ",
+            "en": "Without realising, you have gotten used to living like thisHowever, when hair starts to grow on certain parts of a man, he needs to fend for himself.",
+            "tw": "不知不覺已經習慣了這樣的生活, 不過男人有些地方長毛之後就要懂得自力更生了. "
+        },
+        "COND": {
+            "1000": 1002
+        }
+    },
+    "2042_3": {
+        "ICON" : "45",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "每次这样躺在地上看着天空, 都觉得内心无比的空净, 这个社会太急躁了, 我希望我的视频能以一股清流来给大家一些惬意, 仅此而已. ",
+            "en": "Every time I am lying on the ground watching the sky, everyone feels empty inside. This society is too rushedI hope my videos will bring happiness to people like a fresh breezeThat's it.",
+            "tw": "每次這樣躺在地上看著天空, 都覺得內心無比的空凈, 這個社會太急躁了, 我希望我的視頻能以一股清流來給大家一些愜意, 僅此而已. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2043_3": {
+        "ICON" : "",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "这次回去真的是失踪人口回归了, 消失了这么多天, 不知道有没有涨粉, 会不会又有新的野食小哥出现呢？",
+            "en": "This time I go back, it will actually be like someone on the missing person's list coming back. disappeared for so many daysDon't know if there is any powderWill there be the appearance of another Yesman?",
+            "tw": "這次回去真的是失蹤人口回歸了, 消失了這麽多天, 不知道有沒有漲粉, 會不會又有新的野食小哥出現呢？"
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2044_3": {
+        "ICON" : "45",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "不被时间和社会所束缚, 幸福的填饱肚子的时候, 短时间内变得随心所欲, 变得自由, 不被任何人打扰. 毫不费神的吃东西这种孤高的行为, 这种行为正是平等地赋予现代人的, 最高程度的治愈！",
+            "en": "Not being restricted by time and society, after happily eating until full. Become something that does whatever they want in a short period of timebecoming freeNot disturbed by anyone. The act of eating and feeling very relaxed. This type of act is like rewarding civilisation fairly. The highest degree of healing!",
+            "tw": "不被時間和社會所束縛, 幸福的填飽肚子的時候, 短時間內變得隨心所欲, 變得自由, 不被任何人打擾. 毫不費神的吃東西這種孤高的行為, 這種行為正是平等地賦予現代人的, 最高程度的治愈！"
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2045_3": {
+        "ICON" : "52",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "我总是一个人沉默的做饭, 一个人吃的心满意足, 不知道是习惯了一个人还是习惯了一个人. ",
+            "en": "I am always silent and by myself when I cook. You eat by yourself and feel very satisfied. I don't know if I am getting used to being by myself or getting used to being by myself.",
+            "tw": "我總是一個人沈默的做飯, 一個人吃的心滿意足, 不知道是習慣了一個人還是習慣了一個人. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2046_3": {
+        "ICON" : "53",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "天呐！！我要可乐！！可乐！！！可乐！！！可乐！！可乐！！！可乐！！！可乐！！可乐！！！可乐！！！",
+            "en": "Oh my god!!! I want Coca cola!! Coca cola!!! Coca cola!!! Coca cola!!! Coca cola!!! Coca cola!!! Coca cola!!! Coca cola!!! Coca cola!!!",
+            "tw": "天吶！！我要可樂！！可樂！！！可樂！！！可樂！！可樂！！！可樂！！！可樂！！可樂！！！可樂！！！"
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2047_3": {
+        "ICON" : "",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "哎, 地主家的儿子这么长时间不在, 也不知道地主家的那些长工们有没有视频看了. ",
+            "en": "SighsThe landlord's son has been missing all this timeI don't know if the workers living with the landlord have videos to watch.",
+            "tw": "哎, 地主家的兒子這麽長時間不在, 也不知道地主家的那些長工們有沒有視頻看了. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2048_3": {
+        "ICON" : "53",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "仔细想想, 我来这之前似乎听到了一些不寻常的声音, 然后就晕了过去, 如果我想回去, 恐怕得从这里面下功夫. ",
+            "en": "Thinking hard. I thought I heard something quite unusual before coming here. Followed by unconsciousness. If I want to go back. I'm afraid this is the area that you need concentrate on.",
+            "tw": "仔細想想, 我來這之前似乎聽到了一些不尋常的聲音, 然後就暈了過去, 如果我想回去, 恐怕得從這裏面下功夫. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2049_3": {
+        "ICON" : "59",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "我现在终于明白了“有的人活着, 他却已经死了”这句话的意义. ",
+            "en": "I now finally understand the sentence: some people are alive, but they already died.",
+            "tw": "我現在終於明白了“有的人活著, 他卻已經死了”這句話的意義. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2050_3": {
+        "ICON" : "52",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "我现在必须承认生命中大部分时光是属于孤独的, 因为孤独时的时光总是过的更慢, 努力成长是在孤独里可以进行的最好的游戏. ",
+            "en": "Now I must accept that in life, most of the time you are filled with loneliness. Because time always passes slower when you are lonely. Trying to grow is the best game to play when you are lonely.",
+            "tw": "我現在必須承認生命中大部分時光是屬於孤獨的, 因為孤獨時的時光總是過的更慢, 努力成長是在孤獨裏可以進行的最好的遊戲. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2051_3": {
+        "ICON" : "",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "野食小哥这是要进化成荒野大叔了么, 鲁滨逊没记错可是活了28年. ",
+            "en": "Is Yesman turning into an uncle of the wilderness. If I remember correctly, Robinson Crusoe survived for 28 years.",
+            "tw": "野食小哥這是要進化成荒野大叔了麽, 魯濱遜沒記錯可是活了28年. "
+        },
+        "COND": {
+            "1000": 1003
+        }
+    },
+    "2042_4": {
+        "ICON" : "46",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "海上议价怎么能算抢……生意, 航海家的事情, 能算海盗嘛？只不过我拿了东西不给钱罢了, 哈哈哈哈！",
+            "en": "Arguing about price on sea shouldn't be called robbing …… It's business. It's business of voyagers. Was it a pirate behavior? Nope, I just took goods away without paying money. Haw-Haw-Haw!",
+            "tw": "海上議價怎麽能算搶……生意, 航海家的事情, 能算海盜嘛？只不過我拿了東西不給錢罷了, 哈哈哈哈！"
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2043_4": {
+        "ICON" : "49",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "拉缆索吧！真吓人呀！\n长长的缆绳！你真没用！ \n棒小伙子们！抓住绳头！ ",
+            "en": "Pull the rope! It's so scary!\nLong cord! You are useless! \nGood boys! Hold rope end!",
+            "tw": "拉纜索吧！真嚇人呀！\n長長的纜繩！你真沒用！ \n棒小夥子們！抓住繩頭！ "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2044_4": {
+        "ICON" : "58",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "肉——撕烂啦！上衣——破啦！ \n背上布满伤疤！真糟糕！ \n辫子是棕红色的！背再低一点！",
+            "en": "Flesh -- torn! Clothes -- ripped! \nBack is full of scars! So terrible! \nBraid is brownish red! Again lower your back!",
+            "tw": "肉——撕爛啦！上衣——破啦！ \n背上布滿傷疤！真糟糕！ \n辮子是棕紅色的！背再低一點！"
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2045_4": {
+        "ICON" : "58",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "快动手吧, 平民百姓！跳板正在等着你们！\n老老少少一起上呀！无一例外！ \n拉吧！拉紧！叫得应天响吧！  ",
+            "en": "Quickly do it peasant! Gangplank is there waiting for you!\nThe old and the young together move on! Today no one can escape the jump! \nPull clothes of each other and hold it tight! Cry loudly to resound in sky!",
+            "tw": "快動手吧, 平民百姓！跳板正在等著你們！\n老老少少一起上呀！無一例外！ \n拉吧！拉緊！叫得應天響吧！ "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2046_4": {
+        "ICON" : "58",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "扬帆吧, 扬帆吧. \n魔鬼就站在我旁边, 接舷战的刀子熠熠生辉. \n扬帆吧！ \n齐射后的硝烟宛如水面上的波纹.",
+            "en": "Set sail, Set sail! \nDevil is standing on our side! Cutlasses glint and flash! \nSet the sail! \nSmoke of cannonade looks like ripple.",
+            "tw": "揚帆吧, 揚帆吧. \n魔鬼就站在我旁邊, 接舷戰的刀子熠熠生輝. \n揚帆吧！ \n齊射後的硝煙宛如水面上的波紋. "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2047_4": {
+        "ICON" : "58",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "扬帆吧, 升帆吧. \n我吹哨命令：操帆停泊, 亲自打开保险柜吧！\n扬帆吧！ \n降下敌方的长旒.  ",
+            "en": "Set sail, set sail! \n我Listen to my whistle order: Haul down the sail and open safes by your hands!\nSet the sail! \nDrop down enemy's pennant.",
+            "tw": "揚帆吧, 升帆吧. \n我吹哨命令：操帆停泊, 親自打開保險櫃吧！\n揚帆吧！ \n降下敵方的長旒. "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2048_4": {
+        "ICON" : "58",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "扬帆吧, 扬帆吧. \n死神使我们与商人们相遇.他们的身体落入了鲨鱼之口！ \n扬帆吧！ \n我极喜欢战利品.  ",
+            "en": "Set sail, set sail! \nDeath sent merchants to encounter us. And we send them to mouths to sharks! \nSet the sail! \nI like loot of merchant ship very much! ",
+            "tw": "揚帆吧, 揚帆吧. \n死神使我們與商人們相遇.他們的身體落入了鯊魚之口！ \n揚帆吧！ \n我極喜歡戰利品.   "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2049_4": {
+        "ICON" : "",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "奥地利那次真是惊险, 不过罗兰度真是大气, 陆上的大佬确实有些不同.他的儿子居然还是个厨师, 叫啥来着, 罗利？罗兰？ ",
+            "en": "That time in Austria was really dangerous! But Rolendo was quite generous. Big shot on land is indeed different. But unbelievable his son is a chef. Name is Rowley? Roland?",
+            "tw": "奧地利那次真是驚險, 不過羅蘭度真是大氣, 陸上的大佬確實有些不同.他的兒子居然還是個廚師, 叫啥來著, 羅利？羅蘭？ "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2050_4": {
+        "ICON" : "52",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "其实大海就是世界的缩影, 在这个优胜劣汰的世界里, 幸福永远不会驻足停留...总有一天, 我会改变这个世界. ",
+            "en": "Actually sea is a miniature of the world. In this Jungle Rule world, felicity never stay … One day I must change this world.",
+            "tw": "其實大海就是世界的縮影, 在這個優勝劣汰的世界裏, 幸福永遠不會駐足停留...總有一天, 我會改變這個世界. "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },
+    "2051_4": {
+        "ICON" : "46",
+        "TYPE": "103",
+        "TEXT": {
+            "cn": "相比那些利欲熏心的官老爷们, 我们这些在海上做生意的航海家算是人道多了.废物统治了世界, 才会造就一批又一批的废物, 这个时代必然会被终结. ",
+            "en": "Comparing with the greedy officers and politicians, we voyagers doing business on sea are more humane. Craps dominating the world promote more and more craps. This world must be eliminated.",
+            "tw": "相比那些利欲熏心的官老爺們, 我們這些在海上做生意的航海家算是人道多了.廢物統治了世界, 才會造就一批又一批的廢物, 這個時代必然會被終結. "
+        },
+        "COND": {
+            "1000": 1004
+        }
+    },    
+    "1001_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "在一个荒岛上保持一份好的心情和身体状况是很难的, 不过我现在的状态好像不赖. ",
+            "en": "It is very hard to maintain a good mental and physical health on a stranded island, but my current physical state is not bad.",
+            "tw": "在一個荒島上保持一份好的心情和身體狀況是很難的, 不過我現在的狀態好像不賴. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1001_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "在一个荒岛上保持一份好的心情和身体状况是很难的, 不过我现在的状态好像不赖. ",
+            "en": "It is very hard to maintain a good mental and physical health on a stranded island, but my current physical state is not bad.",
+            "tw": "在一個荒島上保持一份好的心情和身體狀況是很難的, 不過我現在的狀態好像不賴. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1001_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "在一个荒岛上保持一份好的心情和身体状况是很难的, 不过我现在的状态好像不赖. ",
+            "en": "It is very hard to maintain a good mental and physical health on a stranded island, but my current physical state is not bad.",
+            "tw": "在一個荒島上保持一份好的心情和身體狀況是很難的, 不過我現在的狀態好像不賴. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1002_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "身体状况不是很好, 不过没关系, 师父告诉过我一个好的厨师要时刻保证好的心情. ",
+            "en": "The state of my body is not very good. But it's ok. My master has taught me that a good chef always needs to maintain a good mood.",
+            "tw": "身體狀況不是很好, 不過沒關系, 師父告訴過我一個好的廚師要時刻保證好的心情. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 1,
+                    "MAX": 50
+                }
+            }
+        }
+    },
+    "1002_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "身体状况不是很好, 不过没关系, 哥哥说过好的心情可以帮助身体更快速的恢复. ",
+            "en": "The state of my body is not very good. But it's ok. My brother once told me that a good mood can help your body heal faster.",
+            "tw": "身體狀況不是很好, 不過沒關系, 哥哥說過好的心情可以幫助身體更快速的恢復. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 1,
+                    "MAX": 50
+                }
+            }
+        }
+    },
+    "1002_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "身体状况较差, 好的心情可以帮助身体恢复. ",
+            "en": "The state of my body is relatively bad, a good mood can help you body recover.",
+            "tw": "身體狀況較差, 好的心情可以幫助身體恢復. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 1,
+                    "MAX": 50
+                }
+            }
+        }
+    },
+    "1002_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "身体状况不是很好, 不过没关系, 一个好的博主要时刻保持好的心情. ",
+            "en": "The state of my body is not very good. But it's ok. A good video presenter needs to always maintain a good mood.",
+            "tw": "身體狀況不是很好, 不過沒關系, 一個好的博主要時刻保持好的心情. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 1,
+                    "MAX": 50
+                }
+            }
+        }
+    },
+    "1002_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "身体状况不是很好, 不过没关系, 一个好的船长要时刻保证好的心情, 这可影响着整条船的气氛. ",
+            "en": "My health is not very good. But it doesn't matter. A good captain needs to keep a good mood all the time. It influences morale of whole ship.",
+            "tw": "身體狀況不是很好, 不過沒關系, 一個好的船長要時刻保證好的心情, 這可影響著整條船的氣氛. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 1,
+                    "MAX": 50
+                }
+            }
+        }
+    },    
+    "1003_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我可能有点亢奋, 甚至还想来场篝火宴会！还记得那场在维也纳的狂欢嘛, 赛利亚的身材可真棒！",
+            "en": "oh. I think I might be a little excited. Even wanted to have a bon fire party! Still remember that party in ViennaCelia's body and figure is so good!",
+            "tw": "喔, 我覺得我可能有點亢奮, 甚至還想來場篝火宴會！還記得那場在維也納的狂歡嘛, 賽利亞的身材可真棒！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1003_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我可能有点亢奋, 甚至还想去游个泳. 还记得在地中海的那次比赛, 我还拿了个冠军！",
+            "en": "oh. I think I might be a little excited. Even wanted to have a swim. Still remember that competition in the MediterraneanI even got number one!",
+            "tw": "喔, 我覺得我可能有點亢奮, 甚至還想去遊個泳. 還記得在地中海的那次比賽, 我還拿了個冠軍！"
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1003_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "夜空, 美好. ",
+            "en": "Night skies, so pretty.",
+            "tw": "夜空, 美好. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1003_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我可能有点亢奋, 甚至还想来瓶啤酒！记得那只叫花鸡么！记得那个小小的坟墓么！好吧, 这个时候提坟墓可能不太吉利. ",
+            "en": "oh. I think I might be a little excited. I even want a bottle of beer! Do you remember the beggar's chicken! Do you remember that small tomb! Ok. To mention a tomb right now is probably a bad omen.",
+            "tw": "喔, 我覺得我可能有點亢奮, 甚至還想來瓶啤酒！記得那只叫花雞麽！記得那個小小的墳墓麽！好吧, 這個時候提墳墓可能不太吉利. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1003_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我可能有点亢奋, 甚至还想来场狂欢！还记得打败奥地利海军的那次狂欢嘛, 就是后来在维也纳的那次, 赛利亚的身材可真棒！",
+            "en": "Wow, I feel I am a bit exciting and even want to have a revelry! Still remember the revelry for defeating navy of Austria. The one held in Vienna. Celia is really a sexy bomb!",
+            "tw": "喔, 我覺得我可能有點亢奮, 甚至還想來場狂歡！還記得打敗奧地利海軍的那次狂歡嘛, 就是後來在維也納的那次, 賽利亞的身材可真棒！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },    
+    "1004_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我有点过于兴奋了, 搞的我现在非常累, 看来要好好补充一下睡眠了. 希望醒来的时候有我最爱的蜂蜜章鱼烧. ",
+            "en": "I am a little too excited, made me very tired right now. It seems like you need to replenish you sleep. Hope when I wake up there will be my favourite honey takoyaki balls.",
+            "tw": "我有點過於興奮了, 搞的我現在非常累, 看來要好好補充一下睡眠了. 希望醒來的時候有我最愛的蜂蜜章魚燒. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1004_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我有点过于兴奋了, 搞的我现在非常累, 看来要好好补充一下睡眠了. 我有些想念我的袖珍版燧发枪. ",
+            "en": "I am a little too excited, made me very tired right now. It seems like you need to replenish you sleep. I miss my mini flint lock gun a little.",
+            "tw": "我有點過於興奮了, 搞的我現在非常累, 看來要好好補充一下睡眠了. 我有些想念我的袖珍版燧發槍. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1004_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "心情亢奋, 身体疲惫. 这不是一个军人该有的状态, 需要补充睡眠. ",
+            "en": "Very excited, tired body. This is not a state a soldier should haveNeed to get some rest.",
+            "tw": "心情亢奮, 身體疲憊. 這不是一個軍人該有的狀態, 需要補充睡眠. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1004_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我有点过于兴奋了, 搞的我现在非常累, 看来要好好补充一下睡眠了. 我有些想念爆衣的感觉了. ",
+            "en": "I am a little too excited, made me very tired right now. It seems like you need to replenish you sleep. I miss the feeling of exploding clothes.",
+            "tw": "我有點過於興奮了, 搞的我現在非常累, 看來要好好補充一下睡眠了. 我有些想念爆衣的感覺了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1004_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我有点过于兴奋了, 搞的我现在非常累, 看来要好好补充一下睡眠了.我有些想念黄金万里号了.",
+            "en": "I was too exciting. Now I felt very tired. I need to have a good sleep for recovery. Missing my Gold Million. ",
+            "tw": "我有點過於興奮了, 搞的我現在非常累, 看來要好好補充一下睡眠了.我有些想念黃金萬裏號了."
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },    
+    "1005_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天没受什么外伤, 真是上帝保佑, 还有什么能比这个更值得开心的呢！",
+            "en": "Did not sustain any external injuries todayreally, god bless. Is there anything else that is worth being happy about!",
+            "tw": "今天沒受什麽外傷, 真是上帝保佑, 還有什麽能比這個更值得開心的呢！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1005_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天没受什么外伤, 真是上帝保佑, 还有什么能比这个更值得开心的呢！",
+            "en": "Did not sustain any external injuries todayreally, god blessIs there anything else that is worth being happy about!",
+            "tw": "今天沒受什麽外傷, 真是上帝保佑, 還有什麽能比這個更值得開心的呢！"
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1005_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天没受什么外伤, 真是上帝保佑, 还有什么能比这个更值得开心的呢！",
+            "en": "Did not sustain any external injuries todayreally, god blessIs there anything else that is worth being happy about!",
+            "tw": "今天沒受什麽外傷, 真是上帝保佑, 還有什麽能比這個更值得開心的呢！"
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1006_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "看看这伤口, 跟去年那只叫多里的羊下了一刀后的伤口差不多. 啧啧, 多里是只好羊, 我是说味道上. ",
+            "en": "Look at this woundthe wound similar to slashing dolly the sheep last year.Dolly is a good sheepI meant taste.",
+            "tw": "看看這傷口, 跟去年那只叫多裏的羊下了一刀後的傷口差不多. 嘖嘖, 多裏是只好羊, 我是說味道上. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1006_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "看看这伤口, 可惜这没针线, 不然我觉得我的刺绣技能就用派上用场了. 吉卜赛风格和苏格兰格子哪个更适合呢？",
+            "en": "Look at this wound. Too bad there is no needle and thread here. Or else. I think my skills in embroidery will be useful. Which one is more suitable? Gypsy style or a Scottish checked style?",
+            "tw": "看看這傷口, 可惜這沒針線, 不然我覺得我的刺繡技能就用派上用場了. 吉蔔賽風格和蘇格蘭格子哪個更適合呢？"
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1006_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "伤口偏多, 左侧腹部最为严重, 裂口超3英寸. ",
+            "en": "Many wounds. The left abdomen is the most severe. The crack is over 3 inches.",
+            "tw": "傷口偏多, 左側腹部最為嚴重, 裂口超3英寸. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1006_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "看看这伤口, 还好我血多, 不然恐怕得交代在这里了. ",
+            "en": "Look at this wound. Good thing I have a lot of blood. Or else I'm afraid I might die here.",
+            "tw": "看看這傷口, 還好我血多, 不然恐怕得交代在這裏了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1006_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "看看这伤口, 要不是船长我身经百战, 估计就在这回归主的怀抱了.",
+            "en": "Look at this wound. If I were not a captain experienced hundred battles, this time I would have gone to see God.",
+            "tw": "看看這傷口, 要不是船長我身經百戰, 估計就在這回歸主的懷抱了. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },    
+    "1007_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "嗯哼, 不干不净, 吃了没病. 没有伤口发炎, 看来经历了那么多年黑暗料理, 让我多少产生了些抗性. ",
+            "en": "Uh huhnot cleanAfter eating, I did not get sick. There was no wounds with infectionSeems like after experiencing darkness cuisines for so many yearshas given me some sort of immunity to a certain degree.",
+            "tw": "嗯哼, 不幹不凈, 吃了沒病. 沒有傷口發炎, 看來經歷了那麽多年黑暗料理, 讓我多少產生了些抗性. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1007_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天状态不错, 没有发炎的伤口, 也没有什么流脓. 那可太不符合一个女伯爵的身份了. 唔, 说到这个, 我得去洗个澡. ",
+            "en": "In a good state today. A wound with no infection. There was also no puss. That is so not right for a countess. Oh. Speaking of this. I need to go have a shower.",
+            "tw": "今天狀態不錯, 沒有發炎的傷口, 也沒有什麽流膿. 那可太不符合一個女伯爵的身份了. 唔, 說到這個, 我得去洗個澡. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1007_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这样的生活倒是有些像野战训练, 身体内部也没有感觉不适, 让我来好好的完成这次训练. ",
+            "en": "This type of like is a little like field training. The inside of the body is also not feeling any discomfort. Let me complete this training well.",
+            "tw": "這樣的生活倒是有些像野戰訓練, 身體內部也沒有感覺不適, 讓我來好好的完成這次訓練. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1007_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天状态不错, 没有发炎的伤口, 也没有什么流脓. 长时间的野食也算是活到现在的根本吧. ",
+            "en": "In a good state today. A wound with no infection. There was also no puss. Eating wildly collected food for a long time is probably the reason for staying alive until now.",
+            "tw": "今天狀態不錯, 沒有發炎的傷口, 也沒有什麽流膿. 長時間的野食也算是活到現在的根本吧. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1007_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "没有发炎的伤口, 也没有什么流脓.航海家就是这么的身强体壮.",
+            "en": "No inflamed wound. No suppurating cut. A voyager's body is just so tough!",
+            "tw": "沒有發炎的傷口, 也沒有什麽流膿.航海家就是這麽的身強體壯."
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },    
+    "1008_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔喔！这发炎的样子好像碳烤了一样, 倒是让人食欲大增啊, 来吧, 来顿好吃的犒劳一下自己！",
+            "en": "Oh! This infection looks like it has been barbequed. It does however give a person a great appetite. Come on. Have a nice meal to reward yourself!",
+            "tw": "喔喔！這發炎的樣子好像碳烤了一樣, 倒是讓人食欲大增啊, 來吧, 來頓好吃的犒勞一下自己！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1008_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "伤口有些感染, 这样的面积可不太乐观, 也许我该找些火药来消消毒. 可千万别留疤, 下次家族会议还得露背呢. ",
+            "en": "The wound is slightly infected. The size of such an area is not very good. Maybe I should find some gunpowder to use as disinfectant. It must not leave a scar. I need to expose my back at the next family meeting.",
+            "tw": "傷口有些感染, 這樣的面積可不太樂觀, 也許我該找些火藥來消消毒. 可千萬別留疤, 下次家族會議還得露背呢. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1008_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "伤口开始感染, 面积偏大, 需要些酒精来消毒. 顺便来一口解解馋. ",
+            "en": "The wound is beginning to get infected. The size of this area is relatively big. Need some alcohol to disinfect. Take a sip in the mean time to satisfy my cravings.",
+            "tw": "傷口開始感染, 面積偏大, 需要些酒精來消毒. 順便來一口解解饞. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1008_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔喔！这发炎的样子好像碳烤了一样, 倒是让人食欲大增啊, 来吧, 来顿好吃的犒劳一下自己！",
+            "en": "Oh! This infection looks like it has been barbequed. It does however give a person a great appetite. Come on. Have a nice meal to reward yourself!",
+            "tw": "喔喔！這發炎的樣子好像碳烤了一樣, 倒是讓人食欲大增啊, 來吧, 來頓好吃的犒勞一下自己！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1009_0": {
+        "ICON" : "50",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "吃饱喝足, perfect！",
+            "en": "Well fed perfect!",
+            "tw": "吃飽喝足, perfect！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1009_1": {
+        "ICON" : "50",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "吃饱喝足, perfect！",
+            "en": "Well fed perfect!",
+            "tw": "吃飽喝足, perfect！"
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1009_2": {
+        "ICON" : "50",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "吃饱喝足, perfect！",
+            "en": "Well fed perfect!",
+            "tw": "吃飽喝足, perfect！"
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 80,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "1010_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "中国有句古话说, 久旱逢甘露, 多饿几顿, 再吃东西一定会变得更美味！",
+            "en": "There is an ancient Chinese saying that says. Seeing water after a long drought. Staying hungry for a few more mealsIf I eat more it must be even more delicious!",
+            "tw": "中國有句古話說, 久旱逢甘露, 多餓幾頓, 再吃東西一定會變得更美味！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1010_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "少吃几顿没关系, 就当减肥了, 免得吉安娜和奥菲利亚一直说我胖. 再说了, 我哪里胖了. ",
+            "en": "Missing a few meals is fine. I'll take it as trying to lose weight. In case Gianna and Ophilly call me fat. Even thenWhere am I fat.",
+            "tw": "少吃幾頓沒關系, 就當減肥了, 免得吉安娜和奧菲利亞一直說我胖. 再說了, 我哪裏胖了. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1010_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "英军不怕远征难, 一顿不吃饿得慌. ",
+            "en": "The English army is not afraid of a long and far away battle, you feel hunger by skipping just one meal.",
+            "tw": "英軍不怕遠征難, 一頓不吃餓得慌. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1010_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "少吃几顿没关系, 就当减肥了, 野食小哥要变成野食帅哥了！",
+            "en": "Missing a few meals is fineI'll take it as trying to lose weight. Yesman is becoming the Handsome Yesman now!",
+            "tw": "少吃幾頓沒關系, 就當減肥了, 野食小哥要變成野食帥哥了！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1010_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "中国有句古话说, 久旱逢甘露, 多饿几顿, 再吃东西一定会变得更美味！",
+            "en": "A Chinese proverb says 'A drought makes rain sweet'. Being hungry for long time, you will feel every food is yummy!",
+            "tw": "中國有句古話說, 久旱逢甘露, 多餓幾頓, 再吃東西一定會變得更美味！"
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },    
+    "1011_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "真是一个好天气, 荒岛什么的见鬼去吧！哈哈！",
+            "en": "Such a good day, to hell with this disserted island! Haha!",
+            "tw": "真是一個好天氣, 荒島什麽的見鬼去吧！哈哈！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1005": 1,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1011_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "真是一个好天气, 荒岛什么的见鬼去吧！哈哈！",
+            "en": "Such a good day, to hell with this disserted island! Haha!",
+            "tw": "真是一個好天氣, 荒島什麽的見鬼去吧！哈哈！"
+        },
+        "COND": {
+            "1000": 1001,
+            "1005": 1,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1011_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "真是一个好天气, 荒岛什么的见鬼去吧！哈哈！",
+            "en": "Such a good day, to hell with this disserted island! Haha!",
+            "tw": "真是一個好天氣, 荒島什麽的見鬼去吧！哈哈！"
+        },
+        "COND": {
+            "1000": 1002,
+            "1005": 1,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1012_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "或许我可以在这种天气里洗个澡, 算了还是明天去河边吧, 万一艳遇一条美人鱼呢. ",
+            "en": "Maybe I can have a shower in this weatherforget it, go to the river tomorrow. Just in case I have an sensual encounter with a beautiful mermaid.",
+            "tw": "或許我可以在這種天氣裏洗個澡, 算了還是明天去河邊吧, 萬一艷遇一條美人魚呢. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1005": 5,
+            "1006": {
+                "MIN": 1,
+                "MAX": 40
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1012_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "或许我可以在这种天气里洗个澡, 算了还是明天去河边吧, 漂亮的姑娘总能在河边遇到她的白马王子. ",
+            "en": "Maybe I can have a shower in this weatherforget it, go to the river tomorrow. Beautiful girls are always able to meet their knight in shining armour next to the river.",
+            "tw": "或許我可以在這種天氣裏洗個澡, 算了還是明天去河邊吧, 漂亮的姑娘總能在河邊遇到她的白馬王子. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1005": 5,
+            "1006": {
+                "MIN": 1,
+                "MAX": 40
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1012_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "天气大雨, 可获取大量淡水资源, 或许. ",
+            "en": "The sky is raining, can obtain a lot of fresh water resourcesMaybe.",
+            "tw": "天氣大雨, 可獲取大量淡水資源, 或許. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1005": 5,
+            "1006": {
+                "MIN": 1,
+                "MAX": 40
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1012_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "或许我可以在这种天气里洗个澡, 算了还是明天去河边吧, 万一艳遇一条美人鱼呢. ",
+            "en": "Maybe I can have a shower in this weatherforget it, go to the river tomorrow. Just in case I have an sensual encounter with a beautiful mermaid.",
+            "tw": "或許我可以在這種天氣裏洗個澡, 算了還是明天去河邊吧, 萬一艷遇一條美人魚呢. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1005": 5,
+            "1006": {
+                "MIN": 1,
+                "MAX": 40
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1013_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我觉得我能用这大雪做一堆刨冰, 淋上草莓酱, 那味道一定很棒！",
+            "en": "I think I can use this snow to make a Frappuccino, apply strawberry jamThat must taste amazing!",
+            "tw": "我覺得我能用這大雪做一堆刨冰, 淋上草莓醬, 那味道一定很棒！"
+        },
+        "COND": {
+            "1000": 1000,
+            "1005": 5,
+            "1006": {
+                "MIN": -40,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1013_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "可以试试用雪来淬火, 记得以前用雪淬出来的比较软, 或许这次能淬把好材料. ",
+            "en": "Can try to quench the fire with snow. I remember when I used to quench fire with snow, it was softerMaybe this time I can quench a good quality material.",
+            "tw": "可以試試用雪來淬火, 記得以前用雪淬出來的比較軟, 或許這次能淬把好材料. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1005": 5,
+            "1006": {
+                "MIN": -40,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1013_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "天气大雪, 回忆起那次战役, 也是大雪如此. ",
+            "en": "The sky is snowing, recalling that battleThe snow is also like this.",
+            "tw": "天氣大雪, 回憶起那次戰役, 也是大雪如此. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1005": 5,
+            "1006": {
+                "MIN": -40,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1013_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我觉得我能用这大雪做一堆刨冰, 淋上草莓酱, 那味道一定很棒！",
+            "en": "I think I can use this snow to make a Frappuccino, apply strawberry jamThat must taste amazing!",
+            "tw": "我覺得我能用這大雪做一堆刨冰, 淋上草莓醬, 那味道一定很棒！"
+        },
+        "COND": {
+            "1000": 1003,
+            "1005": 5,
+            "1006": {
+                "MIN": -40,
+                "MAX": 0
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1014_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这天气都不用考虑防晒了, 不错不错. 趁着天阴得多去找些东西. ",
+            "en": "No need to think about sun screen in this weatherNot bad, need to go and find some stuff while it's still cloudy.",
+            "tw": "這天氣都不用考慮防曬了, 不錯不錯. 趁著天陰得多去找些東西. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1005": 2,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1014_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这天气都不用考虑防晒了, 不错不错. 趁着天阴得多去找些东西. ",
+            "en": "No need to think about sun screen in this weatherNot bad, need to go and find some stuff while it's still cloudy.",
+            "tw": "這天氣都不用考慮防曬了, 不錯不錯. 趁著天陰得多去找些東西. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1005": 2,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1014_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这天气都不用考虑防晒了, 不错不错. 趁着天阴得多去找些东西. ",
+            "en": "No need to think about sun screen in this weatherNot bad, need to go and find some stuff while it's still cloudy.",
+            "tw": "這天氣都不用考慮防曬了, 不錯不錯. 趁著天陰得多去找些東西. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1005": 2,
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1016_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我都快变成烤全人了, 得去外面看看, 说不定真能捡到只中暑的野猪. ",
+            "en": "I am almost turning into a grilled human. Need to go outside and have a look. Maybe I can even pick up a wild boar that is having a heat stroke.",
+            "tw": "我都快變成烤全人了, 得去外面看看, 說不定真能撿到只中暑的野豬. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1006": {
+                "MIN": 35,
+                "MAX": 50
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1016_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "这么热的天气我得去水里呆着, 享受享受大自然的水床. ",
+            "en": "I need to go into the water as it is so hoten joying the water bed of nature",
+            "tw": "這麽熱的天氣我得去水裏呆著, 享受享受大自然的水床. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "1006": {
+                    "MIN": 35,
+                    "MAX": 50
+                },
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1016_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "天气炎热, 任务暂缓, 休息一天, 调节心情. ",
+            "en": "The weather is hot. The mission has been postponed. Rest for one day. Regulate mood.",
+            "tw": "天氣炎熱, 任務暫緩, 休息一天, 調節心情. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1006": {
+                "MIN": 35,
+                "MAX": 50
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1016_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我都快变成烤全人了, 得去外面看看, 说不定真能捡到只中暑的野猪. ",
+            "en": "I am almost turning into a grilled human. Need to go outside and have a look. Maybe I can even pick up a wild boar that is having a heat stroke.",
+            "tw": "我都快變成烤全人了, 得去外面看看, 說不定真能撿到只中暑的野豬. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1006": {
+                "MIN": 35,
+                "MAX": 50
+            },
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1025_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "该死, 这伤口可不大妙, 我们以前杀牛放血的伤口跟这个差不多. 我怕是也要死了吧",
+            "en": "Damn. This wound does not look good. The wound that we used to drain the blood from cows is similar to this one. I'm afraid I am about to die",
+            "tw": "該死, 這傷口可不大妙, 我們以前殺牛放血的傷口跟這個差不多. 我怕是也要死了吧"
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1025_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "该死, 这伤口可不大妙, 要是死在这, 我怎么去见天堂的父亲啊. ",
+            "en": "Damn. This wound does not look good. If I die hereHow can I face my father in heaven.",
+            "tw": "該死, 這傷口可不大妙, 要是死在這, 我怎麽去見天堂的父親啊. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1025_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "伤口偏大, 如果再不采取一些措施, 恐怕凶多吉少. ",
+            "en": "The wound is quite big. If you don't take some action now. Afraid that there is more danger than there is peace.",
+            "tw": "傷口偏大, 如果再不采取一些措施, 恐怕兇多吉少. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1025_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "该死, 这伤口可不大妙, 血再多也经不住这么流啊, 我可不想死在这. ",
+            "en": "Damn. This wound does not look good. If the blood flows out like this, it would be enough no matter how much blood you haveI don't want to die here.",
+            "tw": "該死, 這傷口可不大妙, 血再多也經不住這麽流啊, 我可不想死在這. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },
+    "1025_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "该死, 这伤口可不大妙, 有过这种伤口的小伙子们都死完了.",
+            "en": "Damn it! This wound is not slight. The boys who had such wound all had died. ",
+            "tw": "該死, 這傷口可不大妙, 有過這種傷口的小夥子們都死完了."
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7001": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 20
+                }
+            }
+        }
+    },    
+    "1039_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天的状态不错, 有些让我想起之前参加料理比赛, 那时候也是晚上亢奋的睡不着. ",
+            "en": "In a good state today. It reminds me of the cooking competitions I have entered before. At that time, the evenings are filled with excitement and lack of sleep.",
+            "tw": "今天的狀態不錯, 有些讓我想起之前參加料理比賽, 那時候也是晚上亢奮的睡不著. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1039_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天的状态不错, 就像当年我的刺绣被展出一样. ",
+            "en": "In a good state today. It's just like when my embroideries were being displayed many years ago.",
+            "tw": "今天的狀態不錯, 就像當年我的刺繡被展出一樣. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1039_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "状态良好, 也许能趁着这个时候让自己的精神稍微放松一下. ",
+            "en": "In a good state. Maybe I can take this opportunity to relax for a while.",
+            "tw": "狀態良好, 也許能趁著這個時候讓自己的精神稍微放松一下. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1039_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天的状态不错, 有些让我想起每次发片前, 那时候也是晚上亢奋的睡不着. ",
+            "en": "In a good state today. It reminds me of the cooking competitions I have entered before. At that time, the evenings are filled with excitement and lack of sleep.",
+            "tw": "今天的狀態不錯, 有些讓我想起每次發片前, 那時候也是晚上亢奮的睡不著. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1039_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "今天的状态不错, 有些让我想起第一次做生意时, 那时候也是晚上亢奋的睡不着.",
+            "en": "Today my status is good. It reminded me of my first business on sea. That time I  was also too exciting to sleep.",
+            "tw": "今天的狀態不錯, 有些讓我想起第一次做生意時, 那時候也是晚上亢奮的睡不著. "
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7000": {
+                    "MIN": 80,
+                    "MAX": 100
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },    
+    "1040_0": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我像做了几千个人的午餐, 床在哪, 我得快点去睡觉了. ",
+            "en": "oh. I feel like I have just made lunch for thousands of people. Where is the bedI need to hurry and go to sleep",
+            "tw": "喔, 我覺得我像做了幾千個人的午餐, 床在哪, 我得快點去睡覺了. "
+        },
+        "COND": {
+            "1000": 1000,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1040_1": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "我, 我觉得我就像跟叔叔打完官司一样累, 我得找个地方多躺一会. ",
+            "en": "I. I feel as tired as I was after the court battle with my uncle. I need to find a place and lie down for a bit longer.",
+            "tw": "我, 我覺得我就像跟叔叔打完官司一樣累, 我得找個地方多躺一會. "
+        },
+        "COND": {
+            "1000": 1001,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1040_2": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "精神疲惫, 身体表明需要充足的休息. ",
+            "en": "Fatigued. My body shows that I need sufficient rest.",
+            "tw": "精神疲憊, 身體表明需要充足的休息. "
+        },
+        "COND": {
+            "1000": 1002,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1040_3": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我像连续做了十期视频, 床在哪, 我得快点去睡觉了. ",
+            "en": "oh. I feel like I made 10 videos in a row. Where is the bedI need to hurry and go to sleep",
+            "tw": "喔, 我覺得我像連續做了十期視頻, 床在哪, 我得快點去睡覺了. "
+        },
+        "COND": {
+            "1000": 1003,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "1040_4": {
+        "ICON" : "",
+        "TYPE": "101",
+        "TEXT": {
+            "cn": "喔, 我觉得我像连续抢了十艘船, 床在哪, 我得快点去睡觉了.",
+            "en": "Wow, I feel like I robbed ten ships just now. Where is my bed? I need quickly go to sleep.",
+            "tw": "喔, 我覺得我像連續搶了十艘船, 床在哪, 我得快點去睡覺了."
+        },
+        "COND": {
+            "1000": 1004,
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 20
+                },
+                "7003": {
+                    "MIN": 300,
+                    "MAX": 450
+                }
+            }
+        }
+    }
+}

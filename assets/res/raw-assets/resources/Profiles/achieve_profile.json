@@ -1,0 +1,5085 @@
+{
+    "1001": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "捕猎专家",
+            "en": "Hunt Master",
+            "tw": "捕獵專家"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只动物",
+            "en": "Kill {0} animals",
+            "tw": "累計擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 0,
+            "value": [
+                20,
+                400,
+                2000
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4013,
+            "desc": {
+                "cn": "开局附赠{0}个草药",
+                "en": "Get {0} Herbs when a match starts",
+                "tw": "開局附贈{0}個草藥"
+            },
+            "value": [
+                2,
+                4,
+                8
+            ]
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1002": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "武术专家",
+            "en": "Martial Master",
+            "tw": "武術專家"
+        },
+        "DESC": {
+            "cn": "累计空手击败{0}只动物",
+            "en": "Kill {0} animals unarmed",
+            "tw": "累計空手擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "0",
+            "monster": 0,
+            "value": [
+                20,
+                150,
+                350
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "0",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "空手时命中率增加{0}%",
+                "en": "When unarmed, +{0}% Hit rate",
+                "tw": "空手時命中率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1003": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "斧头专家",
+            "en": "Master of Axe",
+            "tw": "斧頭專家"
+        },
+        "DESC": {
+            "cn": "累计使用斧头击败{0}只动物",
+            "en": "Kill {0} animals with an axe",
+            "tw": "累計使用斧頭擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4100#4100_1#4112#4112_1#4127#4129",
+            "monster": 0,
+            "value": [
+                20,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4100#4100_1#4112#4112_1#4127#4129",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "使用斧头时命中率增加{0}%",
+                "en": "When using axe, Hit rate +{0}%",
+                "tw": "使用斧頭時命中率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1004": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "穷途匕现",
+            "en": "Wit's End",
+            "tw": "窮途匕現"
+        },
+        "DESC": {
+            "cn": "累计使用匕首击败{0}只动物",
+            "en": "Kill {0} animals with a dagger",
+            "tw": "累計使用匕首擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4101",
+            "monster": 0,
+            "value": [
+                20,
+                150,
+                350
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4101",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "使用匕首时命中率增加{0}%",
+                "en": "When using dagger, Hit rate +{0}%",
+                "tw": "使用匕首時命中率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1005": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "竹枪非枪",
+            "en": "Makeshift Gun",
+            "tw": "竹槍非槍"
+        },
+        "DESC": {
+            "cn": "累计使用竹枪击败{0}只动物",
+            "en": "Kill {0} animals with a bamboo spear",
+            "tw": "累計使用竹槍擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4113#4113_1#4128#4130",
+            "monster": 0,
+            "value": [
+                20,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "使用竹枪时命中率增加{0}%",
+                "en": "When using bamboo spear, Hit rate +{0}%",
+                "tw": "使用竹槍時命中率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1006": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "百步穿杨",
+            "en": "Marksman",
+            "tw": "百步穿楊"
+        },
+        "DESC": {
+            "cn": "累计使用弓弩击败{0}只动物",
+            "en": "Kill {0} animals with  crossbow",
+            "tw": "累計使用弓弩擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4104#4104_1#4105#4105_1#4106#4106_1#4115#4120#4120_1#4146",
+            "monster": 0,
+            "value": [
+                20,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4104#4104_1#4105#4105_1#4106#4106_1#4115#4120#4120_1#4146",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "使用弓弩时命中率增加{0}%",
+                "en": "When using crossbow, Hit rate +{0}%",
+                "tw": "使用弓弩時命中率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1007": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "刀斩肉身",
+            "en": "Blade to the Body",
+            "tw": "刀斬肉身"
+        },
+        "DESC": {
+            "cn": "累计使用武士刀击败{0}只动物",
+            "en": "Kill {0} animals with a samurai sword",
+            "tw": "累計使用武士刀擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4103",
+            "monster": 0,
+            "value": [
+                20,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4103",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "使用武士刀时命中率增加{0}%",
+                "en": "When using samurai sword, Hit rate +{0}%",
+                "tw": "使用武士刀時命中率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1008": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "爆炸艺术",
+            "en": "Explosive Arts",
+            "tw": "爆炸藝術"
+        },
+        "DESC": {
+            "cn": "累计使用炸药击败{0}只动物",
+            "en": "Kill {0} animals with  Explosives",
+            "tw": "累計使用炸藥擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4117#4118#4132",
+            "monster": 0,
+            "value": [
+                20,
+                150,
+                350
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1009": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎狼者",
+            "en": "Wolf Hunter",
+            "tw": "獵狼者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只狼",
+            "en": "Kill {0} wolves",
+            "tw": "累計擊敗{0}只狼"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 1,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "1",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击狼类野兽时{0}%概率击中要害",
+                "en": "When attacking wolf-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊狼類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1010": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎猪者",
+            "en": "Boar Hunter",
+            "tw": "獵豬者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只野猪",
+            "en": "Kill {0} wild boars",
+            "tw": "累計擊敗{0}只野豬"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 2,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "2",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击野猪类野兽时{0}%概率击中要害",
+                "en": "When attacking wild boar-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊野豬類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1011": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎鱼者",
+            "en": "Fish Hunter",
+            "tw": "獵魚者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只食人鱼",
+            "en": "Kill {0} piranhas",
+            "tw": "累計擊敗{0}只食人魚"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 3,
+            "value": [
+                15,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "3",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击食人鱼类野兽时{0}%概率击中要害",
+                "en": "When attacking piranha-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊食人魚類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1012": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎熊者",
+            "en": "Bear Hunter",
+            "tw": "獵熊者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只熊",
+            "en": "Kill {0} bears",
+            "tw": "累計擊敗{0}只熊"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 4,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "4",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击熊类野兽时{0}%概率击中要害",
+                "en": "When attacking bear-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊熊類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1013": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎鳄者",
+            "en": "Croc Hunter",
+            "tw": "獵鱷者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只鳄鱼",
+            "en": "Kill {0} crocodiles",
+            "tw": "累計擊敗{0}只鱷魚"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 5,
+            "value": [
+                15,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "5",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击鳄鱼类野兽时{0}%概率击中要害",
+                "en": "When attacking crocodile-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊鱷魚類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1014": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎蛇者",
+            "en": "Snake Hunter",
+            "tw": "獵蛇者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只蛇",
+            "en": "Kill {0} snakes",
+            "tw": "累計擊敗{0}只蛇"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 6,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "6",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击蛇类野兽时{0}%概率击中要害",
+                "en": "When attacking snake-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊蛇類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1015": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎虎者",
+            "en": "Tiger Hunter",
+            "tw": "獵虎者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只虎",
+            "en": "Kill {0} tigers",
+            "tw": "累計擊敗{0}只虎"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 7,
+            "value": [
+                15,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "7",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击虎类野兽时{0}%概率击中要害",
+                "en": "When attacking tiger-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊虎類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1016": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎鲨者",
+            "en": "Shark Hunter",
+            "tw": "獵鯊者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只鲨鱼",
+            "en": "Kill {0} sharks",
+            "tw": "累計擊敗{0}只鯊魚"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 9,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "9",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击鲨鱼类野兽时{0}%概率击中要害",
+                "en": "When attacking shark-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊鯊魚類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1017": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎蜥者",
+            "en": "Lizard Hunter",
+            "tw": "獵蜥者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只蜥蜴",
+            "en": "Kill {0} lizards",
+            "tw": "累計擊敗{0}只蜥蜴"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 11,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "11",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击蜥蜴类野兽时{0}%概率击中要害",
+                "en": "When attacking lizard-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊蜥蜴類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1018": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎头者",
+            "en": "Head Hunter",
+            "tw": "獵頭者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}个人类",
+            "en": "Kill {0} humans",
+            "tw": "累計擊敗{0}個人類"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 8,
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "8",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击人类野兽时{0}%概率击中要害",
+                "en": "When attacking human-type beasts, {0}% chance to hit vital point",
+                "tw": "攻擊人類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1019": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "群星之怒",
+            "en": "Stars' Fury",
+            "tw": "群星之怒"
+        },
+        "DESC": {
+            "cn": "单局使用硬竹弓击败{0}只动物",
+            "en": "Use Bamboo Bow to kill {0} animals in a single round",
+            "tw": "單局使用硬竹弓擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4106#4106_1",
+            "monster": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1020": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "刺客信条",
+            "en": "Assassin's Creed",
+            "tw": "刺客信條"
+        },
+        "DESC": {
+            "cn": "单局使用匕首击败{0}只动物",
+            "en": "Use Dagger to kill {0} animals in a single round",
+            "tw": "單局使用匕首擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4101",
+            "monster": 0,
+            "value": [
+                30
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1021": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "武松？！",
+            "en": "Pilgrim?!",
+            "tw": "武松？！"
+        },
+        "DESC": {
+            "cn": "单局空手击败{0}只老虎",
+            "en": "Kill {0} tigers unarmed in a single round",
+            "tw": "單局空手擊敗{0}只老虎"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "0",
+            "monster": 7,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1022": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "冷面寒枪",
+            "en": "Merciless spear",
+            "tw": "冷面寒槍"
+        },
+        "DESC": {
+            "cn": "单局使用竹枪击败{0}只动物",
+            "en": "Use Bamboo Spear to kill {0} animals in a single round",
+            "tw": "單局使用竹槍擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4113#4113_1",
+            "monster": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1023": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "白虎牙断",
+            "en": "Brutal Axe",
+            "tw": "白虎牙斷"
+        },
+        "DESC": {
+            "cn": "单局使用斧头击败{0}只动物",
+            "en": "Use Axe to kill {0} animals in a single round",
+            "tw": "單局使用斧頭擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4100#4100_1#4112#4112_1#4127#4129",
+            "monster": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1024": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "交响之乐",
+            "en": "Symphony of Boom",
+            "tw": "交響之樂"
+        },
+        "DESC": {
+            "cn": "累计空炸{0}次",
+            "en": "Had {0} times of dud explosive accumulatively",
+            "tw": "累計空炸{0}次"
+        },
+        "DEMAND": {
+            "type": 3,
+            "value": [
+                50
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1025": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "箭海无涯",
+            "en": "Endless Arrows",
+            "tw": "箭海無涯"
+        },
+        "DESC": {
+            "cn": "累计回收{0}支箭",
+            "en": "Collect a total of {0} arrows",
+            "tw": "累計回收{0}支箭"
+        },
+        "DEMAND": {
+            "type": 4,
+            "value": [
+                200
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1026": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "心斩灵魂",
+            "en": "Broken Blades to the soul",
+            "tw": "心斬靈魂"
+        },
+        "DESC": {
+            "cn": "累计损坏{0}把武士刀",
+            "en": "Destroy a total of {0} Samurai Swords",
+            "tw": "累計損壞{0}把武士刀"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": 4103,
+            "value": [
+                30
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1027": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "科技力量",
+            "en": "Triumph of Science",
+            "tw": "科技力量"
+        },
+        "DESC": {
+            "cn": "单局使用燧发枪击败{0}只动物",
+            "en": "Use Flintlock to kill {0} animals in a single round",
+            "tw": "單局使用燧發槍擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4125",
+            "monster": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1028": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "猎猿者",
+            "en": "Primate Hunter",
+            "tw": "獵猿者"
+        },
+        "DESC": {
+            "cn": "累计击败{0}个只猿类野兽",
+            "en": "Kill {0} ape-type beasts",
+            "tw": "累計擊敗{0}個只猿類野獸"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 13,
+            "value": [
+                5,
+                30,
+                200
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "13",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击猿类野兽时{0}%概率击中要害",
+                "en": "When attacking ape-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊猿類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1029": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "虫师",
+            "en": "Mushishi",
+            "tw": "蟲師"
+        },
+        "DESC": {
+            "cn": "累计击败{0}个虫类野兽",
+            "en": "Kill {0} worm-type beasts",
+            "tw": "累計擊敗{0}個蟲類野獸"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 14,
+            "value": [
+                5,
+                30,
+                200
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "14",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击虫类野兽时{0}%概率击中要害",
+                "en": "When attacking worm-type beasts, {0}% chance to hit a vital point",
+                "tw": "攻擊蟲類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1030": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "旺达石像",
+            "en": "Shadow of the Colossus",
+            "tw": "旺達石像"
+        },
+        "DESC": {
+            "cn": "累计击败{0}个非生物野兽",
+            "en": "Kill {0} non-organic beasts",
+            "tw": "累計擊敗{0}個非生物野獸"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 15,
+            "value": [
+                5,
+                30,
+                200
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "15",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击非生物野兽时{0}%概率击中要害",
+                "en": "When attacking non-organic beasts, {0}% chance to hit vital point",
+                "tw": "攻擊非生物野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1031": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "天空之城！",
+            "en": "M370!",
+            "tw": "M370！"
+        },
+        "DESC": {
+            "cn": "累计击败{0}个飞行类野兽",
+            "en": "Kill {0} flying beasts",
+            "tw": "累計擊敗{0}個飛行類野獸"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "-1",
+            "monster": 16,
+            "value": [
+                5,
+                30,
+                200
+            ]
+        },
+        "EFFECT": {
+            "type": 3,
+            "item": "16",
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "攻击飞行类野兽时{0}%概率击中要害",
+                "en": "When attacking flying beasts, {0}% chance to hit vital point",
+                "tw": "攻擊飛行類野獸時{0}%概率擊中要害"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1032": {
+        "TYPE": 1,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "王之财宝",
+            "en": "Gate of Babylon",
+            "tw": "王之財寶"
+        },
+        "DESC": {
+            "cn": "累计损坏{0}把武器",
+            "en": "Destroy a total of {0} weapons",
+            "tw": "累計損壞{0}把武器"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "-1",
+            "value": [
+                30,
+                100,
+                600
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "1033": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "杰克·斯帕罗",
+            "en": "Triumph of Science",
+            "tw": "傑克·斯帕羅"
+        },
+        "DESC": {
+            "cn": "单局使用杰克之刃击败{0}只动物",
+            "en": "Use Jack's Sword to kill {0} animals in a single round",
+            "tw": "單局使用傑克之刃擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4137",
+            "monster": 0,
+            "value": [
+                20
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1034": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "无罪叹息",
+            "en": "Sigh of Innocence",
+            "tw": "無罪嘆息"
+        },
+        "DESC": {
+            "cn": "单局使用驯兽鞭击败{0}只动物",
+            "en": "Beat {0} animals with a trainer's whip in a single game",
+            "tw": "單局使用馴獸鞭擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4142",
+            "monster": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1035": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "黑死鼠疫",
+            "en": "Plague of the Black Death",
+            "tw": "黑死鼠疫"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只变异小白鼠",
+            "en": "Cumulative defeat of {0} mutant mice",
+            "tw": "累計擊敗{0}只變異小白鼠"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 22,
+            "value": [
+                999
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1036": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "诸葛连弩",
+            "en": "Zhuge continuous crossbow",
+            "tw": "諸葛連弩"
+        },
+        "DESC": {
+            "cn": "单局使用机关连弩击败{0}只动物",
+            "en": "Beat {0} animals with mechanical crossbow in a single game",
+            "tw": "單局使用機關連弩擊敗{0}只動物"
+        },
+        "DEMAND": {
+            "type": 1,
+            "item": "4146",
+            "monster": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "1037": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "蜀汉怀帝",
+            "en": "Duke of Anle",
+            "tw": "蜀漢懷帝"
+        },
+        "DESC": {
+            "cn": "累计击败{0}个机关敌人",
+            "en": "Cumulative defeat of {0} Robots",
+            "tw": "累計擊敗{0}個機關敵人"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 23,
+            "value": [
+                999
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },    
+    "2001": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "荒野求生",
+            "en": "Man vs Nature",
+            "tw": "荒野求生"
+        },
+        "DESC": {
+            "cn": "单局生存达到{0}天",
+            "en": "Survive for {0} days in a single round",
+            "tw": "單局生存達到{0}天"
+        },
+        "DEMAND": {
+            "type": 1,
+            "value": [
+                3,
+                40,
+                100
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4025,
+            "value": [
+                2,
+                4,
+                8
+            ],
+            "desc": {
+                "cn": "开局附赠{0}个烤肉",
+                "en": "Get {0} Roast Meat when a match starts",
+                "tw": "開局附贈{0}個烤肉"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2002": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "十步一杀",
+            "en": "Melee Maker",
+            "tw": "十步一殺"
+        },
+        "DESC": {
+            "cn": "累计制作{0}把近战武器",
+            "en": "Craft a total of {0} melee weapons",
+            "tw": "累計制作{0}把近戰武器"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4100#4100_1#4112#4112_1#4113#4113_1",
+            "value": [
+                7,
+                40,
+                500
+            ]
+        },
+        "EFFECT": {
+            "type": 4,
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "制作工具时得到耐久的工具的概率增加{0}%",
+                "en": "When crafting tools, +{0}% chance of getting durable tools",
+                "tw": "制作工具時得到耐久的工具的概率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2003": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "寸长寸强",
+            "en": "Ranged Rampage",
+            "tw": "寸長寸強"
+        },
+        "DESC": {
+            "cn": "累计制作{0}把远程武器",
+            "en": "Craft a total of {0} ranged weapons",
+            "tw": "累計制作{0}把遠程武器"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4104#4104_1#4105#4105_1#4106#4106_1#4115#4115_1#4120#4120_1",
+            "value": [
+                3,
+                20,
+                200
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2004": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "军火贩子",
+            "en": "Arms Dealer",
+            "tw": "軍火販子"
+        },
+        "DESC": {
+            "cn": "累计制作{0}个炸药",
+            "en": "Craft a total of {0} explosives",
+            "tw": "累計制作{0}個炸藥"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4117#4118",
+            "value": [
+                3,
+                20,
+                200
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2005": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "无米之炊",
+            "en": "Immaterial Chef",
+            "tw": "無米之炊"
+        },
+        "DESC": {
+            "cn": "累计烹饪{0}个食物",
+            "en": "Cook a total of {0} foods",
+            "tw": "累計烹飪{0}個食物"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4025#4025_1#4026#4026_1#4040#4040_1#4041#4041_1#4043#4043_1#4070#4070_1#4081#4082#4083#4402",
+            "value": [
+                30,
+                200,
+                1000
+            ]
+        },
+        "EFFECT": {
+            "type": 5,
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "烹饪食物时得到美味的食物的概率增加{0}%",
+                "en": "When cooking food, +{0}% chance of getting tasty food",
+                "tw": "烹飪食物時得到美味的食物的概率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2006": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "妙手回春",
+            "en": "Healing Hands",
+            "tw": "妙手回春"
+        },
+        "DESC": {
+            "cn": "累计制作{0}个药品",
+            "en": "Craft a total of {0} medical items",
+            "tw": "累計制作{0}個藥品"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4016#4017#4024#4018#4019#4087#4084#4085#4086",
+            "value": [
+                10,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2007": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "愚者垂纶",
+            "en": "Amateur Fisher",
+            "tw": "愚者垂綸"
+        },
+        "DESC": {
+            "cn": "累计尝试钓鱼{0}次",
+            "en": "Try fishing a total of {0} times",
+            "tw": "累計嘗試釣魚{0}次"
+        },
+        "DEMAND": {
+            "type": 3,
+            "value": [
+                20,
+                200,
+                800
+            ]
+        },
+        "EFFECT": {
+            "type": 6,
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "钓鱼时无收获概率降低{0}%",
+                "en": "When fishing, reduce chances of an empty catch by {0}%",
+                "tw": "釣魚時無收獲概率降低{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2008": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "愿者上钩",
+            "en": "Myriad Fisher",
+            "tw": "願者上鉤"
+        },
+        "DESC": {
+            "cn": "累计在钓鱼时成功获得鱼类{0}次",
+            "en": "Get a total of {0} types of fish when fishing",
+            "tw": "累計在釣魚時成功獲得魚類{0}次"
+        },
+        "DEMAND": {
+            "type": 8,
+            "item": "5001#5002#5003#5004#5005#5006#5007#5008#5009#5010#5011#5012#5013#5014#5015#5016#5017#5018#5019#5020#5021#5022#5023#5024#5025#5026#5027#5028#5029#5030",
+            "value": [
+                10,
+                100,
+                1000
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2009": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "意外收获",
+            "en": "Unexpected Bounty",
+            "tw": "意外收獲"
+        },
+        "DESC": {
+            "cn": "累计在钓鱼时成功获得道具{0}次",
+            "en": "Get a total of {0} Items when fishing",
+            "tw": "累計在釣魚時成功獲得道具{0}次"
+        },
+        "DEMAND": {
+            "type": 9,
+            "value": [
+                5,
+                50,
+                500
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2010": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "海猫鸣泣",
+            "en": "Umineko no Naku Koro ni",
+            "tw": "海貓鳴泣"
+        },
+        "DESC": {
+            "cn": "累计在钓鱼时触发事件{0}次",
+            "en": "When fishing, trigger a total of {0} events",
+            "tw": "累計在釣魚時觸發事件{0}次"
+        },
+        "DEMAND": {
+            "type": 10,
+            "value": [
+                5,
+                50,
+                500
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2011": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "守株待兔",
+            "en": "Trapper Trip",
+            "tw": "守株待兔"
+        },
+        "DESC": {
+            "cn": "累计利用陷阱成功捕获到猎物{0}次",
+            "en": "Successfully trap a total of {0} prey",
+            "tw": "累計利用陷阱成功捕獲到獵物{0}次"
+        },
+        "DEMAND": {
+            "type": 4,
+            "value": [
+                10,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {
+            "type": 7,
+            "value": [
+                3,
+                6,
+                10
+            ],
+            "desc": {
+                "cn": "陷阱成功捕获到猎物概率增加{0}%",
+                "en": "+{0}% chance of trapping prey",
+                "tw": "陷阱成功捕獲到獵物概率增加{0}%"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2012": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "普罗修斯",
+            "en": "Prometheus",
+            "tw": "普羅修斯"
+        },
+        "DESC": {
+            "cn": "累计制作{0}个火把",
+            "en": "Craft {0} Torches",
+            "tw": "累計制作{0}個火把"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4114",
+            "value": [
+                10,
+                100,
+                400
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2013": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "与狼共舞",
+            "en": "Dancing with Wolves",
+            "tw": "與狼共舞"
+        },
+        "DESC": {
+            "cn": "累计与白狼生活{0}天",
+            "en": "Live with the White Wolf for a total of {0} days",
+            "tw": "累計與白狼生活{0}天"
+        },
+        "DEMAND": {
+            "type": 5,
+            "value": [
+                50,
+                200,
+                500
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2014": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "饱食之椰",
+            "en": "CoCo no Uta",
+            "tw": "飽食之椰"
+        },
+        "DESC": {
+            "cn": "累计食用{0}个椰子",
+            "en": "Eat a total of {0} coconuts",
+            "tw": "累計食用{0}個椰子"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4021",
+            "value": [
+                30,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2015": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "氪金土豪",
+            "en": "Nouveau Riche",
+            "tw": "氪金土豪"
+        },
+        "DESC": {
+            "cn": "累计复活{0}次",
+            "en": "Perform a total of {0} revivals",
+            "tw": "累計復活{0}次"
+        },
+        "DEMAND": {
+            "type": 7,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2016": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "巧手为炊",
+            "en": "Iron Chef",
+            "tw": "巧手為炊"
+        },
+        "DESC": {
+            "cn": "累计烹饪出{0}个美味食物",
+            "en": "Cook a total of {0} tasty food",
+            "tw": "累計烹飪出{0}個美味食物"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4025_1#4070_1#4040_1#4026_1#4041_1#4043_1",
+            "value": [
+                30
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2017": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "班门学斧",
+            "en": "Enduring Times",
+            "tw": "班門學斧"
+        },
+        "DESC": {
+            "cn": "累计制作出{0}把耐久的武器",
+            "en": "Craft a total of {0} durable weapons",
+            "tw": "累計制作出{0}把耐久的武器"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4100_1#4120_1#4105_1#4107_1#4112_1#4113_1#4106_1#4104_1",
+            "value": [
+                30
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2018": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "鱼水之欢",
+            "en": "Fishy Familiarity",
+            "tw": "魚水之歡"
+        },
+        "DESC": {
+            "cn": "累计食用{0}条鱼",
+            "en": "Eat a total of {0} fish",
+            "tw": "累計食用{0}條魚"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "5001#5002#5003#5004#5005#5006#5007#5008#5009#5010#5011#5012#5013#5014#5015#5016#5017#5018#5019#5020#5021#5022#5023#5024#5025#5026#5027#5028#5029#5030",
+            "value": [
+                50,
+                200,
+                800
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2019": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "百花蜜语",
+            "en": "Hankering for Honey",
+            "tw": "百花蜜語"
+        },
+        "DESC": {
+            "cn": "单局食用{0}个蜂蜜",
+            "en": "Eat {0} honey in a single round",
+            "tw": "單局食用{0}個蜂蜜"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4038",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2020": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "神农百草",
+            "en": "Hamfisting Herbs",
+            "tw": "神農百草"
+        },
+        "DESC": {
+            "cn": "单局食用{0}个草药",
+            "en": "Eat {0} herbs in a single round",
+            "tw": "單局食用{0}個草藥"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4013",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2021": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "好大的鱼",
+            "en": "Fish of Legend",
+            "tw": "好大的魚"
+        },
+        "DESC": {
+            "cn": "钓到蓝鳍金枪鱼",
+            "en": "Fish up Bluefin",
+            "tw": "釣到藍鰭金槍魚"
+        },
+        "DEMAND": {
+            "type": 8,
+            "item": "5015",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2022": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "久病不医",
+            "en": "Chronic Death",
+            "tw": "久病不醫"
+        },
+        "DESC": {
+            "cn": "累计因内伤死亡26次",
+            "en": "Die 26 times from Infection",
+            "tw": "累計因內傷死亡26次"
+        },
+        "DEMAND": {
+            "type": 11,
+            "item": "4",
+            "value": [
+                26
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2023": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "冰封荒野",
+            "en": "Frozen Wastes",
+            "tw": "冰封荒野"
+        },
+        "DESC": {
+            "cn": "累计冻死26次",
+            "en": "Freeze to death 26 times",
+            "tw": "累計凍死26次"
+        },
+        "DEMAND": {
+            "type": 11,
+            "item": "3",
+            "value": [
+                26
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2024": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "宁死屈服！",
+            "en": "RUA!",
+            "tw": "RUA！"
+        },
+        "DESC": {
+            "cn": "累计战斗死亡26次",
+            "en": "Die in battle 26 times",
+            "tw": "累計戰鬥死亡26次"
+        },
+        "DEMAND": {
+            "type": 11,
+            "item": "1",
+            "value": [
+                26
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2025": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "仓廪不实",
+            "en": "Hunger Games",
+            "tw": "倉廩不實"
+        },
+        "DESC": {
+            "cn": "累计饿死26次",
+            "en": "Die from hunger 26 times",
+            "tw": "累計餓死26次"
+        },
+        "DEMAND": {
+            "type": 11,
+            "item": "2",
+            "value": [
+                26
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2026": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "2333！",
+            "en": "2333!",
+            "tw": "2333！"
+        },
+        "DESC": {
+            "cn": "单局生存达到{0}天",
+            "en": "Survive for {0} days in a single round",
+            "tw": "單局生存達到{0}天"
+        },
+        "DEMAND": {
+            "type": 1,
+            "value": [
+                233
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2027": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "老铁双击",
+            "en": "Double Fist",
+            "tw": "老鐵雙擊"
+        },
+        "DESC": {
+            "cn": "单局生存达到{0}天",
+            "en": "Survive for {0} days in a single round",
+            "tw": "單局生存達到{0}天"
+        },
+        "DEMAND": {
+            "type": 1,
+            "value": [
+                666
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2028": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "反正没人",
+            "en": "No one's around anyway",
+            "tw": "反正沒人"
+        },
+        "DESC": {
+            "cn": "单局生存达到{0}天",
+            "en": "Survive for {0} days in a single round",
+            "tw": "單局生存達到{0}天"
+        },
+        "DEMAND": {
+            "type": 1,
+            "value": [
+                999
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2029": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "NAME": {
+            "cn": "Trick or Treat",
+            "en": "Trick or Treat",
+            "tw": "Trick or Treat"
+        },
+        "DESC": {
+            "cn": "单局食用{0}个万圣节南瓜",
+            "en": "Eat {0} pumpkins in a single round",
+            "tw": "單局食用{0}個萬聖節南瓜"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4092",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2030": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "无头骑士",
+            "en": "The Horseman",
+            "tw": "無頭騎士"
+        },
+        "DESC": {
+            "cn": "单局食用{0}个万圣节南瓜",
+            "en": "Eat {0} pumpkins in a single round",
+            "tw": "單局食用{0}個萬聖節南瓜"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4092",
+            "value": [
+                100,
+                300,
+                1000
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2031": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "今晚吃鸡!",
+            "en": "Chicken Dinner!",
+            "tw": "今晚吃雞!"
+        },
+        "DESC": {
+            "cn": "累计食用{0}个火鸡大餐",
+            "en": "Eat a total of {0} Turkey Dinner ",
+            "tw": "累計食用{0}个火雞大餐"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4094",
+            "value": [
+                10,
+                50,
+                350
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2032": {
+        "TYPE": 2,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "礼尚往来",
+            "en": "It's My Turn",
+            "tw": "禮尚往來"
+        },
+        "DESC": {
+            "cn": "累计开启玩家赠礼{0}次",
+            "en": "Open a total of {0} gifts from other players",
+            "tw": "累計開啟玩家贈禮{0}次"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "420101#420201#420301#420401#420501",
+            "value": [
+                10,
+                20,
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "2033": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "鞭炮齐鸣",
+            "en": "Firecrackers salvo the sky",
+            "tw": "鞭炮齊鳴"
+        },
+        "DESC": {
+            "cn": "累计制作出{0}个小鞭炮",
+            "en": "Cook a total of {0} Firecrackers",
+            "tw": "累計制作出{0}個小鞭炮"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4138",
+            "value": [
+                30
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2034": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "团团圆圆",
+            "en": "Get together",
+            "tw": "團團圓圓"
+        },
+        "DESC": {
+            "cn": "累计制作出{0}个汤圆",
+            "en": "Cook a total of {0} Tang-yuan",
+            "tw": "累計制作出{0}個湯圓"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4407",
+            "value": [
+                99
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2035": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "寒食青史",
+            "en": "Cold Food&History",
+            "tw": "寒食青史"
+        },
+        "DESC": {
+            "cn": "累计制作出{0}个青团",
+            "en": "Cook a total of {0} green dumpling",
+            "tw": "累計制作出{0}個青團"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4409",
+            "value": [
+                99
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2036": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "黑驴蹄子",
+            "en": "King of Zongzi",
+            "tw": "黑驢蹄子"
+        },
+        "DESC": {
+            "cn": "累计食用{0}个红枣粽子",
+            "en": "Eat a total of {0} Red jujube Zongzi",
+            "tw": "累計食用{0}個紅棗粽子"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4501",
+            "value": [
+                6
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2037": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "语文课代表",
+            "en": "Chinese homework",
+            "tw": "語文課代表"
+        },
+        "DESC": {
+            "cn": "完成语文作业",
+            "en": "Finish Chinese homework",
+            "tw": "完成語文作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4506",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "语文学习能力提升100%",
+                "en": "Chinese ability +100%",
+                "tw": "語文學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2038": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "数学课代表",
+            "en": "Math homework",
+            "tw": "數學課代表"
+        },
+        "DESC": {
+            "cn": "完成数学作业",
+            "en": "Finish Math homework",
+            "tw": "完成數學作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4507",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "数学学习能力提升100%",
+                "en": "Math ability +100%",
+                "tw": "數學學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2039": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "英语课代表",
+            "en": "English homework",
+            "tw": "英語課代表"
+        },
+        "DESC": {
+            "cn": "完成英语作业",
+            "en": "Finish English homework",
+            "tw": "完成英語作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4508",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "英语学习能力提升100%",
+                "en": "English ability +100%",
+                "tw": "英語學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2040": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "物理课代表",
+            "en": "Physical homework",
+            "tw": "物理課代表"
+        },
+        "DESC": {
+            "cn": "完成物理作业",
+            "en": "Finish Physical homework",
+            "tw": "完成物理作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4509",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "物理学习能力提升100%",
+                "en": "Physical ability +100%",
+                "tw": "物理學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2041": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "化学课代表",
+            "en": "Chemistry homework",
+            "tw": "化學課代表"
+        },
+        "DESC": {
+            "cn": "完成化学作业",
+            "en": "Finish Chemistry homework",
+            "tw": "完成化學作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4510",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "化学学习能力提升100%",
+                "en": "Chemistry ability +100%",
+                "tw": "化學學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2042": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "生物课代表",
+            "en": "Biological homework",
+            "tw": "生物課代表"
+        },
+        "DESC": {
+            "cn": "完成生物作业",
+            "en": "Finish Biological homework",
+            "tw": "完成生物作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4511",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "生物学习能力提升100%",
+                "en": "Biological ability +100%",
+                "tw": "生物學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2043": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "政治课代表",
+            "en": "Politics homework",
+            "tw": "政治課代表"
+        },
+        "DESC": {
+            "cn": "完成政治作业",
+            "en": "Finish Politics homework",
+            "tw": "完成政治作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4512",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "政治学习能力提升100%",
+                "en": "Politics ability +100%",
+                "tw": "政治學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2044": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "历史课代表",
+            "en": "Historical homework",
+            "tw": "歷史課代表"
+        },
+        "DESC": {
+            "cn": "完成历史作业",
+            "en": "Finish Historical homework",
+            "tw": "完成歷史作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4513",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "历史学习能力提升100%",
+                "en": "Historical ability +100%",
+                "tw": "歷史學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2045": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "地理课代表",
+            "en": "Geography homework",
+            "tw": "地理課代表"
+        },
+        "DESC": {
+            "cn": "完成地理作业",
+            "en": "Finish Geography homework",
+            "tw": "完成地理作業"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4514",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 2,
+            "item": "4113#4113_1#4128#4130",
+            "value": [
+                0
+            ],
+            "desc": {
+                "cn": "地理学习能力提升100%",
+                "en": "Geography ability +100%",
+                "tw": "地理學習能力提升100%"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2046": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "开学啦！",
+            "en": "Nwe Semester",
+            "tw": "開學啦！"
+        },
+        "DESC": {
+            "cn": "完成所有作业",
+            "en": "Finish all homework",
+            "tw": "完成所有作業"
+        },
+        "DEMAND": {
+            "type": 12,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4068,
+            "value": [
+                1
+            ],
+            "desc": {
+                "cn": "开局附赠{0}个仙豆",
+                "en": "Get {0} Arrows when a match starts",
+                "tw": "開局附贈{0}個仙豆"
+            }
+        },
+        "POINT": [
+            10
+        ],
+        "COINPOINT": [
+            100
+        ]
+    },
+    "2047": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "百毒不侵",
+            "en": "All Poisons do not Invade",
+            "tw": "百毒不侵"
+        },
+        "DESC": {
+            "cn": "累计服用{0}个避毒丸",
+            "en": "Cumulative take {0} pills",
+            "tw": "累計服用{0}個避毒丸"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4434",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2048": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "九阳神功",
+            "en": "Nine Men's Power",
+            "tw": "九陽神功"
+        },
+        "DESC": {
+            "cn": "累计服用{0}个暖身丸",
+            "en": "Cumulative take {0} warm-up pills",
+            "tw": "累計服用{0}個暖身丸"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4435",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2049": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "肉体改造",
+            "en": "Bodily Remodeling",
+            "tw": "肉體改造"
+        },
+        "DESC": {
+            "cn": "累计服用{0}个强身丸",
+            "en": "Cumulative take {0} Body-sturdy Pill",
+            "tw": "累計服用{0}個強身丸"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4436",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2050": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "蝶弹爆击",
+            "en": "Butterfly Bomb Explosion",
+            "tw": "蝶彈爆擊"
+        },
+        "DESC": {
+            "cn": "累计服用{0}个军粮丸",
+            "en": "Cumulative take {0} Military Grain Pill",
+            "tw": "累計服用{0}個軍糧丸"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4437",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2051": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "艾基特林",
+            "en": "Ekittlin",
+            "tw": "艾基特林"
+        },
+        "DESC": {
+            "cn": "累计从瘤块中提取{0}份毒液",
+            "en": "Cumulative extraction of {0} parts of venom from tumors",
+            "tw": "累計從瘤塊中提取{0}份毒液"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4072",
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "2052": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "暴雨梨花",
+            "en": "Needle box",
+            "tw": "暴雨梨花"
+        },
+        "DESC": {
+            "cn": "累计制作出{0}支麻痹针",
+            "en": "Make a total of {0} paralysis needles",
+            "tw": "累計制作出{0}支麻痹針"
+        },
+        "DEMAND": {
+            "type": 2,
+            "item": "4147",
+            "value": [
+                99
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },    
+    "3001": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "好奇宝宝",
+            "en": "Curious Baby",
+            "tw": "好奇寶寶"
+        },
+        "DESC": {
+            "cn": "累计探索{0}个隐藏关卡",
+            "en": "Explore {0} secret stages",
+            "tw": "累計探索{0}個隱藏關卡"
+        },
+        "DEMAND": {
+            "type": 1,
+            "value": [
+                2,
+                5,
+                50
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4107,
+            "value": [
+                10,
+                20,
+                50
+            ],
+            "desc": {
+                "cn": "开局附赠{0}个箭矢",
+                "en": "Get {0} Arrows when a match starts",
+                "tw": "開局附贈{0}個箭矢"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3002": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "潜在路痴",
+            "en": "Maybe Zoro",
+            "tw": "潛在路癡"
+        },
+        "DESC": {
+            "cn": "累计{0}次迷失方向",
+            "en": "Get lost {0} times",
+            "tw": "累計{0}次迷失方向"
+        },
+        "DEMAND": {
+            "type": 2,
+            "value": [
+                5,
+                50,
+                100
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4114,
+            "value": [
+                1,
+                2,
+                3
+            ],
+            "desc": {
+                "cn": "开局附赠{0}个火把",
+                "en": "Get {0} Torches when a match starts",
+                "tw": "開局附贈{0}個火把"
+            }
+        },
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3003": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "急支糖浆",
+            "en": "Bestial Assault",
+            "tw": "急支糖漿"
+        },
+        "DESC": {
+            "cn": "累计{0}次在路途上遭遇野兽袭击",
+            "en": "Encounter {0} beast attacks along your journey",
+            "tw": "累計{0}次在路途上遭遇野獸襲擊"
+        },
+        "DEMAND": {
+            "type": 3,
+            "value": [
+                10,
+                100,
+                300
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3005": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "被杀名单",
+            "en": "Nekrologji",
+            "tw": "被殺名單"
+        },
+        "DESC": {
+            "cn": "累计解锁{0}幅生物图鉴",
+            "en": "Unlock a total of {0} organism codices",
+            "tw": "累計解鎖{0}幅生物圖鑒"
+        },
+        "DEMAND": {
+            "type": 5,
+            "value": [
+                25,
+                50,
+                71
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3006": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "天工开物",
+            "en": "Artifact Prints",
+            "tw": "天工開物"
+        },
+        "DESC": {
+            "cn": "累计解锁{0}幅物品图鉴",
+            "en": "Unlock a total of {0} item codices",
+            "tw": "累計解鎖{0}幅物品圖鑒"
+        },
+        "DEMAND": {
+            "type": 6,
+            "value": [
+                30,
+                55,
+                82
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3007": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "海洋之心",
+            "en": "Heart of the Sea",
+            "tw": "海洋之心"
+        },
+        "DESC": {
+            "cn": "累计解锁{0}幅鱼类图鉴",
+            "en": "Unlock a total of {0} fish codices",
+            "tw": "累計解鎖{0}幅魚類圖鑒"
+        },
+        "DEMAND": {
+            "type": 7,
+            "value": [
+                10,
+                20,
+                30
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3008": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "泰坦尼克",
+            "en": "Titanic",
+            "tw": "泰坦尼克"
+        },
+        "DESC": {
+            "cn": "沉船完成{0}层",
+            "en": "Complete {0} levels in the Sunken Ship",
+            "tw": "沉船完成{0}層"
+        },
+        "DEMAND": {
+            "type": 8,
+            "value": [
+                12,
+                32,
+                60
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3009": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "死亡笔记",
+            "en": "Death Note",
+            "tw": "死亡筆記"
+        },
+        "DESC": {
+            "cn": "单局写下{0}篇心情笔记",
+            "en": "Write in {0} pages of your journal in a single round",
+            "tw": "單局寫下{0}篇心情筆記"
+        },
+        "DEMAND": {
+            "type": 9,
+            "value": [
+                15,
+                40,
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3010": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "逃生大师",
+            "en": "Escape Artist",
+            "tw": "逃生大師"
+        },
+        "DESC": {
+            "cn": "累计逃出{0}次",
+            "en": "Escape {0} times",
+            "tw": "累計逃出{0}次"
+        },
+        "DEMAND": {
+            "type": 10,
+            "value": [
+                1,
+                3,
+                5
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3011": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "多重人格",
+            "en": "Split Personality",
+            "tw": "多重人格"
+        },
+        "DESC": {
+            "cn": "累计解锁{0}个角色",
+            "en": "Unlock {0} characters",
+            "tw": "累計解鎖{0}個角色"
+        },
+        "DEMAND": {
+            "type": 11,
+            "value": [
+                1,
+                2,
+                3
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3012": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "多才多艺",
+            "en": "Jack-of-all-trades",
+            "tw": "多才多藝"
+        },
+        "DESC": {
+            "cn": "累计解锁{0}个天赋",
+            "en": "Unlock {0} talents",
+            "tw": "累計解鎖{0}個天賦"
+        },
+        "DEMAND": {
+            "type": 12,
+            "value": [
+                3,
+                10,
+                20
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3013": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "核心玩家",
+            "en": "Key Player",
+            "tw": "核心玩家"
+        },
+        "DESC": {
+            "cn": "累计获得{0}成就点数",
+            "en": "Get {0} achievement points",
+            "tw": "累計獲得{0}成就點數"
+        },
+        "DEMAND": {
+            "type": 13,
+            "value": [
+                50,
+                150,
+                300
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3014": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "罗兰的食谱",
+            "en": "Roland's Cookbook",
+            "tw": "羅蘭的食譜"
+        },
+        "DESC": {
+            "cn": "使用罗兰通关",
+            "en": "Use Roland to clear a stage",
+            "tw": "使用羅蘭通關"
+        },
+        "DEMAND": {
+            "type": 14,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "value": [
+                1
+            ],
+            "desc": {
+                "cn": "解锁图纸：荒野烤肉",
+                "en": "Unlock Wild Roast Meat recipe",
+                "tw": "解鎖圖紙：荒野烤肉"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3015": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "老贝的草裙",
+            "en": "Bain's Kilt",
+            "tw": "老貝的草裙"
+        },
+        "DESC": {
+            "cn": "使用老贝通关",
+            "en": "Use Bain to escape",
+            "tw": "使用老貝通關"
+        },
+        "DEMAND": {
+            "type": 15,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "value": [
+                1
+            ],
+            "desc": {
+                "cn": "解锁图纸：老贝的草裙",
+                "en": "Unlock Bain's Kilt design",
+                "tw": "解鎖圖紙：老貝的草裙"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3016": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "朱莉的长弓",
+            "en": "Julie's Longbow",
+            "tw": "朱莉的長弓"
+        },
+        "DESC": {
+            "cn": "使用朱莉通关",
+            "en": "Use Julie to escape",
+            "tw": "使用朱莉通關"
+        },
+        "DEMAND": {
+            "type": 16,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "value": [
+                1
+            ],
+            "desc": {
+                "cn": "解锁图纸：朱莉的长弓",
+                "en": "Unlock Julie's Longbow design",
+                "tw": "解鎖圖紙：朱莉的長弓"
+            }
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3017": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "未知领域",
+            "en": "Unknown Domain",
+            "tw": "未知領域"
+        },
+        "DESC": {
+            "cn": "集齐七个神秘圆球",
+            "en": "Collect 7 Mystery Orbs",
+            "tw": "集齊七個神秘圓球"
+        },
+        "DEMAND": {
+            "type": 17,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3018": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "小哥的手电",
+            "en": "Torchlight",
+            "tw": "小哥的手電"
+        },
+        "DESC": {
+            "cn": "使用野食小哥通关",
+            "en": "Use Yesman to escape",
+            "tw": "使用野食小哥通關"
+        },
+        "DEMAND": {
+            "type": 18,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4124,
+            "desc": {
+                "cn": "开局附赠{0}个小哥的手电",
+                "en": "Get {0} Torchlights when a match starts",
+                "tw": "開局附贈{0}個小哥的手電"
+            },
+            "value": [
+                1
+            ]
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3019": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "恶魔之语",
+            "en": "Devil's Tongue",
+            "tw": "惡魔之語"
+        },
+        "DESC": {
+            "cn": "累计发现{0}条遗言",
+            "en": "Discover {0} Tenets",
+            "tw": "累計發現{0}條遺言"
+        },
+        "DEMAND": {
+            "type": 19,
+            "value": [
+                30,
+                100,
+                500
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3020": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "天堂福音",
+            "en": "Heavenly Hymn",
+            "tw": "天堂福音"
+        },
+        "DESC": {
+            "cn": "累计发现{0}件遗物",
+            "en": "Discover {0} Relics",
+            "tw": "累計發現{0}件遺物"
+        },
+        "DEMAND": {
+            "type": 20,
+            "value": [
+                5,
+                20,
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3022": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "崖洞领域",
+            "en": "Cavern Carnival",
+            "tw": "崖洞領域"
+        },
+        "DESC": {
+            "cn": "累计进入崖洞{0}次",
+            "en": "Enter {0} Cliff Caves",
+            "tw": "累計進入崖洞{0}次"
+        },
+        "DEMAND": {
+            "type": 21,
+            "value": [
+                5,
+                20,
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3023": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "遗迹丽影",
+            "en": "Roaming Ruins",
+            "tw": "遺跡麗影"
+        },
+        "DESC": {
+            "cn": "累计进入遗迹{0}次",
+            "en": "Enter {0} Ruins",
+            "tw": "累計進入遺跡{0}次"
+        },
+        "DEMAND": {
+            "type": 22,
+            "value": [
+                5,
+                20,
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            1,
+            2,
+            3
+        ],
+        "COINPOINT": [
+            10,
+            20,
+            30
+        ]
+    },
+    "3024": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "洞魈巢穴",
+            "en": "Monster Mandrill",
+            "tw": "洞魈巢穴"
+        },
+        "DESC": {
+            "cn": "发现并击败洞魈",
+            "en": "Found and defeated Cave Mandrill",
+            "tw": "發現並擊敗洞魈"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1048,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3025": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "伪装艳后",
+            "en": "False Queens",
+            "tw": "偽裝艷後"
+        },
+        "DESC": {
+            "cn": "发现并击败蝙蝠王后",
+            "en": "Found and defeated Queen Bat",
+            "tw": "發現並擊敗蝙蝠王後"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1041,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3026": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "遗迹真王",
+            "en": "King of the Ruins",
+            "tw": "遺跡真王"
+        },
+        "DESC": {
+            "cn": "发现并击败吸血蝠王",
+            "en": "Found and defeated Giant Bat",
+            "tw": "發現並擊敗吸血蝠王"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1040,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3027": {
+        "TYPE": 3,
+        "HIDE": 0,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "创世记",
+            "en": "Genesis",
+            "tw": "創世記"
+        },
+        "DESC": {
+            "cn": "累计签到{0}天",
+            "en": "Sign in for {0} day(s)",
+            "tw": "累計簽到{0}天"
+        },
+        "DEMAND": {
+            "type": 23,
+            "value": [
+                2,
+                4,
+                7
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            8,
+            16,
+            32
+        ],
+        "COINPOINT": [
+            80,
+            160,
+            320
+        ],
+        "CHECKPOINT": [
+            4,
+            8,
+            18
+        ]
+    },
+    "3028": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "四级甲",
+            "en": "Vest IV ",
+            "tw": "四級甲"
+        },
+        "DESC": {
+            "cn": "获得图纸：改良平底锅",
+            "en": "Get Design：Improved pan",
+            "tw": "獲得圖紙：改良平底鍋"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1031": {
+                    "34": 1,
+                    "307": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3029": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "愚人勿视",
+            "en": "Fool can't see",
+            "tw": "愚人勿視"
+        },
+        "DESC": {
+            "cn": "获得图纸：某人的新衣",
+            "en": "Get Design：Sb.'s New Clothes",
+            "tw": "獲得圖紙：某人的新衣"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "35": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3030": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "贤狼赫萝",
+            "en": "Hyun Wolf Holo",
+            "tw": "賢狼赫蘿"
+        },
+        "DESC": {
+            "cn": "获得图纸：奇特香料",
+            "en": "Get Design：Peculiar Spice",
+            "tw": "獲得圖紙：奇特香料"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "36": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3031": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "石开麻石",
+            "en": "Greedy craft",
+            "tw": "石开麻石"
+        },
+        "DESC": {
+            "cn": "获得图纸：研磨器",
+            "en": "Get Design：Grinder",
+            "tw": "獲得圖紙：研磨器"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "37": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3032": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "伪物语",
+            "en": "Nisemonogatari",
+            "tw": "偽物語"
+        },
+        "DESC": {
+            "cn": "获得图纸：伪袖珍手枪",
+            "en": "Get Design：Fake Pocket Pistol",
+            "tw": "獲得圖紙：偽袖珍手槍"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "38": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3033": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "菊花绽放",
+            "en": "My Delicious！",
+            "tw": "菊花綻放"
+        },
+        "DESC": {
+            "cn": "获得图纸：小哥肉酱",
+            "en": "Get Design：Beef Paste",
+            "tw": "獲得圖紙：小哥肉醬"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "39": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3034": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "基德的罗盘",
+            "en": "Kidd's compass",
+            "tw": "基德的羅盤"
+        },
+        "DESC": {
+            "cn": "使用基德通关",
+            "en": "Use Kidd to escape",
+            "tw": "使用基德通關"
+        },
+        "DEMAND": {
+            "type": 25,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {
+            "type": 1,
+            "item": 4404,
+            "desc": {
+                "cn": "开局附赠基德的罗盘",
+                "en": "Get Kidd's compass when a match starts",
+                "tw": "開局附贈基德的羅盤"
+            },
+            "value": [
+                1
+            ]
+        },
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3035": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "千王之王",
+            "en": "The Shell Game",
+            "tw": "千王之王"
+        },
+        "DESC": {
+            "cn": "获得图纸：基德纸牌",
+            "en": "Get Design：Kidd's cards",
+            "tw": "獲得圖紙：基德紙牌"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "40": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3036": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "爱情坟墓",
+            "en": "Grave of love",
+            "tw": "愛情墳墓"
+        },
+        "DESC": {
+            "cn": "累计将{0}只酸臭的狼送进爱情坟墓",
+            "en": "Send {0} Estrus Wolfs into the grave of love",
+            "tw": "累計將{0}只酸臭的狼送進愛情墳墓"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1052,
+            "value": [
+                214
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3037": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "九阳护体",
+            "en": "Nine Man's Protector",
+            "tw": "九陽護體"
+        },
+        "DESC": {
+            "cn": "获得图纸：暖身丸",
+            "en": "Get Drawings: Warm-up Pills",
+            "tw": "獲得圖紙：暖身丸"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "42": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3038": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "灵能龙套",
+            "en": "Psychic Dragon Cover",
+            "tw": "靈能龍套"
+        },
+        "DESC": {
+            "cn": "获得图纸：强身丸",
+            "en": "Get Design：Body-sturdy Pill",
+            "tw": "獲得圖紙：強身丸"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "43": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3039": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "秘制食品",
+            "en": "Secret Food",
+            "tw": "秘制食品"
+        },
+        "DESC": {
+            "cn": "获得图纸：军粮丸",
+            "en": "Get Drawings: Military Food Pills",
+            "tw": "獲得圖紙：軍糧丸"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "44": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3040": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "荆棘软鞭",
+            "en": "Soft Whip of Thorns",
+            "tw": "荊棘軟鞭"
+        },
+        "DESC": {
+            "cn": "获得图纸：驯兽鞭",
+            "en": "Get Design：Domesticating Whip",
+            "tw": "獲得圖紙：馴獸鞭"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "45": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3041": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "印第安纳",
+            "en": "Indiana",
+            "tw": "印第安納"
+        },
+        "DESC": {
+            "cn": "获得图纸：吹箭",
+            "en": "Get Design：Blowpipe Dart",
+            "tw": "獲得圖紙：吹箭"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "46": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3042": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "五十一区",
+            "en": "SECTOR-51",
+            "tw": "五十一區"
+        },
+        "DESC": {
+            "cn": "成功伪装成五十一区研究员",
+            "en": "Successfully disguised as a SECTOR-51 researcher",
+            "tw": "成功偽裝成五十一區研究員"
+        },
+        "DEMAND": {
+            "type": 190718,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3043": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "兼爱非攻",
+            "en": "Love without attack",
+            "tw": "兼愛非攻"
+        },
+        "DESC": {
+            "cn": "获得图纸：机关剑",
+            "en": "Get Design：mechanical sword",
+            "tw": "獲得圖紙：機關劍"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "47": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3044": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "诸葛孔明",
+            "en": "Zhuge Kongming",
+            "tw": "諸葛孔明"
+        },
+        "DESC": {
+            "cn": "获得图纸：机关连弩",
+            "en": "Get Design：mechanical crossbow",
+            "tw": "獲得圖紙：機關連弩"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "48": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3045": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "NAME": {
+            "cn": "容老嬷嬷",
+            "en": "Mommy Rong",
+            "tw": "容老嬤嬤"
+        },
+        "DESC": {
+            "cn": "获得图纸：麻痹针",
+            "en": "Get Design：paralysis needle",
+            "tw": "獲得圖紙：麻痺針"
+        },
+        "DEMAND": {
+            "type": 24,
+            "COND": {
+                "1023": {
+                    "49": 1
+                }
+            },
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3046": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "万物之源",
+            "en": "Source of all things",
+            "tw": "萬物之源"
+        },
+        "DESC": {
+            "cn": "通过水中之船逃离",
+            "en": "Successfully disguised through a submarine",
+            "tw": "通過水中之船逃離"
+        },
+        "DEMAND": {
+            "type": 190827,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3047": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 0,
+        "NAME": {
+            "cn": "广而告之",
+            "en": "Ad achievement",
+            "tw": "廣而告之"
+        },
+        "DESC": {
+            "cn": "观看{0}次广告",
+            "en": "Watch ad {0} time",
+            "tw": "觀看{0}次廣告"
+        },
+        "DEMAND": {
+            "type": 0,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3048": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 0,
+        "NAME": {
+            "cn": "免费福利",
+            "en": "Free Benefits",
+            "tw": "免費福利"
+        },
+        "DESC": {
+            "cn": "观看{0}次广告",
+            "en": "Watch ad {0} times",
+            "tw": "觀看{0}次廣告"
+        },
+        "DEMAND": {
+            "type": 0,
+            "value": [
+                100
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3049": {
+        "TYPE": 3,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 0,
+        "NAME": {
+            "cn": "别停下来",
+            "en": "Do not STOP",
+            "tw": "別停下來"
+        },
+        "DESC": {
+            "cn": "观看{0}次广告",
+            "en": "Watch ad {0} times",
+            "tw": "觀看{0}次廣告"
+        },
+        "DEMAND": {
+            "type": 0,
+            "value": [
+                666
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3050": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "黑之卵",
+            "en": "Black Moon",
+            "tw": "黑之卵"
+        },
+        "DESC": {
+            "cn": "发现并击败多眼石像。",
+            "en": "Found and defeated Multi-eye stone statue",
+            "tw": "發現並擊敗蝙蝠王後"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1075,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3051": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "白之卵",
+            "en": "White Moon",
+            "tw": "白之卵"
+        },
+        "DESC": {
+            "cn": "发现并击败光之石像",
+            "en": "Found and defeated Bright stone statue",
+            "tw": "發現並擊敗蝙蝠王後"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1074,
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3052": {
+        "TYPE": 2,
+        "HIDE": 1,
+        "ONCE": 1,
+        "ISC": 1,
+        "NAME": {
+            "cn": "囫囵吞枣",
+            "en": "Swallow dates whole",
+            "tw": "囫圇吞棗"
+        },
+        "DESC": {
+            "cn": "单局食用{0}个拐杖糖",
+            "en": "Eat {0} honey in a candy cane",
+            "tw": "單局食用{0}個拐杖糖"
+        },
+        "DEMAND": {
+            "type": 6,
+            "item": "4444",
+            "value": [
+                1
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    },
+    "3053": {
+        "TYPE": 1,
+        "HIDE": 1,
+        "ONCE": 0,
+        "ISC": 1,
+        "NAME": {
+            "cn": "TLoU Ⅱ",
+            "en": "TLoU Ⅱ",
+            "tw": "TLoU Ⅱ"
+        },
+        "DESC": {
+            "cn": "累计击败{0}只变异猎狗",
+            "en": "Kill {0} Variant Hound",
+            "tw": "累計擊敗{0}只變異鬣狗"
+        },
+        "DEMAND": {
+            "type": 5,
+            "item": "-1",
+            "monster": 1069,
+            "value": [
+                66
+            ]
+        },
+        "EFFECT": {},
+        "POINT": [
+            3
+        ],
+        "COINPOINT": [
+            30
+        ]
+    }
+}

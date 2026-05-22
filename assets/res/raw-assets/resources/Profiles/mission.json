@@ -1,0 +1,1242 @@
+{
+    "952701": {
+        "ID": "952701", 
+        "NAME": {
+            "tw": "每日挑戰", 
+            "en": "Daily Challenge", 
+            "cn": "每日挑战"
+        }, 
+        "DESC": {
+            "tw": "在挑戰模式下，每天都會迎來嶄新的未知挑戰。十五個難度，十五份挑戰，十五份獎勵！", 
+            "en": "Every day, you will get new challenges. You can get rewards from each level!", 
+            "cn": "在挑战模式下，每天都会迎来崭新的未知挑战。十五个难度，十五份挑战，十五份奖励！"
+        }, 
+        "BANNER": {
+            "tw": "Texture/Locale/tw/Activities/a19", 
+            "en": "Texture/Locale/en/Activities/a19", 
+            "cn": "Texture/Locale/cn/Activities/a19"
+        }, 
+        "BANNER_SPRITE": {
+            "tw": "Texture/Locale/tw/Activities/Daily_Challenge", 
+            "en": "Texture/Locale/en/Activities/Daily_Challenge", 
+            "cn": "Texture/Locale/cn/Activities/Daily_Challenge"
+        }, 
+        "AUTORESET": "1", 
+        "ACTION": [
+            {
+                "AID": "952701001", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "生存{NUM}天", 
+                    "en": "Survival {NUM} Days", 
+                    "cn": "生存{NUM}天"
+                }, 
+                "FUNC": "t001", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701002", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "生存{NUM}天", 
+                    "en": "Survival {NUM} Days", 
+                    "cn": "生存{NUM}天"
+                }, 
+                "FUNC": "t001", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701003", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}把石斧", 
+                    "en": "Craft {NUM} Stone Axes", 
+                    "cn": "制作{NUM}把石斧"
+                }, 
+                "FUNC": "t002", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701004", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}把石斧", 
+                    "en": "Craft {NUM} Stone Axes", 
+                    "cn": "制作{NUM}把石斧"
+                }, 
+                "FUNC": "t002", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701005", 
+                "NUM": 2, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}把鋒利竹槍", 
+                    "en": "Craft {NUM} Sharp Bamboo Spears", 
+                    "cn": "制作{NUM}把锋利竹枪"
+                }, 
+                "FUNC": "t003", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701006", 
+                "NUM": 3, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}把鋒利竹槍", 
+                    "en": "Craft {NUM} Sharp Bamboo Spears", 
+                    "cn": "制作{NUM}把锋利竹枪"
+                }, 
+                "FUNC": "t003", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701007", 
+                "NUM": 2, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}把毒刃斧", 
+                    "en": "Craft {NUM} Poison Axes", 
+                    "cn": "制作{NUM}把毒刃斧"
+                }, 
+                "FUNC": "t004", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701008", 
+                "NUM": 3, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}把毒刃斧", 
+                    "en": "Craft {NUM} Poison Axes", 
+                    "cn": "制作{NUM}把毒刃斧"
+                }, 
+                "FUNC": "t004", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701009", 
+                "NUM": 15, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個繃帶", 
+                    "en": "Craft {NUM} Bandages", 
+                    "cn": "制作{NUM}个绷带"
+                }, 
+                "FUNC": "t005", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701010", 
+                "NUM": 25, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個繃帶", 
+                    "en": "Craft {NUM} Bandages", 
+                    "cn": "制作{NUM}个绷带"
+                }, 
+                "FUNC": "t005", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701011", 
+                "NUM": 5, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個青草膏", 
+                    "en": "Craft {NUM} Grass Creams", 
+                    "cn": "制作{NUM}个青草膏"
+                }, 
+                "FUNC": "t006", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701012", 
+                "NUM": 8, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個青草膏", 
+                    "en": "Craft {NUM} Grass Creams", 
+                    "cn": "制作{NUM}个青草膏"
+                }, 
+                "FUNC": "t006", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701013", 
+                "NUM": 5, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個女巫藥丸", 
+                    "en": "Craft {NUM} Witch's Pills", 
+                    "cn": "制作{NUM}个女巫药丸"
+                }, 
+                "FUNC": "t007", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701014", 
+                "NUM": 8, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個女巫藥丸", 
+                    "en": "Craft {NUM} Witch's Pills", 
+                    "cn": "制作{NUM}个女巫药丸"
+                }, 
+                "FUNC": "t007", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701015", 
+                "NUM": 15, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "烹飪{NUM}個烤肉", 
+                    "en": "Cook {NUM} Roast Meats", 
+                    "cn": "烹饪{NUM}个烤肉"
+                }, 
+                "FUNC": "t008", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701016", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "烹飪{NUM}個烤肉", 
+                    "en": "Cook {NUM} Roast Meats", 
+                    "cn": "烹饪{NUM}个烤肉"
+                }, 
+                "FUNC": "t008", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701017", 
+                "NUM": 5, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "烹飪{NUM}個鹹魚幹", 
+                    "en": "Cook {NUM} Salted Fishes", 
+                    "cn": "烹饪{NUM}个咸鱼干"
+                }, 
+                "FUNC": "t009", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701018", 
+                "NUM": 8, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "烹飪{NUM}個鹹魚幹", 
+                    "en": "Cook {NUM} Salted Fishes", 
+                    "cn": "烹饪{NUM}个咸鱼干"
+                }, 
+                "FUNC": "t009", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701019", 
+                "NUM": 2, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "烹飪{NUM}個獸血亂燉", 
+                    "en": "Cook {NUM} Assorted Animal Stews", 
+                    "cn": "烹饪{NUM}个兽血乱炖"
+                }, 
+                "FUNC": "t010", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701020", 
+                "NUM": 4, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "烹飪{NUM}個獸血亂燉", 
+                    "en": "Cook {NUM} Assorted Animal Stews", 
+                    "cn": "烹饪{NUM}个兽血乱炖"
+                }, 
+                "FUNC": "t010", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701021", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "釣魚{NUM}次", 
+                    "en": "Fishing {NUM} Times", 
+                    "cn": "钓鱼{NUM}次"
+                }, 
+                "FUNC": "t011", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701022", 
+                "NUM": 30, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "釣魚{NUM}次", 
+                    "en": "Fishing {NUM} Times", 
+                    "cn": "钓鱼{NUM}次"
+                }, 
+                "FUNC": "t011", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701023", 
+                "NUM": 5, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "利用陷阱收成獵物{NUM}次", 
+                    "en": "Get Prey From Trap {NUM} Times", 
+                    "cn": "利用陷阱收成猎物{NUM}次"
+                }, 
+                "FUNC": "t012", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701024", 
+                "NUM": 8, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "利用陷阱收成獵物{NUM}次", 
+                    "en": "Get Prey From Trap {NUM} Times", 
+                    "cn": "利用陷阱收成猎物{NUM}次"
+                }, 
+                "FUNC": "t012", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701025", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "損壞{NUM}把武器", 
+                    "en": "Break {NUM} Weapons", 
+                    "cn": "损坏{NUM}把武器"
+                }, 
+                "FUNC": "t013", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701026", 
+                "NUM": 2, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "損壞{NUM}把武器", 
+                    "en": "Break {NUM} Weapons", 
+                    "cn": "损坏{NUM}把武器"
+                }, 
+                "FUNC": "t013", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701027", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只狼", 
+                    "en": "Beat {NUM} Wolfs", 
+                    "cn": "击败{NUM}只狼"
+                }, 
+                "FUNC": "t014", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701028", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只狼", 
+                    "en": "Beat {NUM} Wolfs", 
+                    "cn": "击败{NUM}只狼"
+                }, 
+                "FUNC": "t014", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701029", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只熊", 
+                    "en": "Beat {NUM} Bears", 
+                    "cn": "击败{NUM}只熊"
+                }, 
+                "FUNC": "t015", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701030", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只熊", 
+                    "en": "Beat {NUM} Bears", 
+                    "cn": "击败{NUM}只熊"
+                }, 
+                "FUNC": "t015", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701031", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只野豬", 
+                    "en": "Beat {NUM} Wild Boars", 
+                    "cn": "击败{NUM}只野猪"
+                }, 
+                "FUNC": "t016", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701032", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只野豬", 
+                    "en": "Beat {NUM} Wild Boars", 
+                    "cn": "击败{NUM}只野猪"
+                }, 
+                "FUNC": "t016", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701033", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只蛇", 
+                    "en": "Beat {NUM} Snakes", 
+                    "cn": "击败{NUM}只蛇"
+                }, 
+                "FUNC": "t017", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701034", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只蛇", 
+                    "en": "Beat {NUM} Snakes", 
+                    "cn": "击败{NUM}只蛇"
+                }, 
+                "FUNC": "t017", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701035", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只生物", 
+                    "en": "Beat {NUM} Animals", 
+                    "cn": "击败{NUM}只生物"
+                }, 
+                "FUNC": "t018", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701036", 
+                "NUM": 40, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只生物", 
+                    "en": "Beat {NUM} Animals", 
+                    "cn": "击败{NUM}只生物"
+                }, 
+                "FUNC": "t018", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701037", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "發現{NUM}次遺物", 
+                    "en": "Find {NUM} Relics", 
+                    "cn": "发现{NUM}次遗物"
+                }, 
+                "FUNC": "t019", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701038", 
+                "NUM": 2, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "發現{NUM}次遺物", 
+                    "en": "Find {NUM} Relics", 
+                    "cn": "发现{NUM}次遗物"
+                }, 
+                "FUNC": "t019", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701039", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "進入崖洞{NUM}次", 
+                    "en": "Access Cliff Cave {NUM} Times", 
+                    "cn": "进入崖洞{NUM}次"
+                }, 
+                "FUNC": "t020", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 1
+            }, 
+            {
+                "AID": "952701040", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "進入神秘遺跡{NUM}次", 
+                    "en": "Access Mystery Ruins {NUM} Times", 
+                    "cn": "进入神秘遗迹{NUM}次"
+                }, 
+                "FUNC": "t021", 
+                "SCRIPT": "e_e:t;st_e:t;se_t:s", 
+                "WEIGHT": 1
+            }, 
+            {
+                "AID": "952701041", 
+                "NUM": 5, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個木耳湯", 
+                    "en": "Craft {NUM} Fungus Soup", 
+                    "cn": "制作{NUM}个木耳汤"
+                }, 
+                "FUNC": "t022", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701042", 
+                "NUM": 8, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "製作{NUM}個木耳湯", 
+                    "en": "Craft {NUM} Fungus Soup", 
+                    "cn": "制作{NUM}个木耳汤"
+                }, 
+                "FUNC": "t022", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701043", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}個機關敵人", 
+                    "en": "Beat {NUM} Robots", 
+                    "cn": "击败{NUM}个机关敌人"
+                }, 
+                "FUNC": "t023", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701044", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}個機關敵人", 
+                    "en": "Beat {NUM} Robots", 
+                    "cn": "击败{NUM}个机关敌人"
+                }, 
+                "FUNC": "t023", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701045", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只狐狸", 
+                    "en": "Beat {NUM} Fox", 
+                    "cn": "击败{NUM}只狐狸"
+                }, 
+                "FUNC": "t024", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701046", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只狐狸", 
+                    "en": "Beat {NUM} Fox", 
+                    "cn": "击败{NUM}只狐狸"
+                }, 
+                "FUNC": "t024", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }, 
+            {
+                "AID": "952701047", 
+                "NUM": 10, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只鼠", 
+                    "en": "Beat {NUM} Mouse", 
+                    "cn": "击败{NUM}只鼠"
+                }, 
+                "FUNC": "t025", 
+                "CURRENCY": "st_a:t;se_t:s", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952701048", 
+                "NUM": 20, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "擊敗{NUM}只鼠", 
+                    "en": "Beat {NUM} Mouse", 
+                    "cn": "击败{NUM}只鼠"
+                }, 
+                "FUNC": "t025", 
+                "SCRIPT": "e_m:t;st_m:t;se_t:s", 
+                "WEIGHT": 5
+            }
+        ]
+    }, 
+    "952702": {
+        "ID": "952702", 
+        "NAME": {
+            "tw": "每週挑戰", 
+            "en": "Weekly Challenge", 
+            "cn": "每周挑战"
+        }, 
+        "DESC": {
+            "tw": "你有一周的時間，來完成這份沉甸甸的任務，不畏艱難，逃離荒野，領取獎勵。北京時間每週一8點重置。", 
+            "en": "One week for you to finish these challenges, big rewards are waiting! Mission reset at GTM 0:00", 
+            "cn": "你有一周的时间，来完成这份沉甸甸的任务，不畏艰难，逃离荒野，领取奖励。北京时间每周一8点重置。"
+        }, 
+        "BANNER": {
+            "tw": "Texture/Locale/tw/Activities/a20", 
+            "en": "Texture/Locale/en/Activities/a20", 
+            "cn": "Texture/Locale/cn/Activities/a20"
+        }, 
+        "BANNER_SPRITE": {
+            "tw": "Texture/Locale/tw/Activities/Weekly_Challenge", 
+            "en": "Texture/Locale/en/Activities/Weekly_Challenge", 
+            "cn": "Texture/Locale/cn/Activities/Weekly_Challenge"
+        }, 
+        "AUTORESET": "1", 
+        "ACTION": [
+            {
+                "AID": "952702001", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "通關{NUM}次", 
+                    "en": "Use anyone to escape {NUM} Time", 
+                    "cn": "通关{NUM}次"
+                }, 
+                "FUNC": "w001", 
+                "SCRIPT": "e_se:t;st_t:p;se_t:p", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952702002", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "使用羅蘭通關{NUM}次", 
+                    "en": "Use Roland to escape {NUM} Time", 
+                    "cn": "使用罗兰通关{NUM}次"
+                }, 
+                "FUNC": "w002", 
+                "CURRENCY": "st_se:t;se_t:a", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952702003", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "使用朱莉通關{NUM}次", 
+                    "en": "Use Julie to escape {NUM} Time", 
+                    "cn": "使用朱莉通关{NUM}次"
+                }, 
+                "FUNC": "w003", 
+                "SCRIPT": "e_ae:t;st_t:r;se_t:r", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952702004", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "使用老貝通關{NUM}次", 
+                    "en": "Use Bain to escape {NUM} Time", 
+                    "cn": "使用老贝通关{NUM}次"
+                }, 
+                "FUNC": "w004", 
+                "CURRENCY": "st_se:t;se_t:a", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952702005", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "使用小哥通關{NUM}次", 
+                    "en": "Use Yesman to escape {NUM} Time", 
+                    "cn": "使用小哥通关{NUM}次"
+                }, 
+                "FUNC": "w005", 
+                "SCRIPT": "e_ae:t;st_t:r;se_t:r", 
+                "WEIGHT": 10
+            }, 
+            {
+                "AID": "952702006", 
+                "NUM": 1, 
+                "BTN_LABEL": {
+                    "tw": "領取", 
+                    "en": "Receive", 
+                    "cn": "领取"
+                }, 
+                "BTN_GETED_LABEL": {
+                    "tw": "已領取", 
+                    "en": "Received", 
+                    "cn": "已领取"
+                }, 
+                "TITLE": {
+                    "tw": "使用基德通關{NUM}次", 
+                    "en": "Use Kidd to escape {NUM} Time", 
+                    "cn": "使用基德通关{NUM}次"
+                }, 
+                "FUNC": "w006", 
+                "CURRENCY": "st_se:t;se_t:a", 
+                "WEIGHT": 10
+            }
+        ]
+    }
+}

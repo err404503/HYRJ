@@ -1,0 +1,704 @@
+{
+    "0": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "测试",
+            "en": "Test",
+            "tw": "測試"
+        },
+        "PIC": "Texture/Monster/1001",
+        "MONSTER": [
+            1035,
+            1035,
+            1035,
+            1035
+        ],
+        "DANGER": "?",
+        "DESC": {
+            "cn": "强度测试",
+            "en": "Stress Test",
+            "tw": "強度測試"
+        },
+        "DROP_ID": 0
+    },
+    "100": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "你不慎被树枝绊倒，损失5点生命值，加重5点外伤值",
+            "en": "You've tripped on a branch. Lost 5 HP. 5 Wound caused",
+            "tw": "你不慎被樹枝絆倒，損失5點生命值，加重5點外傷值"
+        },
+        "ATTR": {
+            "7003": -5,
+            "7004": -5
+        }
+    },
+    "101": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "穿过石林的时候你被石头划伤，损失10点生命值，加重5点外伤值",
+            "en": "You've been cut by stones while traversing the Stony Forest. Lost 10 HP. 5 Wound caused",
+            "tw": "穿過石林的時候你被石頭劃傷，損失10點生命值，加重5點外傷值"
+        },
+        "ATTR": {
+            "7003": -10,
+            "7004": -5
+        }
+    },
+    "102": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "你被灌木上的尖刺扎伤，损失5点生命值，加重5点外伤值",
+            "en": "You've been pierced by thorns rummaging through a thicket. Lost 5 HP. 5 Wound caused",
+            "tw": "你被灌木上的尖刺紮傷，損失5點生命值，加重5點外傷值"
+        },
+        "ATTR": {
+            "7003": -5,
+            "7004": -5
+        }
+    },
+    "105": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "你不慎踩到湿滑的石头，不慎跌倒，损失10点生命值，加重5点外伤值",
+            "en": "You've slipped on a wet stone. Lost 10 HP. 5 Wound caused",
+            "tw": "你不慎踩到濕滑的石頭，不慎跌倒，損失10點生命值，加重5點外傷值"
+        },
+        "ATTR": {
+            "7003": -10,
+            "7004": -5
+        }
+    },
+    "106": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "你被断掉的竹子划伤，损失10点生命值，加重5点外伤值",
+            "en": "You've been cut by a broken bamboo. Lost 10 HP. 5 Wound caused",
+            "tw": "你被斷掉的竹子劃傷，損失10點生命值，加重5點外傷值"
+        },
+        "ATTR": {
+            "7003": -10,
+            "7004": -5
+        }
+    },
+    "108": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "地上有个深坑，你没留意栽了下去，损失15点生命值，加重15点外伤值",
+            "en": "You fell into a pit in the ground. Lost 15 HP. 15 Wound caused",
+            "tw": "地上有個深坑，你沒留意栽了下去，損失15點生命值，加重15點外傷值"
+        },
+        "ATTR": {
+            "7003": -15,
+            "7004": -15
+        }
+    },
+    "113": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外受伤",
+            "en": "Accidental Injury",
+            "tw": "意外受傷"
+        },
+        "DESC": {
+            "cn": "爬山的时候你脚下一滑，还好迅速稳住了自己，但依旧损失10点生命值，加重10点外伤值",
+            "en": "You lost your grip while climbing a mountain. While you managed to catch yourself in time, you still suffered some wounds. Lost 10 HP. 10 Wound caused",
+            "tw": "爬山的時候你腳下一滑，還好迅速穩住了自己，但依舊損失10點生命值，加重10點外傷值"
+        },
+        "ATTR": {
+            "7003": -10,
+            "7004": -10
+        }
+    },
+    "114": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外惊喜",
+            "en": "Surprise！",
+            "tw": "意外驚喜"
+        },
+        "DESC": {
+            "cn": "你好像被什么东西撞到了，仔细一看是一只毛球，手里还攥着一个红包！",
+            "en": "You seem to have been hit by something.Wow!It is a Venonat with a Red Packet in its hand!",
+            "tw": "你好像被什麽東西撞到了，仔細一看是一只毛球，手裏還攥著一個紅包！"
+        },
+        "ATTR": {
+            "7003": 1,
+            "7004": 1
+        },
+        "COND": {
+            "1036" : [1612828800, 1613692800]
+        },        
+        "ITEMS": {
+            "4405": 1
+        }
+    }, 
+    "115": {
+        "TYPE": "1",
+        "TITLE": {
+            "cn": "意外惊喜",
+            "en": "Surprise！",
+            "tw": "意外驚喜"
+        },
+        "DESC": {
+            "cn": "你发现路边有些什么，仔细一看是新鲜的艾草！真是好运气！",
+            "en": "You find something side the road，it's Fresh Wormwood!What a good fortune! ",
+            "tw": "你發現路邊有些什麽，仔細一看是新鮮的艾草！真是好運氣！"
+        },
+        "ATTR": {
+            "7003": 1,
+            "7004": 1
+        },
+        "COND": {
+            "1036" : [1554393600, 1555113600]
+        },         
+        "ITEMS": {
+            "4408": 1
+        }
+    },       
+    "200": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼",
+            "en": "Wolf",
+            "tw": "狼"
+        },
+        "PIC": "Texture/Monster/1001",
+        "MONSTER": [
+            1002
+        ],
+        "DANGER": "2",
+        "DESC": {
+            "cn": "你在路途中遭遇到了一头狼",
+            "en": "You encounter a wolf on your way",
+            "tw": "你在路途中遭遇到了一頭狼"
+        },
+        "DROP_ID": 2
+    },
+    "202": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "野猪",
+            "en": "Wild Boar",
+            "tw": "野豬"
+        },
+        "PIC": "Texture/Monster/1009",
+        "MONSTER": [
+            1009
+        ],
+        "DANGER": "2",
+        "DESC": {
+            "cn": "你走到一半，发现了一头野猪正看着你",
+            "en": "You get to half way and find a wild boar looking at you",
+            "tw": "你走到一半，發現了一頭野豬正看著你"
+        },
+        "DROP_ID": 2
+    },
+    "207": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "蛇",
+            "en": "Snake",
+            "tw": "蛇"
+        },
+        "PIC": "Texture/Monster/1021",
+        "MONSTER": [
+            1021
+        ],
+        "DANGER": "2",
+        "DESC": {
+            "cn": "你听到了什么动静，仔细一看是一条蛇",
+            "en": "You hear some movement and after looking closely, you see a snake",
+            "tw": "你聽到了什麽動靜，仔細一看是一條蛇"
+        },
+        "DROP_ID": 2
+    },
+    "208": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "熊",
+            "en": "Bear",
+            "tw": "熊"
+        },
+        "PIC": "Texture/Monster/1016",
+        "MONSTER": [
+            1014
+        ],
+        "DANGER": "3",
+        "DESC": {
+            "cn": "你走到一半，发现了一头熊正看着你",
+            "en": "You get to half way and find a bear looking at you",
+            "tw": "你走到一半，發現了一頭熊正看著你"
+        },
+        "DROP_ID": 2
+    },
+    "209": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "食人鱼",
+            "en": "Piranha",
+            "tw": "食人魚"
+        },
+        "PIC": "Texture/Monster/1012",
+        "MONSTER": [
+            1012
+        ],
+        "DANGER": "3",
+        "DESC": {
+            "cn": "你觉得有什么东西跟着你，回头一看是一条食人鱼",
+            "en": "You feel something following you and as you turn around to look, you see a piranha",
+            "tw": "你覺得有什麽東西跟著你，回頭一看是一條食人魚"
+        },
+        "DROP_ID": 2
+    },
+    "210": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "猛虎",
+            "en": "Fierce Tiger",
+            "tw": "猛虎"
+        },
+        "PIC": "Texture/Monster/1025",
+        "MONSTER": [
+            1025
+        ],
+        "DANGER": "4",
+        "DESC": {
+            "cn": "你在野外听到了一声嘶吼，随声而来一头猛虎",
+            "en": "You hear a roar in the wild followed by the arrival of a fierce tiger",
+            "tw": "你在野外聽到了一聲嘶吼，隨聲而來一頭猛虎"
+        },
+        "DROP_ID": 2
+    },
+    "214": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "蛇",
+            "en": "Snake",
+            "tw": "蛇"
+        },
+        "PIC": "Texture/Monster/1022",
+        "MONSTER": [
+            1022
+        ],
+        "DANGER": "3",
+        "DESC": {
+            "cn": "你听到了什么动静，仔细一看是一条蛇",
+            "en": "You hear some movement and after looking closely, you see a snake",
+            "tw": "你聽到了什麽動靜，仔細一看是一條蛇"
+        },
+        "DROP_ID": 2
+    },
+    "217": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼",
+            "en": "Wolf",
+            "tw": "狼"
+        },
+        "PIC": "Texture/Monster/1006",
+        "MONSTER": [
+            1006
+        ],
+        "DANGER": "4",
+        "DESC": {
+            "cn": "你在路途中遭遇到了一头狼",
+            "en": "You encounter a wolf on your way",
+            "tw": "你在路途中遭遇到了一頭狼"
+        },
+        "DROP_ID": 2
+    },
+    "219": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "食人族",
+            "en": "Cannibal Tribe",
+            "tw": "食人族"
+        },
+        "PIC": "Texture/Monster/1028",
+        "MONSTER": [
+            1028
+        ],
+        "DANGER": "5",
+        "DESC": {
+            "cn": "你遭遇了食人族，他舔了舔嘴唇",
+            "en": "You encounter cannibal tribe. He licked his lips",
+            "tw": "你遭遇了食人族，他舔了舔嘴唇"
+        },
+        "DROP_ID": 0
+    },
+    "221": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "鲨鱼",
+            "en": "Shark",
+            "tw": "鯊魚"
+        },
+        "PIC": "Texture/Monster/1031",
+        "MONSTER": [
+            1031
+        ],
+        "DANGER": "3",
+        "DESC": {
+            "cn": "弥散到海水中的血液味道引来了一群鲨鱼",
+            "en": "The smell of blood in the ocean attracted a whole school of sharks",
+            "tw": "彌散到海水中的血液味道引來了一群鯊魚"
+        },
+        "DROP_ID": 2
+    },
+    "222": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "奇怪的蝙蝠",
+            "en": "Strange bats",
+            "tw": "奇怪的蝙蝠"
+        },
+        "PIC": "Texture/Monster/1049",
+        "MONSTER": [
+            1049
+        ],
+        "DANGER": "2",
+        "DESC": {
+            "cn": "你在路途中遭遇到了一只奇怪的蝙蝠",
+            "en": "A strange bat was on your way",
+            "tw": "你在路途中遭遇到了一隻奇怪的蝙蝠"
+        },
+        "COND": {
+            "1036" : [1604102400, 1604707200]
+        },
+        "DROP_ID": 104
+    },  
+    "223": {
+        "TYPE": "2", 
+        "NAME": {
+            "cn": "迷失的火鸡",
+            "en": "Missing turkey",
+            "tw": "迷失的火雞"
+        },
+        "PIC": "Texture/Monster/1050", 
+        "MONSTER": [
+            1050
+        ], 
+        "DANGER": "2", 
+        "DESC": {
+            "cn": "你在路途中遭遇到了一只迷失的火鸡",
+            "en": "You encounter a missing turkey on your way",
+            "tw": "你在路途中遭遇到了一只迷失的火雞"
+        },
+        "COND": {
+            "1036" : [1606262400, 1606953600]
+        },        
+        "DROP_ID": 105
+    }, 
+    "224": {
+        "TYPE": "2", 
+        "NAME": {
+            "cn": "酸臭的狼",
+            "en": "Estrus Wolf",
+            "tw": "酸臭的狼"
+        },
+        "PIC": "Texture/Monster/1052", 
+        "MONSTER": [
+            1052,1052
+        ], 
+        "DANGER": "2", 
+        "DESC": {
+            "cn": "你在路途中遭遇到了两只酸臭的狼",
+            "en": "You encounter two Estrus Wolfs on your way",
+            "tw": "你在路途中遭遇到了兩只酸臭的狼"
+        },
+        "DROP_ID": 2
+    },    
+    "301": {
+        "TYPE": "3",
+        "NAME": {
+            "cn": "鲨鱼",
+            "en": "Shark",
+            "tw": "鯊魚"
+        },
+        "PIC": "Texture/Monster/1031",
+        "MONSTER": [
+            1031,
+            1031,
+            1031
+        ],
+        "DANGER": "? ",
+        "DESC": {
+            "cn": "你在沉船中停留，弥散到海水中的血液味道引来了一群鲨鱼围攻，看来还是背水一战吧",
+            "en": "You are resting in the sunken ship and the smell of blood has attracted a whole school of sharks. Looks like a fight is inevitable",
+            "tw": "你在沉船中停留，彌散到海水中的血液味道引來了一群鯊魚圍攻，看來還是背水一戰吧"
+        },
+        "DROP_ID": 2
+    },
+    "302": {
+        "TYPE": "3",
+        "NAME": {
+            "cn": "鲨鱼",
+            "en": "Shark",
+            "tw": "鯊魚"
+        },
+        "PIC": "Texture/Monster/1031",
+        "MONSTER": [
+            1031,
+            1031,
+            1031
+        ],
+        "DANGER": "? ",
+        "DESC": {
+            "cn": "你在沉船中停留，弥散到海水中的血液味道引来了一群鲨鱼围攻，看来还是背水一战吧",
+            "en": "You are resting in the sunken ship and the smell of blood has attracted a whole school of sharks. Looks like a fight is inevitable",
+            "tw": "你在沉船中停留，彌散到海水中的血液味道引來了一群鯊魚圍攻，看來還是背水一戰吧"
+        },
+        "DROP_ID": 2
+    },
+    "303": {
+        "TYPE": "3",
+        "NAME": {
+            "cn": "鲨鱼",
+            "en": "Shark",
+            "tw": "鯊魚"
+        },
+        "PIC": "Texture/Monster/1031",
+        "MONSTER": [
+            1031,
+            1031,
+            1031
+        ],
+        "DANGER": "? ",
+        "DESC": {
+            "cn": "你在沉船中停留，弥散到海水中的血液味道引来了一群鲨鱼围攻，看来还是背水一战吧",
+            "en": "You are resting in the sunken ship and the smell of blood has attracted a whole school of sharks. Looks like a fight is inevitable",
+            "tw": "你在沉船中停留，彌散到海水中的血液味道引來了一群鯊魚圍攻，看來還是背水一戰吧"
+        },
+        "DROP_ID": 2
+    },
+    "401": {
+        "TYPE": "4",
+        "MAZE": "1"
+    },
+    "402": {
+        "TYPE": "4",
+        "MAZE": "2"
+    },
+    "403": {
+        "TYPE": "4",
+        "MAZE": "3"
+    },
+    "404": {
+        "TYPE": "4",
+        "MAZE": "4"
+    },
+    "405": {
+        "TYPE": "4",
+        "MAZE": "5"
+    },
+    "406": {
+        "TYPE": "4",
+        "MAZE": "6"
+    },
+    "407": {
+        "TYPE": "4",
+        "MAZE": "7"
+    },
+    "408": {
+        "TYPE": "4",
+        "MAZE": "8"
+    },
+    "409": {
+        "TYPE": "4",
+        "MAZE": "9"
+    },
+    "501": {
+        "TYPE": "5"
+    },
+    "200_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1001",
+        "MONSTER": [
+            1001,
+            1002
+        ],
+        "DANGER": "3",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "202_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1001",
+        "MONSTER": [
+            1001,
+            1002
+        ],
+        "DANGER": "3",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "207_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1002",
+        "MONSTER": [
+            1002,
+            1002
+        ],
+        "DANGER": "4",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "208_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1002",
+        "MONSTER": [
+            1002,
+            1002
+        ],
+        "DANGER": "4",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "210_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1003",
+        "MONSTER": [
+            1002,
+            1003
+        ],
+        "DANGER": "6",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "214_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1003",
+        "MONSTER": [
+            1002,
+            1003
+        ],
+        "DANGER": "6",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "217_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1003",
+        "MONSTER": [
+            1002,
+            1003
+        ],
+        "DANGER": "6",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    },
+    "219_r": {
+        "TYPE": "2",
+        "NAME": {
+            "cn": "狼群",
+            "en": "Wolf Pack",
+            "tw": "狼群"
+        },
+        "PIC": "Texture/Monster/1003",
+        "MONSTER": [
+            1002,
+            1003
+        ],
+        "DANGER": "6",
+        "DESC": {
+            "cn": "遗物被几只狼守护着",
+            "en": "The remains is surrounded by some wolves",
+            "tw": "遺物被幾只狼守護著"
+        },
+        "DROP_ID": 2
+    }
+}

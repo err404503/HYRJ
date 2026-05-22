@@ -1,0 +1,65 @@
+{
+    "2": {
+        "LOG": {
+            "cn": "又是劳累的一天，快到家时就听见了{name}的叫声，{name}居然带回来了{item}，真是好孩子！",
+            "en": "Another tiresome day. The sound of {name} could be heard as you neared your home. {name} actually brought back {item}, such a good boy!",
+            "tw": "又是勞累的一天，快到家時就聽見了{name}的叫聲，{name}居然帶回來了{item}，真是好孩子！"
+        }
+    },
+    "3": {
+        "LOG": {
+            "cn": "我和{name}的关系越来越好了，真希望能一直这样下去！",
+            "en": "My relationship with {name} is getting better day by day, I hope this could continue forever!",
+            "tw": "我和{name}的關系越來越好了，真希望能一直這樣下去！"
+        }
+    },
+    "4": {
+        "LOG": {
+            "cn": "{name}很喜欢和我嬉戏，每次嬉戏都让我们变得更加亲密。",
+            "en": "{name} loves to play and cuddle with me and every time we become more closely bonded.",
+            "tw": "{name}很喜歡和我嬉戲，每次嬉戲都讓我們變得更加親密。"
+        }
+    },
+    "5": {
+        "LOG": {
+            "cn": "{name}真是吃的越来越多了，我们也越来越亲密。茁壮成长吧！我的{name}！",
+            "en": "{name} is eating more and more, we are also becoming closer. Grow into a strong, my {name}!",
+            "tw": "{name}真是吃的越來越多了，我們也越來越親密。茁壯成長吧！我的{name}！"
+        }
+    },
+    "1_1": {
+        "LOG": {
+            "cn": "正当你打算离开乱石林，突然听到了一声叫声。\n这叫声听着稚嫩，有带着些无助。\n你循着声音来到一堆乱石边上，居然发现了一只尚在窝中的幼鸟。\n什么鸟居然把巢建在了乱石堆里？\n走近一看发现鸟巢已经有点破损，小家伙似乎受了点伤，看来鸟巢是跌落到乱石堆中。\n小家伙看到你没有害怕，反而长大了嘴巴向你叫着，该不会是把你当做了妈妈？\n你觉得这小家伙与你甚是有缘，或许可以带回家养起来，在这孤独的荒野之上，也能平添不少生意。\n取名为{name}。",
+            "en": "Just when you were about to leave the Stony Forest, you suddenly hear a scream. \nThe scream was very innocent yet helpless. \nYou follow the scream and come to a pile of stones and discover a newborn chick in its nest. \nThe chick was not afraid at all and with its beak open started calling to you maybe mistaking you for its mother. \nYou think it's no coincidence that you bumped into it and thought it might be a good idea to take it with you and nurture its growth. This is a good idea to add some life in this barren land. \nyou name it (name).",
+            "tw": "正當你打算離開亂石林，突然聽到了一聲叫聲。\n這叫聲聽著稚嫩，有帶著些無助。\n你循著聲音來到一堆亂石邊上，居然發現了一只尚在窩中的幼鳥。\n什麽鳥居然把巢建在了亂石堆裏？\n走近一看發現鳥巢已經有點破損，小家夥似乎受了點傷，看來鳥巢是跌落到亂石堆中。\n小家夥看到你沒有害怕，反而長大了嘴巴向你叫著，該不會是把你當做了媽媽？\n你覺得這小家夥與你甚是有緣，或許可以帶回家養起來，在這孤獨的荒野之上，也能平添不少生意。\n取名為{name}。"
+        }
+    },
+    "1_2": {
+        "LOG": {
+            "cn": "{name}这些天似乎长势不错，你每天给它喂些烤肉，小家伙的伤口已经渐渐痊愈。\n真是个顽强的小家伙啊，自己也要在荒野上顽强的活下去！",
+            "en": "{name} is healing nicely, you feed him roast meat every day and his wound is closing up nicely. \nHe is so strong willed and you also need to be more strong willed and survive this wilderness!",
+            "tw": "{name}這些天似乎長勢不錯，你每天給它餵些烤肉，小家夥的傷口已經漸漸痊愈。\n真是個頑強的小家夥啊，自己也要在荒野上頑強的活下去！"
+        }
+    },
+    "1_3": {
+        "LOG": {
+            "cn": "{name}最近一直在扑腾着翅膀，似乎已经学会了飞行。\n不愧是你养的鸟，真是只聪明的鸟！\n今天你出门时{name}居然也跟了上来。\n{name}越飞越高，在你头顶盘旋了几圈后，飞向了森林。\n你看着{name}逐渐远去的身影。\n也许，{name}更向往自由。",
+            "en": "(Name) has been flapping his wings a lot lately, maybe he has learnt how to fly. \nYou have brought up a very intelligent bird! \n(name) even followed you when you went outside today. \n(name) is flying higher and higher, circled the sky above you a few times and flew towards the forest. \nYou watch the body of (name) getting farther and farther. \nMaybe (name) wants freedom more.",
+            "tw": "{name}最近一直在撲騰著翅膀，似乎已經學會了飛行。\n不愧是你養的鳥，真是只聰明的鳥！\n今天你出門時{name}居然也跟了上來。\n{name}越飛越高，在你頭頂盤旋了幾圈後，飛向了森林。\n你看著{name}逐漸遠去的身影。\n也許，{name}更向往自由。"
+        }
+    },
+    "1_4": {
+        "LOG": {
+            "cn": "你回到家中，突然听到了熟悉的声音。\n天呐，是{name}！\n{name}带着些食物，原来这些天它去为你找吃的了！\n哈哈，{name}真棒！",
+            "en": "You come home and heard a familiar noise. \nOh my god! It's (name)! \n(name) has even brought back food. You discover that he has been out these past few days collecting food for you. \nHaha (name) is the best.",
+            "tw": "你回到家中，突然聽到了熟悉的聲音。\n天吶，是{name}！\n{name}帶著些食物，原來這些天它去為你找吃的了！\n哈哈，{name}真棒！"
+        }
+    },
+    "1_5": {
+        "LOG": {
+            "cn": "你听到空中传来一声长啸，抬头一看居然是一只金雕！\n该死，这金雕笔直向你冲了过来！\n金雕没有向你发起攻击，而是停在了你的臂上。\n你尝试着触摸金雕，金雕表现出亲昵的样子。\n也许可以在这孤独的荒野做个伴也说不定呢？你思索着，决定将金雕带回家，并取名为{name}。",
+            "en": "You hear a cry in the air and raise your glance into the sky to find a golden eagle! \nDamn, the golden eagle is swooping directly at you! \nThe golden eagle did not attack you and instead landed on your arm. \nYou tried to touch the golden eagle and he displayed his affection to you. \nMaybe you have found a friend in this barren land? You make up your mind to bring the golden eagle home and name him (name).",
+            "tw": "你聽到空中傳來一聲長嘯，擡頭一看居然是一只金雕！\n該死，這金雕筆直向你沖了過來！\n金雕沒有向你發起攻擊，而是停在了你的臂上。\n你嘗試著觸摸金雕，金雕表現出親昵的樣子。\n也許可以在這孤獨的荒野做個伴也說不定呢？你思索著，決定將金雕帶回家，並取名為{name}。"
+        }
+    }
+}

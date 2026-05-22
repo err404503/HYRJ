@@ -1,0 +1,83 @@
+{
+    "1" : {
+        "ITEMS" : {
+            "4025" : 5,
+            "4013" : 10,
+            "4002" : 5,
+            "4003" : 5
+        },
+        "ICON" : "Texture/Sign/1",
+        "NUM":"1",
+        "LABEL": {
+            "cn" : "新手包：烤肉*5，草药*10，淡水*5，藤条*5。\n首次进入荒野的你也不太适应这里的难度，没关系，收下这些物资，能在最困难的时候帮你活下去。",
+            "en" : "Newbie Pack: Roast Meat*5,，Herb*10，Clean Water*5，Tangle Vines*5.\nYou may not adapt to the difficulty when you enter the wilderness first time.",
+            "tw" : "新手包：烤肉*5，草藥*10，淡水*5，藤條*5。\n首次進入荒野的你也不太適應這裏的難度，沒關系，收下這些物資，能在最困難的時候幫你活下去。"
+        }
+    },
+    "2" : {
+
+        "ICON" : "Texture/Sign/2",
+        "NUM":"8",
+        "LABEL": {
+            "cn": "成就点：8点。\n在荒野生存了一天是否感受到了难度？是否发现完成成就还可以领取贝壳？先去商店买一个自己想要的东西吧！",
+            "en": "Achievement Points:8 points.\nHave you experienced difficulty after one day in the wilderness?  Buy something you like in the shop!",
+            "tw": "成就點：8點。\n在荒野生存了一天是否感受到了難度？是否發現完成成就還可以領取貝殼？先去商店買一個自己想要的東西吧！"
+        }
+    },
+    "3" : {
+        "ITEMS" : {
+            "4133" : 1
+        },
+        "ICON" : "Texture/Sign/3",
+        "NUM":"1",
+        "LABEL": {
+            "cn": "改良平底锅：高攻+超远距离，注意别太用力\n三日定律也许发挥了作用，这改良平底锅拿去用吧。虽然已经失去了烹饪的功效，但……还可以拍人？",
+            "en": "Pan:High Damage + Extreme Long Range.\nThree Day Rule seems exert its effectiveness. Take this pan to use. Though it could't cook, … maybe you can use it to fight?",
+            "tw": "改良平底鍋：高攻+超遠距離，註意別太用力\n三日定律也許發揮了作用，這改良平底鍋拿去用吧。雖然已經失去了烹飪的功效，但……還可以拍人？"
+        }
+    },
+    "4" : {
+
+        "ICON" : "Texture/Sign/4",
+        "NUM":"16",
+        "LABEL": {
+            "cn": "成就点：16点。\n是否感觉到成就点的获取越来越难了？没关系，游戏内有一大半的成就是隐藏成就哦！这里还有些成就点，就一起赠送给你了！",
+            "en": "Achievement Points:16 points.\nDo you feel it is more and more difficult to get achievement points?There are some achievement points, here you are!",
+            "tw": "成就點：16點。\n是否感覺到成就點的獲取越來越難了？沒關系，遊戲內有一大半的成就是隱藏成就哦！這裏還有些成就點，就一起贈送給你了！"
+        }
+    },
+    "5" : {
+        "ITEMS" : {
+            "4076" : 2
+        },
+        "ICON" : "Texture/Sign/5",
+        "NUM":"2",
+        "LABEL": {
+            "cn": "荒野秘宝*2：进入副本的门票，可在副本中备份。\n当你死亡时，一切就回到了原点。想要追溯前世的求生历程，就需要去崖洞或是遗迹进行备份。门票拿好！！",
+            "en": "Wasteland Treasure*2:Tickets to enter instance.\nOnce you die, all goes back to beginning. If you want continue the adventure in last life, you have to save in Cliff Caves or Mystery Ruins. Hold it tight!",
+            "tw": "荒野秘寶*2：進入副本的門票，可在副本中備份。\n當你死亡時，一切就回到了原點。想要追溯前世的求生歷程，就需要去崖洞或是遺跡進行備份。門票拿好！！"
+        }
+    },
+    "6" : {
+        "ITEMS" : {
+            "4068" : 2
+        },
+        "ICON" : "Texture/Sign/6",
+        "NUM":"2",
+        "LABEL": {
+            "cn": "仙豆*2：恢复所有状态。\n其实你并没有发现这片荒野的巨大秘密吧！这是奈特的最新研究成果，能让人恢复所有状态的仙豆！",
+            "en": "Magic Bean*2:Recovers all statuses.\nActually you haven't discovered the huge mistery in this wilderness! This is Nate's newest invention. A magic bean can recover all statuses of a person.",
+            "tw": "仙豆*2：恢復所有狀態。\n其實你並沒有發現這片荒野的巨大秘密吧！這是奈特的最新研究成果，能讓人恢復所有狀態的仙豆！"
+        }  
+    },
+    "7" : {
+
+        "ICON" : "Texture/Sign/7",
+        "NUM":"32",
+        "LABEL": {
+            "cn": "成就点：32点。\n从今往后，就得靠你自己了，请一定要活下去！一定要逃出荒野！这最后的成就点一定要谨慎使用！",
+            "en": "Achievement Points:32 points.\nFrom now on, you can only rely on yourself. Please live on! You must escape the wilderness! Please use these last points intently.",
+            "tw": "成就點：32點。\n從今往後，就得靠你自己了，請一定要活下去！一定要逃出荒野！這最後的成就點一定要謹慎使用！"
+        } 
+    }
+}

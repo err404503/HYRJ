@@ -1,0 +1,2503 @@
+{
+    "0": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "月亮", 
+                    "en": "Moon", 
+                    "cn": "月亮"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "貓頭鷹", 
+                    "en": "Owl", 
+                    "cn": "猫头鹰"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "雲朵", 
+                    "en": "Cloud", 
+                    "cn": "云朵"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "北極星", 
+                    "en": "Polaris", 
+                    "cn": "北极星"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 0, 
+        "DESC": {
+            "tw": "在北半球的晴朗夜晚仰望天空，我們應該用什麽來辨別方向？", 
+            "en": "In the Northern Hemisphere，When you look up to the sky in a cloudless night, what do you look to distinguish directions?;", 
+            "cn": "在北半球的晴朗夜晚仰望天空，我们应该用什么来辨别方向？"
+        }
+    }, 
+    "1": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "東面", 
+                    "en": "East", 
+                    "cn": "东面"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "南面", 
+                    "en": "South", 
+                    "cn": "南面"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "西面", 
+                    "en": "West", 
+                    "cn": "西面"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "北面", 
+                    "en": "North", 
+                    "cn": "北面"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 1, 
+        "DESC": {
+            "tw": "在北半球利用植物辨別方向時，哪裏植物枝葉茂密？", 
+            "en": "In the Northern Hemisphere，to distinguish directions by analyzing growth of plants, which side of plants have more leaves than other sides? ", 
+            "cn": "在北半球利用植物辨别方向时，哪里植物枝叶茂密？"
+        }
+    }, 
+    "2": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "分針", 
+                    "en": "Minute Hand", 
+                    "cn": "分针"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "時針", 
+                    "en": "Hour Hand", 
+                    "cn": "时针"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "秒針", 
+                    "en": "Second Hand", 
+                    "cn": "秒针"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "表帶", 
+                    "en": "Watchband", 
+                    "cn": "表带"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 2, 
+        "DESC": {
+            "tw": "在北半球用手表辨別方向時，應將手表的什麽正對太陽，此時它與十二點處之間的夾角平分線指向正南？", 
+            "en": "In the Northern Hemisphere，To use watch to distinguish directions, which part of watch should you put it towards the sun?", 
+            "cn": "在北半球用手表辨别方向时，应将手表的什么正对太阳，此时它与十二点处之间的夹角平分线指向正南？"
+        }
+    }, 
+    "3": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "隨身衣物", 
+                    "en": "Clothes", 
+                    "cn": "随身衣物"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "鞋子", 
+                    "en": "Shoes", 
+                    "cn": "鞋子"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "膠布", 
+                    "en": "Adhesive Tap", 
+                    "cn": "胶布"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "襪子", 
+                    "en": "Socks", 
+                    "cn": "袜子"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 3, 
+        "DESC": {
+            "tw": "在森林野營缺水時，我們可以用什麽來收集露水？", 
+            "en": "What can you use to collect water when you lack of water in forest camping?", 
+            "cn": "在森林野营缺水时，我们可以用什么来收集露水？"
+        }
+    }, 
+    "4": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "靠近水源", 
+                    "en": "Close to water\"", 
+                    "cn": "靠近水源"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "沒有水源", 
+                    "en": "Place no water", 
+                    "cn": "没有水源"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "遠離水源", 
+                    "en": "Far from water", 
+                    "cn": "远离水源"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "水源中間", 
+                    "en": "Surrounded by water", 
+                    "cn": "水源中间"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 4, 
+        "DESC": {
+            "tw": "選擇營地時，我們要在哪裏紮營？", 
+            "en": "Where should we choose to set up our camp?", 
+            "cn": "选择营地时，我们要在哪里扎营？"
+        }
+    }, 
+    "5": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "拖鞋", 
+                    "en": "Slippers", 
+                    "cn": "拖鞋"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "皮鞋", 
+                    "en": "Leather Shoes", 
+                    "cn": "皮鞋"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "跑步鞋", 
+                    "en": "Running Shoes", 
+                    "cn": "跑步鞋"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "登山鞋", 
+                    "en": "Climbing Shoes", 
+                    "cn": "登山鞋"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 5, 
+        "DESC": {
+            "tw": "叢林中負重前行時，哪種鞋子有利於我們前進？", 
+            "en": "Which type of shoes is helpful while walking with big burden in forest?", 
+            "cn": "丛林中负重前行时，哪种鞋子有利于我们前进？"
+        }
+    }, 
+    "6": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "漫步", 
+                    "en": "Ramble", 
+                    "cn": "漫步"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "瘋跑", 
+                    "en": "Run", 
+                    "cn": "疯跑"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "規律步行", 
+                    "en": "Walk Regularly", 
+                    "cn": "规律步行"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "跳躍式", 
+                    "en": "Leap", 
+                    "cn": "跳跃式"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 6, 
+        "DESC": {
+            "tw": "在野外行進途中，應該采取什麽行走方式來保證前進路程？", 
+            "en": "While moving in forest, which style of moving should we take to travel safely?", 
+            "cn": "在野外行进途中，应该采取什么行走方式来保证前进路程？"
+        }
+    }, 
+    "7": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "長衣長褲", 
+                    "en": "Long sleeves&long trousers", 
+                    "cn": "长衣长裤"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "短袖短褲", 
+                    "en": "Short Sleeves&short pants", 
+                    "cn": "短袖短裤"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "長袖短褲", 
+                    "en": "Long sleeves&short pants", 
+                    "cn": "长袖短裤"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "短袖長褲", 
+                    "en": "Short sleeves&long trousers", 
+                    "cn": "短袖长裤"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 7, 
+        "DESC": {
+            "tw": "在野外，我們應穿什麽來防止蚊蟲叮咬？", 
+            "en": "In wild, what should we dress to prevent from bites of mosquito and bugs?", 
+            "cn": "在野外，我们应穿什么来防止蚊虫叮咬？"
+        }
+    }, 
+    "8": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "幹燥樹枝", 
+                    "en": "Dry Branch", 
+                    "cn": "干燥树枝"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "新鮮樹枝", 
+                    "en": "Fresh Branch", 
+                    "cn": "新鲜树枝"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "動物毛皮", 
+                    "en": "Animal Fur", 
+                    "cn": "动物毛皮"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "新鮮樹葉", 
+                    "en": "Fresh Leaves", 
+                    "cn": "新鲜树叶"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 8, 
+        "DESC": {
+            "tw": "餓了需要生火做飯時，我們應用什麽來生火？", 
+            "en": "What should you use to light a fire when you feel hungry and want to cook?", 
+            "cn": "饿了需要生火做饭时，我们应用什么来生火？"
+        }
+    }, 
+    "9": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "直沖下去", 
+                    "en": "Run down", 
+                    "cn": "直冲下去"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "抱頭滾下", 
+                    "en": "Cover head and roll Down", 
+                    "cn": "抱头滚下"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "緩慢下山", 
+                    "en": "Walk down slowly", 
+                    "cn": "缓慢下山"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "繞路而行", 
+                    "en": "Find another way", 
+                    "cn": "绕路而行"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 9, 
+        "DESC": {
+            "tw": "遇見陡峭的下山路段，要如何才能保證安全？", 
+            "en": "How to pass a steep downhill safely?", 
+            "cn": "遇见陡峭的下山路段，要如何才能保证安全？"
+        }
+    }, 
+    "10": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "樹枝", 
+                    "en": "Tree Branch", 
+                    "cn": "树枝"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "仙豆", 
+                    "en": "Magic Bean", 
+                    "cn": "仙豆"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "直接抓", 
+                    "en": "Hands", 
+                    "cn": "直接抓"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "蚯蚓", 
+                    "en": "Warm", 
+                    "cn": "蚯蚓"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 10, 
+        "DESC": {
+            "tw": "看到小溪中有魚，可以用什麽來做魚饵釣魚充饑？", 
+            "en": "You see fishes in river. What can you use to make fishhook for fishing?", 
+            "cn": "看到小溪中有鱼，可以用什么来做鱼饵钓鱼充饥？"
+        }
+    }, 
+    "11": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "沖向山頂", 
+                    "en": "Run to mountaintop", 
+                    "cn": "冲向山顶"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "去低地勢", 
+                    "en": "Go to low lying place", 
+                    "cn": "去低地势"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "躲進樹叢", 
+                    "en": "Hide in trees", 
+                    "cn": "躲进树丛"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "藏在水中", 
+                    "en": "Hide in water", 
+                    "cn": "藏在水中"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 11, 
+        "DESC": {
+            "tw": "叢林前行時，突遇打雷，我們應該怎麽辦？", 
+            "en": "Where should we shelter when we meet thunders strom in forest?", 
+            "cn": "丛林前行时，突遇打雷，我们应该怎么办？"
+        }
+    }, 
+    "12": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "大口喝", 
+                    "en": "Quaff", 
+                    "cn": "大口喝"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "過濾後喝", 
+                    "en": "Filter before drink", 
+                    "cn": "过滤后喝"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "不喝", 
+                    "en": "Don't Drink", 
+                    "cn": "不喝"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "小口喝", 
+                    "en": "Sip", 
+                    "cn": "小口喝"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 12, 
+        "DESC": {
+            "tw": "口渴了，看見有水源，取水後，如何飲用？", 
+            "en": "When you are very thirsty in wild and find water suddenly. Then how should you drink?", 
+            "cn": "口渴了，看见有水源，取水后，如何饮用？"
+        }
+    }, 
+    "13": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "凈水", 
+                    "en": "Clear Water", 
+                    "cn": "净水"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "海水", 
+                    "en": "Sea Water", 
+                    "cn": "海水"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "口水", 
+                    "en": "Saliva", 
+                    "cn": "口水"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "河水", 
+                    "en": "River Water", 
+                    "cn": "河水"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 13, 
+        "DESC": {
+            "tw": "野外不小心被劃傷了，應該用什麽水來清洗傷口？", 
+            "en": "When you are wounded in wild, what water should you take to wash the wound?", 
+            "cn": "野外不小心被划伤了，应该用什么水来清洗伤口？"
+        }
+    }, 
+    "14": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "喝杯熱水", 
+                    "en": "Drink a cup of warm water", 
+                    "cn": "喝杯热水"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "瘋狂蹦跳", 
+                    "en": "Hop crazily", 
+                    "cn": "疯狂蹦跳"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "不做什麽", 
+                    "en": "Do nothing", 
+                    "cn": "不做什么"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "不脫衣服", 
+                    "en": "Don't take off clothes", 
+                    "cn": "不脱衣服"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 14, 
+        "DESC": {
+            "tw": "睡覺前，我們應該如何來保證睡眠時睡袋的溫度？", 
+            "en": "Before sleep，what should we do to keep sleepbag warm?", 
+            "cn": "睡觉前，我们应该如何来保证睡眠时睡袋的温度？"
+        }
+    }, 
+    "15": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "熱水", 
+                    "en": "How Water", 
+                    "cn": "热水"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "溫水", 
+                    "en": "Warm Water", 
+                    "cn": "温水"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "冷水", 
+                    "en": "Cold Water", 
+                    "cn": "冷水"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "冰水", 
+                    "en": "Icy Water", 
+                    "cn": "冰水"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 15, 
+        "DESC": {
+            "tw": "行進途中不小心摔傷，傷處開始腫大時，在沒有藥品的情況下，我們要用什麽來消腫？", 
+            "en": "You fell down and hurt yourself in wild. The injury swelled seriously. In lack of medicines, what can you use to reduce swelling?", 
+            "cn": "行进途中不小心摔伤，伤处开始肿大时，在没有药品的情况下，我们要用什么来消肿？"
+        }
+    }, 
+    "16": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "用石頭砸", 
+                    "en": "Break it by stone", 
+                    "cn": "用石头砸"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "用手摘下", 
+                    "en": "Take it off by hands", 
+                    "cn": "用手摘下"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "盡量避開", 
+                    "en": "Avoid it as far as possible", 
+                    "cn": "尽量避开"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "點火燒掉", 
+                    "en": "Burn it up", 
+                    "cn": "点火烧掉"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 16, 
+        "DESC": {
+            "tw": "走在叢林深處，遇到馬蜂窩我們應該辦？", 
+            "en": "What should you do when you find a hornet's nest in deep forest?", 
+            "cn": "走在丛林深处，遇到马蜂窝我们应该办？"
+        }
+    }, 
+    "17": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "幹燥空曠", 
+                    "en": "Dry and open place", 
+                    "cn": "干燥空旷"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "雜草叢生", 
+                    "en": "Grassy place", 
+                    "cn": "杂草丛生"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "陰暗潮濕", 
+                    "en": "Cold and wet place", 
+                    "cn": "阴暗潮湿"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "水源附近", 
+                    "en": "Place closing to water", 
+                    "cn": "水源附近"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 17, 
+        "DESC": {
+            "tw": "走累了需要休息時，我們應選擇什麽樣的地方作為臨時休息場所？", 
+            "en": "When you are tired and need to take a break in wild, where should you choose to have a rest temporarily?", 
+            "cn": "走累了需要休息时，我们应选择什么样的地方作为临时休息场所？"
+        }
+    }, 
+    "18": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "原地呼救", 
+                    "en": "Stay put and call others loudly", 
+                    "cn": "原地呼救"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "各自行進", 
+                    "en": "Move on alone", 
+                    "cn": "各自行进"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "消極輕生", 
+                    "en": "Suicide despairingly", 
+                    "cn": "消极轻生"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "樂觀探索", 
+                    "en": "Explore optimistically", 
+                    "cn": "乐观探索"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 18, 
+        "DESC": {
+            "tw": "不小心脫離了隊伍，正確的做法是什麽？", 
+            "en": "If you lost in wild and can't find teammates, which behavior is correct?", 
+            "cn": "不小心脱离了队伍，正确的做法是什么？"
+        }
+    }, 
+    "19": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "頭部", 
+                    "en": "Head", 
+                    "cn": "头部"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "腹部", 
+                    "en": "Belly", 
+                    "cn": "腹部"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "手臂", 
+                    "en": "Arms", 
+                    "cn": "手臂"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "腿部", 
+                    "en": "Legs", 
+                    "cn": "腿部"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 19, 
+        "DESC": {
+            "tw": "人體最應該保持涼爽的部位是哪裏？", 
+            "en": "Which part of human body should keep cool?", 
+            "cn": "人体最应该保持凉爽的部位是哪里？"
+        }
+    }, 
+    "20": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "大哥", 
+                    "en": "Eldest brother", 
+                    "cn": "大哥"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "二哥", 
+                    "en": "Second elder brother", 
+                    "cn": "二哥"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "弟弟", 
+                    "en": "Younger brother", 
+                    "cn": "弟弟"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "叔叔", 
+                    "en": "uncle", 
+                    "cn": "叔叔"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 20, 
+        "DESC": {
+            "tw": "在朱莉的故事中，奈特是朱莉的？", 
+            "en": "What is the relationship between Nate and Julie?", 
+            "cn": "在朱莉的故事中，奈特是朱莉的？"
+        }
+    }, 
+    "21": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "毛球", 
+                    "en": "Venonat", 
+                    "cn": "毛球"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "空釋", 
+                    "en": "Kongshi", 
+                    "cn": "空释"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "五十一區", 
+                    "en": "SECTOR—51", 
+                    "cn": "五十一区"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "坎貝爾家族", 
+                    "en": "Campell family", 
+                    "cn": "坎贝尔家族"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 21, 
+        "DESC": {
+            "tw": "聖果計劃的背後研究者是？", 
+            "en": "Who is the researcher behind the holy fruit program?", 
+            "cn": "圣果计划的背后研究者是？"
+        }
+    }, 
+    "22": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "提高20%遠程命中率", 
+                    "en": "+20% ranged hit rate", 
+                    "cn": "提高20%远程命中率"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "提高25%遠程命中率", 
+                    "en": "+25% ranged hit rate", 
+                    "cn": "提高25%远程命中率"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "提高20%命中率", 
+                    "en": "+20% hit rate", 
+                    "cn": "提高20%命中率"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "提高25%命中率", 
+                    "en": "+25% hit rate", 
+                    "cn": "提高25%命中率"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 22, 
+        "DESC": {
+            "tw": "天賦：神射手的效果是什麽？", 
+            "en": "What is the effect of Elven Talent? ", 
+            "cn": "天赋：神射手的效果是什么？"
+        }
+    }, 
+    "23": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "0", 
+                    "en": "0", 
+                    "cn": "0"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "200", 
+                    "en": "200", 
+                    "cn": "200"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "380", 
+                    "en": "380", 
+                    "cn": "380"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "560", 
+                    "en": "560", 
+                    "cn": "560"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 23, 
+        "DESC": {
+            "tw": "創世記系列成就完成後，共可領取多少貝殼？", 
+            "en": "How many shells can we receive after the completion of the Genesis series achievements? ", 
+            "cn": "创世记系列成就完成后，共可领取多少贝壳？"
+        }
+    }, 
+    "24": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "木材*2+藤條*2", 
+                    "en": "Timber*2+Tanglevine*2", 
+                    "cn": "木材*2+藤条*2"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "竹子*2+藤條*2", 
+                    "en": "Bamboo*2+Tanglevine*2", 
+                    "cn": "竹子*2+藤条*2"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "竹子*2+石片*2", 
+                    "en": "Bamboo*2+Stone Slab*2", 
+                    "cn": "竹子*2+石片*2"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "木材*2+石片*2", 
+                    "en": "Timber*2+Stone Slab*2", 
+                    "cn": "木材*2+石片*2"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 24, 
+        "DESC": {
+            "tw": "野兔陷阱的制作材料是？", 
+            "en": "What is the material for Wild hare trap?", 
+            "cn": "野兔陷阱的制作材料是？"
+        }
+    }, 
+    "25": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "紅色", 
+                    "en": "red", 
+                    "cn": "红色"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "灰色", 
+                    "en": "gray", 
+                    "cn": "灰色"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "棕紅色", 
+                    "en": "brownish red", 
+                    "cn": "棕红色"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "棕灰色", 
+                    "en": "brownish gray", 
+                    "cn": "棕灰色"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 25, 
+        "DESC": {
+            "tw": "“肉——撕爛啦！上衣——破啦！”系列船歌中，辮子是什麽顏色？", 
+            "en": "In the song‘Flesh -- torn! Clothes -- ripped!’,what the colour of Braid?", 
+            "cn": "“肉——撕烂啦！上衣——破啦！”系列船歌中，辫子是什么颜色？"
+        }
+    }, 
+    "26": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "12年", 
+                    "en": "12 years", 
+                    "cn": "12年"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "14年", 
+                    "en": "14 years", 
+                    "cn": "14年"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "16年", 
+                    "en": "16 years", 
+                    "cn": "16年"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "18年", 
+                    "en": "18 years", 
+                    "cn": "18年"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 26, 
+        "DESC": {
+            "tw": "羅蘭曾經在廚房工作了多久？", 
+            "en": "How long did Roland work in the kitchen?", 
+            "cn": "罗兰曾经在厨房工作了多久？"
+        }
+    }, 
+    "27": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "A074002", 
+                    "en": "A074002", 
+                    "cn": "A074002"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "S074002", 
+                    "en": "S074002", 
+                    "cn": "S074002"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "SS074002", 
+                    "en": "SS074002", 
+                    "cn": "SS074002"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "SSS074002", 
+                    "en": "SSS074002", 
+                    "cn": "SSS074002"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 27, 
+        "DESC": {
+            "tw": "老貝出海時的任務編碼是多少？", 
+            "en": "What's the code of the task when Bain went to sea? ", 
+            "cn": "老贝出海时的任务编码是多少？"
+        }
+    }, 
+    "28": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "佳得樂", 
+                    "en": "Gatorade", 
+                    "cn": "佳得乐"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "可樂", 
+                    "en": "Cola", 
+                    "cn": "可乐"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "涼白開", 
+                    "en": "cold boiled water", 
+                    "cn": "凉白开"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "維他檸檬茶", 
+                    "en": "Vita lemon tea", 
+                    "cn": "维他柠檬茶"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 28, 
+        "DESC": {
+            "tw": "野食小哥最愛的飲料是？", 
+            "en": "What's the favorite drink for the Yesman?", 
+            "cn": "野食小哥最爱的饮料是？"
+        }
+    }, 
+    "29": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "一起逃出了荒島", 
+                    "en": "left island together", 
+                    "cn": "一起逃出了荒岛"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "基德逃離，奈特下落不明", 
+                    "en": "Kidd-left，Nate-missed", 
+                    "cn": "基德逃离，奈特下落不明"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "基德殺害奈特後逃離", 
+                    "en": "Kidd killed Nate and left", 
+                    "cn": "基德杀害奈特后逃离"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "基德死亡，奈特逃出", 
+                    "en": "Kidd-died，Nate-left", 
+                    "cn": "基德死亡，奈特逃出"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 29, 
+        "DESC": {
+            "tw": "劇情中，基德最終與奈特發生了什麽事？", 
+            "en": "What happened to Kidd and Nate in the story?", 
+            "cn": "剧情中，基德最终与奈特发生了什么事？"
+        }
+    }, 
+    "30": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "發帖噴遊戲垃圾", 
+                    "en": "Posting game garbage", 
+                    "cn": "发帖喷游戏垃圾"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "默默忍受，再充壹次", 
+                    "en": "Silently endure, once more", 
+                    "cn": "默默忍受，再充一次"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "卸載遊戲", 
+                    "en": "Uninstall game", 
+                    "cn": "卸载游戏"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "進群找官方客服", 
+                    "en": "Official customer service", 
+                    "cn": "进群找官方客服"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 30, 
+        "DESC": {
+            "tw": "當發現充值問題或賬號問題時，應當怎麽做？", 
+            "en": "What should we do when we find the problem of recharge or account?", 
+            "cn": "当发现充值问题或账号问题时，应当怎么做？"
+        }
+    }, 
+    "31": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "67", 
+                    "en": "67", 
+                    "cn": "67"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "68", 
+                    "en": "68", 
+                    "cn": "68"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "69", 
+                    "en": "69", 
+                    "cn": "69"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "70", 
+                    "en": "70", 
+                    "cn": "70"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 31, 
+        "DESC": {
+            "tw": "2018年是中華人民共和國成立多少周年？", 
+            "en": "How many years have been since the People's Republic Of China was founded till year of 2018?", 
+            "cn": "2018年是中华人民共和国成立多少周年？"
+        }
+    }, 
+    "32": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "9", 
+                    "en": "9", 
+                    "cn": "9"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "10", 
+                    "en": "10", 
+                    "cn": "10"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "11", 
+                    "en": "11", 
+                    "cn": "11"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "12", 
+                    "en": "12", 
+                    "cn": "12"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 32, 
+        "DESC": {
+            "tw": "遊戲內最多可以裝備多少個天賦？", 
+            "en": "How many talents can be equipped maximumly in one round of game?", 
+            "cn": "游戏内最多可以装备多少个天赋？"
+        }
+    }, 
+    "33": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "監獄，黑暗囚室", 
+                    "en": "Prison, dark prison", 
+                    "cn": "监狱，黑暗囚室"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "監獄，荒島", 
+                    "en": "Prison, desert island", 
+                    "cn": "监狱，荒岛"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "天堂，黑暗囚室", 
+                    "en": "Heaven, dark prison", 
+                    "cn": "天堂，黑暗囚室"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "天堂，荒島", 
+                    "en": "Paradise, desert island", 
+                    "cn": "天堂，荒岛"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 33, 
+        "DESC": {
+            "tw": "神秘圓球的線索中，“囹吾”原意是什麽，在這裏指什麽？", 
+            "en": "What does the phrase \"exile from civilization\" that described in clue of Mysterious Orbs mean originally? What does it mean in this game?", 
+            "cn": "神秘圆球的线索中，“囹圄”原意是什么，在这里指什么？"
+        }
+    }, 
+    "34": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "桃花醇", 
+                    "en": "Peach blossom wine", 
+                    "cn": "桃花醇"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "飛天茅臺", 
+                    "en": " Maotai", 
+                    "cn": "飞天茅台"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "桂花酿", 
+                    "en": "Fragrans wine", 
+                    "cn": "桂花酿"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "五糧液", 
+                    "en": "Five - Grain Liquor", 
+                    "cn": "五粮液"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 34, 
+        "DESC": {
+            "tw": "在有關中秋的神話中，吳剛釀的是什麽酒？", 
+            "en": "In myth of Mid-Autumn Festival，what wine was brewed by Wu Gang?", 
+            "cn": "在有关中秋的神话中，吴刚酿的是什么酒？"
+        }
+    }, 
+    "35": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "近戰攻擊力", 
+                    "en": "Melee attack power", 
+                    "cn": "近战攻击力"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "遠程命中率", 
+                    "en": "Remote hit rate", 
+                    "cn": "远程命中率"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "横向移动速度", 
+                    "en": "Lateral moving velocity", 
+                    "cn": "横向移动速度"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "防禦能力", 
+                    "en": "Defense capability", 
+                    "cn": "防御能力"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 35, 
+        "DESC": {
+            "tw": "釣魚獲取的螃蟹可以在壹定時間內提升什麽屬性？", 
+            "en": "What short-term effect does the crab grabbed by fishing give?", 
+            "cn": "钓鱼获取的螃蟹可以在一定时间内提升什么属性？"
+        }
+    }, 
+    "36": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "睡覺", 
+                    "en": "Sleep", 
+                    "cn": "睡觉"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "食用仙豆", 
+                    "en": "Eat Magic Bean", 
+                    "cn": "食用仙豆"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "使用复活包", 
+                    "en": "Use Revival Pack", 
+                    "cn": "使用复活包"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "使用繃帶", 
+                    "en": "Use Bandage", 
+                    "cn": "使用绷带"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 4, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 36, 
+        "DESC": {
+            "tw": "生命值不可通過以下哪種方式來恢復？", 
+            "en": "Which of the following ways does not recover health? ", 
+            "cn": "生命值不可通过以下哪种方式来恢复？"
+        }
+    }, 
+    "37": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "護甲", 
+                    "en": "Defence", 
+                    "cn": "护甲"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "火把", 
+                    "en": "Torch", 
+                    "cn": "火把"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "宠物", 
+                    "en": "Pet", 
+                    "cn": "宠物"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "炸藥", 
+                    "en": "Bomb", 
+                    "cn": "炸药"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 3, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 37, 
+        "DESC": {
+            "tw": "以下哪個裝備欄是在裝備頁面的最後壹個顯示？", 
+            "en": "Which of the following equipment slots is at the last position of the equipement page? ", 
+            "cn": "以下哪个装备栏是在装备页面的最后一个显示？"
+        }
+    }, 
+    "38": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "逆境者", 
+                    "en": "Adversity", 
+                    "cn": "逆境者"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "占星師", 
+                    "en": "Astrologer", 
+                    "cn": "占星师"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "修仙者", 
+                    "en": "Enlightened", 
+                    "cn": "修仙者"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "洞察者", 
+                    "en": "Awareness", 
+                    "cn": "洞察者"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 2, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 38, 
+        "DESC": {
+            "tw": "星辰會指引你前進的方向，那麽哪個天賦可以降低迷失方向的幾率？", 
+            "en": "The stars will guide you on the right path, which talent could reduce rate of getting lost?", 
+            "cn": "星辰会指引你前进的方向，那么哪个天赋可以降低迷失方向的几率？"
+        }
+    }, 
+    "39": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "吉他", 
+                    "en": "Guitar", 
+                    "cn": "吉他"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "小提琴", 
+                    "en": "Violin", 
+                    "cn": "小提琴"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "钢琴", 
+                    "en": "Piano", 
+                    "cn": "钢琴"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "長笛", 
+                    "en": "Flute", 
+                    "cn": "长笛"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 39, 
+        "DESC": {
+            "tw": "遊戲中背景音樂主要是使用什麽樂器演奏的？", 
+            "en": "What music instrument is used to play the BGM (Back Ground Music) of game?", 
+            "cn": "游戏中背景音乐主要是使用什么乐器演奏的？"
+        }
+    }, 
+    "40": {
+        "RIGHT": "Texture/Activities/Answer/img_correct.png", 
+        "NO_1": {
+            "tw": "第 ", 
+            "en": "NO.", 
+            "cn": "第 "
+        }, 
+        "NO_2": {
+            "tw": " 題", 
+            "en": "", 
+            "cn": " 题"
+        }, 
+        "PROCESS": {
+            "tw": "已答對：", 
+            "en": "Win：", 
+            "cn": "已答对："
+        }, 
+        "WRONG": "Texture/Activities/Answer/img_wrong.png", 
+        "CHOOSE": [
+            {
+                "DESC": {
+                    "tw": "航海", 
+                    "en": "Navigation", 
+                    "cn": "航海"
+                }, 
+                "CID": "1"
+            }, 
+            {
+                "DESC": {
+                    "tw": "遊泳", 
+                    "en": "Swimming", 
+                    "cn": "游泳"
+                }, 
+                "CID": "2"
+            }, 
+            {
+                "DESC": {
+                    "tw": "滑雪", 
+                    "en": "Skiing", 
+                    "cn": "滑雪"
+                }, 
+                "CID": "3"
+            }, 
+            {
+                "DESC": {
+                    "tw": "刺繡", 
+                    "en": "Embroidery", 
+                    "cn": "刺绣"
+                }, 
+                "CID": "4"
+            }
+        ], 
+        "ANSWER": 1, 
+        "BANNER": "Texture/Activities/Answer/img_pic.png", 
+        "ID": 40, 
+        "DESC": {
+            "tw": "朱莉·坎貝爾並不擅長以下哪種活動？", 
+            "en": "Which of the following activities is Julie Campbell not good at? ", 
+            "cn": "朱莉·坎贝尔并不擅长以下哪种活动？"
+        }
+    }
+}

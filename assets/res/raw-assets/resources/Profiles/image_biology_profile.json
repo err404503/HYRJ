@@ -1,0 +1,698 @@
+{
+    "1002": {
+        "IMG": "Texture/Monster/1002",
+        "TITLE": {
+            "cn": "瘦弱的狼",
+            "en": "Emciated Wolf",
+            "tw": "瘦弱的狼"
+        }
+    },
+    "1004": {
+        "IMG": "Texture/Monster/1004",
+        "TITLE": {
+            "cn": "成年狼",
+            "en": "Adult Wolf",
+            "tw": "成年狼"
+        }
+    },
+    "1005": {
+        "IMG": "Texture/Monster/1005",
+        "TITLE": {
+            "cn": "凶恶的狼",
+            "en": "Ferocious Wolf",
+            "tw": "兇惡的狼"
+        }
+    },
+    "1006": {
+        "IMG": "Texture/Monster/1006",
+        "TITLE": {
+            "cn": "雪狼",
+            "en": "Snow Wolf",
+            "tw": "雪狼"
+        }
+    },
+    "1008": {
+        "IMG": "Texture/Monster/1008",
+        "TITLE": {
+            "cn": "小野猪",
+            "en": "Small Boar",
+            "tw": "小野豬"
+        }
+    },
+    "1009": {
+        "IMG": "Texture/Monster/1009",
+        "TITLE": {
+            "cn": "健壮的野猪",
+            "en": "Strong Boar",
+            "tw": "健壯的野豬"
+        }
+    },
+    "1010": {
+        "IMG": "Texture/Monster/1010",
+        "TITLE": {
+            "cn": "暴怒的野猪",
+            "en": "Enraged Boar",
+            "tw": "暴怒的野豬"
+        }
+    },
+    "1011": {
+        "IMG": "Texture/Monster/1011",
+        "TITLE": {
+            "cn": "野猪王",
+            "en": "Giant Boar",
+            "tw": "野豬王"
+        }
+    },
+    "1012": {
+        "IMG": "Texture/Monster/1012",
+        "TITLE": {
+            "cn": "食人鱼",
+            "en": "Piranha",
+            "tw": "食人魚"
+        }
+    },
+    "1013": {
+        "IMG": "Texture/Monster/1013",
+        "TITLE": {
+            "cn": "吸血鬼鱼",
+            "en": "Vampiric Fish",
+            "tw": "吸血鬼魚"
+        }
+    },
+    "1014": {
+        "IMG": "Texture/Monster/1014",
+        "TITLE": {
+            "cn": "灰熊",
+            "en": "Grey Bear",
+            "tw": "灰熊"
+        }
+    },
+    "1015": {
+        "IMG": "Texture/Monster/1015",
+        "TITLE": {
+            "cn": "暴躁的灰熊",
+            "en": "Irate Grey Bear",
+            "tw": "暴躁的灰熊"
+        }
+    },
+    "1016": {
+        "IMG": "Texture/Monster/1016",
+        "TITLE": {
+            "cn": "白熊",
+            "en": "White Bear",
+            "tw": "白熊"
+        }
+    },
+    "1017": {
+        "IMG": "Texture/Monster/1017",
+        "TITLE": {
+            "cn": "熊王",
+            "en": "Ursa",
+            "tw": "熊王"
+        }
+    },
+    "1018": {
+        "IMG": "Texture/Monster/1018",
+        "TITLE": {
+            "cn": "鳄鱼",
+            "en": "Crocodile",
+            "tw": "鱷魚"
+        }
+    },
+    "1019": {
+        "IMG": "Texture/Monster/1019",
+        "TITLE": {
+            "cn": "湾鳄",
+            "en": "Bay Croc",
+            "tw": "灣鱷"
+        }
+    },
+    "1021": {
+        "IMG": "Texture/Monster/1021",
+        "TITLE": {
+            "cn": "水蟒",
+            "en": "Water Boa",
+            "tw": "水蟒"
+        }
+    },
+    "1022": {
+        "IMG": "Texture/Monster/1022",
+        "TITLE": {
+            "cn": "沙蛇",
+            "en": "Sandsnake",
+            "tw": "沙蛇"
+        }
+    },
+    "1023": {
+        "IMG": "Texture/Monster/1023",
+        "TITLE": {
+            "cn": "森蚺",
+            "en": "Forest Anaconda",
+            "tw": "森蚺"
+        }
+    },
+    "1024": {
+        "IMG": "Texture/Monster/1024",
+        "TITLE": {
+            "cn": "眼镜王蛇",
+            "en": "King Cobra",
+            "tw": "眼鏡王蛇"
+        }
+    },
+    "1025": {
+        "IMG": "Texture/Monster/1025",
+        "TITLE": {
+            "cn": "猛虎",
+            "en": "Fierce Tiger",
+            "tw": "猛虎"
+        }
+    },
+    "1026": {
+        "IMG": "Texture/Monster/1026",
+        "TITLE": {
+            "cn": "斑纹虎",
+            "en": "Striped Tiger",
+            "tw": "斑紋虎"
+        }
+    },
+    "1027": {
+        "IMG": "Texture/Monster/1027",
+        "TITLE": {
+            "cn": "虎王",
+            "en": "Tiger King",
+            "tw": "虎王"
+        }
+    },
+    "1028": {
+        "IMG": "Texture/Monster/1028",
+        "TITLE": {
+            "cn": "食人族战士",
+            "en": "Cannibal Warrior",
+            "tw": "食人族戰士"
+        }
+    },
+    "1029": {
+        "IMG": "Texture/Monster/1029",
+        "TITLE": {
+            "cn": "食人族队长",
+            "en": "Cannibal Elder",
+            "tw": "食人族隊長"
+        }
+    },
+    "1031": {
+        "IMG": "Texture/Monster/1031",
+        "TITLE": {
+            "cn": "剑吻鲨",
+            "en": "Goblin Shark",
+            "tw": "劍吻鯊"
+        }
+    },
+    "1032": {
+        "IMG": "Texture/Monster/1032",
+        "TITLE": {
+            "cn": "大白鲨",
+            "en": "Great White",
+            "tw": "大白鯊"
+        }
+    },
+    "1033": {
+        "IMG": "Texture/Monster/1033",
+        "TITLE": {
+            "cn": "绵羊",
+            "en": "Sheep",
+            "tw": "綿羊"
+        }
+    },
+    "1035": {
+        "IMG": "Texture/Monster/1035",
+        "TITLE": {
+            "cn": "蜥蜴",
+            "en": "Lizard",
+            "tw": "蜥蜴"
+        }
+    },
+    "1036": {
+        "IMG": "Texture/Monster/1036",
+        "TITLE": {
+            "cn": "火蜥蜴",
+            "en": "Fire Salamander",
+            "tw": "火蜥蜴"
+        }
+    },
+    "1038": {
+        "IMG": "Texture/Monster/1038",
+        "TITLE": {
+            "cn": "海盗喽啰",
+            "en": "Pirate Henchman",
+            "tw": "海盜嘍啰"
+        }
+    },
+    "1039": {
+        "IMG": "Texture/Monster/1039",
+        "TITLE": {
+            "cn": "海盗首领",
+            "en": "Pirate Leader",
+            "tw": "海盜首領"
+        }
+    },
+    "1040": {
+        "IMG": "Texture/Monster/1040",
+        "TITLE": {
+            "cn": "吸血蝠王",
+            "en": "Giant Bat",
+            "tw": "吸血蝠王"
+        }
+    },
+    "1041": {
+        "IMG": "Texture/Monster/1041",
+        "TITLE": {
+            "cn": "蝙蝠王后",
+            "en": "Queen Bat",
+            "tw": "蝙蝠王後"
+        }
+    },
+    "1042": {
+        "IMG": "Texture/Monster/1042",
+        "TITLE": {
+            "cn": "未知怪物",
+            "en": "Unknown Creature",
+            "tw": "未知怪物"
+        }
+    },
+    "1043": {
+        "IMG": "Texture/Monster/1043",
+        "TITLE": {
+            "cn": "遗迹石像",
+            "en": "Forgotten Statue",
+            "tw": "遺跡石像"
+        }
+    },
+    "1044": {
+        "IMG": "Texture/Monster/1044",
+        "TITLE": {
+            "cn": "地下怪鱼",
+            "en": "Underground Cryptid",
+            "tw": "地下怪魚"
+        }
+    },
+    "1045": {
+        "IMG": "Texture/Monster/1045",
+        "TITLE": {
+            "cn": "遗迹狐猴",
+            "en": "Ruins Lemur",
+            "tw": "遺跡狐猴"
+        }
+    },
+    "1046": {
+        "IMG": "Texture/Monster/1046",
+        "TITLE": {
+            "cn": "蜘蛛",
+            "en": "Spider",
+            "tw": "蜘蛛"
+        }
+    },
+    "1047": {
+        "IMG": "Texture/Monster/1047",
+        "TITLE": {
+            "cn": "蝙蝠",
+            "en": "Bat",
+            "tw": "蝙蝠"
+        }
+    },
+    "1048": {
+        "IMG": "Texture/Monster/1048",
+        "TITLE": {
+            "cn": "洞魈",
+            "en": "Cave Mandrill",
+            "tw": "洞魈"
+        }
+    },
+    "1051": {
+        "IMG": "Texture/Monster/1051",
+        "TITLE": {
+            "cn": "食人族守卫",
+            "en": "Cannibal Guard",
+            "tw": "食人族守衛"
+        }
+    },
+    "1057": {
+        "IMG": "Texture/Monster/1057",
+        "TITLE": {
+            "cn": "鬣狗", 
+            "en": "Hyena", 
+            "tw": "鬣狗"
+        }
+    },
+    "1060": {
+        "IMG": "Texture/Monster/1060",
+        "TITLE": {
+            "cn": "真鳄龟", 
+            "en": "Alligator snapping turtle", 
+            "tw": "真鱷龜"
+        }
+    },
+    "1061": {
+        "IMG": "Texture/Monster/1061",
+        "TITLE": {
+            "cn": "豹", 
+            "en": "Leopard", 
+            "tw": "豹"
+        }
+    },
+    "1062": {
+        "IMG": "Texture/Monster/1062",
+        "TITLE": {
+            "cn": "猩猩", 
+            "en": "Orangutan", 
+            "tw": "猩猩"
+        }
+    },
+    "1063": {
+        "IMG": "Texture/Monster/1063",
+        "TITLE": {
+            "cn": "河马", 
+            "en": "Hippo", 
+            "tw": "河馬"
+        }
+    },
+    "1064": {
+        "IMG": "Texture/Monster/1064",
+        "TITLE": {
+            "cn": "狐狸", 
+            "en": "Fox", 
+            "tw": "狐狸"
+        }
+    },
+    "1065": {
+        "IMG": "Texture/Monster/1065",
+        "TITLE": {
+            "cn": "毒蝎", 
+            "en": "Scorpion", 
+            "tw": "毒蠍"
+        }
+    },
+    "1066": {
+        "IMG": "Texture/Monster/1066",
+        "TITLE": {
+            "cn": "暴躁狐猴", 
+            "en": "Grumpy Lemur", 
+            "tw": "暴躁狐猴"
+        }
+    },
+    "1067": {
+        "IMG": "Texture/Monster/1067",
+        "TITLE": {
+            "cn": "变异研究员", 
+            "en": "Variant Researcher", 
+            "tw": "變異研究員"
+        }
+    },
+    "1068": {
+        "IMG": "Texture/Monster/1068",
+        "TITLE": {
+            "cn": "变异小白鼠", 
+            "en": "Variant Mouse", 
+            "tw": "變異小白鼠"
+        }
+    },
+    "1069": {
+        "IMG": "Texture/Monster/1069",
+        "TITLE": {
+            "cn": "变异猎狗", 
+            "en": "Variant Hound", 
+            "tw": "變異獵狗"
+        }
+    },
+    "1070": {
+        "IMG": "Texture/Monster/1070",
+        "TITLE": {
+            "cn": "变异野猪", 
+            "en": "Variant Boar", 
+            "tw": "變異野豬"
+        }
+    },
+    "1071": {
+        "IMG": "Texture/Monster/1071",
+        "TITLE": {
+            "cn": "机关甲人", 
+            "en": "Robot", 
+            "tw": "機關甲人"
+        }
+    },
+    "1072": {
+        "IMG": "Texture/Monster/1072",
+        "TITLE": {
+            "cn": "机关甲兵", 
+            "en": "Robot soldier", 
+            "tw": "機關甲兵"
+        }
+    },
+    "1073": {
+        "IMG": "Texture/Monster/1073",
+        "TITLE": {
+            "cn": "机关猛兽", 
+            "en": "Robot beast", 
+            "tw": "機關猛獸"
+        }
+    },     
+    "5001": {
+        "IMG": "Texture/Fish/5001",
+        "TITLE": {
+            "cn": "鲳鱼",
+            "en": "Pomfret",
+            "tw": "鯧魚"
+        }
+    },
+    "5002": {
+        "IMG": "Texture/Fish/5002",
+        "TITLE": {
+            "cn": "鲷鱼",
+            "en": "Seabream",
+            "tw": "鯛魚"
+        }
+    },
+    "5003": {
+        "IMG": "Texture/Fish/5003",
+        "TITLE": {
+            "cn": "海参",
+            "en": "Sea Cucumber",
+            "tw": "海參"
+        }
+    },
+    "5004": {
+        "IMG": "Texture/Fish/5004",
+        "TITLE": {
+            "cn": "海鲂",
+            "en": "Dory",
+            "tw": "海魴"
+        }
+    },
+    "5005": {
+        "IMG": "Texture/Fish/5005",
+        "TITLE": {
+            "cn": "海鲈鱼",
+            "en": "Seabass",
+            "tw": "海鱸魚"
+        }
+    },
+    "5006": {
+        "IMG": "Texture/Fish/5006",
+        "TITLE": {
+            "cn": "海豚鱼",
+            "en": "Dolphin",
+            "tw": "海豚魚"
+        }
+    },
+    "5007": {
+        "IMG": "Texture/Fish/5007",
+        "TITLE": {
+            "cn": "河豚",
+            "en": "Pufferfish",
+            "tw": "河豚"
+        }
+    },
+    "5008": {
+        "IMG": "Texture/Fish/5008",
+        "TITLE": {
+            "cn": "河虾",
+            "en": "River Prawn",
+            "tw": "河蝦"
+        }
+    },
+    "5009": {
+        "IMG": "Texture/Fish/5009",
+        "TITLE": {
+            "cn": "岩鱼",
+            "en": "Rockfish",
+            "tw": "巖魚"
+        }
+    },
+    "5010": {
+        "IMG": "Texture/Fish/5010",
+        "TITLE": {
+            "cn": "黑鱼",
+            "en": "Blackfish",
+            "tw": "黑魚"
+        }
+    },
+    "5011": {
+        "IMG": "Texture/Fish/5011",
+        "TITLE": {
+            "cn": "红鲑鱼",
+            "en": "Red Salmon",
+            "tw": "紅鮭魚"
+        }
+    },
+    "5012": {
+        "IMG": "Texture/Fish/5012",
+        "TITLE": {
+            "cn": "蝴蝶鱼",
+            "en": "Butterfly Fish",
+            "tw": "蝴蝶魚"
+        }
+    },
+    "5013": {
+        "IMG": "Texture/Fish/5013",
+        "TITLE": {
+            "cn": "虎纹岩鱼",
+            "en": "Tiger-striped Fish",
+            "tw": "虎紋巖魚"
+        }
+    },
+    "5014": {
+        "IMG": "Texture/Fish/5014",
+        "TITLE": {
+            "cn": "剑鱼",
+            "en": "Swordfish",
+            "tw": "劍魚"
+        }
+    },
+    "5015": {
+        "IMG": "Texture/Fish/5015",
+        "TITLE": {
+            "cn": "蓝鳍金枪鱼",
+            "en": "Bluefin",
+            "tw": "藍鰭金槍魚"
+        }
+    },
+    "5016": {
+        "IMG": "Texture/Fish/5016",
+        "TITLE": {
+            "cn": "老虎斑",
+            "en": "Tiger Grouper",
+            "tw": "老虎斑"
+        }
+    },
+    "5017": {
+        "IMG": "Texture/Fish/5017",
+        "TITLE": {
+            "cn": "龙虾",
+            "en": "Lobster",
+            "tw": "龍蝦"
+        }
+    },
+    "5018": {
+        "IMG": "Texture/Fish/5018",
+        "TITLE": {
+            "cn": "罗非鱼",
+            "en": "Tilapia",
+            "tw": "羅非魚"
+        }
+    },
+    "5019": {
+        "IMG": "Texture/Fish/5019",
+        "TITLE": {
+            "cn": "泥鳅",
+            "en": "Loach",
+            "tw": "泥鰍"
+        }
+    },
+    "5020": {
+        "IMG": "Texture/Fish/5020",
+        "TITLE": {
+            "cn": "鲶鱼",
+            "en": "Catfish",
+            "tw": "鯰魚"
+        }
+    },
+    "5021": {
+        "IMG": "Texture/Fish/5021",
+        "TITLE": {
+            "cn": "螃蟹",
+            "en": "Crab",
+            "tw": "螃蟹"
+        }
+    },
+    "5022": {
+        "IMG": "Texture/Fish/5022",
+        "TITLE": {
+            "cn": "旗鱼",
+            "en": "Marlin",
+            "tw": "旗魚"
+        }
+    },
+    "5023": {
+        "IMG": "Texture/Fish/5023",
+        "TITLE": {
+            "cn": "鲭鱼",
+            "en": "Mackerel",
+            "tw": "鯖魚"
+        }
+    },
+    "5024": {
+        "IMG": "Texture/Fish/5024",
+        "TITLE": {
+            "cn": "秋刀鱼",
+            "en": "Saury",
+            "tw": "秋刀魚"
+        }
+    },
+    "5025": {
+        "IMG": "Texture/Fish/5025",
+        "TITLE": {
+            "cn": "三文鱼",
+            "en": "Tuna",
+            "tw": "三文魚"
+        }
+    },
+    "5026": {
+        "IMG": "Texture/Fish/5026",
+        "TITLE": {
+            "cn": "石斑鱼",
+            "en": "Grouper",
+            "tw": "石斑魚"
+        }
+    },
+    "5027": {
+        "IMG": "Texture/Fish/5027",
+        "TITLE": {
+            "cn": "锯齿鲤",
+            "en": "Razortooth",
+            "tw": "鋸齒鯉"
+        }
+    },
+    "5028": {
+        "IMG": "Texture/Fish/5028",
+        "TITLE": {
+            "cn": "条石鲷",
+            "en": "Striped Beakfish",
+            "tw": "條石鯛"
+        }
+    },
+    "5029": {
+        "IMG": "Texture/Fish/5029",
+        "TITLE": {
+            "cn": "鳕鱼",
+            "en": "Cod",
+            "tw": "鱈魚"
+        }
+    },
+    "5030": {
+        "IMG": "Texture/Fish/5030",
+        "TITLE": {
+            "cn": "章鱼",
+            "en": "Octopus",
+            "tw": "章魚"
+        }
+    }
+}

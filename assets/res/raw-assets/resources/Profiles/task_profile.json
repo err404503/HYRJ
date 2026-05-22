@@ -1,0 +1,353 @@
+{
+    "1": {
+        "TITLE": {
+            "cn": "寻找食物",
+            "en": "Searching for food",
+            "tw": "尋找食物"
+        },
+        "TIPS": {
+            "cn": "去乱石林狩猎野兽，收集一些野兽的肉回来",
+            "en": "to the Stony Forest to hunt for beasts and bring some beast meat back",
+            "tw": "去亂石林狩獵野獸，收集一些野獸的肉回來"
+        },
+        "COND": {},
+        "COMP": {
+            "1004": {
+                "4020": 4
+            }
+        }
+    },
+    "2": {
+        "TITLE": {
+            "cn": "制作火把",
+            "en": "Craft Torch",
+            "tw": "制作火把"
+        },
+        "TIPS": {
+            "cn": "在一片陌生的荒野生活很容易迷路，制造并装备一个火把能极大程度降低迷路的概率。鱼油或者树脂都可以用来制造火把",
+            "en": "It is very easy to get lost living in an unknown wilderness. Making a flame torch can significantly lower the chances of getting lost. Both fish oil and tree sap can be used to make a flame torch",
+            "tw": "在一片陌生的荒野生活很容易迷路，制造並裝備一個火把能極大程度降低迷路的概率。魚油或者樹脂都可以用來制造火把"
+        },
+        "COND": {
+            "1004": {
+                "4028": 1
+            }
+        },
+        "COMP": {
+            "1004": {
+                "4114": 1
+            }
+        }
+    },
+    "3": {
+        "TITLE": {
+            "cn": "建造火堆",
+            "en": "Building a bonfire",
+            "tw": "建造火堆"
+        },
+        "TIPS": {
+            "cn": "吃生食会造成内伤感染，建造一个简易的火堆来烹饪食物",
+            "en": "Eating raw food can cause internal injury and infection. Build a simple bonfire to cook food",
+            "tw": "吃生食會造成內傷感染，建造一個簡易的火堆來烹飪食物"
+        },
+        "COND": {
+            "1003": {
+                "2": 1
+            },
+            "1004": {
+                "4020": 4
+            }
+        },
+        "COMP": {
+            "1010": {
+                "3002": 1
+            }
+        }
+    },
+    "4": {
+        "TITLE": {
+            "cn": "恢复精神",
+            "en": "Recovering energy",
+            "tw": "恢復精神"
+        },
+        "TIPS": {
+            "cn": "精神过低会带来一系列不良状态，睡觉是唯一的恢复精神值的途径",
+            "en": "A severe lack of energy can bring a whole array of bad health risks. Energy can only be recovered with sleep",
+            "tw": "精神過低會帶來一系列不良狀態，睡覺是唯一的恢復精神值的途徑"
+        },
+        "COND": {
+            "1004": {
+                "4100": 1
+            },
+            "1009": {
+                "7000": {
+                    "MIN": 0,
+                    "MAX": 50
+                }
+            }
+        },
+        "COMP": {
+            "1009": {
+                "7000": {
+                    "MIN": 70,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "5": {
+        "TITLE": {
+            "cn": "制作斧头",
+            "en": "Craft Axe",
+            "tw": "制作斧頭"
+        },
+        "TIPS": {
+            "cn": "斧头可以用来砍伐植物，也可以用来攻击野兽，制造一把石斧在荒野之中非常必要，点击营地中的工具台制造你的第一把石斧。",
+            "en": "The axe could be used to cut down plants and attacking beasts. It is essential to build a stone axe in the wilderness. Click on the tool desk inside the camp site to make your first stone axe.",
+            "tw": "斧頭可以用來砍伐植物，也可以用來攻擊野獸，制造一把石斧在荒野之中非常必要，點擊營地中的工具臺制造你的第一把石斧。"
+        },
+        "COND": {
+            "1010": {
+                "3002": 1
+            }
+        },
+        "COMP": {
+            "1004": {
+                "4100": 1
+            }
+        }
+    },
+    "6": {
+        "TITLE": {
+            "cn": "烤肉充饥",
+            "en": "Grill some meat to eat",
+            "tw": "烤肉充饑"
+        },
+        "TIPS": {
+            "cn": "饥饿会影响睡眠的恢复效果，过于饥饿会造成内伤。尽量不要吃生食，把在乱石林收集到的生肉在火堆上烤熟食用可回复饥饿度。务必要时刻关注饥饿度，不要过于饥饿。",
+            "en": "Hunger can affect sleep and rate of recovery and extreme hunger can cause internal damage. Try to stay away from raw food. Eating cooked meat brought back from the stony forest can decrease hunger. You must keep a constant eye on your hunger. Do not allow extreme hunger.",
+            "tw": "饑餓會影響睡眠的恢復效果，過於饑餓會造成內傷。盡量不要吃生食，把在亂石林收集到的生肉在火堆上烤熟食用可回復饑餓度。務必要時刻關註饑餓度，不要過於饑餓。"
+        },
+        "COND": {
+            "1009": {
+                "7006": {
+                    "MIN": 0,
+                    "MAX": 40
+                }
+            }
+        },
+        "COMP": {
+            "1009": {
+                "7006": {
+                    "MIN": 60,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "7": {
+        "TITLE": {
+            "cn": "控制循环",
+            "en": "Control the circulation",
+            "tw": "控制循環"
+        },
+        "TIPS": {
+            "cn": "有些地点在被探索完毕之后将成为可持续资源点，能够持续再生部分资源，剩余数量越多再生速度越快，但有其上限。不同资源之间有相互促进或者抑制的关系。可持续的资源点图标略有不同，瀑布就是这样的资源点，去查看一下。",
+            "en": "After exploring some locations, they may become a sustainable resource location that could replenish some resources continuously. The higher the number left, the faster it will be replenished however there is a maximum rate. Different resources could affect each other's rate of replenishment in a positive or negative way. The symbols for the locations of resource replenishment are slightly different. This is the one for the waterfall, go and check it out.",
+            "tw": "有些地點在被探索完畢之後將成為可持續資源點，能夠持續再生部分資源，剩余數量越多再生速度越快，但有其上限。不同資源之間有相互促進或者抑制的關系。可持續的資源點圖標略有不同，瀑布就是這樣的資源點，去查看一下。"
+        },
+        "COND": {
+            "1003": [
+                {
+                    "8": {
+                        "UNLOCK": true,
+                        "COMPLETE": false
+                    }
+                }
+            ]
+        },
+        "COMP": {
+            "1003": [
+                {
+                    "8": {
+                        "UNLOCK": true,
+                        "COMPLETE": true
+                    }
+                }
+            ]
+        }
+    },
+    "8": {
+        "TITLE": {
+            "cn": "建造药盒",
+            "en": "Building First Aid Kit",
+            "tw": "建造藥盒"
+        },
+        "TIPS": {
+            "cn": "在荒野中，不可避免遭遇内外伤或者失眠，建造一个药盒能够制作简单的药物来缓解伤痛，也可以通过泡茶来缓解失眠。在营地找到药盒的位置开始建造。",
+            "en": "It is impossible to prevent internal/external injuries and insomnia in the wilderness. Build a First Aid Kit which can be used to make medicine to relieve pain. You can also drink tea to lessen the effects of insomnia. Start the building process in the location within the camp where you found the First Aid Kit.",
+            "tw": "在荒野中，不可避免遭遇內外傷或者失眠，建造一個藥盒能夠制作簡單的藥物來緩解傷痛，也可以通過泡茶來緩解失眠。在營地找到藥盒的位置開始建造。"
+        },
+        "COND": {
+            "1003": [
+                {
+                    "8": {
+                        "UNLOCK": true,
+                        "COMPLETE": true
+                    }
+                }
+            ],
+            "1004": {
+                "4003": 1
+            }
+        },
+        "COMP": {
+            "1010": {
+                "3004": 1
+            }
+        }
+    },
+    "9": {
+        "TITLE": {
+            "cn": "治疗外伤",
+            "en": "Treating external injuries",
+            "tw": "治療外傷"
+        },
+        "TIPS": {
+            "cn": "战斗、意外事故会引发外伤，外伤会引发内伤导致损血，你的外伤已经很严重了，快使用药物治疗外伤。绷带和药酒可显著治疗外伤，制造绷带需要的药草和藤条可以在灌木丛和瀑布等地方收集到。",
+            "en": "Battles and accidents could cause external injuries which could lead to internal injures and eventually cause loss of blood. Your external injury is quite serious already so quickly treat your injuries with medicine. The bandage and ointment could greatly improve external injuries. You can find materials needed to make bandage such as herb and tanglevines in the thicket area and waterfall area etc.",
+            "tw": "戰鬥、意外事故會引發外傷，外傷會引發內傷導致損血，你的外傷已經很嚴重了，快使用藥物治療外傷。繃帶和藥酒可顯著治療外傷，制造繃帶需要的藥草和藤條可以在灌木叢和瀑布等地方收集到。"
+        },
+        "COND": {
+            "1009": {
+                "7004": {
+                    "MIN": 0,
+                    "MAX": 70
+                },
+                "7005": {
+                    "MIN": 70,
+                    "MAX": 100
+                }
+            }
+        },
+        "COMP": {
+            "1009": {
+                "7004": {
+                    "MIN": 95,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "10": {
+        "TITLE": {
+            "cn": "治疗内伤",
+            "en": "Treating internal injuries",
+            "tw": "治療內傷"
+        },
+        "TIPS": {
+            "cn": "吃生食、低温、长期外伤都会引发内伤，内伤过重会导致生命迅速流逝，你的内伤已经很严重了，赶紧治疗内伤。服用汤药或者直接食用药草都可治疗内伤，但汤药效果更好。制造汤药所需的水和草药可以在灌木丛中找到。",
+            "en": "Eating raw food, low temperatures, prolonged external injuries can all cause internal injuries. Extreme internal energies can quickly cause death. Your internal injury is quite serious already so quickly treat it. Drinking medicinal brew and eating herb can both treat internal injuries but medicinal brew is more effective. You can find materials needed to make the medicinal brew such as water and medical herbs in the thicket area.",
+            "tw": "吃生食、低溫、長期外傷都會引發內傷，內傷過重會導致生命迅速流逝，你的內傷已經很嚴重了，趕緊治療內傷。服用湯藥或者直接食用藥草都可治療內傷，但湯藥效果更好。制造湯藥所需的水和草藥可以在灌木叢中找到。"
+        },
+        "COND": {
+            "1009": {
+                "7004": {
+                    "MIN": 70,
+                    "MAX": 100
+                },
+                "7005": {
+                    "MIN": 0,
+                    "MAX": 70
+                }
+            }
+        },
+        "COMP": {
+            "1009": {
+                "7005": {
+                    "MIN": 95,
+                    "MAX": 100
+                }
+            }
+        }
+    },
+    "11": {
+        "TITLE": {
+            "cn": "解除失眠",
+            "en": "Curing insomnia",
+            "tw": "解除失眠"
+        },
+        "TIPS": {
+            "cn": "失眠值过高会显著影响睡眠的恢复效果，尽量保持规律作息，当失眠值过高时注意服用薄荷茶或者蜂蜜。薄荷茶可以在药盒制造，所需的材料灌木丛可以收集到。",
+            "en": "A high insomnia rating will greatly lower the recovery rate when sleeping. Try to maintain a good sleeping pattern. Be mindful to have mint tea and honey when your insomnia ratings are too high. The First Aid Kit could be used to make mint tea and materials needed could be found in the thicket area.",
+            "tw": "失眠值過高會顯著影響睡眠的恢復效果，盡量保持規律作息，當失眠值過高時註意服用薄荷茶或者蜂蜜。薄荷茶可以在藥盒制造，所需的材料灌木叢可以收集到。"
+        },
+        "COND": {
+            "1009": {
+                "7001": {
+                    "MIN": 70,
+                    "MAX": 100
+                }
+            }
+        },
+        "COMP": {
+            "1009": {
+                "7001": {
+                    "MIN": 0,
+                    "MAX": 30
+                }
+            }
+        }
+    },
+    "12": {
+        "TITLE": {
+            "cn": "恢复生命",
+            "en": "Recover HP",
+            "tw": "恢復生命"
+        },
+        "TIPS": {
+            "cn": "生命值一旦降低到0就会死亡，可通过睡眠恢复生命，但睡眠前请注意其他例如饥饿外伤内伤失眠值等状态，以保证睡眠能正常恢复生命值。试着恢复一下生命。",
+            "en": "You will die when your HP goes down to zero. Sleep can recover HP, however before you sleep you need to keep an eye out for the rate of hunger, internal and external injuries and insomnia to make sure that sleep can successfully recover HP. Try to recover some HP.",
+            "tw": "生命值一旦降低到0就會死亡，可通過睡眠恢復生命，但睡眠前請註意其他例如饑餓外傷內傷失眠值等狀態，以保證睡眠能正常恢復生命值。試著恢復一下生命。"
+        },
+        "COND": {
+            "1009": {
+                "7003": {
+                    "MIN": 0,
+                    "MAX": 250
+                }
+            }
+        },
+        "COMP": {
+            "1009": {
+                "7003": {
+                    "MIN": 320,
+                    "MAX": 450
+                }
+            }
+        }
+    },
+    "13": {
+        "TITLE": {
+            "cn": "逃出生天",
+            "en": "Escape into the sky",
+            "tw": "逃出生天"
+        },
+        "TIPS": {
+            "cn": "了解了荒野生存的基本知识，在保证能生存的前提下，尽情探索并逃出荒野。",
+            "en": "Understood the knowledge of surviving in the wilderness. On the basis that you can survive, explore as much as you can to escape the wilderness.",
+            "tw": "了解了荒野生存的基本知識，在保證能生存的前提下，盡情探索並逃出荒野。"
+        },
+        "COND": {
+            "1002": 10
+        },
+        "COMP": {
+            "1009": {
+                "7003": {
+                    "MIN": 500,
+                    "MAX": 1000
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "5031": {
+        "ID": "5031",
+        "NAME": {
+            "cn": "水蟒",
+            "en": "Water Boa",
+            "tw": "水蟒"
+        },
+        "PIC": "Texture/Monster/1021",
+        "MONSTER": [
+            1021,
+            1021
+        ],
+        "DANGER": "3",
+        "DROP_ID": 7000,
+        "DESC": {
+            "cn": "你感觉有东西上钩了，一拉鱼竿没想到是两条水蟒",
+            "en": "Something on the fishing line and after reeling it in, you are surprised with 2 water boas",
+            "tw": "你感覺有東西上鉤了，一拉魚竿沒想到是兩條水蟒"
+        },
+        "DESC1": "",
+        "DESC2": {
+            "cn": "你成功击败了水蟒",
+            "en": "You've defeated Water Boa",
+            "tw": "你成功擊敗了水蟒"
+        }
+    },
+    "5032": {
+        "ID": "5032",
+        "NAME": {
+            "cn": "食人鱼",
+            "en": "Piranha",
+            "tw": "食人魚"
+        },
+        "PIC": "Texture/Monster/1012",
+        "MONSTER": [
+            1012,
+            1012,
+            1012
+        ],
+        "DANGER": "4",
+        "DROP_ID": 7001,
+        "DESC": {
+            "cn": "生肉的血腥引来了一群食人鱼，你连忙应战",
+            "en": "The bloody aroma of raw meat has attracted a group of piranhas. Defend yourself",
+            "tw": "生肉的血腥引來了一群食人魚，你連忙應戰"
+        },
+        "DESC1": "",
+        "DESC2": {
+            "cn": "你成功击败了食人鱼群",
+            "en": "You've defeated Piranha Pack",
+            "tw": "你成功擊敗了食人魚群"
+        }
+    },
+    "5033": {
+        "ID": "5033",
+        "NAME": {
+            "cn": "鳄鱼",
+            "en": "Crocodile",
+            "tw": "鱷魚"
+        },
+        "PIC": "Texture/Monster/1018",
+        "MONSTER": [
+            1018,
+            1018
+        ],
+        "DANGER": "7",
+        "DROP_ID": 7002,
+        "DESC": {
+            "cn": "在你专心钓鱼的时候，两只鳄鱼突然向你发起攻击",
+            "en": "While you're focused on fishing, two crocodiles thrash out of the waters and attack you",
+            "tw": "在你專心釣魚的時候，兩只鱷魚突然向你發起攻擊"
+        },
+        "DESC1": "",
+        "DESC2": {
+            "cn": "你成功击败了鳄鱼",
+            "en": "You've defeated Crocodile",
+            "tw": "你成功擊敗了鱷魚"
+        }
+    },
+    "5034": {
+        "ID": "5034",
+        "NAME": {
+            "cn": "鳄鱼",
+            "en": "Crocodile",
+            "tw": "鱷魚"
+        },
+        "PIC": "Texture/Monster/1019",
+        "MONSTER": [
+            1018,
+            1019
+        ],
+        "DANGER": "8",
+        "DROP_ID": 7003,
+        "DESC": {
+            "cn": "在你专心钓鱼的时候，两只鳄鱼突然向你发起攻击",
+            "en": "While you're focused on fishing, two crocodiles thrash out of the waters and attack you",
+            "tw": "在你專心釣魚的時候，兩只鱷魚突然向你發起攻擊"
+        },
+        "DESC1": "",
+        "DESC2": {
+            "cn": "你成功击败了鳄鱼",
+            "en": "You've defeated Crocodile",
+            "tw": "你成功擊敗了鱷魚"
+        }
+    },
+    "5035": {
+        "ID": "5035",
+        "NAME": {
+            "cn": "鲨鱼",
+            "en": "Shark",
+            "tw": "鯊魚"
+        },
+        "PIC": "Texture/Monster/1031",
+        "MONSTER": [
+            1031,
+            1031,
+            1031
+        ],
+        "DANGER": "5",
+        "DROP_ID": 7004,
+        "DESC": {
+            "cn": "你感受到水流的异样，回头一看是几头鲨鱼向你冲了过来",
+            "en": "You feel the water current change and turn back to see some sharks charging towards you",
+            "tw": "你感受到水流的異樣，回頭一看是幾頭鯊魚向你沖了過來"
+        },
+        "DESC1": "",
+        "DESC2": {
+            "cn": "你成功击败了鲨鱼",
+            "en": "You've successfully defeated Shark",
+            "tw": "你成功擊敗了鯊魚"
+        }
+    }
+}

@@ -1,0 +1,1090 @@
+{
+    "4000": {
+        "IMG": "Texture/Item/4000",
+        "TITLE": {
+            "cn": "石块",
+            "en": "Stone",
+            "tw": "石塊"
+        }
+    },
+    "4001": {
+        "IMG": "Texture/Item/4001",
+        "TITLE": {
+            "cn": "阔叶",
+            "en": "Broad Leaf",
+            "tw": "闊葉"
+        }
+    },
+    "4002": {
+        "IMG": "Texture/Item/4002",
+        "TITLE": {
+            "cn": "淡水",
+            "en": "Fresh Water",
+            "tw": "淡水"
+        }
+    },
+    "4003": {
+        "IMG": "Texture/Item/4003",
+        "TITLE": {
+            "cn": "藤条",
+            "en": "Tanglevine",
+            "tw": "藤條"
+        }
+    },
+    "4004": {
+        "IMG": "Texture/Item/4004",
+        "TITLE": {
+            "cn": "木材",
+            "en": "Timber",
+            "tw": "木材"
+        }
+    },
+    "4005": {
+        "IMG": "Texture/Item/4005",
+        "TITLE": {
+            "cn": "石片",
+            "en": "Stone Slab",
+            "tw": "石片"
+        }
+    },
+    "4007": {
+        "IMG": "Texture/Item/4007",
+        "TITLE": {
+            "cn": "铁矿",
+            "en": "Iron",
+            "tw": "鐵礦"
+        }
+    },
+    "4011": {
+        "IMG": "Texture/Item/4011",
+        "TITLE": {
+            "cn": "兽皮",
+            "en": "Beast Hide",
+            "tw": "獸皮"
+        }
+    },
+    "4012": {
+        "IMG": "Texture/Item/4012",
+        "TITLE": {
+            "cn": "兽筋",
+            "en": "Beast Tendon",
+            "tw": "獸筋"
+        }
+    },
+    "4013": {
+        "IMG": "Texture/Item/4013",
+        "TITLE": {
+            "cn": "药草",
+            "en": "Herb",
+            "tw": "藥草"
+        }
+    },
+    "4016": {
+        "IMG": "Texture/Item/4016",
+        "TITLE": {
+            "cn": "绷带",
+            "en": "Bandage",
+            "tw": "繃帶"
+        }
+    },
+    "4017": {
+        "IMG": "Texture/Item/4017",
+        "TITLE": {
+            "cn": "汤药",
+            "en": "Medicinal Brew",
+            "tw": "湯藥"
+        }
+    },
+    "4018": {
+        "IMG": "Texture/Item/4018",
+        "TITLE": {
+            "cn": "急救丸",
+            "en": "Emergency Pill",
+            "tw": "急救丸"
+        }
+    },
+    "4019": {
+        "IMG": "Texture/Item/4019",
+        "TITLE": {
+            "cn": "药酒",
+            "en": "Ointment",
+            "tw": "藥酒"
+        }
+    },
+    "4020": {
+        "IMG": "Texture/Item/4020",
+        "TITLE": {
+            "cn": "生肉",
+            "en": "Raw Meat",
+            "tw": "生肉"
+        }
+    },
+    "4021": {
+        "IMG": "Texture/Item/4021",
+        "TITLE": {
+            "cn": "椰子",
+            "en": "Coconut",
+            "tw": "椰子"
+        }
+    },
+    "4022": {
+        "IMG": "Texture/Item/4022",
+        "TITLE": {
+            "cn": "薄荷",
+            "en": "Mint",
+            "tw": "薄荷"
+        }
+    },
+    "4024": {
+        "IMG": "Texture/Item/4024",
+        "TITLE": {
+            "cn": "薄荷茶",
+            "en": "Mint Tea",
+            "tw": "薄荷茶"
+        }
+    },
+    "4025": {
+        "IMG": "Texture/Item/4025",
+        "TITLE": {
+            "cn": "烤肉",
+            "en": "Roast Meat",
+            "tw": "烤肉"
+        }
+    },
+    "4026": {
+        "IMG": "Texture/Item/4026",
+        "TITLE": {
+            "cn": "肉汤",
+            "en": "Meat Soup",
+            "tw": "肉湯"
+        }
+    },
+    "4027": {
+        "IMG": "Texture/Item/4027",
+        "TITLE": {
+            "cn": "宠物口粮",
+            "en": "Pet Feed",
+            "tw": "寵物口糧"
+        }
+    },
+    "4028": {
+        "IMG": "Texture/Item/4028",
+        "TITLE": {
+            "cn": "树脂",
+            "en": "Sap",
+            "tw": "樹脂"
+        }
+    },
+    "4029": {
+        "IMG": "Texture/Item/4029",
+        "TITLE": {
+            "cn": "珍珠",
+            "en": "Pearl",
+            "tw": "珍珠"
+        }
+    },
+    "4030": {
+        "IMG": "Texture/Item/4030",
+        "TITLE": {
+            "cn": "木炭",
+            "en": "Charcoal",
+            "tw": "木炭"
+        }
+    },
+    "4031": {
+        "IMG": "Texture/Item/4031",
+        "TITLE": {
+            "cn": "粘土",
+            "en": "Clay",
+            "tw": "粘土"
+        }
+    },
+    "4032": {
+        "IMG": "Texture/Item/4032",
+        "TITLE": {
+            "cn": "软金",
+            "en": "Alloy",
+            "tw": "軟金"
+        }
+    },
+    "4033": {
+        "IMG": "Texture/Item/4033",
+        "TITLE": {
+            "cn": "羊毛",
+            "en": "Wool",
+            "tw": "羊毛"
+        }
+    },
+    "4034": {
+        "IMG": "Texture/Item/4034",
+        "TITLE": {
+            "cn": "硫磺",
+            "en": "Sulphur",
+            "tw": "硫磺"
+        }
+    },
+    "4035": {
+        "IMG": "Texture/Item/4035",
+        "TITLE": {
+            "cn": "硝石",
+            "en": "Saltpeter",
+            "tw": "硝石"
+        }
+    },
+    "4036": {
+        "IMG": "Texture/Item/4036",
+        "TITLE": {
+            "cn": "竹子",
+            "en": "Bamboo",
+            "tw": "竹子"
+        }
+    },
+    "4037": {
+        "IMG": "Texture/Item/4037",
+        "TITLE": {
+            "cn": "酒精",
+            "en": "Alcohol",
+            "tw": "酒精"
+        }
+    },
+    "4038": {
+        "IMG": "Texture/Item/4038",
+        "TITLE": {
+            "cn": "蜂蜜",
+            "en": "Honey",
+            "tw": "蜂蜜"
+        }
+    },
+    "4039": {
+        "IMG": "Texture/Item/4039",
+        "TITLE": {
+            "cn": "人参",
+            "en": "Ginseng",
+            "tw": "人參"
+        }
+    },
+    "4040": {
+        "IMG": "Texture/Item/4040",
+        "TITLE": {
+            "cn": "烤土豆",
+            "en": "Baked Potato",
+            "tw": "烤土豆"
+        }
+    },
+    "4041": {
+        "IMG": "Texture/Item/4041",
+        "TITLE": {
+            "cn": "土豆泥",
+            "en": "Mashed Potato",
+            "tw": "土豆泥"
+        }
+    },
+    "4042": {
+        "IMG": "Texture/Item/4042",
+        "TITLE": {
+            "cn": "土豆酒",
+            "en": "Potato Wine",
+            "tw": "土豆酒"
+        }
+    },
+    "4043": {
+        "IMG": "Texture/Item/4043",
+        "TITLE": {
+            "cn": "秘制炖肉",
+            "en": "Secret Stew",
+            "tw": "秘制燉肉"
+        }
+    },
+    "4044": {
+        "IMG": "Texture/Item/4044",
+        "TITLE": {
+            "cn": "土豆",
+            "en": "Potato",
+            "tw": "土豆"
+        }
+    },
+    "4047": {
+        "IMG": "Texture/Item/4047",
+        "TITLE": {
+            "cn": "特殊的帆布",
+            "en": "Special Canvas",
+            "tw": "特殊的帆布"
+        }
+    },
+    "4048": {
+        "IMG": "Texture/Item/4048",
+        "TITLE": {
+            "cn": "海盗船",
+            "en": "Pirate Ship",
+            "tw": "海盜船"
+        }
+    },
+    "4049": {
+        "IMG": "Texture/Item/4049",
+        "TITLE": {
+            "cn": "铁锭",
+            "en": "Iron Ingot",
+            "tw": "鐵錠"
+        }
+    },
+    "4050": {
+        "IMG": "Texture/Item/4050",
+        "TITLE": {
+            "cn": "油料",
+            "en": "Oilseed",
+            "tw": "油料"
+        }
+    },
+    "4051": {
+        "IMG": "Texture/Item/4051",
+        "TITLE": {
+            "cn": "结实的木材",
+            "en": "Sturdy Timber",
+            "tw": "結實的木材"
+        }
+    },
+    "4061": {
+        "IMG": "Texture/Item/4061",
+        "TITLE": {
+            "cn": "赤色圆球",
+            "en": "Red Orb",
+            "tw": "赤色圓球"
+        }
+    },
+    "4062": {
+        "IMG": "Texture/Item/4062",
+        "TITLE": {
+            "cn": "橙色圆球",
+            "en": "Orange Orb",
+            "tw": "橙色圓球"
+        }
+    },
+    "4063": {
+        "IMG": "Texture/Item/4063",
+        "TITLE": {
+            "cn": "黄色圆球",
+            "en": "Yellow Orb",
+            "tw": "黃色圓球"
+        }
+    },
+    "4064": {
+        "IMG": "Texture/Item/4064",
+        "TITLE": {
+            "cn": "绿色圆球",
+            "en": "Cyan Orb",
+            "tw": "綠色圓球"
+        }
+    },
+    "4065": {
+        "IMG": "Texture/Item/4065",
+        "TITLE": {
+            "cn": "青色圆球",
+            "en": "Green Orb",
+            "tw": "青色圓球"
+        }
+    },
+    "4066": {
+        "IMG": "Texture/Item/4066",
+        "TITLE": {
+            "cn": "蓝色圆球",
+            "en": "Blue Orb",
+            "tw": "藍色圓球"
+        }
+    },
+    "4067": {
+        "IMG": "Texture/Item/4067",
+        "TITLE": {
+            "cn": "紫色圆球",
+            "en": "Violet Orb",
+            "tw": "紫色圓球"
+        }
+    },
+    "4068": {
+        "IMG": "Texture/Item/4068",
+        "TITLE": {
+            "cn": "仙豆",
+            "en": "Magic Bean",
+            "tw": "仙豆"
+        }
+    },
+    "4070": {
+        "IMG": "Texture/Item/4070",
+        "TITLE": {
+            "cn": "荒野烤肉",
+            "en": "Wild Roast Meat",
+            "tw": "荒野烤肉"
+        }
+    },
+    "4071": {
+        "IMG": "Texture/Item/4071",
+        "TITLE": {
+            "cn": "羽毛",
+            "en": "Feather",
+            "tw": "羽毛"
+        }
+    },
+    "4072": {
+        "IMG": "Texture/Item/4072",
+        "TITLE": {
+            "cn": "毒液",
+            "en": "Poison",
+            "tw": "毒液"
+        }
+    },
+    "4073": {
+        "IMG": "Texture/Item/4073",
+        "TITLE": {
+            "cn": "背鳍",
+            "en": "Dorsal Fin",
+            "tw": "背鰭"
+        }
+    },
+    "4074": {
+        "IMG": "Texture/Item/4074",
+        "TITLE": {
+            "cn": "鱼油",
+            "en": "Fish Oil",
+            "tw": "魚油"
+        }
+    },
+    "4075": {
+        "IMG": "Texture/Item/4075",
+        "TITLE": {
+            "cn": "石板",
+            "en": "Slabstone",
+            "tw": "石板"
+        }
+    },
+    "4076": {
+        "IMG": "Texture/Item/4076",
+        "TITLE": {
+            "cn": "荒野秘宝",
+            "en": "Wasteland Treasure",
+            "tw": "荒野秘寶"
+        }
+    },
+    "4077": {
+        "IMG": "Texture/Item/4077",
+        "TITLE": {
+            "cn": "绳索",
+            "en": "Rope",
+            "tw": "繩索"
+        }
+    },
+    "4078": {
+        "IMG": "Texture/Item/4078",
+        "TITLE": {
+            "cn": "祭品",
+            "en": "Tribute",
+            "tw": "祭品"
+        }
+    },
+    "4079": {
+        "IMG": "Texture/Item/4079",
+        "TITLE": {
+            "cn": "弹药制造图纸",
+            "en": "Ammo Design",
+            "tw": "彈藥制造圖紙"
+        }
+    },
+    "4081": {
+        "IMG": "Texture/Item/4081",
+        "TITLE": {
+            "cn": "咸鱼干",
+            "en": "Salted Fish",
+            "tw": "鹹魚幹"
+        }
+    },
+    "4082": {
+        "IMG": "Texture/Item/4082",
+        "TITLE": {
+            "cn": "烟熏肉",
+            "en": "Smoked Meat",
+            "tw": "煙熏肉"
+        }
+    },
+    "4083": {
+        "IMG": "Texture/Item/4083",
+        "TITLE": {
+            "cn": "兽血乱炖",
+            "en": "Assort Animal Stew",
+            "tw": "獸血亂燉"
+        }
+    },
+    "4084": {
+        "IMG": "Texture/Item/4084",
+        "TITLE": {
+            "cn": "青草膏",
+            "en": "Grass Cream",
+            "tw": "青草膏"
+        }
+    },
+    "4085": {
+        "IMG": "Texture/Item/4085",
+        "TITLE": {
+            "cn": "膏药",
+            "en": "Medical Cream",
+            "tw": "膏藥"
+        }
+    },
+    "4086": {
+        "IMG": "Texture/Item/4086",
+        "TITLE": {
+            "cn": "大补丸",
+            "en": "Tonic Pill",
+            "tw": "大補丸"
+        }
+    },
+    "4087": {
+        "IMG": "Texture/Item/4087",
+        "TITLE": {
+            "cn": "女巫的药丸",
+            "en": "Witch's Pill",
+            "tw": "女巫的藥丸"
+        }
+    },    
+    "4088_0": {
+        "IMG": "Texture/Item/4088_0",
+        "TITLE": {
+            "cn": "未知果实",
+            "en": "Unidentified Fruit",
+            "tw": "未知果實"
+        }
+    },
+    "4100": {
+        "IMG": "Texture/Item/4100",
+        "TITLE": {
+            "cn": "石斧",
+            "en": "Stone Axe",
+            "tw": "石斧"
+        }
+    },
+    "4101": {
+        "IMG": "Texture/Item/4101",
+        "TITLE": {
+            "cn": "匕首",
+            "en": "Dagger",
+            "tw": "匕首"
+        }
+    },
+    "4103": {
+        "IMG": "Texture/Item/4103",
+        "TITLE": {
+            "cn": "武士刀",
+            "en": "Samurai Sword",
+            "tw": "武士刀"
+        }
+    },
+    "4104": {
+        "IMG": "Texture/Item/4104",
+        "TITLE": {
+            "cn": "硬竹弩",
+            "en": "Bamboo Crossbow",
+            "tw": "硬竹弩"
+        }
+    },
+    "4105": {
+        "IMG": "Texture/Item/4105",
+        "TITLE": {
+            "cn": "短弓",
+            "en": "Shortbow",
+            "tw": "短弓"
+        }
+    },
+    "4106": {
+        "IMG": "Texture/Item/4106",
+        "TITLE": {
+            "cn": "硬竹弓",
+            "en": "Bamboo Bow",
+            "tw": "硬竹弓"
+        }
+    },
+    "4107": {
+        "IMG": "Texture/Item/4107",
+        "TITLE": {
+            "cn": "箭矢",
+            "en": "Arrow",
+            "tw": "箭矢"
+        }
+    },
+    "4109": {
+        "IMG": "Texture/Item/4109",
+        "TITLE": {
+            "cn": "皮甲",
+            "en": "Leather Armor",
+            "tw": "皮甲"
+        }
+    },
+    "4112": {
+        "IMG": "Texture/Item/4112",
+        "TITLE": {
+            "cn": "双刃斧",
+            "en": "Raider Axe",
+            "tw": "雙刃斧"
+        }
+    },
+    "4113": {
+        "IMG": "Texture/Item/4113",
+        "TITLE": {
+            "cn": "长枪",
+            "en": "Spear",
+            "tw": "長槍"
+        }
+    },
+    "4114": {
+        "IMG": "Texture/Item/4114",
+        "TITLE": {
+            "cn": "火把",
+            "en": "Torch",
+            "tw": "火把"
+        }
+    },
+    "4115": {
+        "IMG": "Texture/Item/4115",
+        "TITLE": {
+            "cn": "重连弩",
+            "en": "Repeating Crossbow",
+            "tw": "重連弩"
+        }
+    },
+    "4116": {
+        "IMG": "Texture/Item/4116",
+        "TITLE": {
+            "cn": "藤甲",
+            "en": "Vine Armor",
+            "tw": "藤甲"
+        }
+    },
+    "4117": {
+        "IMG": "Texture/Item/4117",
+        "TITLE": {
+            "cn": "竹筒炸药",
+            "en": "Bamboo Explosive",
+            "tw": "竹筒炸藥"
+        }
+    },
+    "4118": {
+        "IMG": "Texture/Item/4118",
+        "TITLE": {
+            "cn": "精致炸药",
+            "en": "Precision Explosive",
+            "tw": "精致炸藥"
+        }
+    },
+    "4119": {
+        "IMG": "Texture/Item/4119",
+        "TITLE": {
+            "cn": "老贝的草裙",
+            "en": "Bain's Kilt",
+            "tw": "老貝的草裙"
+        }
+    },
+    "4120": {
+        "IMG": "Texture/Item/4120",
+        "TITLE": {
+            "cn": "朱莉的长弓",
+            "en": "Julie's Longbow",
+            "tw": "朱莉的長弓"
+        }
+    },
+    "4123": {
+        "IMG": "Texture/Item/4123",
+        "TITLE": {
+            "cn": "毒羽箭",
+            "en": "Poison Arrow",
+            "tw": "毒羽箭"
+        }
+    },
+    "4124": {
+        "IMG": "Texture/Item/4124",
+        "TITLE": {
+            "cn": "小哥的手电",
+            "en": "Torchlight",
+            "tw": "小哥的手電"
+        }
+    },
+    "4125": {
+        "IMG": "Texture/Item/4125",
+        "TITLE": {
+            "cn": "燧发枪",
+            "en": "Flintlock",
+            "tw": "燧發槍"
+        }
+    },
+    "4126": {
+        "IMG": "Texture/Item/4126",
+        "TITLE": {
+            "cn": "弹药",
+            "en": "Ammo",
+            "tw": "彈藥"
+        }
+    },
+    "4127": {
+        "IMG": "Texture/Item/4127",
+        "TITLE": {
+            "cn": "毒刃斧",
+            "en": "Poison Axe",
+            "tw": "毒刃斧"
+        }
+    },
+    "4128": {
+        "IMG": "Texture/Item/4128",
+        "TITLE": {
+            "cn": "毒竹枪",
+            "en": "Poison Spear",
+            "tw": "毒竹槍"
+        }
+    },
+    "4129": {
+        "IMG": "Texture/Item/4129",
+        "TITLE": {
+            "cn": "利刃斧",
+            "en": "Sharp Axe",
+            "tw": "利刃斧"
+        }
+    },
+    "4130": {
+        "IMG": "Texture/Item/4130",
+        "TITLE": {
+            "cn": "锋利竹枪",
+            "en": "Sharp Bamboo Spear",
+            "tw": "鋒利竹槍"
+        }
+    },
+    "4131": {
+        "IMG": "Texture/Item/4131",
+        "TITLE": {
+            "cn": "投掷飞刀",
+            "en": "Throwing Dart",
+            "tw": "投擲飛刀"
+        }
+    },
+    "4132": {
+        "IMG": "Texture/Item/4132",
+        "TITLE": {
+            "cn": "毒液炸药",
+            "en": "Poison Explosive",
+            "tw": "毒液炸藥"
+        }
+    },
+    "4133": {
+        "IMG": "Texture/Item/4133",
+        "TITLE": {
+            "cn": "改良的平底锅",
+            "en": "Improved pan",
+            "tw": "改良的平底鍋"
+        }
+    },
+    "4139": {
+        "IMG": "Texture/Item/4139",
+        "TITLE": {
+            "cn": "石锤",
+            "en": "Stone Hammer",
+            "tw": "石錘"
+        }
+    },      
+    "4201": {
+        "IMG": "Texture/Item/4201",
+        "TITLE": {
+            "cn": "友·食",
+            "en": "F·F",
+            "tw": "友·食"
+        }
+    },    
+    "420101": {
+        "IMG": "Texture/Item/420101",
+        "TITLE": {
+            "cn": "礼·食",
+            "en": "G·F",
+            "tw": "禮·食"
+        }
+    },    
+    "4202": {
+        "IMG": "Texture/Item/4202",
+        "TITLE": {
+            "cn": "友·医",
+            "en": "F·M",
+            "tw": "友·医"
+        }
+    },    
+    "420201": {
+        "IMG": "Texture/Item/420201",
+        "TITLE": {
+            "cn": "礼·医",
+            "en": "G·M",
+            "tw": "禮·醫"
+        }
+    },    
+    "4203": {
+        "IMG": "Texture/Item/4203",
+        "TITLE": {
+            "cn": "友·远武",
+            "en": "F·LW",
+            "tw": "友·遠武"
+        }
+    },    
+    "420301": {
+        "IMG": "Texture/Item/420301",
+        "TITLE": {
+            "cn": "礼·远武",
+            "en": "G·LW",
+            "tw": "禮·遠武"
+        }
+    } ,    
+    "4204": {
+        "IMG": "Texture/Item/4204",
+        "TITLE": {
+            "cn": "友·近武",
+            "en": "F·SW",
+            "tw": "友·近武"
+        }
+    },    
+    "420401": {
+        "IMG": "Texture/Item/420401",
+        "TITLE": {
+            "cn": "礼·近武",
+            "en": "G·SW",
+            "tw": "禮·近武"
+        }
+    } ,    
+    "4205": {
+        "IMG": "Texture/Item/4205",
+        "TITLE": {
+            "cn": "友·材",
+            "en": "F·I",
+            "tw": "友·材"
+        }
+    },    
+    "420501": {
+        "IMG": "Texture/Item/420501",
+        "TITLE": {
+            "cn": "礼·材",
+            "en": "G·I",
+            "tw": "禮·材"
+        }
+    },    
+    "4134": {
+        "IMG": "Texture/Item/4134",
+        "TITLE": {
+            "cn": "某人的新衣",
+            "en": "Sb.'s New Clothes",
+            "tw": "某人的新衣"
+        }
+    },    
+    "4135": {
+        "IMG": "Texture/Item/4135",
+        "TITLE": {
+            "cn": "伪袖珍手枪",
+            "en": "Fake Pocket Pistol",
+            "tw": "偽袖珍手槍"
+        }
+    },    
+    "4137": {
+        "IMG": "Texture/Item/4137",
+        "TITLE": {
+            "cn": "杰克之刃",
+            "en": "Jack's Sword",
+            "tw": "傑克之刃"
+        }
+    },  
+    "4139": {
+        "IMG": "Texture/Item/4139",
+        "TITLE": {
+            "cn": "石锤",
+            "en": "Stone Hammer",
+            "tw": "石錘"
+        }
+    },  
+    "4140": {
+        "IMG": "Texture/Item/4140",
+        "TITLE": {
+            "cn": "血匕",
+            "en": "Blood Dagger",
+            "tw": "血匕"
+        }
+    },
+    "4141": {
+        "IMG": "Texture/Item/4141",
+        "TITLE": {
+            "cn": "寒羽箭",
+            "en": "Frost Arrow",
+            "tw": "寒羽箭"
+        }
+    },             
+    "4400": {
+        "IMG": "Texture/Item/4400",
+        "TITLE": {
+            "cn": "小袋粗粮",
+            "en": "Crops",
+            "tw": "小袋粗糧"
+        }
+    },    
+    "4402": {
+        "IMG": "Texture/Item/4402",
+        "TITLE": {
+            "cn": "粗粮粥",
+            "en": "Crops porridge",
+            "tw": "粗糧粥"
+        }
+    },    
+    "4403": {
+        "IMG": "Texture/Item/4403",
+        "TITLE": {
+            "cn": "纸牌",
+            "en": "Cards",
+            "tw": "紙牌"
+        }
+    },    
+    "4404": {
+        "IMG": "Texture/Item/4404",
+        "TITLE": {
+            "cn": "罗盘",
+            "en": "Compass",
+            "tw": "羅盤"
+        }
+    },    
+    "4426": {
+        "IMG": "Texture/Item/4426",
+        "TITLE": {
+            "cn": "赤芝",
+            "en": "Ganoderma lucidum",
+            "tw": "赤芝"
+        }
+    },    
+    "4427": {
+        "IMG": "Texture/Item/4427",
+        "TITLE": {
+            "cn": "木耳",
+            "en": "Fungus",
+            "tw": "木耳"
+        }
+    },    
+    "4428": {
+        "IMG": "Texture/Item/4428",
+        "TITLE": {
+            "cn": "棕色地衣",
+            "en": "Brown lichen",
+            "tw": "棕色地衣"
+        }
+    },    
+    "4429": {
+        "IMG": "Texture/Item/4429",
+        "TITLE": {
+            "cn": "绿色地衣",
+            "en": "Green lichen",
+            "tw": "綠色地衣"
+        }
+    },    
+    "4430": {
+        "IMG": "Texture/Item/4430",
+        "TITLE": {
+            "cn": "黄色地衣",
+            "en": "Yellow lichen",
+            "tw": "黃色地衣"
+        }
+    },    
+    "4431": {
+        "IMG": "Texture/Item/4431",
+        "TITLE": {
+            "cn": "瘤块",
+            "en": "Tumor",
+            "tw": "瘤塊"
+        }
+    },    
+    "4434": {
+        "IMG": "Texture/Item/4434",
+        "TITLE": {
+            "cn": "避毒丸",
+            "en": "Avoiding Toxin Pill",
+            "tw": "避毒丸"
+        }
+    },    
+    "4435": {
+        "IMG": "Texture/Item/4435",
+        "TITLE": {
+            "cn": "暖身丸",
+            "en": "Warm-up Pill",
+            "tw": "暖身丸"
+        }
+    },    
+    "4436": {
+        "IMG": "Texture/Item/4436",
+        "TITLE": {
+            "cn": "强身丸",
+            "en": "Body-sturdy Pill",
+            "tw": "強身丸"
+        }
+    },    
+    "4437": {
+        "IMG": "Texture/Item/4437",
+        "TITLE": {
+            "cn": "军粮丸",
+            "en": "Military Grain Pill",
+            "tw": "軍糧丸"
+        }
+    },    
+    "4438": {
+        "IMG": "Texture/Item/4438",
+        "TITLE": {
+            "cn": "木耳汤",
+            "en": "Fungus Soup",
+            "tw": "木耳湯"
+        }
+    },    
+    "4142": {
+        "IMG": "Texture/Item/4142",
+        "TITLE": {
+            "cn": "驯兽鞭",
+            "en": "Domesticating Whip",
+            "tw": "馴獸鞭"
+        }
+    },    
+    "4143": {
+        "IMG": "Texture/Item/4143",
+        "TITLE": {
+            "cn": "吹箭",
+            "en": "blowpipe Dart",
+            "tw": "吹箭"
+        }
+    },    
+    "4144": {
+        "IMG": "Texture/Item/4144",
+        "TITLE": {
+            "cn": "旧棉衣",
+            "en": "Old Cotton Jacket",
+            "tw": "舊棉衣"
+        }
+    },    
+    "4145": {
+        "IMG": "Texture/Item/4145",
+        "TITLE": {
+            "cn": "机关剑",
+            "en": "mechanical sword",
+            "tw": "機關劍"
+        }
+    },    
+    "4146": {
+        "IMG": "Texture/Item/4146",
+        "TITLE": {
+            "cn": "机关连弩",
+            "en": "mechanical crossbow",
+            "tw": "重連弩"
+        }
+    },    
+    "4147": {
+        "IMG": "Texture/Item/4147",
+        "TITLE": {
+            "cn": "麻痹针",
+            "en": "paralysis needle",
+            "tw": "麻痺針"
+        }
+    },    
+    "4440": {
+        "IMG": "Texture/Item/4440",
+        "TITLE": {
+            "cn": "神经毒素",
+            "en": "Neurotoxin",
+            "tw": "神經毒素"
+        }
+    }   
+}

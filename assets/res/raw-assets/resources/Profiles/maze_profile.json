@@ -1,0 +1,759 @@
+{
+    "1": {
+        "ID": "1",
+        "CODE": [
+            "08080808000000"
+        ],
+        "TITLE": {
+            "cn": "奇异森林",
+            "en": "Occult Forest",
+            "tw": "奇異森林"
+        },
+        "SCENE": {
+            "cn": [
+                "带刺的荆棘",
+                "不知名的树",
+                "很陡的斜坡"
+            ],
+            "en": [
+                "Barbed Vines",
+                "Unknown Tree",
+                "Steep Slope"
+            ],
+            "tw": [
+                "帶刺的荊棘",
+                "不知名的樹",
+                "很陡的斜坡"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 10,
+        "PIC": [
+            1001
+        ],
+        "R_STAGE": [
+            {
+                "NAME": {
+                    "cn": "乱石块",
+                    "en": "Strewn Stones",
+                    "tw": "亂石塊"
+                },
+                "PIC": "Texture/Monster/1204",
+                "OPEN_WAYS": [
+                    "0"
+                ],
+                "DROP_ID": 6001,
+                "DESC": {
+                    "cn": "几堆乱石块零落在那里，选择几块合适的留作他用",
+                    "en": "There are a few piles of strewn stones there that you choose some suitable ones to use later",
+                    "tw": "幾堆亂石塊零落在那裏，選擇幾塊合適的留作他用"
+                },
+                "DESC1": {
+                    "cn": "努力采集中...",
+                    "en": "Furiously harvesting...",
+                    "tw": "努力采集中..."
+                },
+                "DESC2": {
+                    "cn": "你成功采集到了石块",
+                    "en": "You harvested Stone",
+                    "tw": "你成功采集到了石塊"
+                },
+                "LAST_WORDS": {
+                    "TITLE": {
+                        "cn": "石块字迹",
+                        "en": "Stone Writing",
+                        "tw": "石塊字跡"
+                    },
+                    "TIP": {
+                        "cn": "你在挑选合适的石块时，发现有一块石头上刻着什么东西。",
+                        "en": "When choosing the stones, you see a stone with some sort of carvings.",
+                        "tw": "你在挑選合適的石塊時，發現有一塊石頭上刻著什麽東西。"
+                    }
+                }
+            }
+        ],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "幼狼",
+                    "en": "Wolf Cub",
+                    "tw": "幼狼"
+                },
+                "PIC": "Texture/Monster/1002",
+                "MONSTER": [
+                    1001
+                ],
+                "DANGER": "1",
+                "DROP_ID": 0,
+                "DESC": {
+                    "cn": "一只幼狼出现在你的面前，并向你摆出了战斗的姿态",
+                    "en": "A wolf cub appears and is facing you ready for battle",
+                    "tw": "一只幼狼出現在你的面前，並向你擺出了戰鬥的姿態"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了幼狼",
+                    "en": "You defeated Wolf Cub",
+                    "tw": "你成功擊敗了幼狼"
+                },
+                "LAST_WORDS": {
+                    "TITLE": {
+                        "cn": "石片字迹",
+                        "en": "Slab Writing",
+                        "tw": "石片字跡"
+                    },
+                    "TIP": {
+                        "cn": "当你击败幼狼时，发现了破损的石片，上面似乎写着什么。",
+                        "en": "You find damaged stones with writing on it after you defeated the wolf cub.",
+                        "tw": "當你擊敗幼狼時，發現了破損的石片，上面似乎寫著什麽。"
+                    }
+                }
+            }
+        ]
+    },
+    "2": {
+        "ID": "2",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000"
+        ],
+        "TITLE": {
+            "cn": "迷幻竹林",
+            "en": "Illusive Wood",
+            "tw": "迷幻竹林"
+        },
+        "SCENE": {
+            "cn": [
+                "茂密的竹子"
+            ],
+            "en": [
+                "Thick Bamboo"
+            ],
+            "tw": [
+                "茂密的竹子"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1002
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "野猪",
+                    "en": "Wild Boar",
+                    "tw": "野豬"
+                },
+                "PIC": "Texture/Monster/1008",
+                "MONSTER": [
+                    1008,
+                    1008
+                ],
+                "DANGER": "2",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "两只野猪突然出现在你的面前，并摆出了战斗姿态",
+                    "en": "Two wild boars appear and are facing you ready for battle",
+                    "tw": "兩只野豬突然出現在你的面前，並擺出了戰鬥姿態"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了野猪",
+                    "en": "You defeated Wild Boar",
+                    "tw": "你成功擊敗了野豬"
+                }
+            }
+        ]
+    },
+    "3": {
+        "ID": "3",
+        "CODE": [
+            "00003828206000",
+            "0002020e020e08",
+            "080e020e000000",
+            "001f1018000000",
+            "0003020a0e0000",
+            "001e121a020604",
+            "00000008080f00",
+            "00000018107000",
+            "00000e0a021e10"
+        ],
+        "TITLE": {
+            "cn": "迷雾森林",
+            "en": "Forest of Mists",
+            "tw": "迷霧森林"
+        },
+        "SCENE": {
+            "cn": [
+                "湍急的溪流",
+                "茂密的灌木丛",
+                "很陡的斜坡",
+                "巨大的断木"
+            ],
+            "en": [
+                "Rapid Stream",
+                "Dense Thicket",
+                "Steep Slope",
+                "Fallen Wood"
+            ],
+            "tw": [
+                "湍急的溪流",
+                "茂密的灌木叢",
+                "很陡的斜坡",
+                "巨大的斷木"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1003
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "狼",
+                    "en": "Wolf",
+                    "tw": "狼"
+                },
+                "PIC": "Texture/Monster/1001",
+                "MONSTER": [
+                    1002
+                ],
+                "DANGER": "2",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "一头狼出现在你的面前，打量了你一下，便冲了上来",
+                    "en": "A wolf appears in front of you, sizes you up and charges towards you",
+                    "tw": "一頭狼出現在你的面前，打量了你一下，便沖了上來"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了狼",
+                    "en": "You defeated Wolf",
+                    "tw": "你成功擊敗了狼"
+                }
+            }
+        ]
+    },
+    "4": {
+        "ID": "4",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000",
+            "081e120a0e0000"
+        ],
+        "TITLE": {
+            "cn": "静谧森林",
+            "en": "Tranquil Forest",
+            "tw": "靜謐森林"
+        },
+        "SCENE": {
+            "cn": [
+                "急速的暗流",
+                "密集的刺丛",
+                "巨大的树木"
+            ],
+            "en": [
+                "Rapid Stream",
+                "Dense Brambles",
+                "Massive Tree"
+            ],
+            "tw": [
+                "急速的暗流",
+                "密集的刺叢",
+                "巨大的樹木"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1004
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "野猪群",
+                    "en": "Wild Boar Horde",
+                    "tw": "野豬群"
+                },
+                "PIC": "Texture/Monster/1009",
+                "MONSTER": [
+                    1008,
+                    1009
+                ],
+                "DANGER": "3",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "两只野猪突然出现在你的面前，并摆出了战斗姿态",
+                    "en": "Two wild boars appear and are facing you ready for battle",
+                    "tw": "兩只野豬突然出現在你的面前，並擺出了戰鬥姿態"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了野猪",
+                    "en": "You defeated Wild Boar",
+                    "tw": "你成功擊敗了野豬"
+                }
+            }
+        ]
+    },
+    "5": {
+        "ID": "5",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000",
+            "081e120a0e0000",
+            "00000018103e08"
+        ],
+        "TITLE": {
+            "cn": "空灵溶洞",
+            "en": "Void Cave",
+            "tw": "空靈溶洞"
+        },
+        "SCENE": {
+            "cn": [
+                "惨白的石壁",
+                "未知的深渊"
+            ],
+            "en": [
+                "Pale Wall",
+                "Unknown Abyss"
+            ],
+            "tw": [
+                "慘白的石壁",
+                "未知的深淵"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1005
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "蛇",
+                    "en": "Snake",
+                    "tw": "蛇"
+                },
+                "PIC": "Texture/Monster/1021",
+                "MONSTER": [
+                    1021
+                ],
+                "DANGER": "2",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "你突然感受到什么动静，仔细一看，一条蛇向着你游动过来",
+                    "en": "You suddenly feel something moving and after carefully observing your surroundings, you see a snake swimming towards you.",
+                    "tw": "你突然感受到什麽動靜，仔細一看，一條蛇向著你遊動過來"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了蛇",
+                    "en": "You defeated Snake",
+                    "tw": "你成功擊敗了蛇"
+                }
+            }
+        ]
+    },
+    "6": {
+        "ID": "6",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000",
+            "081e120a0e0000",
+            "00000018103e08",
+            "003e2a2a027e00",
+            "00000018127e00",
+            "003e2a2a220e08",
+            "023e203e143400",
+            "00380e3a121604",
+            "103a222e283800",
+            "00243c28203e04",
+            "083e222a2e2800",
+            "001f301e101e00",
+            "043c202e3a2a00",
+            "001e28283c1410",
+            "00133a2e203e00",
+            "003a2e38101e04",
+            "003c242e223e08",
+            "0008187e0c0800",
+            "04262c2c3e3000",
+            "04161a3e183e00",
+            "001c3e28203c04",
+            "003f222a2e3a00",
+            "081e341c083800",
+            "0024263c1e1010",
+            "003e286c2e3a00",
+            "000e3a2a2a3810"
+        ],
+        "TITLE": {
+            "cn": "混乱雨林",
+            "en": "Chaos Rainforest",
+            "tw": "混亂雨林"
+        },
+        "SCENE": {
+            "cn": [
+                "茂密的灌木丛",
+                "很陡的斜坡",
+                "湍急的溪流"
+            ],
+            "en": [
+                "Dense Thicket",
+                "Steep Slope",
+                "Rapid Stream"
+            ],
+            "tw": [
+                "茂密的灌木叢",
+                "很陡的斜坡",
+                "湍急的溪流"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1006
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "猛虎",
+                    "en": "Fierce Tiger",
+                    "tw": "猛虎"
+                },
+                "PIC": "Texture/Monster/1025",
+                "MONSTER": [
+                    1025
+                ],
+                "DANGER": "4",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "一只猛虎出现在你的视野里，你没想到这里居然还有猛虎，看样子难免一战",
+                    "en": "A tiger appears in your field of vision. You never thought there are tigers here. Looks like a battle is inevitable",
+                    "tw": "一只猛虎出現在你的視野裏，你沒想到這裏居然還有猛虎，看樣子難免一戰"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了猛虎",
+                    "en": "You defeated Fierce Tiger",
+                    "tw": "你成功擊敗了猛虎"
+                }
+            }
+        ]
+    },
+    "7": {
+        "ID": "7",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000",
+            "081e120a0e0000",
+            "00000018103e08",
+            "003e2a2a027e00",
+            "00000018127e00",
+            "003e2a2a220e08",
+            "023e203e143400",
+            "00380e3a121604",
+            "103a222e283800",
+            "00243c28203e04",
+            "083e222a2e2800",
+            "001f301e101e00",
+            "043c202e3a2a00",
+            "001e28283c1410",
+            "00133a2e203e00",
+            "003a2e38101e04",
+            "003c242e223e08",
+            "0008187e0c0800",
+            "04262c2c3e3000",
+            "04161a3e183e00",
+            "001c3e28203c04",
+            "003f222a2e3a00",
+            "081e341c083800",
+            "0024263c1e1010",
+            "003e286c2e3a00",
+            "000e3a2a2a3810"
+        ],
+        "TITLE": {
+            "cn": "镜像树林",
+            "en": "Reflective Woods",
+            "tw": "鏡像樹林"
+        },
+        "SCENE": {
+            "cn": [
+                "看似一样的松木"
+            ],
+            "en": [
+                "Pinewood that looks similar"
+            ],
+            "tw": [
+                "看似一樣的松木"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1007
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "狼群",
+                    "en": "Wolf Pack",
+                    "tw": "狼群"
+                },
+                "PIC": "Texture/Monster/1005",
+                "MONSTER": [
+                    1004
+                ],
+                "DANGER": "4",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "一只狼出现在你的面前，打量了你一下，便冲了上来",
+                    "en": "A wolf appears in front of you, sizes you up and charges towards you",
+                    "tw": "一只狼出現在你的面前，打量了你一下，便沖了上來"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了狼群",
+                    "en": "You defeated Wolf Pack",
+                    "tw": "你成功擊敗了狼群"
+                },
+                "LAST_WORDS": {
+                    "TITLE": {
+                        "cn": "石片字迹",
+                        "en": "Slab Writing",
+                        "tw": "石片字跡"
+                    },
+                    "TIP": {
+                        "cn": "当你击败狼时，发现了破损的石片，上面似乎写着什么。",
+                        "en": "You find damaged stones with writing on it after you defeated the wolf.",
+                        "tw": "當你擊敗狼時，發現了破損的石片，上面似乎寫著什麽。"
+                    }
+                }
+            }
+        ]
+    },
+    "8": {
+        "ID": "8",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000",
+            "081e120a0e0000",
+            "00000018103e08",
+            "003e2a2a027e00",
+            "00000018127e00",
+            "003e2a2a220e08",
+            "023e203e143400",
+            "00380e3a121604",
+            "103a222e283800",
+            "00243c28203e04",
+            "083e222a2e2800",
+            "001f301e101e00",
+            "043c202e3a2a00",
+            "001e28283c1410",
+            "00133a2e203e00",
+            "003a2e38101e04",
+            "003c242e223e08",
+            "0008187e0c0800",
+            "04262c2c3e3000",
+            "04161a3e183e00",
+            "001c3e28203c04",
+            "003f222a2e3a00",
+            "081e341c083800",
+            "0024263c1e1010",
+            "003e286c2e3a00",
+            "000e3a2a2a3810"
+        ],
+        "TITLE": {
+            "cn": "险峻山脉",
+            "en": "Precipitous Ridge",
+            "tw": "險峻山脈"
+        },
+        "SCENE": {
+            "cn": [
+                "很陡的斜坡",
+                "莫名的山丘"
+            ],
+            "en": [
+                "Steep Slope",
+                "Unnamed Knoll"
+            ],
+            "tw": [
+                "很陡的斜坡",
+                "莫名的山丘"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1008
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "狼群",
+                    "en": "Wolf Pack",
+                    "tw": "狼群"
+                },
+                "PIC": "Texture/Monster/1037",
+                "MONSTER": [
+                    1004
+                ],
+                "DANGER": "4",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "一只狼出现在你的面前，打量了你一下，便冲了上来",
+                    "en": "A wolf appears in front of you, sizes you up and charges towards you",
+                    "tw": "一只狼出現在你的面前，打量了你一下，便沖了上來"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了狼群",
+                    "en": "You defeated Wolf Pack",
+                    "tw": "你成功擊敗了狼群"
+                },
+                "LAST_WORDS": {
+                    "TITLE": {
+                        "cn": "石片字迹",
+                        "en": "Slab Writing",
+                        "tw": "石片字跡"
+                    },
+                    "TIP": {
+                        "cn": "当你击败狼时，发现了破损的石片，上面似乎写着什么。",
+                        "en": "You find damaged stones with writing on it after you defeated the wolf.",
+                        "tw": "當你擊敗狼時，發現了破損的石片，上面似乎寫著什麽。"
+                    }
+                }
+            }
+        ]
+    },
+    "9": {
+        "ID": "9",
+        "CODE": [
+            "00000018700000",
+            "000e0a0b000000",
+            "00782828203e00",
+            "007e222e000000",
+            "103e223a020600",
+            "00107028380000",
+            "02020e0a020e00",
+            "003c1718000000",
+            "081e120a0e0000",
+            "00000018103e08",
+            "003e2a2a027e00",
+            "00000018127e00",
+            "003e2a2a220e08",
+            "023e203e143400",
+            "00380e3a121604",
+            "103a222e283800",
+            "00243c28203e04",
+            "083e222a2e2800",
+            "001f301e101e00",
+            "043c202e3a2a00",
+            "001e28283c1410",
+            "00133a2e203e00",
+            "003a2e38101e04",
+            "003c242e223e08",
+            "0008187e0c0800",
+            "04262c2c3e3000",
+            "04161a3e183e00",
+            "001c3e28203c04",
+            "003f222a2e3a00",
+            "081e341c083800",
+            "0024263c1e1010",
+            "003e286c2e3a00",
+            "000e3a2a2a3810"
+        ],
+        "TITLE": {
+            "cn": "荒野沼泽",
+            "en": "Wasteland Marsh",
+            "tw": "荒野沼澤"
+        },
+        "SCENE": {
+            "cn": [
+                "看似平静的沼泽"
+            ],
+            "en": [
+                "A what seems to be calm swamp"
+            ],
+            "tw": [
+                "看似平靜的沼澤"
+            ]
+        },
+        "R_WEIGHT": 0,
+        "M_WEIGHT": 30,
+        "PIC": [
+            1009
+        ],
+        "R_STAGE": [],
+        "M_STAGE": [
+            {
+                "NAME": {
+                    "cn": "鳄鱼",
+                    "en": "Crocodile",
+                    "tw": "鱷魚"
+                },
+                "PIC": "Texture/Monster/1018",
+                "MONSTER": [
+                    1018
+                ],
+                "DANGER": "5",
+                "DROP_ID": 6002,
+                "DESC": {
+                    "cn": "一只凶猛的鳄鱼从沼泽里了浮出来，打算将你作为食物",
+                    "en": "A ferocious crocodile appears from the swamp and wants to make food out of you",
+                    "tw": "一只兇猛的鱷魚從沼澤裏了浮出來，打算將你作為食物"
+                },
+                "DESC1": "",
+                "DESC2": {
+                    "cn": "你成功击败了鳄鱼",
+                    "en": "You've defeated Crocodile",
+                    "tw": "你成功擊敗了鱷魚"
+                }
+            }
+        ]
+    }
+}

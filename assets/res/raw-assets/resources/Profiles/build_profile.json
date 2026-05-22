@@ -1,0 +1,1335 @@
+{
+    "3000": {
+        "1": {
+            "NAME": {
+                "cn": "工具台",
+                "en": "Tool Desk",
+                "tw": "工具臺"
+            },
+            "DURATION": 100,
+            "P_TIME": 0,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "初级的工具台，可以制作一些简单的工具",
+                "en": "Basic tool desk, could be used to build simple tools",
+                "tw": "初級的工具臺，可以制作一些簡單的工具"
+            },
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 0,
+                "4003": 1,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "2": {
+            "NAME": {
+                "cn": "工作台",
+                "en": "Work Desk",
+                "tw": "工作臺"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "进阶的工作台，可以制作稍复杂的工具",
+                "en": "Intermediate work desk, could be used to build complex tools",
+                "tw": "進階的工作臺，可以制作稍復雜的工具"
+            },
+            "UPGRADE": {
+                "4000": 4,
+                "4001": 0,
+                "4003": 1,
+                "4004": 6,
+                "4005": 5
+            },
+            "REPAIR": {
+                "4000": 4,
+                "4001": 0,
+                "4003": 1,
+                "4004": 6,
+                "4005": 5
+            },
+            "EVENTS": {},
+            "BRANCH": [
+                "3",
+                "3_1"
+            ]
+        },
+        "3": {
+            "NAME": {
+                "cn": "工作间",
+                "en": "Workshop",
+                "tw": "工作間"
+            },
+            "DURATION": 200,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "顶级的工作间，可以制作最有用的工具",
+                "en": "Top class workshop, could be used to build the most useful tools",
+                "tw": "頂級的工作間，可以制作最有用的工具"
+            },
+            "UPGRADE": {
+                "4000": 8,
+                "4001": 8,
+                "4003": 1,
+                "4004": 2,
+                "4005": 6
+            },
+            "REPAIR": {
+                "4000": 8,
+                "4001": 8,
+                "4003": 1,
+                "4004": 2,
+                "4005": 6
+            },
+            "EVENTS": {}
+        },
+        "3_1": {
+            "NAME": {
+                "cn": "淬毒台",
+                "en": "Poison Desk",
+                "tw": "淬毒臺"
+            },
+            "DURATION": 200,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "用来淬毒的工作间，可以制作淬毒的工具",
+                "en": "This is the poison workshop and can be used to add poison attributes to equipment",
+                "tw": "用來淬毒的工作間，可以制作淬毒的工具"
+            },
+            "UPGRADE": {
+                "4000": 8,
+                "4001": 8,
+                "4003": 1,
+                "4004": 2,
+                "4005": 6,
+                "4031": 4
+            },
+            "REPAIR": {
+                "4000": 8,
+                "4001": 8,
+                "4003": 1,
+                "4004": 2,
+                "4005": 6,
+                "4031": 4
+            },
+            "EVENTS": {},
+            "COND": {
+                "1001": [
+                    {
+                        "Fc": 1
+                    }
+                ]
+            }
+        }
+    },
+    "3001": {
+        "1": {
+            "NAME": {
+                "cn": "温棚",
+                "en": "Greenroom",
+                "tw": "溫棚"
+            },
+            "DURATION": 100,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "温棚",
+                "en": "Greenroom",
+                "tw": "溫棚"
+            },
+            "UPGRADE": {
+                "4000": 2,
+                "4001": 0,
+                "4003": 3,
+                "4004": 3,
+                "4005": 3
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 0,
+                "4003": 3,
+                "4004": 3,
+                "4005": 3
+            },
+            "EVENTS": {
+                "5000": 1
+            }
+        },
+        "2": {
+            "NAME": {
+                "cn": "温室",
+                "en": "Greenhouse",
+                "tw": "溫室"
+            },
+            "DURATION": 150,
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "精良一点的温室，还能够种植薄荷",
+                "en": "A greenhouse that can be used to grow mint",
+                "tw": "精良一點的溫室，還能夠種植薄荷"
+            },
+            "UPGRADE": {
+                "4000": 6,
+                "4001": 3,
+                "4003": 8,
+                "4004": 6,
+                "4005": 8
+            },
+            "REPAIR": {
+                "4000": 6,
+                "4001": 3,
+                "4003": 8,
+                "4004": 6,
+                "4005": 8
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1002": 8
+        }
+    },
+    "3002": {
+        "1": {
+            "NAME": {
+                "cn": "火堆",
+                "en": "Bonfire",
+                "tw": "火堆"
+            },
+            "DURATION": 100,
+            "P_TIME": 1800,
+            "R_TIME": 900,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "简单柴火搭建的火堆，能够烹制食物，还能降低晚上遇袭的概率",
+                "en": "Simple bonfire, can be used for cooking and lowering risk of attack at night",
+                "tw": "簡單柴火搭建的火堆，能夠烹制食物，還能降低晚上遇襲的概率"
+            },
+            "UPGRADE": {
+                "4000": 2,
+                "4001": 0,
+                "4003": 0,
+                "4004": 5,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 0,
+                "4003": 0,
+                "4004": 5,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "2": {
+            "NAME": {
+                "cn": "火炕",
+                "en": "Fire Pit",
+                "tw": "火炕"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "在原先的基础上做了些改良的火炕，能够烹制更多种类的食物，",
+                "en": "Modified fire pit, can be used to cook more types of food.",
+                "tw": "在原先的基礎上做了些改良的火炕，能夠烹制更多種類的食物，"
+            },
+            "UPGRADE": {
+                "4000": 6,
+                "4001": 0,
+                "4003": 0,
+                "4004": 2,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 6,
+                "4001": 0,
+                "4003": 0,
+                "4004": 2,
+                "4005": 2
+            },
+            "EVENTS": {},
+            "BRANCH": [
+                "3",
+                "3_1"
+            ]
+        },
+        "3": {
+            "NAME": {
+                "cn": "营火",
+                "en": "Camp Fire",
+                "tw": "營火"
+            },
+            "DURATION": 200,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "众多物资改良出的营火，除了能烹制食物，还能给你带来温暖",
+                "en": "Heavily modified camp fire, can cook food and provide warmth for you.",
+                "tw": "眾多物資改良出的營火，除了能烹制食物，還能給你帶來溫暖"
+            },
+            "UPGRADE": {
+                "4000": 8,
+                "4001": 0,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 8,
+                "4001": 0,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1003": {
+                "2": 1
+            }
+        },
+        "3_1": {
+            "NAME": {
+                "cn": "烘烤炉",
+                "en": "Oven",
+                "tw": "烘烤爐"
+            },
+            "DURATION": 200,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "能够制作烘烤食物的营火",
+                "en": "Can be used to create camp fires for cooking",
+                "tw": "能夠制作烘烤食物的營火"
+            },
+            "UPGRADE": {
+                "4000": 8,
+                "4001": 0,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2,
+                "4031": 4
+            },
+            "REPAIR": {
+                "4000": 8,
+                "4001": 0,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2,
+                "4031": 4
+            },
+            "EVENTS": {},
+            "COND": {
+                "1001": [
+                    {
+                        "Fd": 1
+                    }
+                ]
+            }
+        }
+    },
+    "3003": {
+        "1": {
+            "NAME": {
+                "cn": "简陋的床",
+                "en": "Dirty Bed",
+                "tw": "簡陋的床"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "用简陋工具制成的床，只能算一个睡觉的地方，谈不上舒适",
+                "en": "Simple bed created by simple tools, can be used for sleeping but not comfortable",
+                "tw": "用簡陋工具制成的床，只能算一個睡覺的地方，談不上舒適"
+            },
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 0,
+                "4003": 0,
+                "4004": 5,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "2": {
+            "NAME": {
+                "cn": "藤木床",
+                "en": "Vine Bed",
+                "tw": "藤木床"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "用藤条和树叶再次加工的床，比起简陋的床来说舒服了不少",
+                "en": "Modified bed by the use of tanglevines and leaves, is a lot more comfortable than dirty bed",
+                "tw": "用藤條和樹葉再次加工的床，比起簡陋的床來說舒服了不少"
+            },
+            "UPGRADE": {
+                "4000": 4,
+                "4001": 12,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 4,
+                "4001": 12,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2
+            },
+            "EVENTS": {}
+        },
+        "3": {
+            "NAME": {
+                "cn": "卧室",
+                "en": "Bedroom",
+                "tw": "臥室"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "用大量树叶和藤条搭建的卧室，在荒野上已经是顶级配置了",
+                "en": "Bedroom built from large quantities of tanglevines and leaves. Can be considered the top specs of this wilderness",
+                "tw": "用大量樹葉和藤條搭建的臥室，在荒野上已經是頂級配置了"
+            },
+            "UPGRADE": {
+                "4000": 6,
+                "4001": 26,
+                "4003": 8,
+                "4004": 12,
+                "4005": 4
+            },
+            "REPAIR": {
+                "4000": 6,
+                "4001": 26,
+                "4003": 8,
+                "4004": 12,
+                "4005": 4
+            },
+            "EVENTS": {}
+        }
+    },
+    "3004": {
+        "1": {
+            "NAME": {
+                "cn": "药盒",
+                "en": "First Aid Kit",
+                "tw": "藥盒"
+            },
+            "DURATION": 100,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "能够制作简单治疗工具的药盒",
+                "en": "First Aid Kit, can be used to make simple healing tools",
+                "tw": "能夠制作簡單治療工具的藥盒"
+            },
+            "UPGRADE": {
+                "4000": 1,
+                "4001": 0,
+                "4003": 1,
+                "4004": 2,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 1,
+                "4001": 0,
+                "4003": 1,
+                "4004": 2,
+                "4005": 2
+            },
+            "EVENTS": {},
+            "BRANCH": [
+                "2",
+                "2_1"
+            ]
+        },
+        "2": {
+            "NAME": {
+                "cn": "医药台",
+                "en": "Medical Desk",
+                "tw": "醫藥臺"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "由药盒加工而来的医药台，可制作更加高级的医疗道具",
+                "en": "Medical Desk, made from enhancing First Aid Kit, can be used to make complex medical equipment",
+                "tw": "由藥盒加工而來的醫藥臺，可制作更加高級的醫療道具"
+            },
+            "UPGRADE": {
+                "4000": 2,
+                "4001": 4,
+                "4003": 2,
+                "4004": 2,
+                "4005": 4
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 4,
+                "4003": 2,
+                "4004": 2,
+                "4005": 4
+            },
+            "EVENTS": {},
+            "COND": {}
+        },
+        "COND": {
+            "1003": {
+                "2": 1
+            }
+        },
+        "2_1": {
+            "NAME": {
+                "cn": "炼药炉",
+                "en": "Medicinal Furnace",
+                "tw": "煉藥爐"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "神奇的炼药炉，可炼制从女巫那里学习来的秘药",
+                "en": "Mysterious Medicinal Furnace, can be used to create medicine from recipes from the witch",
+                "tw": "神奇的煉藥爐，可煉制從女巫那裏學習來的秘藥"
+            },
+            "UPGRADE": {
+                "4000": 2,
+                "4001": 4,
+                "4003": 2,
+                "4004": 2,
+                "4005": 4,
+                "4031": 4
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 4,
+                "4003": 2,
+                "4004": 2,
+                "4005": 4,
+                "4031": 4
+            },
+            "EVENTS": {},
+            "COND": {
+                "1001": [
+                    {
+                        "Fa7": 1
+                    }
+                ]
+            }
+        }
+    },
+    "3005": {
+        "1": {
+            "NAME": {
+                "cn": "初级栅栏",
+                "en": "Rundown Fence",
+                "tw": "初級柵欄"
+            },
+            "DURATION": 100,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "简单搭建的栅栏，一定程度上防止野兽侵袭",
+                "en": "Simple fence, can prevent some animal attacks",
+                "tw": "簡單搭建的柵欄，一定程度上防止野獸侵襲"
+            },
+            "UPGRADE": {
+                "4000": 4,
+                "4001": 0,
+                "4003": 3,
+                "4004": 8,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 4,
+                "4001": 0,
+                "4003": 3,
+                "4004": 8,
+                "4005": 2
+            },
+            "EVENTS": {}
+        },
+        "2": {
+            "NAME": {
+                "cn": "中级栅栏",
+                "en": "Steady Fence",
+                "tw": "中級柵欄"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "加强版栅栏，防御力更强也更漂亮",
+                "en": "Reinforced fence, greater protection and better looking",
+                "tw": "加強版柵欄，防禦力更強也更漂亮"
+            },
+            "UPGRADE": {
+                "4000": 4,
+                "4001": 0,
+                "4003": 4,
+                "4004": 10,
+                "4005": 10
+            },
+            "REPAIR": {
+                "4000": 4,
+                "4001": 0,
+                "4003": 4,
+                "4004": 10,
+                "4005": 10
+            },
+            "EVENTS": {}
+        },
+        "3": {
+            "NAME": {
+                "cn": "高级栅栏",
+                "en": "Fortified Fence",
+                "tw": "高級柵欄"
+            },
+            "DURATION": 200,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "制作出的最坚固的栅栏，大大降低野兽侵袭的成功率。",
+                "en": "Ultimate fence, greatly decrease success rate of animal attacks",
+                "tw": "制作出的最堅固的柵欄，大大降低野獸侵襲的成功率。"
+            },
+            "UPGRADE": {
+                "4000": 12,
+                "4001": 10,
+                "4003": 8,
+                "4004": 20,
+                "4005": 20
+            },
+            "REPAIR": {
+                "4000": 12,
+                "4001": 10,
+                "4003": 8,
+                "4004": 20,
+                "4005": 20
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1002": 4
+        }
+    },
+    "3006": {
+        "1": {
+            "NAME": {
+                "cn": "宠物室",
+                "en": "Pet Room",
+                "tw": "寵物室"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "你为心爱的宠物建造的家",
+                "en": "The home you created for your loving pet",
+                "tw": "你為心愛的寵物建造的家"
+            },
+            "UPGRADE": {
+                "4000": 2,
+                "4001": 2,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 2,
+                "4001": 2,
+                "4003": 2,
+                "4004": 4,
+                "4005": 2
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1008": 1
+        }
+    },
+    "3008": {
+        "1": {
+            "NAME": {
+                "cn": "钓鱼码头",
+                "en": "Fishing Harbor",
+                "tw": "釣魚碼頭"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "建造简单的小码头和独木舟，可在湖泊上行驶。提供钓鱼场所。",
+                "en": "Built simple dock and canoe, can travel onto the lake and provide location for fishing.",
+                "tw": "建造簡單的小碼頭和獨木舟，可在湖泊上行駛。提供釣魚場所。"
+            },
+            "UPGRADE": {
+                "4000": 4,
+                "4001": 4,
+                "4003": 2,
+                "4004": 5,
+                "4005": 3
+            },
+            "REPAIR": {
+                "4000": 4,
+                "4001": 4,
+                "4003": 2,
+                "4004": 5,
+                "4005": 3
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1002": 1
+        }
+    },
+    "3009": {
+        "1": {
+            "NAME": {
+                "cn": "净水台",
+                "en": "Purifier",
+                "tw": "凈水臺"
+            },
+            "DURATION": 150,
+            "P_TIME": 3600,
+            "R_TIME": 1800,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "在这可以通过适当的操作蒸馏出纯净水",
+                "en": "This could be operated to evaporate and create purified water.",
+                "tw": "在這可以通過適當的操作蒸餾出純凈水"
+            },
+            "UPGRADE": {
+                "4000": 6,
+                "4001": 0,
+                "4003": 4,
+                "4004": 2,
+                "4005": 2
+            },
+            "REPAIR": {
+                "4000": 6,
+                "4001": 0,
+                "4003": 4,
+                "4004": 2,
+                "4005": 2
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1010": [
+                "3004:1",
+                "3004:2",
+                "3004:2_1"
+            ]
+        }
+    },
+    "3010": {
+        "1": {
+            "NAME": {
+                "cn": "冶金炉",
+                "en": "Alchemist Furnace",
+                "tw": "冶金爐"
+            },
+            "DURATION": 150,
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "工艺师才能制作出来的冶金炉，能够制作精良的武器",
+                "en": "A furnace created only by Craftsman which could be used to build intricate weaponry.",
+                "tw": "工藝師才能制作出來的冶金爐，能夠制作精良的武器"
+            },
+            "UPGRADE": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 0,
+                "4004": 6,
+                "4005": 8
+            },
+            "REPAIR": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 0,
+                "4004": 6,
+                "4005": 8
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1002": 15,
+            "1010": [
+                "3002:1",
+                "3002:2",
+                "3002:3",
+                "3002:3_1"
+            ]
+        }
+    },
+    "3011": {
+        "1": {
+            "NAME": {
+                "cn": "酿酒台",
+                "en": "Brewery",
+                "tw": "釀酒臺"
+            },
+            "DURATION": 150,
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "料理家才能制作出来的酿酒台，能够酿制土豆酒",
+                "en": "A brewery bench created only by chefs that could be used to brew potato wine",
+                "tw": "料理家才能制作出來的釀酒臺，能夠釀制土豆酒"
+            },
+            "UPGRADE": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 6,
+                "4004": 8,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 6,
+                "4004": 8,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1002": 15,
+            "1010": [
+                "3002:1",
+                "3002:2",
+                "3002:3",
+                "3002:3_1"
+            ]
+        }
+    },
+    "3012": {
+        "1": {
+            "NAME": {
+                "cn": "高索台",
+                "en": "Efficiency Tower",
+                "tw": "高索臺"
+            },
+            "DURATION": 150,
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "探险家才能制作出来的高索台，大大降低从营地往返某些地点的成本",
+                "en": "An efficiency tower created only by adventurists which greatly lower the cost of return trips from different locations",
+                "tw": "探險家才能制作出來的高索臺，大大降低從營地往返某些地點的成本"
+            },
+            "UPGRADE": {
+                "4000": 8,
+                "4001": 0,
+                "4003": 24,
+                "4004": 22,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 8,
+                "4001": 0,
+                "4003": 24,
+                "4004": 22,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1002": 15,
+            "1010": [
+                "3002:1",
+                "3002:2",
+                "3002:3",
+                "3002:3_1"
+            ]
+        }
+    },
+    "3013": {
+        "1": {
+            "NAME": {
+                "cn": "仓库",
+                "en": "Storage",
+                "tw": "倉庫"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "储存物品的仓库，只要不是野兽的入侵，其中的东西不会损坏",
+                "en": "A storage that can keep things in top condition but cannot stop breaches from animals",
+                "tw": "儲存物品的倉庫，只要不是野獸的入侵，其中的東西不會損壞"
+            },
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        }
+    },
+    "3014": {
+        "1": {
+            "NAME": {
+                "cn": "门",
+                "en": "Door",
+                "tw": "門"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "出门",
+                "en": "Go Out",
+                "tw": "出門"
+            },
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        }
+    },
+    "3018": {
+        "1": {
+            "NAME": {
+                "cn": "赌桌",
+                "en": "Fate table",
+                "tw": "賭桌"
+            },
+            "DURATION": 150,
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "基德自己做的小桌子，每天在上面可以与命运进行交流。",
+                "en": "A small table made by kidd ,could spy on the fate through cards every day.",
+                "tw": "基德自己做的小桌子，每天在上面可以與命運進行交流。"
+            },
+            "UPGRADE": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 0,
+                "4004": 6,
+                "4005": 8
+            },
+            "REPAIR": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 0,
+                "4004": 6,
+                "4005": 8
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+                "1001": [
+                    {
+                        "Kb": 1
+                    }
+                ]
+            }
+    },
+    "3100": {
+        "1": {
+            "NAME": {
+                "cn": "朱莉的长弓",
+                "en": "Julie's Longbow",
+                "tw": "朱莉的長弓"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "朱莉在荒野时使用过的长弓，受到了奇特的加持，帮助朱莉成为了【铁伯爵】",
+                "en": "Longbow used previously by Julie, imbued with special power and helped Julie become (Duke of Metal)",
+                "tw": "朱莉在荒野時使用過的長弓，受到了奇特的加持，幫助朱莉成為了【鐵伯爵】"
+            },
+            "STORY": "b8",
+            "IMG": "101",
+            "ITEM": "4122",
+            "SIMG": "101_1",
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1014": [
+                {
+                    "b8": 1
+                }
+            ]
+        }
+    },
+    "3101": {
+        "1": {
+            "NAME": {
+                "cn": "老贝的草裙",
+                "en": "Bain's Kilt",
+                "tw": "老貝的草裙"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "老贝有着四分之一的苏格兰血统，这条他自制的裙子能让他想起慈祥的祖母",
+                "en": "Bain is one quarter Scottish and this kilt he made himself reminds him of his great grandmother.",
+                "tw": "老貝有著四分之一的蘇格蘭血統，這條他自制的裙子能讓他想起慈祥的祖母"
+            },
+            "STORY": "e8",
+            "IMG": "102",
+            "ITEM": "4119",
+            "SIMG": "102_1",
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1014": [
+                {
+                    "e8": 1
+                }
+            ]
+        }
+    },
+    "3102": {
+        "1": {
+            "NAME": {
+                "cn": "罗兰的食谱",
+                "en": "Roland's Cookbook",
+                "tw": "羅蘭的食譜"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "罗兰作为荒野菜系的开创者，与其在荒野的事迹有关。",
+                "en": "As the founder of wilderness dishes, Roland is connected to other incidents involving the wilderness.",
+                "tw": "羅蘭作為荒野菜系的開創者，與其在荒野的事跡有關。"
+            },
+            "STORY": "c9",
+            "IMG": "103",
+            "SIMG": "103_1",
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1014": [
+                {
+                    "c9": 1
+                }
+            ]
+        }
+    },
+    "3103": {
+        "1": {
+            "NAME": {
+                "cn": "神秘圆球",
+                "en": "Mystery Orb",
+                "tw": "神秘圓球"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "神秘的圆球，似乎有不止一种颜色，不知道有什么用处",
+                "en": "This mystery ball comes in many colours, not really sure what it should be used for",
+                "tw": "神秘的圓球，似乎有不止一種顏色，不知道有什麽用處"
+            },
+            "STORY": "c1",
+            "IMG": "104",
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1014": [
+                {
+                    "m0": 1
+                }
+            ]
+        }
+    },
+    "3105": {
+        "1": {
+            "NAME": {
+                "cn": "小哥的手电",
+                "en": "Torchlight",
+                "tw": "小哥的手電"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "小哥的手电",
+                "en": "Torchlight",
+                "tw": "小哥的手電"
+            },
+            "STORY": "w8",
+            "IMG": "104",
+            "SIMG": "104_1",
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            "1014": [
+                {
+                    "w8": 1
+                }
+            ]
+        }
+    },
+    "3002_1": {
+        "1": {
+            "NAME": {
+                "cn": "野外厨房",
+                "en": "Wild Kitchen",
+                "tw": "野外廚房"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 1800,
+            "R_TIME": 900,
+            "DURA_COST": 1,
+            "DESC": {
+                "cn": "简易的便携式火种，能够烹制食物。",
+                "en": "Simple portable fire starter that could be used to cook.",
+                "tw": "簡易的便攜式火種，能夠烹制食物。"
+            },
+            "UPGRADE": {},
+            "REPAIR": {},
+            "EVENTS": {}
+        },
+        "COND": {}
+    },
+    "3106": {
+        "1": {
+            "NAME": {
+                "cn": "雪人",
+                "en": "snowman",
+                "tw": "雪人"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 0,
+            "R_TIME": 0,
+            "DESC": {
+                "cn": "雪人",
+                "en": "snowman",
+                "tw": "雪人"
+            },
+            "UPGRADE": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 0,
+                "4001": 0,
+                "4003": 0,
+                "4004": 0,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+            
+        }
+    },
+    "3108": {
+        "1": {
+            "NAME": {
+                "cn": "基德的罗盘",
+                "en": "Kidd's compass",
+                "tw": "基德的羅盤"
+            },
+            "DURATION": 150,
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 1,
+            "IMG": "108",
+            "SIMG": "108_1",
+            "DESC": {
+                "cn": "这罗盘曾多次帮助基德找到目标。不知具体原理，却十分好用。",
+                "en": "This compass helped Kidd find targets many times. Though you don't know its mechanism, it is very useful.",
+                "tw": "這羅盤曾多次幫助基德找到目標。不知具體原理，卻十分好用。"
+            },
+            "UPGRADE": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 6,
+                "4004": 8,
+                "4005": 0
+            },
+            "REPAIR": {
+                "4000": 12,
+                "4001": 0,
+                "4003": 6,
+                "4004": 8,
+                "4005": 0
+            },
+            "EVENTS": {}
+        },
+        "COND": {
+                "1001": [
+                    {
+                        "Kb": 1
+                    }
+                ]
+            }
+    },
+    "3200": {
+        "1": {
+            "NAME": {
+                "cn": "机甲制作台",
+                "en": "机甲制作台",
+                "tw": "机甲制作台"
+            },
+            "DURATION": "MAX",
+            "P_TIME": 5400,
+            "R_TIME": 2700,
+            "DURA_COST": 0,
+            "DESC": {
+                "cn": "为机关甲人制作组件的地方，配合不同的组件，机关甲人可以发挥不同的作用",
+                "en": "Where components are made for robots, robots can play different roles with different components",
+                "tw": "為機關甲人製作組件的地方，配合不同的組件，機關甲人可以發揮不同的作用"
+            },
+            "UPGRADE": {},
+            "REPAIR": {},
+            "EVENTS": {}
+        },
+        "COND": {}
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1000": {
+        "cn": "除了北面，其他三个方向都是{SCENE}，看来只能往北面走了。",
+        "en": "Besides the north, the other directions all have {SCENE}. Looks as though the only direction to go is north.",
+        "tw": "除了北面，其他三個方向都是{SCENE}，看來只能往北面走了。"
+    },
+    "1001": {
+        "cn": "南面和西面都是{SCENE}，看来能走的只有东面和北面了，那么往哪走？",
+        "en": "Both South and West is {SCENE} and therefore the only direction to take is North and East. Which one do we choose?",
+        "tw": "南面和西面都是{SCENE}，看來能走的只有東面和北面了，那麽往哪走？"
+    },
+    "1010": {
+        "cn": "前方有岔路，北面和西面都勉强可以穿过，南面和东面都是{SCENE}，那么往哪边走呢？",
+        "en": "There is a fork road up ahead, North and East is barely passable but both south and west is {SCENE}, which way do we take?",
+        "tw": "前方有岔路，北面和西面都勉強可以穿過，南面和東面都是{SCENE}，那麽往哪邊走呢？"
+    },
+    "1011": {
+        "cn": "你仔细看了四周，除了南面是{SCENE}，其他地方都可以通行，那么往哪边走呢？",
+        "en": "You look around closely and apart from the {SCENE} to the south, the other directions are all open. Which way do you go?",
+        "tw": "你仔細看了四周，除了南面是{SCENE}，其他地方都可以通行，那麽往哪邊走呢？"
+    },
+    "1100": {
+        "cn": "从这里来看，东西两面都是{SCENE}，只有南北两面勉强可以通过，走哪边呢？",
+        "en": "From here, East and West both have {SCENE} and only North and South are passable. Which way do you take?",
+        "tw": "從這裏來看，東西兩面都是{SCENE}，只有南北兩面勉強可以通過，走哪邊呢？"
+    },
+    "1101": {
+        "cn": "你来到这里，西面是{SCENE}，那么剩下三个方向往哪走？",
+        "en": "You arrive and see that there is {SCENE} to the west. Which of the three other directions do you choose?",
+        "tw": "你來到這裏，西面是{SCENE}，那麽剩下三個方向往哪走？"
+    },
+    "1110": {
+        "cn": "你停下脚步，发现东面是{SCENE}，看来是走不通了，接下来往哪走",
+        "en": "You stop and realise the {SCENE} to the east looks blocked. Which way now?",
+        "tw": "你停下腳步，發現東面是{SCENE}，看來是走不通了，接下來往哪走"
+    },
+    "1111": {
+        "cn": "你观察了四周，东南西北都有路，到底应该往哪走呢？",
+        "en": "You look around and see all directions are open. Which one do you choose?",
+        "tw": "你觀察了四周，東南西北都有路，到底應該往哪走呢？"
+    },
+    "0111": {
+        "cn": "你似乎有点迷失，前方北面被{SCENE}挡住去路，看来只能往其余方向走了。",
+        "en": "You seem a little lost and there is {SCENE} to the North blocking the way. Looks like you can only choose the other directions.",
+        "tw": "你似乎有點迷失，前方北面被{SCENE}擋住去路，看來只能往其余方向走了。"
+    },
+    "0110": {
+        "cn": "走了一阵，你发现北面和东面都是{SCENE}，那么往南还是往西呢？",
+        "en": "You travel for a while and realise the {SCENE} to the North and East. Do you go South or West?",
+        "tw": "走了一陣，你發現北面和東面都是{SCENE}，那麽往南還是往西呢？"
+    },
+    "0101": {
+        "cn": "北面和西面都被{SCENE}挡住去路，看来只能在东面或是南面选择一个方向走了。",
+        "en": "{SCENE} blocks both North and West. Looks like you can only choose from South and East.",
+        "tw": "北面和西面都被{SCENE}擋住去路，看來只能在東面或是南面選擇一個方向走了。"
+    },
+    "0100": {
+        "cn": "除了南面，其他三个方向都是{SCENE}，看来只能走南面了。",
+        "en": "There are {SCENE} in all directions except for South. Looks like you can only go South.",
+        "tw": "除了南面，其他三個方向都是{SCENE}，看來只能走南面了。"
+    },
+    "0011": {
+        "cn": "你发现这里西面和东面都勉强可以穿过，而北面和南面都是{SCENE}，那么往哪边走呢？",
+        "en": "You see that East and West is barely passable but North and South are blocked by {SCENE}. Which way now?",
+        "tw": "你發現這裏西面和東面都勉強可以穿過，而北面和南面都是{SCENE}，那麽往哪邊走呢？"
+    },
+    "0010": {
+        "cn": "从这里来看，只有西面可以通行，其他三个方向都是{SCENE}，一路向西吧。",
+        "en": "From here it seems the only way open is the West side as all three other sides are blocked by {SCENE}. To the West.",
+        "tw": "從這裏來看，只有西面可以通行，其他三個方向都是{SCENE}，一路向西吧。"
+    },
+    "0001": {
+        "cn": "你环顾了一下，发现其他三个方向都是{SCENE}，只有东方可以通行。",
+        "en": "You look around and see all other three directions are blocked by {SCENE}. Only the East is open.",
+        "tw": "你環顧了一下，發現其他三個方向都是{SCENE}，只有東方可以通行。"
+    }
+}
